@@ -1,0 +1,362 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "princip" / "grundsætninger" / "kirkeforfatning": These are not casual terms. They belong to ecclesiastical-constitutional argument. "Kirkeforfatning" is best rendered as "church polity" or "church constitution," depending on context. Here "church polity" often preserves the argumentative-theological register better.
+* "from talemaate": Not merely "pious speech" in a modern sentimental sense, but a "devout manner of speaking" or "merely pious phrase." The point is polemical: the principle is not empty religious rhetoric.
+* "fortastelse": An older form meaning rejection, dismissal, setting aside. It should not be weakened.
+* "menighet" / "stedmenighet" / "lokalmenighet": These terms are central and require disciplined consistency. "Menighet" in this context is often "congregation" rather than the broader "church." "Stedmenighet" and "lokalmenighet" are best rendered as "local congregation."
+* "kirkebegrep": A technical term. "Concept of the church" is accurate; "doctrine of the church" is sometimes too narrow.
+* "skriftmæssigheten": Means accordance with Scripture, not merely literary proof. "Scriptural character" or "scripturality" is awkward; best is often "that it is scriptural."
+* "folkekirken" / "statskirken": These are institutionally charged. "National church" and "state church" work, but the distinction must be maintained.
+* "aand og liv": A pietistic and spiritual phrase, not simply "spirit and life" in a generic sense. It suggests living Christianity, inward spiritual vitality.
+* "aabenbarelsesform": Not revelation in the abstract, but visible form of manifestation. "Manifest form" or "form of manifestation" preserves the ecclesiological point.
+* "de helliges samfund": Traditional confessional phrase. Best rendered as "the communion of saints."
+* "folkekirkeartede": A nuanced adjective meaning "of the character of a national church" or "folk-church-like." It must not be flattened.
+* "begyndertiden, forfølgelsestiden, endetiden": The article uses a triplet with theological-historical weight. "The time of beginnings, the time of persecution, the end time" preserves the structure.
+* "fald": In theological polemic, not just a mistake but a fall, decline, collapse.
+* "ensle": Means not unprecedented or isolated in an absolute sense, but "not standing alone." It implies historical antecedents.
+* "almindelige prestedømme": A classic Reformation term: "the universal priesthood" or "the priesthood of all believers." Context here favors "the universal priesthood," with awareness of doctrinal precision.
+* "lagmandsvirksomheten": Activity of laymen in church work; "lay activity" is likely best.
+* "det geistlige embede": "the spiritual office" or "the ministerial office." In Lutheran context, "the ministry" can work, but sometimes loses institutional sharpness.
+* "de jure divino": Must remain untranslated or be glossed in context as "by divine right." The Latin is part of the theological-political register.
+* "kirketugt": A technical disciplinary term: "church discipline."
+* "samfundstyranni": Strong polemical phrase. "Communal tyranny" or "corporate tyranny"; here "communal tyranny" is closer.
+* "menighetsprincipet": The congregational principle, not just a principle about congregations.
+
+Syntactic Hazards
+
+* The prose uses long accumulative sentences with appositions, semicolon pivots, embedded clarifications, and quoted controversy. These should not be broken into clipped modern academic English.
+* The text relies on contrastive sequences: "Greve hævdet ... mens H. U. Sverdrup forkastet det"; "Greve siger ... Hertil svarer H. U. Sverdrup." These oppositional structures must remain sharply visible.
+* Parentheses, dashes, and inserted qualifications carry argumentative force. They are not ornamental and should be preserved where natural in English.
+* Enumerations often culminate in a doctrinal or rhetorical conclusion; flattening them into paraphrase would weaken the logic.
+* Quotations are strategically placed as evidence. They should remain distinct and not be absorbed into narration.
+* Repetitions such as "at ... at ... at ..." create pressure and cumulative proof; these must be echoed where possible.
+
+Theological Hazards
+
+* The whole passage turns on ecclesiology: church, congregation, visible/invisible church, body of Christ, communion of saints, office, sacraments, and the universal priesthood.
+* The distinction between church as invisible communion and congregation as visible manifestation is central. Any drift in terminology would distort the argument.
+* "Kristi legeme" must remain "the body of Christ," with full ecclesiological resonance.
+* "Guds rike paa jorden" is not merely social religion but the kingdom of God on earth.
+* "ordet forkyndes rent" and "sakramenterne rettelig forvaltes" echo confessional Lutheran criteria for the church. These must retain their doctrinal exactness.
+* "embedet er indstiftet av Gud" cannot be weakened; it concerns divine institution of the ministry.
+* The contrast between evangelical freedom and legalism is delicate and must not be collapsed into modern political freedom.
+
+Voice Hazards
+
+* The author’s voice is polemical, learned, and controlled. It is not devotional in a soft sense, but ecclesiastically charged and historically argumentative.
+* There is a recurring insistence on consequence: principles have implications, histories, and consistent outworkings. This must remain stern and analytical.
+* Phrases such as "Det vil saaledes sees," "Altsaa," "Men én ting skal ikke forties" carry rhetorical authority and should not be reduced to casual connectors.
+* The prose alternates between scholarly summary and forceful evaluative framing. That rhythm must remain intact.
+* The author often lets the heat arise from logical inevitability rather than emotional adjectives. The translation must do the same.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Det er alt andet end en from talemaate"
+
+  * Meaning: The principle is anything but a harmless pious phrase.
+  * Force: Polemical rejection of rhetorical trivialization.
+  * Best rendering: "It is anything but a devout manner of speaking" or "anything but a pious turn of phrase." The latter is more idiomatic in English, but the former keeps the older gravity.
+
+* "hvor ordet forkyndes rent, hvor sakramenterne rettelig forvaltes"
+
+  * Meaning: Classical confessional marks of the church.
+  * Scriptural/confessional context: Augsburg Confession VII.
+  * English equivalent: "where the Word is purely preached and the Sacraments are rightly administered."
+  * This has a natural theological English and should remain close to confessional diction.
+
+* "selv hvor kun to eller tre er forsamlet i Jesu navn"
+
+  * Biblical source: Matthew 18:20.
+  * English equivalent: "even where only two or three are gathered in Jesus’ name."
+  * This already has a familiar biblical cadence in English.
+
+* "de helliges samfund"
+
+  * Confessional expression from the Creed/traditional catechetical language.
+  * English equivalent: "the communion of saints."
+  * Literal translation as "the fellowship of the holy ones" would obscure the doctrinal register.
+
+* "bygger paa et falskt kirkebegrep"
+
+  * Idiomatically architectural and conceptual.
+  * Best rendered: "build upon a false concept of the church." The metaphor of building should remain.
+
+* "kan gjøre krav paa at være dette"
+
+  * Meaning: can claim to be this, can lay claim to being this.
+  * Best rendered: "can claim to be this" or "can lay claim to being this."
+
+* "vilde bli for vidløftig"
+
+  * Meaning: would become too lengthy / too expansive.
+  * Best rendered: "would be too lengthy" or "would take us too far." Here "would be too lengthy" preserves the written tone.
+
+* "har været negativt bestemmende" / "positivt bestemmende"
+
+  * Meaning: have exerted negative or positive determining influence.
+  * Best rendered: "have been negatively determinative" / "positively determinative" or more naturally "have helped determine ... negatively/positively." The first is stiffer but closer to the conceptual precision.
+
+* "gik dog længere"
+
+  * Meaning: went further, took the principle further.
+  * The comparative force matters because the argument traces development.
+
+* "maa bøie sig for livet" / "livet virkelig bøier sig for logiken"
+
+  * Meaning: logic must bend to life / life bends to logic.
+  * Rhetorical force: sharp antithesis; should remain compact and proverbial.
+
+* "Fri forbindelse mellem frie menigheter"
+
+  * Slogan-like phrase.
+  * Best rendered: "Free association among free congregations."
+  * Retain the parallelism.
+
+* King James-style equivalents
+
+  * No heavy KJV diction should be imported into authorial prose.
+  * Biblical echoes like "two or three are gathered" and "body of Christ" already have natural established English equivalents and may retain their familiar cadence without archaic pronouns.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis
+
+  * Principle no. 1, called "Scripture’s proper chief principle," is substantial and consequential, not an empty pious phrase.
+  * If rejected, it would significantly modify the other basic propositions of church polity.
+
+* First supporting movement
+
+  * The leading principles have repeatedly been attacked as contrary to the New Testament’s teaching on congregation/church.
+  * Such attacks have not lacked scriptural proof.
+  * The relevant ideas and consequences have been widely discussed in constitutional literature across Norway, Germany, and the English Reformed world.
+
+* Second movement: appeal to authorities
+
+  * The author cites Oettingen, Sohm, and Walter as significant Lutheran authorities rejecting principle no. 1.
+  * This establishes that the principle lacks strong Lutheran scholarly support.
+
+* Third movement: confessional and comparative location
+
+  * The principle finds its strongest support in Reformed constitutional literature, not Lutheran.
+  * Most Lutheran theologians regard it as Reformed.
+  * Stahl is invoked to characterize the Reformed tendency to collapse church into congregation.
+
+* Fourth movement: Norwegian case study
+
+  * The 1915–16 debate between Jens Greve and H. U. Sverdrup is introduced.
+  * Greve represents the Free Church concept of the church.
+  * H. U. Sverdrup rejects it.
+
+* Fifth movement: exposition of Greve
+
+  * Greve argues that the visible local congregation is where the church is found.
+  * Even two or three gathered in Jesus’ name constitute Christ’s congregation.
+  * This entails that the congregation is the right form of God’s kingdom on earth.
+
+* Sixth movement: rebuttal through H. U. Sverdrup
+
+  * H. U. Sverdrup responds that this collapses church polity into one visible form and wrongly elevates the Free Church model.
+  * He insists that the church as the communion of saints, as Christ’s body, is invisible and cannot be identified with any single visible form.
+
+* Seventh movement: interim conclusion
+
+  * Therefore principle no. 1 faces substantial opposition.
+  * The same could be shown for the other principles, but that would be too lengthy.
+
+* Eighth movement: historical genealogy
+
+  * The leading principles do not stand alone; they have a history behind them.
+  * They attempt to apply the Reformation principle of the universal priesthood to the local congregation and inter-congregational relations.
+  * Their poor reception in Norway is linked to high-church formation.
+
+* Ninth movement: identifying sources of influence
+
+  * The author now turns from negative opposition to positive antecedents.
+  * He identifies four closely related currents, of which the preserved passage develops the first two.
+
+* Tenth movement: first current
+
+  * The ecclesiastical reform movement in western Norway affirmed lay activity, democratic views of ministry, and root of ecclesiastical right in the congregation.
+  * It was associated with Ny luthersk Kirketidende and opposed by high-church critics like Bugge and Heuch.
+  * Krogh-Tonning criticized it as Reformed and independentist.
+
+* Eleventh movement: second current
+
+  * Sverdrup and Oftedal went further than the reform movement by making the congregation itself the church and the only right form of God’s kingdom on earth.
+  * This aligns them with older Congregationalist doctrine, especially the divine institution of the local congregation.
+  * The author notes both parallels and divergences, especially regarding church discipline and evangelical freedom.
+
+* Twelfth movement: concluding thrust of the excerpt
+
+  * Whether or not Sverdrup and Oftedal directly studied Congregationalist literature, their scriptural arguments and polemics closely resemble those of Congregationalists and Baptists.
+  * This likeness suggests shared premises.
+  * The core claim under dispute remains that the congregation is Christ’s body, therefore free and independent, while other church organizations are merely human arrangements.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "hvor ordet forkyndes rent, hvor sakramenterne rettelig forvaltes"
+
+  * Strictly confessional rather than direct biblical quotation; strongest source is Augsburg Confession VII, though grounded in New Testament church criteria.
+
+* "selv om den bestod av bare 2 eller 3 som samles i Jesu navn" / "selv hvor kun to eller tre er forsamlet i Jesu navn"
+
+  * Likely source: Matthew 18:20.
+
+* "Kristi legeme"
+
+  * Likely sources: Romans 12:4–5; 1 Corinthians 12; Ephesians 1:22–23; 4:12–16; Colossians 1:18.
+
+* "de helliges samfund"
+
+  * Not a direct biblical citation, but confessional language rooted in the church’s doctrinal summary of biblical teaching.
+
+* "Guds rike paa jorden"
+
+  * General biblical kingdom language; no single required source, but pervasive New Testament echo.
+
+* "det almindelige prestedømme"
+
+  * Reformation terminology grounded especially in 1 Peter 2:9 and Revelation 1:6; 5:10.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author is not neutrally cataloguing opinions; he is pressing an ecclesiological case by historical and doctrinal demonstration.
+* Warnings are often implicit in the logical sequencing. The translation must preserve the sense that false premises generate false consequences.
+* Opposition terms such as "forkastet ubetinget," "for eksklusivt," "falskt kirkebegrep," "hverken luthersk, eller oldkirkelig eller bibelsk" must remain strong.
+* The translation should avoid smoothing phrases like "Altsaa" into bland academic transitions. They carry argumentative finality.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "vilde" often marks real consequence, not tentative possibility. In context it should generally be rendered "would."
+* "maa" in cited passages must retain necessity: "must," not "should" unless the context clearly weakens it.
+* "kan ikke" / "kan ei" must remain as inability or impossibility where intended, not mere preference.
+* "skal" in this passage appears less often, but any occurrence would require strong futurity or obligation.
+* "vil" in argumentative prose sometimes signals firm expectation or inference and should not be softened unnecessarily.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet = congregation
+* stedmenighet / lokalmenighet = local congregation
+* kirke = church
+* kirkebegrep = concept of the church
+* kirkeforfatning = church polity
+* Kristi legeme = the body of Christ
+* de helliges samfund = the communion of saints
+* det almindelige prestedømme = the universal priesthood
+* embedet / det geistlige embede = the ministry / the ministerial office (chosen by context)
+* ordet = the Word
+* sakramenterne = the Sacraments
+* folkekirken = the national church / the folk church (context-sensitive; for readability, "national church" in most narrative prose, but preserve "folk-church" when adjectival nuance matters)
+* statskirken = the state church
+* lægmandsvirksomheten = lay activity
+* kirketugt = church discipline
+* evangelisk frihet = evangelical freedom
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Building metaphor: "reiser sin bygning paa et fundament som svigter" must remain a building/foundation image.
+* Visibility/invisibility language is conceptual but also imagistic; "visible form of existence" should stay concrete.
+* "gik ind i blodet" must remain embodied: "has entered into the blood" or idiomatically "has entered the bloodstream." In this register, "gone into the blood" keeps older force.
+* "gjøre front mot dem" should preserve the image of forming a front, not merely "responding to them."
+* "stirret sig blind" should remain vivid: "stared itself blind" is too literal; "stared itself blind upon" is awkward. Best: "fixed its gaze so blindly upon..." or "stared so fixedly at... that..." The idiom must retain accusation of one-sided fixation.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The passage shifts between learned survey, quotation, polemical summary, and genealogical explanation.
+* Greve’s position is allowed substantial direct statement; H. U. Sverdrup’s rebuttal then introduces a counter-tone of doctrinal correction.
+* The later historical sections widen into analytical narrative, but without losing evaluative pressure.
+* These tonal transitions must remain visible; all prose should not be leveled into one academic monotone.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many sentences are structured for public reading: opening thesis, accumulation of authorities, quoted evidence, sharp inferential turns.
+* Cadence often depends on clause chains rather than short emphatic sentences.
+* Repetitions like "det ... det ... det ..." and "at ... at ... at ..." create spoken momentum.
+* The English should preserve long-breath argument where possible, especially in the authorial prose and in the extended quotations.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Stillingen.
+
+(J. O. Evjen.)
+
+(Continued.)
+
+It will thus be seen that principle no. 1, "the proper chief principle of Scripture" (Veiledning, 143), is by no means a small matter. It is anything but a devout manner of speaking. Its rejection would, to a greater or lesser extent, modify the other fundamental propositions concerning church polity.
+
+The leading principles have again and again been attacked as being at variance with the New Testament’s teaching concerning congregation. And in these attacks there has been no lack of proofs from Scripture. I mean that the thoughts which the leading principles interpret, and the consequences which they involve, have fairly often and quite thoroughly been treated in the literature on church polity. The arguments have been both for and against—indirectly against, where Scripture has been broken in order to prove the scripturalness of another concept of the church. For Norway’s part it is enough to point to a great number of articles in Luthersk Kirketidende, in Ny luthersk Kirketidende, and in Luthersk Ugeskrift. Germany has a large body of material to offer in its many works on ecclesiastical law and in innumerable contributions interpreting the most various church-political views. And the English Reformed literature on church polity is very extensive.
+
+If we take up principle no. 1, we may first mention Professor von Oettingen (d. 1905) in Dorpat. He was known as a capable Lutheran dogmatician. But he unconditionally rejected the opinion that the New Testament knows only local congregations and contains no "doctrine of the church."
+
+The teacher of ecclesiastical law, Professor Sohm, too, has several times, with good use of passages from Scripture, polemicized against that which principle no. 1 seeks to establish. As the greatest authority on Luther among the jurists, he assures us that Luther could never have agreed with such a principle.
+
+The church historian Professor W. M. Walter in Rostock, unquestionably the greatest living authority on Luther among theologians, says the same of Luther and assures us that Jesus himself could not teach anything such as principle no. 1 teaches: it is too exclusive. (Ev. Luth. Kirchenzeitung, 1913.)
+
+It is in the Reformed literature on church polity that principle no. 1 receives its strongest support. In the Lutheran it receives but little assent. I do not know of a single Lutheran theological faculty of rank in the whole world that would vote for it.
+
+Nor do I know many Lutheran theologians (Professor Odland and Jens Greve must be counted among the exceptions) who agree that this principle is New Testament. The great majority regard it as Reformed and will doubtless agree with the teacher of ecclesiastical law, Stahl, when he says: "The Reformed church has a strong tendency to let the concept of church pass over into the concept of congregation; it comes to that completely—in its offshoots, the Independents and Baptists, and so forth."
+
+If one wishes to see how the principles of church polity in the Reformed church are judged by Lutherans, one does well to read Sohm’s Kirchenrecht, pp. 634–657, and especially the jurist Karl Rieker’s Grundsätze reformierter Kirchenverfassung (about 200 pages), a work that will cast a surprising light upon the leading principles and their consistent interpretation.
+
+But we need not stop with the German Lutherans. We may point to Norway. In 1915–16 a lively discussion concerning the concept of the church was carried on in Luthersk Kirketidende. It was between headmaster Jens Greve and parish pastor H. U. Sverdrup. Greve maintained the Free Church concept of the church, while H. U. Sverdrup rejected it. Both men are known as friends of the work for spirit and life.
+
+Greve says:
+\beqin{quote}
+"If we ask where the church is to be found on earth, then, according to our confession, we ask: Where is the Word preached purely, where are the Sacraments rightly administered? And where we find that this takes place, there we recognize the congregation to be. But then we turn our gaze to the local congregation; we cannot turn it elsewhere; even if it consisted of only two or three gathered in Jesus’ name, we must in it see the church made manifest. Greve teaches that the visible forms of manifestation are the church’s forms of manifestation, and that accordingly the true church of Jesus Christ in empirical reality comes forth in the visible congregations, there where the Word is preached purely and the Sacraments rightly administered. In other words: Not in an ecclesiastical organization embracing all Christians, nor yet in a mighty hierarchical order with a pope as supreme head, do we find the church, but in the local congregations, where the Word is rightly preached, etc., even where only two or three are assembled in Jesus’ name. We must acknowledge such an assembly, gathered around Word and Sacrament, as a congregation of Christ, a congregation of God; in such a congregation we see "the communion of saints," "the body of Christ," made manifest in a visible form of existence on earth."
+\end{quote}
+
+This means: according to Scripture, the congregation is the right form of the kingdom of God on earth—which is precisely what the adherents of the state church and of the national church reject. Therefore Greve says:
+
+\begin{quote}
+"What, at bottom, is the fault among both the men of the state church and the adherents of the national church? They raise their building upon a foundation that fails; they build upon a false concept of the church," etc.
+\end{quote}
+
+To this H. U. Sverdrup replies:
+
+\begin{quote}
+"I maintain that in ordinary Norwegian this can only mean that in the constitutional question the men of the state church and the adherents of the national church are, broadly speaking, one, only that the men of the state church, or their theories, are perhaps a little worse in any case, for they are altogether impossible."
+\end{quote}
+
+Greve maintains that there is only one form of manifestation for the body of Christ. It is precisely the local congregation that is the body of Christ.
+
+H. U. Sverdrup, on the other hand, maintains that there are many kinds of forms of manifestation. No visible form of existence can claim to be the body of Christ. He says:
+
+"The Lutheran concept of the church has, within the evangelical division of the church, allowed itself to be joined with the most various forms of polity, the free-church forms as well, provided only that these, like this concept of the church itself, are of a national-church character. The ‘free-church concept’ leads by inward consequence to the voluntaristic church with congregational order. For biblical and Lutheran thought, the legitimacy of the Free Church is dependent upon special conditions (the time of beginnings, the time of persecution, the end time); and since these conditions are always something that the church must seek to overcome, the Free Church (that is, the voluntaristic Free Church) will never stand as a goal that for principial reasons ought to be striven after. But this is precisely what the ‘free-churchmen,’ by virtue of their concept of the church, do. And indeed to such a degree that they designate the folk-church formation of the church as a deep fall."
+
+H. U. Sverdrup thus rejects that line of thought which makes the church’s outward form something essential. Indeed he says:
+
+\begin{quote}
+"The concept of the free-churchmen is neither Lutheran, nor ancient-church, nor biblical, whereas the concept of the church among the adherents of the state church and of the national church—precisely in the essential point that the church as the communion of saints, as the body of Christ, is invisible, and that it cannot in any visible form of existence claim to be this—agrees both with the Lutheran confession, the ancient-church conception, and with Scripture."
+\end{quote}
+
+Thus: the foregoing shows that there is fairly strong opposition to principle no. 1. It would be too lengthy to illuminate the other principles in this manner. Those who wish to have them illuminated will find them illuminated in the literature on church polity.
+
+The leading principles do not stand alone. But there lies a whole history behind them. They attempt to apply the Reformation principle of "the universal priesthood" to the local congregation and to the relation between the local congregations. The reason they are so little understood among us is doubtless the high-church upbringing which has entered into the blood even of many of the ablest and most zealous spokesmen of the revival: that direction which has set its stamp upon Krogh-Tonning’s doctrinal theology has also strongly influenced the home, religious instruction, the pulpit, the church press, indeed the whole of Christian thinking.
+
+There are doubtless several directions that have been negatively determinative for the leading principles. Thus the high-church tendency in Norway, with men like Heuch and Bugge at its head and with its many heirs in this country. We need not enter into these tendencies, but will only say that the leading principles have sought to make front against them.
+
+It is of importance just now that we become more closely acquainted with the directions which, theoretically considered, have been positively determinative for the shaping of the principles and for the interpretation which their authors have given them.
+
+---
+
+If I am not mistaken, the authors have been influenced by four closely related currents:
+
+1. The authors were strongly influenced by the ecclesiastical reform movement on the west coast of Norway. In principle it recognized lay activity as something that normally belongs in an evangelical congregation. It maintained a democratic view of the ministerial office. It taught that all ecclesiastical right has its root in the congregation. In other words: it "interpreted the cause of religious liberty and congregational liberty" (Samlede Skrifter II, 201–211). This tendency found early expression in Luthersk Kirketidende. Later it received its organ in Ny luthersk Kirketidende, edited by Jakob Sverdrup and O. Vollan (1877–81). It was zealously opposed by Luthersk Ugeskrift, edited by Bugge and Heuch, who were then high-church.
+
+To those who wish to know what polity is, we recommend Ny luthersk Kirketidende. Krogh-Tonning polemicized much against this paper and wrote of it in 1880: "The paper occupies itself almost exclusively with its favorite ideas about reforms in church polity; and it is precisely these that can only be explained by Reformed spirit, the spirit of Independency." He meant that the paper had fixed its gaze so blindly upon evangelical freedom that it had no sight for ecclesiastical authority; it had "a concept of the Christians’ spiritual priesthood which is at variance with the concept of the special priesthood"; it shut itself off from the truth that the office is instituted by God; it lacked the view of Jesus Christ’s church as the ‘one’ and ‘catholic’; and without further ado, in independentist fashion, transferred all right and power to the single local congregation. So much for Tonning.
+
+2. Sverdrup and Oftedal nevertheless went further than the reform movement, for which the congregation was only the center of gravity in the ecclesiastical organization. They made the congregation the church itself, the only right form of the kingdom of God on earth. According to S. and O., the local congregation is an institution de jure divino.
+
+But this is precisely the doctrine of the older Congregationalists (down to about 1870), although the newer school of Congregationalists maintains that there is no prescribed church form in the New Testament. To be sure, it finds no other church form in the New Testament than the local congregation, but it no longer constructs a de jure divino polity on that basis. At the very most it regards the congregational form as something recommended, but not as something commanded. These are the ideas of the newer school, whereas S. and O. follow the old one with respect to the idea of the congregation’s divine institution.
+
+The Congregationalists also went a step further than the friends of reform did in the democratic understanding of the ministerial office. They were very free with regard to lay activity and had no objection to a layman’s administering the Sacraments on the congregation’s behalf. But with respect both to the reception of members into the congregation and to church discipline, they were legal-minded, and therefore in this area diverged from S. and O., who here sought, as far as possible, to preserve evangelical freedom. In this respect the Congregationalists were more consistent than S. and O., who thought that logic must bend to life, although others object that principle no. 1 is a false premise, where life in reality bends to logic.
+
+If S. and O. held the older Congregationalists’ view of principle no. 1 (the congregation is the right form) and of the equality of the congregation’s members within the congregational organism, they also shared their view with regard to the relation between the congregations. In his address "Free association among free congregations," 1897, Oftedal declared that the Lutheran Free Church, in the sense presented in his address, was "truly the old, good church order given of itself by the Word of God, in contrast to clerical rule, communal tyranny, and the state-church system."
+
+How far S. and O. had acquainted themselves with the constitutional literature of the Congregationalists (and Baptists) is not easy to determine. It is possible that they did not concern themselves much further with it, although Oftedal, as a church historian, must surely have known a good deal of it. It is possible that they took counsel with little besides the New Testament. In any case, Norway, despite the Haugean and Johnsonian revival, had not taught them much about the congregation. "There was no one in Norway," said Sverdrup, "who taught us anything about the free congregation or the true nature and form of Christ’s church, so that we all came over here rather unenlightened and without understanding in the things that belong to a free church body" (S. S. II, 101).
+
+But one thing must not be left unsaid. Oftedal and Sverdrup used the same arguments to prove the scripturalness of their conception of the congregation and of their view of the office, lay activity, and church organization as the Congregationalists did. The sequences of argument are strikingly alike, which they can only be when the presuppositions are the same. This applies not only to the adducing of scriptural proof, but also to the polemic against the arguments which the opponents of the congregational principle have brought into the field. Everything came together in asserting that the congregation is the body of Christ, that it is therefore free and independent, that the other ecclesiastical organizations are human arrangements, and that the universal priesthood receives its application precisely in the congregation.
+
+(To be continued.)

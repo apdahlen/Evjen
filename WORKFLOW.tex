@@ -1,0 +1,54 @@
+% master.tex
+\documentclass[12pt]{article}
+
+% -------------------- Page + typography --------------------
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % safe for pdfLaTeX
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{parskip}        % no paragraph indent; spacing between paragraphs
+
+\usepackage{setspace}
+\onehalfspacing   % or \doublespacing
+
+
+% -------------------- Links (optional) --------------------
+\usepackage[hidelinks]{hyperref}
+
+% -------------------- TOC depth --------------------
+\setcounter{tocdepth}{3}
+
+\begin{document}
+
+% ==========================================================
+% Title Page (English, modeled on the scanned 1910 title page)
+% ==========================================================
+
+
+% ======================
+% Front matter: TOC
+% ======================
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+%\input{TranslatorNote.tex}
+%\pagebreak
+%\input{Forward/Forward.tex}
+%\pagebreak
+%\input{Introduction/Introduction.tex}
+%\pagebreak
+
+% ======================
+% Main matter
+% ======================
+\pagenumbering{arabic}
+
+% First included file:
+\input{Mar_13/Mar_13} \pagebreak
+\input{Apr_03/Apr_03} \pagebreak
+
+\end{document}

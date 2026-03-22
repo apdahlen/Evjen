@@ -1,0 +1,207 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Stillingen: literally “the position,” “the situation,” or “the stance.” In this polemical-ecclesiological context, “The Position” is likely the best title, since it suggests a doctrinal and argumentative stance rather than a mere circumstance.
+* Folkebladet: proper title of a paper/journal; must remain untranslated.
+* Frikirken: likely “the Free Church,” but contextually this refers to a specific church body, not the generic idea of a free church. It should therefore be capitalized consistently as a proper body: “the Free Church.”
+* Ledende principer / Levende principer: these appear as titles or fixed expressions within the controversy. “Ledende Principer” should likely remain in transliterated/title form at least on first occurrence, with an English gloss if needed. The excerpt also appears to contain “Levende principer” once, but context suggests possible title-reference instability or textual inconsistency; this must be handled cautiously rather than silently normalized.
+* kirkebegrep: not merely “church idea,” but “conception of the Church” or “understanding of the Church,” with theological precision.
+* menighet / lokalmenighet / stedsmenighet / totalmenigheten / udvortes menighet: these are highly sensitive ecclesiological terms. “Menighet” can mean congregation, local congregation, church, or assembly depending on context. It must not be flattened into a single modern equivalent without regard to polemical force.
+* samfund / kirkesamfund: in older usage often “church body,” “ecclesiastical association,” or “denomination,” not merely “society.”
+* kristelig frihet: “Christian liberty,” a doctrinally freighted term.
+* aandudgydelsen: “the outpouring of the Spirit,” with strong Pentecost resonance.
+* lem paa Kristi legeme: “a member of Christ’s body,” not “limb” in a modern colloquial sense, though “member” preserves Pauline idiom.
+* Guds hus / Guds tempel / Kristi legeme / Kristi brud: these are biblical images and must remain intact.
+* indstiftet / indstiftelse: “instituted” / “institution,” especially “divinely instituted,” not merely “established.”
+* rette form / ytre form / utvortes form: “proper form,” “outward form,” “external form.” These are technical in the argument and must remain stable.
+* forfatningslitteraturen: not political “constitutional literature” in a state sense alone, but literature on church polity or ecclesiastical constitution.
+* anskuelser: “views” or “conceptions,” often with intellectual-theological weight.
+* hovmodig aand: “a proud spirit,” not merely “arrogance.”
+* videnskabelig samvittighet: “scholarly conscience” or “scientific conscience” in older Scandinavian academic usage; “scholarly conscience” fits English better while preserving seriousness.
+
+Syntactic Hazards
+
+* The prose uses long accumulating sentences with many subordinate clauses, semicolon-like pivots, and cumulative argumentative force. Breaking these into many short modern sentences would weaken both logic and voice.
+* Parenthetical clarifications are frequent and are part of the author’s polemical method. They must be preserved where possible.
+* The text often builds by qualification: claim, narrowing clause, historical remark, corrective doctrinal inference. This sequencing must remain visible.
+* Several sentences employ rhetorical concession followed by correction (“it is possible …; it is possible …; in any case …”). This cadence should be retained.
+* Quoted formulations from earlier theologians are embedded within Evjen’s own prose; quotation boundaries must remain clear.
+
+Theological Hazards
+
+* The central issue is ecclesiology: what properly constitutes the visible form of the Church, and how local congregation, synod, church body, and universal Church relate.
+* “Christ’s body” is being contested as a predicate for the local congregation versus the universal Church. This must be translated with absolute precision.
+* “Christian liberty” here concerns polity and churchly organization, not general spiritual freedom.
+* “Divine institution” versus “historical arrangement” is a key theological distinction. The contrast must stay sharp.
+* The relationship between the invisible Church, the visible Church, and the local congregation is under discussion; confusing these would distort the doctrinal point.
+
+Voice Hazards
+
+* The author writes in a learned but combative ecclesiastical prose. Over-smoothing would erase the sense of controversy.
+* There is irony, especially in the “horse” quotation and in remarks about being thought both “fæ and fierce.” This irony should remain dry, not comic in a modernized way.
+* The author’s self-positioning near the end is deliberately modest but still assertive. This must not be turned into either false humility or modern self-branding.
+* The style is public, polemical, and addressed to a church-reading audience accustomed to doctrinal dispute. It should sound weighty, not casual.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Frikirken har en brudt arm der maa læges”: the Free Church is compared to a body with a broken arm that must be set. This is an organic ecclesial metaphor: a painful internal problem draws attention until it is healed. The translation should preserve the bodily image.
+* “hviler tankerne ved den”: literally, the thoughts rest upon it. Idiomatically: attention remains fixed on it.
+* “rivninger”: literally “tearings” or “frictions,” here meaning strains, clashes, internal ruptures. “Friction” or “ruptures” may work depending on sentence rhythm.
+* “haarde domme”: harsh judgments, not juridical verdicts only, but severe condemnations by others.
+* “baade fæ og fierce”: a bilingual pun. “Fæ” in older Scandinavian can mean brute/beast/cattle-ish creature; paired with English “fierce,” the writer jokes that he and Virkeland may be judged both brutish and ferocious. The pun should be preserved by brief explanation in translation if necessary.
+* “stille sig fuldt ut paa hans side”: fully take his side.
+* “menigheden tok sin begyndelse ved Kristi himmelfart”: theological-historical claim about when the congregation/church began.
+* “Den rette guddommelige orden indbefatter den kristelige religion”: this seems to summarize or quote a formulation in which the proper divine order includes Christianity’s visible ordering. The force is institutional and doctrinal.
+* “den høieste samfundsform”: the highest social/ecclesial form; in context, the highest organized form of Christian fellowship.
+* “agter den saare høit”: esteem it very highly; strongly reverential language.
+* “den føres av Kristi legemes lov”: literally “it is governed by the law of Christ’s body.” This should not be flattened; it is a technical theological metaphor.
+* “det staar derfor Høllisterne saa godt som alene”: they stand almost alone in this respect.
+* “et saadant selskap”: literally “such company.” Idiomatically, being grouped with Congregationalists and Baptists.
+* “sidde ved de ældre læreres føtter”: biblical/discipleship-inflected idiom, “sit at the feet of the older teachers.” Compare Acts 22:3 for resonance.
+* “skar i stykker”: literally “cut to pieces,” a vivid idiom for merciless critique.
+* “det gik ikke i galop gjennem Augsburg”: idiom of rapid easy progress; “my course through Augsburg was not a gallop” preserves the image.
+
+Biblical and theological resonance
+
+* “sit at the feet of” has biblical resonance and should be preserved in English.
+* “Christ’s body,” “God’s temple,” “God’s house,” “bride of Christ” are all scriptural designations and should remain in their recognizable biblical English forms.
+* No direct King James borrowing is required as a stylistic model, and per instruction archaic pronouns must be avoided. Still, biblical phrasing such as “Christ’s body” and “God’s house” has a natural English scriptural register.
+
+Expressions where literal translation would obscure force
+
+* “fæ” cannot simply be rendered literally without losing the bilingual joke. It requires a tactful rendering such as “brutes and fierce.”
+* “rette form” is not merely “correct shape” but the proper divinely authorized outward form.
+* “samfundsmænd” is not “society men.” In context: advocates of church fellowship/organization, or men committed to ecclesial association.
+* “forfatningslitteraturen” should not be left sounding like secular political constitutionalism when the discussion is about church polity.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening situational diagnosis: the paper has long reflected tensions over the Free Church’s leading principles and their meaning and consequences.
+* Organic analogy: the unresolved doctrinal issue is like a broken arm in the body; until healed, attention remains fixed on it.
+* Immediate occasion: the controversy has sharpened into the question whether Folkebladet is against Augsburg, that is, whether its present editors reject the congregational understanding associated with Sverdrup and Oftedal.
+* Historical reconstruction: Evjen traces what Oftedal taught from the beginning and what Sverdrup taught before and after 1876.
+* Doctrinal specification: before 1876 Sverdrup still used formulations that treated various ecclesial units as members in a larger body; after 1876 he and Oftedal taught that the local congregation itself is God’s house and Christ’s body.
+* Institutional distinction: broader church organizations are useful historical arrangements, but not divinely instituted in the same sense as the local congregation.
+* Documentary support: Evjen piles up quotations and paraphrases from Augsburg teachers, faculty writings, sermons, and collected works.
+* Polemical clarification: “the congregation” in these sources means the local congregation, not merely the totality of believers.
+* Comparative claim: this ecclesiology is distinctively Hollist among Lutherans and otherwise largely shared only with Congregationalists and Baptists.
+* Methodological admonition: anyone publicly criticizing the Leading Principles should understand both their meaning and their historical/ecclesiological context.
+* Personal credential and modesty topos: Evjen explains the basis of his familiarity with the sources while disclaiming pride.
+* Transitional close: continuation promised.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Christ’s body” echoes Pauline ecclesiology, especially Romans 12, 1 Corinthians 12, Ephesians 1, 4, and Colossians 1.
+* “living stone(s)” and “God’s temple/house” echo 1 Peter 2:5, 1 Corinthians 3:16-17, Ephesians 2:19-22, and related passages.
+* “bride of Christ” echoes Ephesians 5 and Revelation imagery.
+* “the first congregation” in connection with choosing an apostle alludes to Acts 1.
+* “born at the outpouring of the Spirit” refers to Pentecost in Acts 2.
+* “sit at the feet of the older teachers” echoes the biblical idiom of discipleship, especially Acts 22:3.
+* “God’s kingdom on earth” carries broad New Testament kingdom language, though used here in an ecclesiological-polemical sense.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must preserve the piece’s controversial edge. Evjen is not neutrally reporting but intervening in an ongoing doctrinal dispute.
+* He alternates between irony, doctrinal precision, and evidentiary accumulation. This oscillation must remain.
+* Assertions about what Sverdrup and Oftedal “always” or “later” taught should keep their firmness.
+* The passages critiquing inadequate understanding of church polity must remain sharp and unsmoothed.
+* The closing personal remarks should preserve both humility and the implicit claim to serious scholarly warrant.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa læges”: must be set/healed.
+* “skal respekteres”: are to be respected / must be respected, depending on syntax.
+* “kan bli anset”: may come to be regarded / may be considered.
+* “kunde han sige”: he could say.
+* “vilde være”: would be.
+* “kan ikke forsvares”: cannot be defended.
+* “Vi kan gjøre bruk av en analogi”: we may make use of an analogy.
+* “Man kan ikke vente”: one cannot expect.
+* “det er billigt at vente”: it is fair to expect.
+* “maa anvendes”: must be applied.
+* “tør sige”: dare say.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet: usually “congregation” when local reference is clear; “the congregation” for the polemical category; avoid switching randomly to “church.”
+* lokalmenighet / stedemenighet / locale menigheter: “local congregation” / “local congregations.”
+* kirken (when universal): “the Church.”
+* den hellige almindelige kirke: “the holy catholic Church,” unless context makes “universal Church” necessary for clarity; because this is confessional language, “holy catholic Church” is appropriate.
+* kirkesamfund / samfund: “church body” where institutional structure is intended; occasionally “denomination” if needed, but “church body” is more neutral and ecclesiologically precise.
+* Kristi legeme: “Christ’s body.”
+* Guds hus: “God’s house.”
+* Guds tempel: “God’s temple.”
+* guddommelig indstiftelse: “divine institution.”
+* kristelig frihet: “Christian liberty.”
+* ytre/utvortes form: “outward form.”
+* rette form: “proper form.”
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Broken arm metaphor must remain bodily and concrete.
+* Body/member/temple/stone/bride imagery must remain in figurative form, not paraphrased away.
+* “Gallop through Augsburg” should remain metaphorical.
+* “Cut to pieces” should remain vivid.
+* “Sit at the feet” should remain intact.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening irony and self-deprecating wit contrast with the seriousness of ecclesiological dispute.
+* Historical narration shifts into firm doctrinal definition.
+* Comparative ecclesiology introduces potentially scandalous association with Congregationalists and Baptists, which the author treats with unflinching candor.
+* Final paragraphs soften into autobiographical modesty, yet continue to press the author’s credibility.
+* These tonal changes must remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The prose reads like public theological argument intended for hearing as well as reading.
+* Cadence is often driven by clause accumulation and repeated framing expressions such as “Men,” “Ja,” “Og,” and “Forresten.”
+* These should often be preserved in English as “But,” “Yes,” “And,” “Besides,” where natural.
+* Sentence length should remain relatively ample where the argument accumulates, while still yielding readable English.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Position.
+
+(J. O. Evjen)
+
+For several years certain tensions have made themselves felt in Folkebladet concerning the Free Church’s leading principles, as to what they mean and what their consequences are. There has been much discussion about it.
+
+The discussion does not seem willing to cease. It is almost as if the Free Church has a broken arm that must be set. The thoughts of the sufferer rest upon the broken arm until it is healed. Since the understandings of the principles are exceedingly different, frictions arise. They may often look worse than they are, and those who are involved in the frictions may meanwhile be exposed to harsh judgments. These judgments may sound rather strange, for example like the one a little schoolboy wrote in a composition about a horse: “The horse is a very fierce animal. If you attack him he will kick you.” Thus it may happen that men such as Virkeland and I may be thought both brutes and fierce.
+
+But, as said, so long as the arm is in pain, the thoughts rest upon it. And so it is with the principles. It is possible that they mean more than an arm on the Free Church’s body; it is possible that they mean less. In any case, they play an exceedingly important role for the franchise at the Free Church’s annual meetings. And the meaning no doubt is that the principles are to be respected also between the annual meetings. But so long as there prevails lack of clarity with respect to their meaning and their consequences, it is natural that there should be discussion about them.
+
+In more recent times this discussion has reached its sharpest point in the question: Is Folkebladet against Augsburg? in other words, does the present editorial staff of Folkebladet interpret that understanding of the congregation which was maintained in Leading Principles, and which was in reality authored by Sverdrup and Oftedal, who were the teachers both at Augsburg and for Folkebladet?
+
+From the very beginning of its work in America, Folkebladet’s founder, Prof. Oftedal, maintained the concept of the Church prescribed by the Leading Principles, while Sverdrup, united with it, took his stand fully on his side only after 1876. They were always agreed about Christian liberty. But in the first couple of years at Augsburg Sverdrup taught, as we still so often find among Lutheran theologians, that the congregation took its beginning at Christ’s ascension, not first at the outpouring of the Spirit. In connection with this he could say that it was the “first congregation” that chose an apostle to take over Judas’s office, whereas later he always taught that the choice of this apostle was not a congregational election, since the congregation was first born at the outpouring of the Spirit. Likewise he taught that a local congregation, a church body, a division of the Church, is a member of Christ’s body, a stone in God’s temple. “Christ is the head of all, and every congregation is a member of His body, a living stone in the new temple of God.” A church body is “an independent member of the body.” “The Church in its entirety is Christ’s body.” (Emmaus Writings I.)
+
+After 1876, and right up to his death, he taught, like Oftedal, that the local congregation (the believers within it) is not a stone in the temple, nor yet a member of Christ’s body, but that it is the temple itself, God’s house, Christ’s body. The other ecclesiastical organizations he regarded as historical arrangements, not divinely instituted as the local congregation is, though still useful organs for the congregation. Both Sverdrup and Oftedal were church-body men, indeed even missionary in that sense, that they desired an association of congregations; but they were not church-body men in the sense that the church body or synod was anything other than an outward expedient arrangement.
+
+In faculty opinions, treatises, and in part also sermons, the theological teachers at Augsburg again and again set forth that the congregation (the local congregation) is the “only outward form of the Church” (the Church—the holy catholic Church; compare question 243 in the Free Church’s edition of Pontoppidan’s Explanation): “The proper divine order which includes the Christian religion”; “the actual proper form of Christianity’s appearance in the world”; “the proper form of God’s kingdom on earth”; the only outward form appointed by God for His kingdom on earth; “the foundational truth of the Church is and remains according to God’s Word the congregation alone and no church body”; “according to Scripture the congregation is the highest form of fellowship”; “the outward form of the kingdom of God, which is the congregation.” Prof. Oftedal wrote in the 1870s that Elling Eielsen abolished the visible Church in order to set the invisible Church, the communion of saints, in its place. In Eielsen’s understanding he found “no room for the only outward form of the Church that God’s Word mentions, namely the congregation.” In a long joint declaration from the 1870s it was stated that the church body “has no such divine right as the congregation, but, like all outward church bodies, has arisen through historical development”; likewise that “it belongs necessarily to Christian liberty therefore to exist in the form of congregations, not as isolated individuals.”
+
+That it is local congregations everywhere that are meant here is self-evident. But this will, moreover, also appear from many other citations in this harvest. The congregation is everywhere set forth as the proper form appointed by God for the holy catholic Church, the Church, or the kingdom, in contrast to the state-church form, the church-body form, the brother-church form, and the “free-church” form. For the present it may suffice to refer to the treatise “What Is the Congregation” in Collected Writings II, p. 12, where we read this:
+
+“Our catechetical instruction speaks of what the Church is, but not directly of what the congregation is. The New Testament, however, speaks all the more of the congregation or the congregations. Now at times people call them local congregations or ‘local congregations’; and it is by no means altogether free from a taint of disrespect that people speak of the local congregations. We therefore permit ourselves to remark that here the local congregation is being spoken of. And since it is an unadorned fact that the New Testament speaks with the deepest reverence and utmost holy seriousness precisely of the local congregations, and calls them God’s congregations and God’s temple and Christ’s body and Christ’s bride, it is not too much if we also, with all reverence and respect, speak of this divine institution among us and esteem it very highly for Christ’s and God’s sake.”
+
+Let it be noted that the total congregation is designated here as a “divine institution.”
+
+Sverdrup found that it was a defect in the catechetical instruction that it did not speak directly of what the congregation was. For this reason he altered question 243 in the Explanation, and wrote: “Where is the holy catholic Church among us?” His answer reads: “Yes, in the congregation, which in Scripture is called Jesus Christ’s body and God’s house.” The next question about the “outward congregation” might lead one to think that the word “congregation” in the answer to question 243 means all believers on earth. But that would be an utterly hasty conclusion, which cannot be defended in the light of all the rest that both Sverdrup and Oftedal wrote about “congregation” and “outward congregation.”
+
+The congregation, then, it is maintained, is the proper “form.” It is governed by the law of Christ’s body. Church bodies and state churches and free churches (associations of congregations) are not governed according to the law of Christ’s body, it is said. (Guidance II, 33, 145). We may make use of an analogy and say that the congregation is the “proper form” of the kingdom of God, somewhat as that same kingdom elsewhere says that “marriage is the authorized form of union between man and woman,” in contrast to polygamy. This is certainly a very imperfect comparison; it limps, as all images do, especially because one would then have to class the other forms of the kingdom as something immoral. But we do at least see the meaning.
+
+This understanding of the congregation as the “proper form” and Christ’s body is, so far as Lutherans are concerned, peculiar to the Hollists (and we may add the free-church people in Norway, for example Odland, Jens Orre, Solem; but not The Evangelical Lutheran Free Church). Otherwise I know of no other Lutheran church body in the world that maintains this understanding. All other Lutheran church bodies maintain that “Christ’s body,” when applied to the concept of the Church, has reference to the holy catholic Church, which consists of all believers on earth, but has no reference to any local congregation. In other words, “Christ’s body” must be applied to the whole organism, not to any organization.
+
+The Hollists therefore stand almost alone among Lutherans. It is true that a couple of editors in the new church body, The Norwegian Lutheran Church, have stated that this church body also teaches that the congregation is the “proper form.” But their statements show that they have not penetrated deeply enough into the Hollists’ understanding of the congregation. And one cannot hold that against them, seeing that so many of our own people do not have one and the same understanding of principle no. 1 in our “Leading Principles.” Besides, they are contradicted by Pastor Tønning in “The Lutheranism of Our Church-Federation Reform.”
+
+But if this principle is peculiar to the Hollists as a Lutheran body, then they share that principle with Congregationalists and Baptists. Many may well be offended to hear that we are in such company. But a fact is not abolished by offense. And this fact carries little weight. Just as open fellowship with Congregationalists or with Baptists no more made the Synod people into Catholics (on account of its accusing the Synod of Catholicism), so it does not make Sverdrup and Oftedal dependent upon the Reformed, although Sverdrup already in 1876 thought that we could learn from “such a congregational church as the Reformed has long been,” and that “it would be self-evident to think that there was no lesson to be drawn from those who have tried these things before us” (the Reformed in America). Collected Writings I, 143.
+
+One cannot expect the ordinary man, nor even the pastor strongly occupied in practical work, to be able to find time and occasion to acquaint himself very much with the Lutheran and Reformed literature on church polity. But it is fair to expect of one who writes publicly about the Leading Principles and criticizes others’ understanding of them, that he acquaint himself with them well enough to know what the principles mean, what is consistent with them, and how much they have in common with Luther and how much or how little they have in common with Calvin. One does not get much light on the “Leading Principles” by reading dogmatics, for dogmatics treats the congregation as a body of faith. But one finds light in the literature on church polity and in church history.
+
+But do we not already have all the teaching we need? Have we not sat at the feet of the “older teachers”?
+
+Yes—but how much did we hear there about the “Leading Principles” and the Augsburg understanding of the congregation? We received scarcely anything of it, when Sverdrup in a few lectures perhaps only late in the third year came to the end of Løvning’s dogmatics, which he mercilessly cut to pieces.
+
+But what we did not hear, that we did get to read in the papers. Several of us have read Sverdrup’s and Oftedal’s articles again and again, and in sequence. Here at Augsburg almost everything that Sverdrup and Oftedal wrote is accessible; and almost all the books they used as professors (including the marginal notes they made) are accessible. As far as possible I have tried to acquaint myself with their work as teachers and publicists, so that I dare say that I have a somewhat well-grounded knowledge of their ecclesiastical views.
+
+I hope that no one will take this as though it were spoken in a proud spirit. I am well aware of my limitations. For me it did not go at a gallop through Augsburg, as it did for many others. And when I was finished with Augsburg I had to continue my schooling for three to four years before I could, with a reasonably good scholarly conscience (people speak of such a thing too), present myself as a candidate for a pastoral call or a teaching post. And finally, after several years of teaching at other schools, I came to Augsburg again, which I had thus learned to know both at close range and at a distance, and which I now again came to know more intimately than ever before. (To be continued.)
