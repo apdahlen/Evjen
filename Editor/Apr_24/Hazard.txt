@@ -1,0 +1,264 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* menigheten: In this context, not merely “the congregation” in a local sociological sense, but “the church/congregation” as a theological form of the Kingdom of God on earth. The English rendering must remain sensitive to the author’s ecclesiological argument.
+* Guds rike: “Kingdom of God,” not a generalized “religion” or “God’s work.” This is doctrinally loaded and must retain biblical force.
+* samfundene: Literally “the associations/denominations/bodies.” Here it refers to ecclesial organizations as human constructs. “Societies” is too vague in modern English; “church bodies” or “denominations” may sometimes fit, but the text contrasts them with menigheten, so the rendering must keep that contrast clear.
+* menneskeverk: “human work” or “man-made construction,” not merely “human effort.” The term carries a critical theological edge.
+* aand og liv: An old devotional pairing meaning “spirit and life,” not merely emotional vitality. It refers to living spiritual reality animated by God’s Spirit.
+* sjæles frelse: “the salvation of souls,” a classic theological phrase that should not be diluted into “helping people.”
+* anskuelse: “view” or “conception,” not just “opinion.”
+* tilstemmer: “assents to” or “agrees with,” more formal than “likes.”
+* hovedsaken / hovedopgave: “the main matter” / “chief task,” important in the hierarchy of emphasis.
+* aandsretning: More than “tendency”; something like “spiritual direction” or “spiritual orientation.”
+* lægmandsvirksomheten: “lay activity” or “the activity of laypeople,” not casual volunteerism.
+* frigjort menighet: “a liberated/free congregation,” not politically emancipated but spiritually and ecclesially freed.
+* nidkjærhet: “zeal,” specifically ardent spiritual zeal.
+* livsytringer og frihetsrørelser: “expressions of life and movements of freedom.” This must not be flattened; it bears Sverdrup’s organic metaphor for church life.
+* basisrøverne: A polemical expression. Literally something like “the basis-robbers,” i.e. those who would undermine the foundation. It requires a rendering that preserves the severity without sounding absurd.
+* opkaster sig til diktator: “sets himself up as a dictator,” a sharp warning against authoritarianism.
+* naadegaverne: “gifts of grace” or “spiritual gifts.” The latter is natural in English, but the former preserves Lutheran nuance. Context favors “spiritual gifts” with doctrinal seriousness.
+* lægfolk: “laypeople,” not “laity” if cadence prefers the more direct word.
+* saklig drøftelse: “objective/substantive discussion.” “Matter-of-fact discussion” would miss the polemical-ethical tone.
+* egenheter, skarpe kanter og feil: A triad that should keep its rhetorical rhythm: “peculiarities, sharp edges, and faults.”
+* forsumpes: “stagnate” or “sink into a swamp.” Figuratively, “become stagnant” is idiomatic, but the image of decay should remain perceptible.
+* ømskindet: “oversensitive/thin-skinned.”
+* furten: “sulky/offended in a petulant way.”
+* agere martyr: “play the martyr,” not literally become one.
+
+Syntactic Hazards
+
+* The passage moves in long argumentative paragraphs with semicolon logic and cumulative qualification. These should not be broken into short modern English fragments.
+* Numbered propositions establish the formal argument, after which the prose turns to qualification, rapprochement, and admonition. This structure must remain visible.
+* Frequent contrastive turns—men, dog, uagtet, imidlertid, saavidt vi forstaar, altsaa, omvendt—carry the reasoning. These connectors must be preserved.
+* Rhetorical questions are used not for uncertainty alone but to press ecclesial self-examination.
+* Embedded quotations from Sverdrup must remain distinguished in tone and pacing from the editorial voice.
+* Parenthetical clarifications and subordinate clauses often narrow or refine a claim; omitting them would distort the author’s careful positioning.
+* The prose often advances by concessive sequence: granting a point, then redirecting emphasis. English must preserve that movement.
+
+Theological Hazards
+
+* The distinction between outward constitution and inward Spirit is doctrinally central. If blurred, the argument collapses.
+* The claim that the congregation is “the proper form of the Kingdom of God on earth” is ecclesiologically weighty and must not be paraphrased loosely.
+* Freedom in the church is said to come from Spirit, not from laws or constitutions. This is both theological and polemical.
+* The first and chief manifestation of spiritual life is zeal for the salvation of souls. This priority must retain its urgency.
+* The text distinguishes useful law from law’s inability to generate freedom. This is doctrinally resonant with Lutheran distinctions regarding inward reality versus external ordering.
+* The article warns against resting in correct polity while lacking spiritual life. That warning must remain sharp.
+* Appeal to Scripture and the right of laypeople to speak from Scripture is central to the Free Church ethos; it must not be secularized into mere democratic process.
+
+Voice Hazards
+
+* The tone is editorial yet sermonic: earnest, admonitory, fraternal, and polemically restrained.
+* Modern smoothing would erase the solemn insistence that unity must be built on shared fundamentals without suppressing principled debate.
+* The voice alternates between conciliatory breadth and sharp rebuke; both must remain.
+* Expressions such as “Why then devour one another?” carry biblical and moral force and must not be softened.
+* The author speaks as part of a collective “we,” not as detached commentator. That pastoral-corporate voice must remain intact.
+* The cadence often derives force from inevitability and moral consequence rather than elevated ornament. English must preserve this pressure.
+
+STEP 2: IDIOM ANALYSIS
+
+* ha et ord med i laget: Literally “have a word in the team/company,” idiomatically “have a word to say in the matter” or “join the discussion.” The expression is colloquial but not casual in effect.
+* veies og prøves: “weighed and tested.” This has biblical resonance and suggests scrutiny of statements rather than mere disagreement.
+* gaa med paa: “agree to” or “go along with.” In context it marks qualified assent, not wholehearted enthusiasm.
+* naar det kommer til stykket: Idiom meaning “when it comes down to it.” It introduces practical reality over apparent division.
+* gamle Sverdrup: Not disrespectful; rather familiar-reverential. “Old Sverdrup” would sound wrong in English. Better: “the elder Sverdrup” or simply “Sverdrup,” depending on flow.
+* det er ikke saa greit med det heller: “that is not so simple either.” A caution against easy conclusions.
+* slaa sig til ro: “settle down complacently/rest content.” The theological danger is complacency, not peaceful repose.
+* grepet det, naadd maalet: “grasped it, reached the goal.” This is spiritually charged language about false completion.
+* fortjærre hinanden: Literally “consume/devour one another.” This strongly echoes Galatians 5:15. A literal rendering is preferable because of the biblical force.
+* gi rum for hverandre: “make room for one another.” This suggests ecclesial spaciousness and forbearance.
+* ta naadegaverne i bruk: “put the gifts of grace to use,” naturally “put spiritual gifts to use.” This has Pauline resonance.
+* livets praktiske skole: “the practical school of life.” It means experiential formation, not anti-intellectualism.
+* la ideerne brytes: Literally “let the ideas clash/contend.” Better to preserve the image of collision rather than soften to “be discussed.”
+* bli furten eller agere martyr: “become sulky or play the martyr.” This contrast rebukes emotional self-dramatization in controversy.
+
+Biblical allusions, pietistic expressions, and likely natural English equivalents
+
+* Guds rike: Strong biblical phrase; “Kingdom of God” is the natural and necessary equivalent.
+* aand og liv / Guds aand: “Spirit and life” / “God’s Spirit.” “Spirit” should usually be capitalized when clearly referring to the divine Spirit, though “spirit and life” in paired devotional usage may need case judged by context. Here “God’s Spirit” is explicit.
+* sjælenes frelse: “the salvation of souls,” a classic evangelical-Lutheran expression that should remain intact.
+* levende nidkjærhet: “living zeal” or “living ardor.” The former preserves sermonic directness.
+* guddommelige kjærlighets brændende iver for sjælenes frelse: “the burning zeal of divine love for the salvation of souls.” The phrase is doctrinally and rhetorically dense; literal translation preserves force.
+* udlægge Guds ord: “expound the Word of God,” not merely “interpret the Bible.” The former carries ecclesial and homiletic resonance.
+* ordet / bibelen — boken: The appositional emphasis on “the Bible—the Book” should remain, since it signals reverence and sufficiency.
+* talefrihet … under ansvar: “freedom of speech, yet under responsibility/accountability.” This is not modern liberal abstraction but responsible Christian liberty.
+
+Where literal translation would obscure intended force
+
+* samfundene as “societies” would sound secular and obscure ecclesial reference.
+* forfatning as merely “constitution” may work in some places, but because the text debates its meaning, alternating with “polity” or “church constitution” may at times better preserve clarity.
+* basisrøverne literally is striking, but some interpretation is required: “those who would rob us of the foundation” or “the destroyers of the foundation.”
+* furten literally “pouting” is too childish; “sulky” better preserves rebuke.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening frame: The editor begins with a light introductory remark about the abundance of contributions to the paper, then narrows to the need to speak on the paper’s editorial position.
+* Contextual setup: Dr. Evjen’s articles on “the position” are acknowledged as clear and substantial in presenting what he believes to be the Free Church’s doctrine of the congregation as taught by Sverdrup and Oftedal and expressed in Ledende principer.
+* Modest editorial disclaimer: The paper has not written much editorally on the matter, and perhaps need not do so, but will now state its position more directly.
+* Formal thesis in four points:
+
+  * The congregation is the proper form of the Kingdom of God on earth.
+  * Church bodies/associations are human constructions that may serve the Kingdom but are not its proper form.
+  * Ledende principer may essentially be called polity, and Free Church polity is congregationalist and differs from other Lutheran bodies.
+  * Yet the Free Church’s chief task is not polity but the salvation of souls, spirit, and life.
+* Qualification regarding Evjen: The writer notes that Evjen has mainly reported others’ views and may have modified his own view somewhat; Evjen raises the question whether principle no. 1 is fully in accord with the Word and whether its authors could have erred.
+* Strategic pivot to unity: Assuming Evjen still assents to the principle, the writer asks why more attention is not given to the shared fundamentals and less to secondary matters where differing opinions may exist.
+* Case study of disagreement: The question of the Free Church’s distinctiveness among Norwegian Lutherans is presented as an example where apparent opposition may mask deeper agreement.
+* Diagnostic analysis: The difficulty lies in what is meant by “polity/constitution.” Some mean outward rules and government; others include inward spirit and living reality.
+* Appeal to Sverdrup: The writer cites Sverdrup to argue that freedom comes from Spirit, not from laws, though law may protect freedom.
+* Doctrinal conclusion from citation: The first condition for a liberated congregation is God’s Spirit; the first great effect of that Spirit is zeal for the salvation of souls.
+* Historical warning: Congregationalists abroad retained congregational polity while losing the original spirit, even becoming rationalistic. Therefore correct polity without spiritual life is fatal self-deception.
+* Conciliatory synthesis: Those emphasizing polity also want spirit and life; those emphasizing spirit and life also want a free polity. Therefore mutual destruction is irrational and sinful.
+* Plea for breadth and liberty: Make room for one another; do not let anyone act as dictator over what counts as authentically Free Church.
+* Defense of lay participation: Since principles are to be carried out in practical congregational life, and laypeople have access to Scripture and a calling to expound God’s Word, they should also be allowed to speak on principles.
+* Closing position on debate: The paper supports free and substantive discussion, mutual criticism, and full freedom of speech under responsibility, while rejecting personal attacks.
+* Final exhortation: Let ideas contend; do not be thin-skinned, sulky, or martyr-like when contradicted.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Guds rike / Kingdom of God: pervasive New Testament ecclesial and eschatological language.
+* veies og prøves / weighed and tested: likely echo of biblical language of testing, though not a direct quotation.
+* ordet / Guds ord / bibelen — boken: broad Protestant scriptural sufficiency language.
+* aand og liv / Spirit and life: likely resonance with John 6:63 (“the words that I speak unto you, they are spirit, and they are life”), though here applied more broadly in devotional discourse.
+* sjælenes frelse / salvation of souls: likely echo of James 1:21, 5:20; 1 Peter 1:9.
+* nidkjærhet / zeal: recurring biblical and devotional category.
+* den guddommelige kjærlighets brændende iver: thematic resonance with divine love and saving purpose, though not a direct quotation.
+* fortjærre hinanden / devour one another: strong likely echo of Galatians 5:15.
+* naadegaverne / gifts of grace: Pauline language, especially Romans 12 and 1 Corinthians 12.
+* utlægge Guds ord: resonance with preaching/exposition traditions rooted in Scripture.
+* give room for one another / freedom in the Free Church / freedom under responsibility: not direct quotations, but consonant with Pauline liberty ordered by love and edification.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The argument must retain its solemn earnestness. It is not a neutral report but a pastoral-polemical intervention.
+* Warnings against overvaluing polity, against authoritarianism, and against mutual devouring must remain sharp.
+* The conciliatory passages must not become soft or sentimental. They are appeals to unity grounded in doctrinal seriousness and practical necessity.
+* The rebuke of hypersensitivity and martyr-playing must remain plain and slightly cutting, as in the original.
+* The collective editorial “we” should remain throughout, preserving the communal and pastoral force.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* tror vi / we believe: not tentative preference but confessional assertion.
+* skal vi / we shall: formal intentional statement.
+* kan vel / may well: concessive but real possibility.
+* bør / ought: moral and ecclesial obligation.
+* maa / must: necessity and imperative force.
+* vil / will: often marks conviction or expected result, not mere futurity.
+* kunde / could: sometimes hypothetical, sometimes softened polemical courtesy; context must determine force.
+* ikke tjent med / not served by: idiomatic warning that something is not beneficial or fitting.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menigheten = the congregation (sometimes “the church” only if required by context, but “congregation” best preserves the polity discussion)
+* Guds rike = the Kingdom of God
+* samfundene = the church bodies / associations (context-sensitive, but consistently contrasted with congregation)
+* forfatning = polity / constitution (use carefully and consistently according to local context)
+* aand = Spirit when explicitly divine; spirit where the idiom is broader but still spiritually charged
+* liv = life
+* aand og liv = spirit and life
+* sjæles frelse = the salvation of souls
+* frihet = freedom
+* lægmandsvirksomheten = lay activity
+* naadegaverne = spiritual gifts
+* Guds ord / ordet = the Word of God / the Word
+* brodersind = brotherly spirit
+* talefrihet = freedom of speech
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Steam boiler / steam power / threshing machine / wheat: These analogies in the Sverdrup quotation must remain intact. They illustrate the impossibility of producing spiritual freedom merely by external machinery.
+* pulserende liv: “pulsating life” or “living pulse.” Keep the organic image rather than reducing it to “values.”
+* fortjærre hinanden: retain “devour one another” for biblical and visceral force.
+* skarpe kanter: “sharp edges,” preserving the image of roughness needing correction.
+* forsumpes: ideally “sink into stagnation” or “grow stagnant,” keeping something of the swamp image.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The opening is mildly conversational and editorial.
+* The numbered propositions are formal and declarative.
+* The middle sections are analytical and conciliatory.
+* The Sverdrup quotation intensifies doctrinal gravity.
+* The later warnings against complacency and authoritarianism sharpen the tone.
+* The conclusion combines liberty, accountability, anti-personal polemic, and rebuke of childish reaction. These tonal shifts must remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The prose should remain speakable, with long-breathed clauses where reasoning accumulates.
+* Semicolons and commas should be used where they help preserve sermonic flow.
+* Numbered propositions should remain clear and oral.
+* Rhetorical questions should sound like public admonition, not private musing.
+* The quoted Sverdrup passage should sound like spoken theological instruction.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+\section*{Installment 1: 	extit{Folkebladet}, April 24, 1918}
+
+\subsection*{The Congregation}
+
+\textsc{I.}
+
+It is not so difficult to be editor of \textit{Folkebladet} when friends are so ready to write as they have been of late. In any case, he need not write much himself. The difficulty is rather to find room for all the reading matter that is sent to the paper. From time to time, however, the editor may feel prompted to have a word in the matter, especially when it concerns the paper’s editorial position.
+
+Now Dr. Evjen has, in a series of articles on ``the Position,'' thoroughly and clearly shown what, in his opinion, the Free Church’s doctrine of the congregation is, as set forth by Professors Sverdrup and Oftedal, and as it has found expression in \textit{Guiding Principles}. Although \textit{Folkebladet} has not written much editorally on that matter, there are nevertheless a couple of incidental statements that are weighed and tested, and found not to be sufficiently clear; yet no major objection is raised against them.
+
+A more exact explanation or account from the side of \textit{Folkebladet} is perhaps not necessary or demanded; yet we shall try to write a little more directly on the subject that is here being discussed.
+
+For the sake of clarity, we shall state our position in the following points:
+
+\begin{enumerate}
+\item In accordance with \textit{Guiding Principles}, we believe that the congregation is the proper form of the Kingdom of God on earth.
+\item The church bodies are human constructions, which may indeed have significance for the advancement of the Kingdom of God, but are nevertheless not the proper form of the Kingdom of God.
+\item We can agree to call \textit{Guiding Principles} essentially polity, that the Free Church’s polity is congregationalist, and that it differs from that of other Lutheran bodies.
+\item The Free Church’s chief task, however, is not to labor for polity, but for the salvation of souls, for spirit and life.
+\end{enumerate}
+
+So far as we understand Dr. Evjen, this is also his position. His articles, however, have this time been chiefly referential; he has cited the statements of others and does not set forth so much his own personal opinion, or what he himself considers to be most in agreement with the Word of God. We understand that he has altered his view somewhat of late, and he hints, as his opinion, that if Prof. Sverdrup had lived long enough that he could have read Rudolf Sohm’s work on church law from 1914, this might perhaps have moved him to moderate his view with regard to principle no. 1. He further says that principle no. 1 requires our special attention, and he raises these questions: ``Is it too much to ask whether it is fully in accord with the Word? Is it absolutely excluded that the authors could have been mistaken? The opposition to this principle at any rate warrants the posing of such questions. Thus: questions that await an answer, tasks that await a solution.''
+
+We assume, however, that Dr. Evjen still assents to this principle, and then we are agreed in the main matter. And the thought suggests itself involuntarily: Why not look more to the fundamental principles on which we are agreed, and less to the unessential things which are of such a kind that there may very well be room for divided opinions? We have such need to work together rather than to split apart.
+
+Take, for example, the thorny question of the Free Church’s distinct position among the Norwegian Lutherans. Some hold that there is only a difference of polity; others that there is more, namely also a difference in spiritual direction. Some lay the weight upon polity, others upon spirit and life. And it might look as though the two parties stood so far from one another, indeed as though they were even the very opposite of one another. Perhaps, when it comes down to it, they are in reality nearer to one another than they themselves suppose.
+
+It seems to us that the difficulty lies in the question of what is meant by polity. If we could obtain a sound definition of this concept, it would surely help us to understand one another better. Most people no doubt mean by polity the same as constitution, laws, rules, statutes for the government of a congregation, a church body, or a country---that is, the outward form of government. But then there are those who mean not only the forms, the rules, but also the spirit, the inward pulsating life, life with its forms (for life is presupposed).
+
+It will readily be seen that there is a considerable difference between the two ways of viewing the matter, and herein lies the difficulty, we believe.
+
+It may be that it is true that some of us have distinguished too much. But that too is not so simple. It appears that the elder Sverdrup, whose pupils we all believe ourselves to be, also distinguished between spirit and polity, for example in the following statement:
+
+\begin{quote}
+Without spirit there is no freedom in church or congregation. To suppose that one can produce freedom in the congregation by laws and constitutions is an error or delusion of the same kind as if a man should imagine that he could obtain steam power, if only he had a steam boiler, or that he could obtain wheat without end, if only he had a threshing machine. A good constitution and good laws are useful, if freedom is there; but if freedom is not in the congregation, then the law cannot produce it. Law does not create freedom; but if it is the right kind of law, then it serves to give freedom occasion to work and can even serve to preserve and protect freedom.
+
+In the Norwegian state church there is at present quite great freedom for lay activity, because the law protects it. There is far, far greater freedom for lay activity than in the great majority of congregations here among us. That shows that freedom comes from spirit, not from church polity. It also shows that the law can serve freedom by protecting it; and conversely that good laws can become altogether ineffectual if there is no spirit in the congregation.
+
+The first chief condition for a liberated congregation is therefore spirit, God’s Spirit. And if then the polity is sufficiently spacious, so that not all spiritual life is driven out of the congregation, then freedom too can accomplish its work.
+
+If there is spirit in the congregation, then the first great effect of it will be a living zeal for the salvation of souls. That is the first and most important of all expressions of life and movements of freedom in the congregation, the very burning zeal of divine love for the salvation of souls.
+\end{quote}
+
+\noindent(\textit{Collected Writings} II, 21--22).
+
+In this connection we also recall what Sverdrup once said in a lecture concerning the Congregationalists in this country. He called attention to the fact that they are the continuation of the old Puritans. They have preserved the congregationalist polity, but the spirit is not the same; for the Congregationalists have now become the most rationalistic of all the Reformed church bodies.
+
+We may learn from this development among the Congregationalists. It would be fatal for us to settle ourselves down and think that we have grasped it, that we have reached the goal, because we have a free polity. Above all, it is a matter of having spirit, life. All that concerns laboring for awakening and for the preservation of spiritual life always remains the main matter. If there was anything our old leaders laid particular weight upon, it was precisely this.
+
+Do not misunderstand us, as though we meant to insinuate that those who so strongly emphasize this matter of polity are opposed to spiritual life. Not at all. On the contrary, it is the purpose of this article to advance the claim that at bottom we want the same thing: that those who stress polity also want spirit and life, and that those who lay the weight on spirit and life also want a free polity---most of them at least. Why then devour one another?
+
+That there are some who in some respect desire a different polity may well be. But if we in writing, speech, and conduct show Christian forbearance and the right brotherly spirit, those who would rob us of the foundation will not gain much following. We must make room for one another. There must be freedom in the Free Church. We are not served by having anyone set himself up as a dictator with a claim to sole right to decide what is truly Free Church.
+That there are some who in some respect desire a different polity may well be. But if we in writing, speech, and conduct show Christian forbearance and the right brotherly spirit, those who would rob us of the foundation will not gain much following. We must make room for one another. There must be freedom in the Free Church. We are not served by having anyone set himself up as a dictator with a claim to sole right to decide what is truly Free Church.
+
+We who speak so much about putting spiritual gifts to use in the practical work of the congregation ought also to be willing to let people, both pastors and laypeople, have opportunity to express themselves in our paper on questions of principle, even if they have not had occasion to read so many learned works. It is, after all, in the practical work of the congregation that the principles are to be carried through, and what is learned in the practical school of life is not to be despised. Besides, we all have access to the Bible---the Book---upon which our guiding principles are built; and when laypeople have the right and calling to expound the Word of God, they should surely also be given the right and opportunity to speak on the principles, for these are not holier than the Word itself.
+
+As we have often stated, we are in favor of free, substantive discussion of questions of principle. We are not among those who would have everyone keep silent, and have no discussion at all. We believe in freedom of speech, and we believe that mutual, brotherly criticism does good. We all have our peculiarities, sharp edges, and faults that may need to be corrected. If criticism falls silent, everything will grow stagnant. We therefore do not want any strict censorship as in the days of absolutism. We want full freedom of speech, but indeed under responsibility.
+
+We have spoken against personal attacks upon brothers, and we do so still; but we do not simply call it a personal attack when one answers another’s opinion, and perhaps even uses strong expressions when they are needed. No, let the ideas contend. Nor ought any of us to be so thin-skinned that we cannot bear criticism. To grow sulky, or to play the martyr, when one meets contradiction, is altogether too childish.
+
+\textit{(To be continued.)}
+
+
+
+
+
+
+
+
+

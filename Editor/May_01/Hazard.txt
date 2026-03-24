@@ -1,0 +1,306 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "menigheten" can mean congregation, church, or the body of believers; in this text it shifts between the visible gathered congregation, the organized local church, and the spiritual body of believers. The English rendering must preserve that semantic flexibility without collapsing it into only "church" or only "congregation."
+* "naademidlernes" refers to the means of grace, a technical Lutheran doctrinal term. It must not be weakened into merely "religious practices" or "spiritual resources."
+* "naadegavernes" refers to gifts of grace / spiritual gifts. Context favors "gifts of grace" or "gracious gifts," but because the text is ecclesial and practical, "gifts of grace" best preserves the doctrinal register.
+* "embedsmænd" means office-bearers / ministers / officeholders. "Officials" would sound bureaucratic and flatten the ecclesial sense.
+* "Kristi legeme" is a Pauline doctrinal expression: "the body of Christ." This must remain exact.
+* "sand og levende tro" is a pietistic-Lutheran phrase. "True and living faith" preserves both doctrinal precision and devotional force.
+* "ny fødsel" is "new birth," not merely renewal or moral change.
+* "livsforbindelse" and "livssamfund" are spiritually dense compounds: living union / fellowship of life with God. They express organic participation, not mere association.
+* "bekjendelse" here is confession in the ecclesial-doctrinal sense, not private admission.
+* "kultus" means worship form / cultus / liturgical practice. "Culture" would be false.
+* "indre væsen" and "utvortes form" are theological contrasts: inward essence and outward form. They should not be psychologized.
+* "den usynlige kirke" is a technical Protestant ecclesiological term: the invisible church.
+* "staden paa berget" echoes Matthew 5:14. The older form should become "the city set on a hill" or "the city on a hill" depending on cadence.
+* "inden i eder" in the cited biblical phrasing should be translated with modern pronouns but retain scriptural rhythm: "within you."
+* "lemmer" means members / limbs of the body. In body imagery, "members" is idiomatic in theological English.
+* "levende breve" echoes 2 Corinthians 3:2–3: "living letters" rather than simply examples or testimonies.
+* "vandrer sit kald værdig" is biblical and ethical: "walk worthy of their calling" / "walk worthy of the calling." This should retain its scriptural cadence.
+* "lov" in "Guds vilje altid lov" carries the sense of binding rule / law for them. It should not be reduced to "ideal" or "guideline."
+* "utfylde i deres kjød det som endnu fattes i Kristi trængsler" is a close echo of Colossians 1:24 and must be handled with doctrinal care.
+* "hjertesak" means matter of the heart, cherished concern, not mere preference.
+* "opofrende arbeide" is self-sacrificing labor, not merely dedicated work.
+* "opelskes" means cultivated / fostered / developed. This older devotional term should not be modernized too flatly.
+* "opbyggelse" in a church context is edification, not simply encouragement.
+* "brødsbrydelsen" is the breaking of bread, with possible sacramental resonance; it must retain biblical diction.
+* "menighetssans" and "samfundsfølelse" are ecclesial-social terms meaning sense for the congregation and sense of fellowship / communal consciousness.
+* "ulastelig, uten plet eller rynke" echoes Ephesians 5:27 and must retain its biblical wording.
+* "levendegjørelse" is enlivening / vivification / bringing to life. It is more than revivalism and must not be trivialized.
+* "frigjørelse" means liberation / freeing / emancipation. In this church-political context it includes spiritual and institutional freedom, so the translation must preserve both dimensions.
+* "vækkelse" can mean awakening or revival. Because the text critiques merely emotional revivalism while still affirming true awakening by the Spirit, rendering must be context-sensitive.
+* "kjødelig" is fleshly / carnal in the Pauline sense, not merely sensual or emotional.
+* "nidkjære" is zealous, with strong biblical-religious force.
+* "vidnesbyrdet om frelsen og naaden" must preserve the evangelical and doctrinal sense: the testimony concerning salvation and grace.
+* "syndens magt og herredømme" is the power and dominion of sin, a strongly Pauline formulation.
+* "aandelig selvstændighet og frihet" is spiritual independence and freedom; the pairing matters and should remain distinct.
+
+Syntactic Hazards
+
+* The prose proceeds by accumulation: statement, qualification, doctrinal clarification, and practical implication. Breaking these into clipped modern sentences would weaken the sermonic logic.
+* The text frequently uses semicolon pivots to move from assertion to explanation or exhortation. These must often be preserved.
+* Definitions are layered through apposition: "where two or three are gathered... or in other words..." This explanatory build must remain intact.
+* The author moves repeatedly from visible church order to inward spiritual reality and back again. This dialectical movement is structural and should not be simplified.
+* Biblical quotations are embedded into argument rather than set apart as ornamental citations. The translation must let them function as proof and pressure.
+* Rhetorical questions come in clusters to heighten conscience. They should remain direct and cumulative.
+* Repetition is deliberate: "life," "more and more," "both enlivening and liberation." These repetitions should not be varied away.
+* Negative formulations are often sharpened by contrast: "not... but..." The full force depends on preserving the sequence precisely.
+
+Theological Hazards
+
+* The distinction between the church as outward organization and the church as the living body of Christ is central. A mistranslation could distort Lutheran ecclesiology.
+* Membership in the outward organization is explicitly distinguished from membership in the Kingdom of God. This must remain sharp.
+* Regeneration by the Holy Spirit is presented as the source of life in God and true incorporation into the church. This cannot be paraphrased psychologically.
+* Unity is said to consist not in organization, confession, or cultus, but in life in God. This doctrinal claim must remain pointed.
+* The critique of the term "invisible church" is nuanced: the inward essence is not denied, but the invisibility language is judged inexact because the church must become manifest. This nuance must be preserved.
+* Sanctification is described as visible manifestation of hidden life with Christ. The tension between hiddenness and visibility is theological, not merely rhetorical.
+* Christian vocation is framed as fruit-bearing, suffering with Christ, and laboring for His body, the church. These motifs must keep their biblical force.
+* The text insists on mutual gathering, mutual help, brotherly love, and common edification as normative marks of church life.
+* The aim of ecclesial reform is not mere structural independence but enlivening and liberation rooted in the Spirit.
+* The author sharply rejects merely emotional or fleshly revivalistic techniques and insists that only the Spirit gives life. This distinction is doctrinally crucial.
+* Freedom is explicitly the fruit of the Spirit, echoing 2 Corinthians 3:17. The relation between life, Spirit, and freedom must remain intact.
+
+Voice Hazards
+
+* The voice is solemn, pastoral, doctrinal, and exhortational; it addresses both mind and conscience.
+* The prose gains force by inevitability and accumulation, not by dramatic flourish. Overheated English would falsify it.
+* The author alternates between teaching and admonition. This pastoral shift must remain audible.
+* The diction is plain but elevated. Overly colloquial English would diminish gravity; overly archaic English would misrepresent the instruction to avoid faux-KJV tone.
+* Questions about suffering, sacrifice, labor, and sincerity are meant to search the hearer. They must not be softened.
+* The closing movement toward enlivening and liberation carries urgency but not sensationalism. The translation must preserve that disciplined intensity.
+
+STEP 2: IDIOM ANALYSIS
+
+* "hvor to eller tre er forsamlet i Jesu navn" is a direct allusion to Matthew 18:20. Natural English: "where two or three are gathered in Jesus’ name." This retains biblical familiarity without archaic pronouns.
+* "samlet om Guds ord og sakramenterne" means gathered around / around the Word of God and the sacraments. "Around" preserves the ecclesial orientation better than simply "for."
+* "søker sin egen og alle sine medmenneskers frelse og evige salighet" expresses active striving for one’s own and others’ salvation and eternal blessedness. "Blessedness" preserves theological dignity better than the flatter "happiness."
+* "Kristi legeme" and "lemmer paa hans legeme" belong to Pauline body imagery. English theological idiom naturally uses "body of Christ" and "members of His body."
+* "Av naturen er vi alle døde" echoes Pauline anthropology, especially Ephesians 2:1. "By nature we are all dead" preserves doctrinal force.
+* "faar vi liv i Gud" literally "we receive life in God." This is better than "become spiritually alive" because the latter is explanatory rather than faithful to the original idiom.
+* "livsforbindelse med Gud" and "livssamfund med Gud" are not ordinary modern idioms. They denote a living bond / living fellowship with God. Literal translation is needed, but in idiomatic English "living fellowship with God" is clearer than "life-fellowship" while preserving force.
+* "staden paa berget" clearly evokes the biblical image of a city on a hill. The King James-like English equivalent is "a city that is set on a hill cannot be hid," but because the instructions reject archaic pronouns and inherited KJV tone, a moderated rendering such as "the city set on a hill that cannot be hidden" is preferable.
+* "lys og salt i verden" is Matthew 5 language: "light and salt in the world." The phrase should remain recognizably biblical.
+* "sættes under skjæppen, men i staken" corresponds to putting a light under a bushel / under a basket versus on a stand. "Bushel" is biblically familiar but slightly archaic; "basket" is modern but loses resonance. Here "under the bushel, but on the stand" preserves cadence and scriptural recognition.
+* "La saa eders lys skinne" naturally becomes "Let your light so shine before men" in older English, but to avoid archaic pronouns while preserving scriptural structure: "Let your light so shine before people, that they may see your good works and praise your Father in heaven." This draws on familiar Bible cadence.
+* "Vort liv er skjult med Kristus i Gud" echoes Colossians 3:3. The natural English equivalent is "Our life is hidden with Christ in God."
+* "levende breve som kan læses av alt folket" echoes 2 Corinthians 3:2. "Living letters, to be read by all people" preserves the biblical metaphor.
+* "de har været hos Jesus" echoes Acts 4:13. This should remain direct: "they have been with Jesus."
+* "gaat i den Helligaands skole" is a pietistic expression, literally "gone to the Holy Spirit’s school." A literal rendering works and preserves devotional concreteness.
+* "vandrer sit kald værdig" has a ready biblical English equivalent: "walk worthy of their calling" or "walk worthy of the calling." This reflects Ephesians 4:1.
+* "For dem er Guds vilje altid lov" means God’s will is always law / rule for them. Literal rendering preserves the stern ethical cast better than "their guide."
+* "vandrer med Herren" is a biblical-pietistic idiom: "walk with the Lord."
+* "bære frugt" is standard biblical language: "bear fruit."
+* "faa naade til at lide med Kristus" literally "receive grace to suffer with Christ." This should remain strong and not become merely "be enabled."
+* "utfylde i deres kjød det som endnu fattes i Kristi trængsler" is a near citation of Colossians 1:24. "Fill up in their flesh what is yet lacking in Christ’s afflictions" preserves the scriptural and doctrinal seriousness.
+* "en hjertesak" means a matter laid upon the heart; "a matter of the heart for us" is closer than simply "important to us."
+* "en vel organiseret arbeidsflok" literally "a well-organized working band." "Laboring body" or "work-band" could sound strange; "a well-organized laboring company" preserves the corporate sense best.
+* "holde trolig fast" in Acts 2:42 idiomatically means devote themselves steadfastly. "Held faithfully fast" or "continued steadfastly" are candidates; because the text echoes the biblical style, "held faithfully fast" works.
+* "ett hjerte og én sjæl" is Acts 4:32 language: "one heart and one soul."
+* "uten plet eller rynke" naturally echoes Ephesians 5:27: "without spot or wrinkle."
+* "rope paa vækkelse" is not merely "call for revival" but "cry out for revival." The phrase critiques sloganized religious language.
+* "skrik og skraal" is a dismissive pairing: shouting and clamor / noise and shouting. It should sound critical, not colorful for its own sake.
+* "rørende historier" means moving stories, emotionally affecting narratives.
+* "appel til følelserne" is appeal to the feelings / emotions. The critique is of manipulative emotionalism.
+* "brændende i aanden" echoes Romans 12:11: fervent in spirit.
+* "vedholdende i bønnen" echoes Romans 12:12 / Colossians 4:2: steadfast / continuing in prayer.
+* "nidkjære til al god gjerning" means zealous for every good work, echoing Titus 2:14.
+* "bære frem vidnesbyrdet" means bear forth / bring forth the testimony. "Bear witness to" is smoother, but the noun "testimony" should remain if possible because it is part of the author’s diction.
+* "frigjøres fra syndens magt og herredømme" means be set free from the power and dominion of sin. This retains Pauline theological substance.
+* "hvor Herrens aand er, der er frihet" is 2 Corinthians 3:17. Natural English: "where the Spirit of the Lord is, there is freedom."
+
+Expressions where literal translation would obscure force
+
+* "kultus" should not remain as "cultus" in the final translation; "worship" is clearer in English while preserving the contrast.
+* "arbeidsflok" if translated literally as "work flock" would be misleading; it needs an English corporate-labor equivalent.
+* "samfundsfølelse" literally "society-feeling" would obscure meaning; "sense of fellowship" better preserves the ecclesial-social force.
+* "erotiske foranstaltninger" appears corrupt or misprinted in the supplied text. In context the meaning is that artificial / merely external measures are of no use. Because the reading is uncertain, the translation should signal uncertainty. The likely intended sense is that human contrivances do not avail.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening restatement of position: the author briefly returns to prior statements about the congregation/church and restates the basic definition in line with Luther and the cited principles.
+* Organizational affirmation: he then affirms that according to the New Testament the congregation also needs outward organization, membership rolls, office-bearers, and appointed times and places.
+* Essential qualification: despite this outward form, the congregation is Christ’s body, and true membership in that body comes only through true and living faith.
+* Anthropological and regenerative ground: by nature all are dead; through new birth by the Holy Spirit people receive life in God and thus become true members.
+* Kingdom distinction: outward membership in an organization does not automatically make one a member of God’s Kingdom, because that depends on living fellowship with God.
+* Universal church extension: therefore the term "menighet" can also be used for the totality of believers wherever found, within or outside an organization.
+* Unity defined: the church is one, but its unity consists not in organization, confession, or worship, but in life in God.
+* Inward/outward distinction refined: this leads to a distinction between the church according to inward essence and outward form.
+* Critique of "invisible church": the author accepts the distinction but argues that calling the church invisible is inexact, because Scripture says it must be manifest like a city on a hill.
+* Scriptural balancing: he balances texts about the inwardness of the Kingdom with texts about believers as visible light and salt.
+* Corporate application: what applies to individual believers also applies to the congregation as a whole; the congregation manifests what its members are.
+* Hidden life made visible: though life is hidden with Christ in God, it must become visible in the congregation and in individual members.
+* Ethical evidence: believers’ conduct should reveal that they have been with Jesus and trained by the Holy Spirit.
+* Life defined by activity: life is invisible in itself but known by its forms, movement, and labor; stagnation is death.
+* Vocation to labor and suffering: disciples are called not merely to enjoy life but to yield, bear fruit, suffer with Christ, and serve His body.
+* Conscience-searching interrogation: the author presses the reader with questions about willingness to bear tribulation, make sacrifices, and labor for the congregation.
+* Practical ecclesiology: self-sacrificial labor is required both of each believer and of the whole congregation as an organized working body; gifts must be cultivated and used.
+* Necessity of gathering: believers are not meant to remain isolated but to gather for mutual encouragement, aid, edification, prayer, and work.
+* Apostolic norm: the first congregation serves as model—one heart and one soul, steadfast in the apostles’ teaching, fellowship, breaking of bread, and prayers.
+* Negative judgment: those who feel no need to gather show something wrong in their sense of congregation, fellowship, and responsibility for God’s Kingdom.
+* Organizational necessity reaffirmed: organization is again defended as necessary for order, discipline, and united work beyond individual capacity.
+* Eschatological ideal: yet the real congregation consists of believers and should be holy and blameless; the task is to present it in its proper form according to the Lord’s Word, though only imperfectly on earth.
+* Immediate task defined: the task among "us" is the congregation’s enlivening and liberation.
+* Clarification of priority: awakening, Spirit, and life are the main thing; life must not merely be assumed but sought.
+* Polemic against false revivalism: true awakening does not come from talking about revival, nor from noise, sentiment, tears, and emotional manipulation.
+* Positive principle: only God’s Spirit can awaken to life; therefore believers must yield themselves to the Spirit’s work and become fervent, prayerful, zealous instruments.
+* Final ecclesial thesis: individual souls may be saved while the congregation remains unliberated; thus after the question of the individual soul’s salvation, nothing is more important than the question of the congregation.
+* Programmatic conclusion: hence the stated aim is both enlivening and liberation of congregations so that they may act in spiritual independence and freedom for God’s Kingdom.
+* Final doctrinal seal: liberation without spiritual life is impossible; freedom is the fruit of the Spirit, for where the Spirit of the Lord is, there is freedom.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "where two or three are gathered in Jesus’ name" — Matthew 18:20.
+* "the body of Christ" / members of His body — Romans 12:4–5; 1 Corinthians 12:12–27; Ephesians 4:12, 5:30.
+* "By nature we are all dead" — strongest echo of Ephesians 2:1–3.
+* "new birth" by the Holy Spirit — John 3:3–8; Titus 3:5.
+* "the Kingdom of God is within you" — Luke 17:20–21.
+* "city on a hill / city set on a hill cannot be hidden" — Matthew 5:14.
+* believers as "light" and "salt" and lamp not under a bushel but on a stand — Matthew 5:13–16; Mark 4:21; Luke 8:16.
+* "Let your light so shine..." — Matthew 5:16.
+* "Our life is hidden with Christ in God" — Colossians 3:3.
+* "living letters... read by all" — 2 Corinthians 3:2–3.
+* "they have been with Jesus" — Acts 4:13.
+* "walk worthy of their calling" — Ephesians 4:1; also Colossians 1:10; 1 Thessalonians 2:12.
+* "bear fruit" — John 15:2–8 and wider New Testament usage.
+* "suffer with Christ" — Romans 8:17; Philippians 1:29.
+* "fill up in their flesh what is lacking in Christ’s afflictions, for His body, which is the church" — Colossians 1:24.
+* "one heart and one soul" — Acts 4:32.
+* "held fast to the apostles’ teaching and fellowship, the breaking of bread, and the prayers" — Acts 2:42.
+* "holy and blameless, without spot or wrinkle" — Ephesians 5:27.
+* "fervent in spirit" — Romans 12:11.
+* "steadfast in prayer" / "continuing in prayer" — Romans 12:12; Colossians 4:2.
+* "zealous for good works" — Titus 2:14.
+* "where the Spirit of the Lord is, there is freedom" — 2 Corinthians 3:17.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author’s force lies in doctrinal plainness joined to pastoral urgency. The translation must preserve a grave, searching, didactic voice.
+* Warnings against dead formalism, isolation, and fleshly revivalism should remain sharp. They should not sound like neutral observation.
+* The sequence of rhetorical questions about tribulation, sacrifice, and labor must retain its pressure on the reader’s conscience.
+* Exhortations such as praying for more of the mind of Christ, becoming fervent in spirit, and serving as willing instruments of the Spirit should remain earnest rather than decorative.
+* The translation should allow the argument to intensify through repetition of "life," "work," "must," and "therefore," rather than trying to diversify vocabulary for stylistic elegance.
+* The final affirmation that there can be no spiritual liberation without spiritual life must land as a doctrinal conclusion, not as a slogan.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "trænger" often means needs / requires, not merely benefits from. This should generally be translated strongly.
+* "blir man kun" means one becomes only; exclusivity must remain.
+* "kan ikke uten videre sige" means we cannot simply say; it rejects a facile inference.
+* "skal være" in biblical and doctrinal contexts should normally remain "shall be" or "is to be" when obligation or divine intention is stressed, rather than the weaker "should be" unless English idiom clearly requires it.
+* "maa" throughout the passage carries necessity: must.
+* "vil" often has volitional force (God wills that...), not mere futurity.
+* "bør" in "det bør altid erindres" should remain "ought always to be remembered" or "should always be remembered" depending on cadence; the admonitory force must remain clear.
+* "naar det vel ikke helt" does not mean the goal is optional; it means full attainment will likely not occur here below, while striving remains obligatory.
+* "kan der ikke være tale om" is a firm impossibility: there can be no question of / there can be no talk of.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menigheten — generally "the congregation" when the local gathered/organized body is in view; occasionally "the church" where the universal spiritual sense is clearly intended. In the final translation, consistency will be guided by immediate context while preserving the author’s semantic movement.
+* Guds rike — "the Kingdom of God"
+* Guds ord — "the Word of God"
+* sakramenterne — "the sacraments"
+* naademidlerne — "the means of grace"
+* naadegaverne — "the gifts of grace"
+* sand og levende tro — "true and living faith"
+* den Helligaand — "the Holy Spirit"
+* liv i Gud — "life in God"
+* livssamfund / livsforbindelse — "living fellowship" / "living union" with God, chosen contextually but kept stable in idea
+* bekjendelse — "confession"
+* kultus — "worship"
+* opbyggelse — "edification"
+* broderkjærlighet — "brotherly love"
+* vækkelse — usually "awakening," sometimes "revival" where the surrounding critique requires that nuance
+* aand og liv — "Spirit and life"
+* levendegjørelse — "enlivening"
+* frigjørelse — "liberation"
+* syndens magt og herredømme — "the power and dominion of sin"
+* frihet — "freedom"
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Body imagery must remain bodily: Christ’s body, members, limbs, not abstract affiliation.
+* The contrast between hidden life and visible manifestation should remain figurative and scriptural, not reduced to inward feeling versus outward behavior.
+* Light, salt, lamp, city on a hill, letters read by all, fruit-bearing, and the Spirit’s school are vivid images and should remain images.
+* "Stagnation is death" preserves the life-motion metaphor and should remain aphoristic.
+* The congregation as an organized laboring body should retain its collective, active image.
+* Freedom as fruit of the Spirit should remain organic rather than political only.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The passage moves from doctrinal exposition to visible hope, then to rebuke, then to exhortation, then to programmatic declaration.
+* Consoling affirmations about life in God and brotherly love must not be made as severe as the warnings about deadness and empty phrases.
+* The critique of false revivalism must sound stern and unsparing.
+* The appeal for God to grant more of the mind of Christ introduces a prayerful softness without weakening seriousness.
+* The closing thesis about enlivening and liberation combines aspiration with hard doctrinal realism. Both tones must remain.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many sentences are built for public reading, with clauses that accumulate and then resolve. The translation should preserve this breath pattern where possible.
+* Semicolons should often be retained, especially where they signal theological or logical weight.
+* Repeated openings such as "The believers..." "The congregation..." "We must..." should remain audible.
+* The cluster of rhetorical questions should be translated so that each rises naturally from the last.
+* Biblical quotations should be integrated with a cadence suitable for proclamation, not academic paraphrase.
+* The prose should sound speakable in English, but not colloquial.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Congregation.
+
+II.
+
+A little further concerning our statements regarding the congregation.
+We have said "that a congregation is there where two or three are gathered in Jesus’ name, or, in other words, where two or more believers are gathered around the Word of God and the sacraments." This is Luther’s view, and this is, it seems to us, in accordance with article 2 in Living Principles, which says: "The congregation consists of believing people, who by the use of the means of grace and the gifts of grace, according to the direction of God’s Word, seek their own salvation and eternal blessedness and that of all their fellow men."
+
+We believe, in accordance with point 3, that "according to the New Testament the congregation requires an outward organization, with a register of its members, election of office-bearers, fixed times and places for its gatherings, etc."
+
+The congregation is, however, Christ’s body, and one becomes a member of His body only by a true and living faith in Jesus Christ.
+
+By nature we are all dead; but by a new birth, wrought by the Holy Spirit, we receive life in God, become one with Him, and thus true members of the congregation.
+
+We say that the congregation is the proper form of the Kingdom of God upon earth; but we cannot simply say that when someone becomes a member of the congregation’s outward organization, he thereby also becomes a member of the Kingdom of God; for membership in the Kingdom of God depends upon living union with God. And one can have living fellowship with God without being a member of the congregation’s outward organization. In accordance with this understanding, we also use the word congregation of the gathering of all believers wherever they are found, within or outside an organization. For in the third article we confess that the church (the congregation) is one; but this unity consists not in organization, not in confession, not in worship, but in life, life in God.
+
+Here, then, a distinction is made between the congregation according to its inward essence and according to its outward form. Such a distinction is in full accordance both with the Word of God and with Living Principles. When, however, the congregation according to its inward, spiritual essence has been called the invisible church, this is not a happy expression, since the Word of God plainly says that it is to be as the city set on the hill that cannot be hidden. To be sure, the Savior says: "The Kingdom of God does not come in such a way that one can see it with one’s eyes; neither shall they say, See here, or, See there! for behold, the Kingdom of God is within you." But He also says that believers are to be light and salt in the world, that the light is not to be put under the bushel, but on the stand, so that it may shine for all in the house.
+
+"Let your light so shine before people, that they may see your good works and praise your Father in heaven."
+
+These words of the Savior may be applied to the congregation as a whole just as well as to the individual believers; for the congregation becomes such as its individual members are. If the individuals are shining lights, then the congregation also will shine. If the life is warm and vigorous in the individuals, it will also manifest itself in the congregation and outward from it. Our life is hidden with Christ in God; but it must also come visibly forth in the congregation, in the individual members. Believers are to be living letters that can be read by all the people. God’s Spirit is indeed invisible, but He makes Himself known by His working in and through believers. When they walk worthy of their calling, it will always be possible to say of them: they have been with Jesus; they have gone to the Holy Spirit’s school. For them God’s will is always law; they walk with the Lord, they serve Him.
+
+Life itself is invisible; but it manifests itself by the forms it assumes, by the development through which it passes. Where there is life, there is movement, activity, labor. Stagnation is death.
+
+The disciples of Jesus Christ are called to labor. They have received life not only in order to enjoy, but also in order to yield. They are to bear fruit for the Kingdom of God; indeed, they are even to receive grace to suffer with Christ, to fill up in their flesh what is yet lacking in Christ’s afflictions, for His body, which is the congregation.
+
+How much tribulation are we willing to bear for God’s congregation? How great sacrifices are we willing to make? How much labor are we willing to perform? Is it a matter of the heart for us to do our part that the Kingdom of God may flourish among us? Or are our fair words about the congregation only empty forms of speech? May God give us more and more of the mind of Jesus Christ, that we may become more and more like Him in serving, suffering, sacrificing.
+
+Self-sacrificing labor is required. The individual believer is to labor for the advancement of the Kingdom of God; the whole congregation is to be a well-organized laboring company. The gifts of grace must be cultivated and put to use. It is not God’s thought that believers should sit still and inactive, each by himself, one here and one there; He wills that they should come together in order to encourage, urge, and help one another. They need such mutual help both as regards their own salvation and the salvation of other souls. Besides, brotherly love will draw God’s children together; spiritual kinship, the need for common edification and prayer, will unite them, make them one. The believers in the first congregation had one heart and one soul. They held faithfully fast to the apostles’ teaching and to the fellowship, to the breaking of bread and to the prayers. And these are at all times the true marks of a sound congregational life. There is therefore something amiss with those who do not feel the need to gather with others around the Word of God and the sacraments for common edification, common prayer, and common labor. They lack, at any rate, the proper sense for the congregation, the proper sense of fellowship, and the proper responsibility toward the advancement of the Kingdom of God on earth.
+
+A congregational organization is also needed so that there may be order and discipline and so that with united strength one may carry out work that the individual cannot accomplish alone.
+
+But it ought always to be remembered that the congregation properly consists of believing people, that it is to be holy and blameless, without spot or wrinkle, and it ought to be our aim, with God’s help, to present the congregation in its proper form according to the plan the Lord has indicated in His Word. Here is our task. It is a high and glorious goal. We shall scarcely attain it fully here upon earth; but to come as near to it as possible ought to be our striving.
+
+To labor unceasingly for the congregation’s enlivening and liberation among us is our task. Awakening, Spirit, and life are the main thing. It is not enough to presuppose life; we must do our part that there may be life, more and more life, among us.
+
+% Page 420
+
+Yet awakening to life does not come merely by speaking about awakening and crying out for awakening.
+
+Our standing expressions about awakening, Spirit, and life can, like so much else, easily become customary forms of speech and empty phrases without the slightest effect.
+
+To bring about a religious movement with much noise and stir, moving stories, many tears, and appeal to the emotions is not, without more, true awakening either.
+
+All this may be very harmful.
+
+God’s Spirit alone can awaken to life.
+
+Human measures are of no avail.
+
+We must therefore let God’s Spirit do His work in us and through us.
+
+We must become fervent in spirit, steadfast in prayer, and zealous for every good work.
+
+It must be our highest delight and longing to be the Spirit’s willing instruments in bearing forth the testimony of salvation and grace in Jesus Christ and leading sinners to Him.
+
+But it is true that souls can be saved one by one and liberated from the power and dominion of sin without the congregation in which they stand being liberated. Therefore we say with Ditzel that "next to the question of the salvation of the individual soul there is no more important question than that of the congregation." And therefore we continue to say with point 2 in the Free Church’s rules that "its (the Lutheran Free Church’s) purpose is to labor for the enlivening and liberation of all Norwegian Lutheran congregations, so that according to their calling and their ability they may work in spiritual independence and freedom for the cause of the Kingdom of God at home and abroad through such organs and institutions as the congregations themselves may determine."
+
+Thus both enlivening and liberation. Of spiritual liberation there can be no question apart from spiritual life. Freedom must come as a fruit of the Spirit; for "where the Spirit of the Lord is, there is freedom."
