@@ -1,0 +1,283 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "menighet" can mean congregation, church, or the gathered Christian community depending on context; it must not be flattened into a single modern sociological term.
+* "kirkebegrepet" is not merely "view of the church" in a casual sense, but a doctrinal concept of the Church.
+* "utvortes" means outward/external, not merely superficial; in ecclesiological argument it contrasts with inward/spiritual.
+* "den hele kristne menighet" points toward the whole Christian Church, i.e. the holy catholic Church; the theological range must be preserved.
+* "samfund" / "forening" in this context refer to fellowship/communion/union, not modern voluntary associations.
+* "aanden" may mean spirit in a general sense or the Spirit in a doctrinally marked sense; context must govern capitalization in English.
+* "gjenfødte" must be rendered with full doctrinal force as "regenerate" or "born again," not weakened into "renewed."
+* "naademidler" and "naadegaver" are technical theological terms: means of grace and gifts of grace/gracious gifts.
+* "salighetsvilkaarene" must retain soteriological precision: the conditions of salvation, not vague "spiritual requirements."
+* "betjendelse" refers to ministry/ministration/service in churchly order, not generic employment.
+* "husholdning" in theological prose suggests economy/dispensation/ordering, not a domestic household in the modern narrow sense.
+* "fuldkommenhet" is morally and theologically loaded: perfection/completeness, but not sinlessness unless the text denies that explicitly.
+* "daabspakt" should be preserved as baptismal covenant, not merely baptismal promise.
+* "princip" / "grundsætning" carry technical force and are central to the polemic; consistency is necessary.
+* "gjennemføre" means carry out/put into effect/realize, and the choice affects the force of the argument.
+* "fordringsfuldt" means exacting/demanding, with existential weight.
+* "receptivitet" and "aktivitet" are conceptual opposites and must remain distinct.
+
+Syntactic Hazards
+
+* The passage relies on extended argumentative periods, often with semicolon turns and cumulative clarification; these must not be chopped into short contemporary sentences.
+* Quoted material contains layered apposition and doctrinal accumulation; the syntax must preserve the pressure of the original reasoning.
+* Polemical contrasts are often built through repeated parallel openings such as "For S. og D.... Ikke saa..."; these must remain visible.
+* Definitions unfold by successive distinctions rather than direct summary; flattening would weaken the argumentative architecture.
+* Parenthetical references and inserted scriptural citations act as logical supports, not decorative additions.
+* The text alternates between exposition, quotation, doctrinal distinction, and rhetorical rebuke; sentence boundaries must respect those shifts.
+
+Theological Hazards
+
+* The distinction between the visible/outward church and the true spiritual Church is the core doctrinal issue and must remain sharp.
+* The text argues that the New Testament binds Christians not only in doctrine but also in church order; this is a confessional and ecclesiological claim.
+* The contrast between dogmatics and ethics is technical: dogmatics treats what God does; ethics treats what human beings do under God’s ordering.
+* "Christian perfection" is treated in a specifically Lutheran way: real, commanded, and in some sense attainable, yet not sinless final completion.
+* The claim that God gives what He requires is central and must not be paraphrased away.
+* Statements about grace, the nearness of God, and the possibility of keeping the baptismal covenant must retain full confessional seriousness.
+* Scripture citations from Matthew 5, Philippians 3, 1 Corinthians 15, and 1 John all function as doctrinal warrants.
+
+Voice Hazards
+
+* The prose is earnest, polemical, and admonitory; smoothing it into neutral academic English would erase its force.
+* The writer speaks with clerical and confessional authority, often through sharp contrasts and rebuking rhetorical turns.
+* Irony appears in places, especially in references to Kierkegaard, Bjørnson, Gynild, and "the learned fools"; this irony must not become flippant.
+* The text addresses not merely ideas but the moral and theological responsibility of its readers and church leaders.
+* Elevated theological seriousness coexists with public controversy; the translation must preserve that tension.
+
+STEP 2: IDIOM ANALYSIS
+
+* "falder i øinene" means "strikes the eye" or "catches the eye," i.e. is outwardly visible and conspicuous.
+* "denne verdens ørken" evokes the biblical wilderness motif: the Christian life in a fallen world as pilgrimage through the wilderness.
+* "bidte av slangen" and looking to "the Lamb of God, who bears the sin of the world" blend allusions to Numbers 21 and John 1:29; the image is typological and should remain vivid.
+* "jøde eller græker, barbarer eller skyther" echoes Pauline universality formulas, especially Colossians 3:11 and Galatians 3:28.
+* "træde i skrankerne" means to enter the lists, to step into open contest or controversy.
+* "lyset nok for menigheten" reflects biblical idiom of light and guidance; "there is light enough for the congregation in the New Testament" preserves that force.
+* "gjør her intet skaar paa" means does not impair or make any breach in.
+* "Guds rette og egte husfolk" means God’s true and genuine household, with biblical household imagery.
+* "naa klenodiet" in the Gustav Jensen quotation carries the sense of attaining the prize/treasure; it should remain elevated.
+* "over evne" means beyond one’s power/ability, not merely difficult.
+* "ikke im Wordensein, men im Werden" is a German contrast meaning not a completed state of having become, but being in the process of becoming.
+* "holde sin daabspakt" means to keep one’s baptismal covenant, with covenantal and moral seriousness.
+* "grepet av Kristus" and "griper derefter" echo Philippians 3:12 in a Scandinavian devotional register.
+
+King James or traditional biblical equivalents that may naturally inform English rhythm without using archaic pronouns
+
+* "the Lamb of God, who bears the sin of the world"
+* "Jew or Greek, barbarian or Scythian"
+* "I am what I am by the grace of God"
+* "I can do all things through Christ who strengthens me"
+* "when we see Him as He is"
+* "the Son delivers the kingdom to God the Father"
+
+Expressions where literal translation would obscure force
+
+* "utvortes flok" should not become simply "outer flock"; "outward company" or "external flock" is clearer.
+* "lærebetjendelse" literally "service of doctrine" is better rendered as "ministry of the Word/doctrine" depending context.
+* "forfatning" in church context means constitution/polity/order, not political constitution in the state sense alone.
+* "fordringsfuldt" requires "exacting" or "demanding," not merely "difficult."
+* "fuldkommen" cannot always be flattened into "mature" because the passage argues about perfection as commanded and given.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: the Augsburg controversy in the 1890s arose from disagreements about the concept of the church, which also shaped ministerial formation.
+* First major development: Schmidt’s concept of the church is presented through extended quotation, emphasizing the true Church as the fellowship of believers in the Spirit rather than an outward organization.
+* Counter-thesis: S. and D. judged that Schmidt lacked a sufficient doctrine of the congregation; the unanswered question is whether New Testament statements about the congregation are as binding as its statements about doctrine.
+* Core doctrinal-polemical claim: for S. and D., the New Testament is normative for church polity as well as doctrine; for Schmidt, normative only for doctrine.
+* Supporting authorities: Sverdrup, Free Church statements, Ladd, Punchard, and the 1833 Declaration of the English Congregationalists are marshaled to show that this is a constitutional/polity principle rooted in Scripture.
+* Clarifying distinction: principle 1 is not a dogmatic principle but a constitutional one, belonging to ethics and practical theology, though related to dogmatics.
+* Dogmatics/ethics distinction: dogmatics sets forth what God does; ethics what human beings do. The church is gift in dogmatics, task in ethics.
+* Polemical correction: leading principles are principles for church polity, not ideals, not impossible demands, not direct demands laid upon personality.
+* Refutation of Schild/Gynild claim: the statement that Christian principles must demand more than we can carry out is rebuked as astonishing and linked rhetorically to Kierkegaardian paradox or Bjørnson’s dramatic notion of Christianity as beyond human capacity.
+* Positive doctrinal assertion: evangelical Lutheran Christianity does not teach that its ideals are unrealizable; God is near and gives the power for what He requires.
+* Theological climax: the highest requirement is evangelical perfection, not legal perfection; God gives this perfection.
+* Confessional support: the Augsburg Confession and later authorities are cited to define Christian perfection and deny that it means sinlessness or being "finished."
+* Pastoral-existential turn: the Christian must strive, fight, and remain conscious of imperfection; growth in Christian life deepens awareness of both imperfection and grace.
+* Final polemical turn: if an obscure schoolmaster had invented such claims one might remain silent, but when a prominent Free Church pastor prints them, opposition is necessary.
+* Concluding transition: the writer returns to define what a principle is, laying groundwork for continuation.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "the holy catholic church" is implicitly echoed in the discussion of "the whole Christian congregation."
+* "the Lamb of God, who bears the sin of the world" is from John 1:29.
+* "bitten by the serpent" and looking in faith allude to Numbers 21:4-9, interpreted christologically via John 3:14-15.
+* "Jew or Greek, barbarians or Scythians" echoes Colossians 3:11; compare Galatians 3:28.
+* "He who searches the hearts" echoes biblical language such as Romans 8:27 and Revelation 2:23.
+* Matthew 5:48 is cited directly regarding perfection.
+* Philippians 3:14-15 is cited directly.
+* 1 Corinthians 15:24 and 15:10 are cited directly.
+* "I can do all things through Christ who strengthens me" echoes Philippians 4:13.
+* "when we see Him as He is" echoes 1 John 3:2.
+* The contrast between Law and Gospel underlies the phrase "not the Law’s [perfection]."
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must preserve public controversy, confessional insistence, and pastoral rebuke.
+* Where the author says a statement should not be spoken where evangelical Lutheran Christianity is to be preached, that force must remain uncompromised.
+* Sharp evaluative phrases such as "an astonishing proposition" should remain sharp.
+* The author’s repeated insistence that God gives what He requires is not sentimental consolation but theological necessity.
+* The final rebuke of a prominent pastor must retain firmness and public seriousness.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maatte" will be rendered with necessity: "had to" / "must be derived."
+* "behøver ikke" must remain "need not," not "do not really have to."
+* "det er ikke værdt at la nogen indbilde sig" should preserve dismissal and warning: "it is not worth letting anyone persuade us..."
+* "skal" in ideal/perfection contexts often bears a strong teleological or imperative force: "shall" or "is to" where English allows.
+* "kan ikke" and "kan ei" should preserve impossibility or real inability, not simple improbability.
+* "burde det ikke tales" must remain normative: "it ought not to be spoken thus."
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet = congregation when the concrete gathered body is in view; church when the broader doctrinal sense is required
+* kirke = church
+* kirkeforfatning = church polity or church constitution, depending context; polity is often best for readability with theological precision
+* læren = doctrine
+* Guds ord = the Word of God
+* naademidler = means of grace
+* naadegaver = gifts of grace
+* salighetsvilkaarene = the conditions of salvation
+* Aanden / aanden = the Spirit / the spirit according to context
+* fuldkommenhet = perfection
+* kristelig fuldkommenhet = Christian perfection
+* daabspakt = baptismal covenant
+* princip / grundsætning = principle
+* opgave = task
+* gave = gift
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Wilderness imagery must remain: "in the wilderness of this world."
+* Snake-bite and looking to the Lamb must remain embodied and typological.
+* "members of His body" must remain Pauline and concrete.
+* "God’s household" must remain household imagery, not abstract belonging.
+* Distance/nearness imagery for ideals and for God must remain intact.
+* Gift/task antithesis must stay metaphorically alive, not become a mere conceptual gloss.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Preserve the movement from historical narration to doctrinal exposition.
+* Preserve the shift from calm explanatory distinction to pointed polemic.
+* Preserve the movement from polemical refutation to pastoral consolation about grace.
+* Preserve the final return from consolation to sharp public correction.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The English should retain long-breathed argumentative sentences where the original reasons forward through clause after clause.
+* Semicolons and colons should be used to preserve sermonic pacing and public address.
+* Repetitive clause openings should be retained where they build rhetorical force.
+* Quotations should sound speakable from a lectern, not compressed into modern academic prose.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Installment 7: “Folkebladet,” April 24, 1918
+
+The Position.
+(J. D. Evjen.)
+
+(Continued.)
+
+The controversy over Augsburg in the nineties arose from disagreements with respect to the concept of the church, which were also determinative for the education of ministers. The view held by S. and D. differed greatly, especially from that of Dr. Schmidt, who in 1893 left Augsburg together with his colleagues, Professors Bøckman and Lund.
+
+For Schmidt the outward congregation was of lesser significance. For him the all-dominating thing was “the whole Christian congregation,” that is, the holy catholic Church. His concept of the church we find in Luthersk Kirkeblad, no. 41:
+
+“Christ’s true congregation is not first and foremost an outward union around certain office-bearers or a certain visible organization that catches the eye, but it is the fellowship and union of true believers in the spirit, as Jesus’ true believing disciples and, each for his part, members of His spiritual body...
+
+“Thus also now, as formerly, God’s true Israel is not this or that outward flock or association of persons, a visible organization under a definite and conspicuous regime; rather, God’s right and genuine household are all those whom He who searches the hearts knows and loves as His own, that is, as true regenerate children of God through faith in Jesus Christ. All these true believers are members of the one body, and besides these true believers, whether they be adults or little children, there exists no member on Jesus’ body. The true and glorious unity of the Church as Jesus’ body is therefore a spiritual unity, the unity of hearts by the same spirit of faith.
+
+“Outward difference with respect to time, place, language, nation, yes, even outward ecclesiastical connection and ministerial service, makes no breach here in the unity of faith and spirit. All who in the wilderness of this world have learned to feel themselves bitten by the serpent, and who with the longing of faith look up to the Lamb of God, who bears the sin of the world, all these are by this salvation-seeking faith united with Jesus and are members of His body, whether moreover they be Jew or Greek, barbarians or Scythians, whether they live in the Old or in the New Testament, whether they speak this or that tongue, yes, whether moreover they be Catholics or Protestants, or whatever kind of society they may belong to by outward confessional connection....
+
+“But if this is so, that the essential and proper unity of the Christian Church, whereby according to God’s judgment it is one single Church, is a spiritual unity, then does it perhaps follow from this that the outward and visible unity is an altogether unessential and indifferent matter?”
+
+With respect to the answer that Dr. Schmidt gives, S. and D. found that the view of “the congregation” was lacking. And several years later Sv. wrote: “The core of the matter is this, which Dr. Schmidt has not yet touched: Are the New Testament’s statements about the congregation as binding upon Christians as its statements about what has been called doctrine?” This was in the years when Schmidt entered the lists on behalf of “the old church order.”
+
+According to S. and D., therefore, the New Testament was a rule also for church polity. According to Schmidt, it was a rule only for doctrine.
+
+S. wrote: “And above all other principles in the Free Church there stands the decisive authority of the Word of God in the matter of the congregation and of church polity no less than in the question of doctrine” (Veiledning 93).
+
+“We... have... enlightenment about ‘church polity’ in the Bible.” We need not “speculate out something ‘that suits the times’; there is light enough for the congregation in the New Testament, and it is not worth letting anyone persuade us that it does not suit our time” (105; cf. 33).
+
+“The very first principle of the Free Church for church polity is accordingly this, that the Christian church consists of free, independent, and self-governing congregations” (35).
+
+All this is comprised in the formal principle of Congregationalism:
+
+“The Word of God in Scriptures is designed to furnish, and actually does furnish, the sole objective authority, not only for the doctrines, but also for the constitution, worship, and discipline, of the Christian church.” (Ladd 38).
+
+“It is a principle of congregationalism, that the Scriptures are the only infallible guide in matters of church order and discipline.” (Punchard 19).
+
+Or, as the Declaration of the English Congregationalists of 1833 says:
+
+“They believe that the New Testament contains, either in the form of express statute, or in the example and practice of apostles and apostolic churches, all the articles of faith necessary to be believed, and all the principles of order and discipline requisite for constituting and governing Christian societies; and that human traditions fathers and councils, canons and creeds, possess no authority over the faith and practice of Christians.”
+
+We now understand why S., in a newspaper discussion with Dr. Kildahl, could say: “God and His Son and His Spirit are entirely omitted from Kildahl’s consideration of church polity” (Veiledning 159).
+
+For S. and D. the question of church polity was a fundamental question: church polity had to be derived from Scripture just as truly as doctrine. Not so for Schmidt and Kildahl. And not so for the great majority in the Lutheran church, as is illuminated in the following citation from one of the newest works in theology. After having set forth the Catholic church’s conception of divine right, the author says:
+
+“According to the evangelical conception there is no divine right (church law). The Bible is a source only for faith, not for law. The Symbols are confessional writings, not law-books. For Luther, Christ was no ‘jurist or ruler in outward matters.’ The Lutheran confessional writings do indeed contain a series of thoughts that have become determinative for later legal formations, yet they are nevertheless not sources of law.
+
+“Somewhat otherwise it is with the Reformed church, insofar as it has seen itself occasioned to adopt the apostolic congregational order. But it too rejects the Roman juridical conception.”
+
+We have now made it clear that principle 1 is a constitutional principle: it is not a dogmatic principle. As a constitutional principle it belongs to ethics, and as applied ethics to polity. If one wants the dogmatic side of the congregation, one can find it treated, for example, in Sverdrup’s “Dogmatic paragraphs on the congregation” (S. S. VI.)
+
+Dogmatics sets forth chiefly what God does, His work; ethics, what the human being does, his activity.
+
+Dogmatics presents the congregation as the work of the Spirit, furnished with means of grace and gifts of grace.
+Ethics presents the congregation as a gathering of people who know the conditions of salvation, proclaim the Kingdom of God, and labor for its advancement among themselves and others. Therefore it also treats the church’s ministry, organization, relation to the state, tasks, and so forth.
+
+Dogmatics presents the congregation as a gift from God; ethics presents it as a task: God’s gifts become our tasks; He gives the power to resolve them, He uses us as His organs.
+
+Ethics also treats church polity, but more from an abstract standpoint. A parallel discipline to ethics is practical theology; it applies theological knowledge to practical life, as we live it in experience. Church polity is one of the special branches of practical theology and treats—both theoretically and practically, historically and systematically—the area peculiar to it, which ethics, so to speak, only brushes upon.
+
+Leading Principles are throughout principles (or fundamental propositions) for church polity. They are principles, not task. They do not concern the personality, but they concern the society. They are not an ideal. They do not set forth an unrealizable demand.
+
+Schild indeed says: “If the same principles did not demand more than what we could carry out, then they would not be Christian.”
+
+An astonishing proposition about what Christian principles demand.
+
+Thus perhaps Søren Kierkegaard might have spoken—the spokesman of paradox and of life-hostile asceticism, he who called himself a police talent and an angel of accusation, and thought he was appointed to point out what Christianity required and to maintain that there was no one who could fulfill its demands. For K. Christianity was something so exacting that he did not confess himself to be a Christian.
+
+Thus perhaps Bjørnstjerne Bjørnson too might have spoken, when he was working on his drama Over Evne, where—in another spirit than Kierkegaard’s—he sought to show that Christianity is beyond one’s power: its demands cannot be satisfied, its ideals cannot be realized.
+
+But thus it ought not to be spoken where one wishes to preach evangelical Lutheran Christianity, even if one makes a principle identical with a demand or an ideal.
+
+The highest ideals we possess come from Christianity. The ideals of the ancient world were poor; it did not take much to realize them. Its “god” could not help; for he was so infinitely far away. But the ideals of Christianity lie in the distance. Much is required to realize them. But then the Christian’s God is always near. He gives the power to realize even the highest Christian ideal.
+
+The farther away the ideals are, the more exertion is needed in order to attain them (activity). The nearer God is, the more receptivity there is for Him and His gifts (receptivity). He gives us what He requires. And the highest thing that He requires is evangelical perfection (Matt. 5:48, not the Law’s). He gives us this perfection (Phil. 3:14, 15: “Let us then, as many as be perfect...”)
+
+The doctrine of Scripture concerning this highest goal or ideal we also find in the Augsburg Confession, art. 27, 12:
+
+“Christian perfection consists in this: earnestly to fear God, and yet at the same time to set one’s whole confidence in Him, and on account of Christ to trust that we have a reconciled God; to pray to God for help and confidently expect it from Him in all that, according to one’s calling, one has to do; and besides this, in one’s outward conduct, unweariedly to do good works and take heed to one’s calling. In this consists true perfection and true worship of God.”
+
+By Christian perfection is not meant sinlessness, nor that one is “finished.” But according to Scripture the predicate perfect belongs to the one who has the moral quality that God wills him to have. The Christian strives to make faith and love a firm constituent part of his spiritual life, so that they determine what he does and what he is.
+
+One of the great figures in the realm of Christian thought has said: “The highest ideal of life is Christian perfection. It is a goal that is not otherworldly, but which can be understood and realized here on earth.”
+
+It is precisely the Christian ideals that can be realized.
+
+There is also an otherworldly “goal.” It is not thought to be realized on earth. But it shall be realized there where it is appointed to be realized, when we “see Him as He is” and when the Son “delivers the kingdom to God the Father” (1 Cor. 15:24). There is another order there than in the Christian economy on earth, where we may say: By the grace of God I am what I am (1 Cor. 15:10); I can do all things in Christ who makes me strong. Or: by the grace of God it is possible to keep one’s baptismal covenant.
+
+He who is a Christian must fight. Luther said, “A Christian is not one who has become [a Christian] (nicht im Wordensein), but one who is becoming [a Christian] (im Werden) Christian. He who is a Christian is no Christian.” Or, as Chrysostom said: “To be perfect is: not to think oneself perfect.” Or, as others have expressed it: “The Christian’s perfection consists in this, that he is always conscious of his imperfection.” The more the Christian life increases, the more one comes to know one’s own imperfection; but the more one also learns to know grace, that God does not require more than He gives.
+
+It is possible that this sounds strange to our ears, but it is nothing new—at any rate not new for a man such as, for example, Gustav Jensen, who in his book Fra Menighedsforsamlingen says of Matt. 5:43–48, Be ye perfect:
+
+“He (Jesus) does not hesitate to set before them the highest goal that it is possible at all to set... A father does not lay before his children what is impossible and unattainable, and when your heavenly Father wills that His children should strive after the highest, then it is because He, as Father, wills to help them attain it. Therefore we also see in the New Testament that the Lord Himself and His apostles often speak of perfection, and indeed of a perfection which already here, according to its basic features, can be attained by His Holy Spirit... Be seized by Christ, and then be among those who press after it... And you shall surely advance in that perfection which can be attained here on earth under the grace of the forgiveness of sins, and when the time comes, win the prize.”
+
+This therefore holds with respect to an ideal, a goal (S. would presumably say: a principle) which Jesus Himself has set forth as “the highest goal that it is possible at all to set.” Leading Lutheran men proclaim that it is attainable here on earth. But then Gynild comes and proclaims that Leading Principles (which are not at all ideals of life and which, besides, were composed by sons of the nineteenth century) are Christian in so high a degree that they demand more than we can carry out: “If the same principles did not demand more than what we could carry out, then they would not be Christian.”
+
+If some solitary schoolmaster had constructed something of that sort, I should have remained silent. But when a pastor, who time and again has been chairman of the Free Church, comes forth with something like this in print, then it is right to go against such an assertion.
+
+Leading Principles are not demands, are not ideals. They are principles.
+
+What is a principle?
+
+The word principle is used in very different senses. In philosophy—which, to use a Gynildian word, the “learned fools” must now and then condescend to concern themselves a little with—principle means: highest concept, supreme proposition, law, axiom, explanatory ground, point of departure. A favorite definition of philosophy is the science of principles.
+
+In the science of religion, principle means the conception of the fundamental impulse or fundamental power that lies behind the individual psychological expressions of life and facts.
+
+In historical psychology, “principle” is applied to a totality determined by certain interests, for example in the analysis of an individual, the character of a people, a section of culture. Here principle can be paraphrased by words such as national spirit, spirit of the age, essence, fundamental view, fundamental idea, idea, and so forth.
+
+The psychological conception of religion sees in “principle” not ready-made propositions, but a fundamental disposition of the soul: the principle is the point of unity behind consciousness.
+
+(To be continued.)

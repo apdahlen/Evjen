@@ -1,0 +1,288 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "Stillingen" can mean position, stance, situation, or posture; here it carries the sense of ecclesial/theological position rather than merely an office or job.
+* "Frikirken" is not a generic “free church” in the abstract, but the proper denominational context of The Lutheran Free Church; translation choices must preserve that institutional specificity.
+* "nylutherdommens kirkebegreb" and "Lundteologiens kirkebegrep" refer to a specific neo-Lutheran/Lund theological conception of the Church, not merely a vague “church view.”
+* "naademidlerne" is doctrinally precise: “means of grace,” not simply “gracious gifts” or “religious rites.”
+* "troesliv" denotes the life of faith, with devotional and theological resonance.
+* "ordnet vei" means by proper/ordered ecclesial procedure, not merely “in an orderly way.”
+* "lægfolkets religiøse (ikke formelle) likestilling" requires careful distinction: religious equality, not formal or official equality.
+* "det almindelige prestedømmes princip" is the doctrine/principle of the universal priesthood or priesthood of all believers; it must not be diluted.
+* "tapte koncepterne" is idiomatic, roughly “lost their heads” or “lost all sense,” not literally “lost the concepts.”
+* "komme ... i ryggen" means to go after, attack, or undermine.
+* "de reaktionæres ærender" means it served the reactionaries’ cause or agenda.
+* "utaandet" is a sharp adjective meaning vapid, spiritless, stale, not literally “out-breathed.”
+* "gradskrift" appears in context as ironic/journalistic wording meaning a sort of commendatory notation or superscription; the irony must be preserved.
+* "at staa i pagt med sandheten" means to stand in accord with truth.
+* "tilintetgjøre" is strong: annihilate, nullify, make void.
+* "romaniserende embedsbegrep" means a Romanizing concept of office/ministry, carrying anti-hierarchical Lutheran polemical force.
+* "famlet" suggests groped, fumbled, handled uncertainly.
+* "ordinatoren" is the officiant in ordination, not a permanent title in English.
+* "i urede" means in disorder, still astray, still in confusion.
+* "haandspaaleggelsen" is laying on of hands, a standard biblical-ecclesial expression.
+* "mislydet" appears to mean misrepresented, misconstrued, or interpreted wrongly in context.
+* "fattigforstanderne" refers to overseers of the poor/poor-relief administrators, an older church-social office.
+* "stivortodokse" is polemical: rigidly orthodox or stiffly orthodox.
+* "tilstemmer vi av ganske hjerte" means “we assent with our whole heart,” not the weaker “we generally agree.”
+* "partikularkirken" refers to the particular church, a doctrinal/ecclesiological category.
+* "hensigtsmæssighedsspørsmaal" means a matter of expediency/practical convenience.
+* "rikets rette form" means the proper form of the Kingdom.
+* "punkt 3" presumes prior internal debate; it must remain literal, with no interpretive expansion inside the translation.
+* "jernkonsekvent" means iron-consistent, relentlessly consistent.
+* "motbør" and "medbør" are metaphorical: headwind and following wind, opposition and support.
+* "naadegaven" is gift of grace/spiritual gift; context favors “gift of grace” only if the theological force remains clear.
+* "belæsthet" means wide reading/learnedness.
+* "redeeming qualifications" appears already in English and should remain so as a deliberate rhetorical insertion.
+* "ute paa vidderne" is idiomatic: out on the open stretches/out in the wide fields of experience; metaphorical breadth matters.
+* "taaket tale" means foggy speech, vague speech.
+* "sværmeri" is not simple enthusiasm; in Lutheran polemics it means fanaticism/enthusiasm in the pejorative sense.
+* "forfatningslitteraturen" here means literature on church polity/constitution, not political constitutional theory in the state sense.
+* "slegtsleds" means generations’.
+
+Syntactic Hazards
+
+* The prose relies on long, cumulative argumentative sentences with semicolon pivots and layered subordinate clauses; breaking them into short modern English sentences would flatten the reasoning.
+* Parenthetical insertions and appositional naming carry polemical weight and documentary precision.
+* Quoted theological formulations are embedded inside the author’s argument and must remain visibly distinct.
+* Rhetorical questions function as accusations or pressure points, not requests for information.
+* Repetition of "Aabenbart" (“Evidently”) creates cadence and prosecutorial force; it should be retained.
+* The text alternates between narration of events, doctrinal argument, irony, and polemic without explicit transitions; translation must preserve those abrupt but purposeful shifts.
+* Footnote material has its own argumentative rhythm and ironic punch; it cannot be reduced to neutral explanatory prose.
+* Enumerated argument (“3.”) indicates continuation within a larger serialized polemic and should remain intact.
+
+Theological Hazards
+
+* The relation of congregation, ministry, ordination, means of grace, and divine institution is the central doctrinal dispute; any vagueness here will distort the whole passage.
+* The universal priesthood must remain clearly distinct from formal ministerial office.
+* "Means of grace" must remain a technical doctrinal term.
+* The distinction between divine ordinance and apostolic-ecclesiastical institution is crucial in the Missouri quotation and in the author’s own argument.
+* The question whether ordination confers ministerial power is treated as a live Lutheran-Romanizing controversy.
+* The author’s critique of a “Romanizing” office-concept must retain its confessional sharpness.
+* References to the Church, the holy catholic Church, local congregation, particular church, and Kingdom of God must be carefully distinguished.
+* "naadegaven" in relation to interpretation of principles carries ecclesial and spiritual implications, not merely intellectual competence.
+* The contrast between inward regenerated personality and outward maturity/reading/formation is theological and anthropological, not merely educational.
+
+Voice Hazards
+
+* The tone is sardonic, combative, learned, and deeply invested in confessional precision; over-smoothing would erase the author’s edge.
+* Irony such as “skjebnens ironi,” “et værdig, varig salt,” and comments on parliamentary absurdity must remain dry and cutting rather than comic in a light modern sense.
+* The author writes with prosecutorial persistence, especially in sequences beginning with “Aabenbart”; this must not be softened.
+* The style assumes the reader’s accountability and expects serious doctrinal judgment.
+* The voice can pivot from documentary citation to scorn to earnest confession of principle; these shifts are part of the rhetorical authority.
+* The prose is sermonic-polemical rather than merely academic; preserving cadence and moral pressure is essential.
+
+STEP 2: IDIOM ANALYSIS
+
+* "skjebnens ironi" = “the irony of fate.” It is used rhetorically, not metaphysically, to underscore the contradiction that the Free Church still harbors a church-concept its own principle negates.
+* "tapte koncepterne" = “lost their heads” or “lost all grasp of things.” Literal translation would sound awkward and obscure the author’s contempt.
+* "komme ... i ryggen" = to go after someone, get at them from behind, attack them. Here it conveys coordinated opposition to the ordination articles and their authors.
+* "gjort sin virkning" = “done its work” / “had its effect.” In context the phrase is sarcastically repeated; the author mocks the vague praise used to suppress publication.
+* "staa i pagt med sandheten" = stand in covenant/accord with the truth. “In harmony with the truth” is serviceable, but “in accord with the truth” better preserves solemnity.
+* "i urede" = in disorder, in confusion, out of joint. Here it means the church is still unsettled on the question.
+* "gik det rundt for" = did someone’s head spin? did they lose their bearings? The author uses it to mock procedural confusion.
+* "av ganske hjerte" = with all one’s heart / wholeheartedly. The phrase bears biblical-devotional resonance and should not be weakened.
+* "saa fri" = so free. In context it means doctrinally free from hierarchical sacramentalism; it should remain literal because of confessional polemical force.
+* "jernkonsekvent" = iron-consistent. The metaphor matters because it praises severe consistency.
+* "motbør" / "medbør" = headwind / fair wind. These are natural English equivalents and preserve the directional metaphor of resistance versus support.
+* "taaket tale" = foggy speech. A literal rendering works and preserves the criticism of vagueness.
+* "ute paa vidderne" = out on the wide expanses. The sense is broader experience beyond Augsburg’s confines; a slightly idiomatic English rendering is needed to avoid geographic flatness.
+* "ta i skole" = to take to school, school, lecture, put in one’s place pedagogically. It carries irony and should remain colloquial enough to sting.
+* "det skjæreste sværmeri" = the purest fanaticism/enthusiasm. In Lutheran theological vocabulary, “enthusiasm” can work because of its anti-Schwärmerei resonance, but “fanaticism” may better convey modern force. Context favors “the purest fanaticism,” with awareness of the theological polemic behind it.
+
+Biblical allusions and pietistic expressions
+
+* "det almindelige prestedømme" echoes 1 Peter 2:9 and Revelation 1:6 / 5:10 in Lutheran usage. English equivalent: “the universal priesthood” or “the priesthood of all believers.”
+* "naademidlerne" resonates with Lutheran sacramental theology; “means of grace” is the standard equivalent.
+* "den Helligaand" and the cited texts from Acts and Timothy require standard biblical phrasing in English.
+* "forbønnen" = intercession; this has biblical and liturgical resonance.
+* "ret og kald" = right and call, a vocation-laden phrase in church life.
+* "naadegaven" = spiritual gift/gift of grace, echoing Pauline charisma-language.
+* "den gjenfødte personlighet" = the regenerate personality/person. This is pietistic and anthropological language that should not be flattened into “personal faith.”
+
+Where the King James Bible offers a natural equivalent
+
+* "laying on of hands"
+* "the Holy Spirit"
+* "prayed with laying on of hands"
+* "preached the word"
+* "right and call" has an older ecclesial dignity, though not a direct biblical formula.
+
+Expressions where literal translation would obscure force
+
+* "tapte koncepterne"
+* "komme ... i ryggen"
+* "gjort sin virkning"
+* "gik det rundt for ..."
+* "ute paa vidderne"
+* "ta i skole"
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis in this installment: It is remarkable and deeply contradictory that many in the Free Church still hold a neo-Lutheran/Lund conception of the Church at odds with the church principles associated with Augsburg and Sverdrup.
+* Supporting claim 1: Lund theology taught that the means of grace and an office divinely instituted for their administration are the source of congregational faith-life, and that unauthorized administration violates divine order.
+* Supporting claim 2: Principle no. 2, central to Birkeland’s and the author’s earlier articles, contradicts that view by stressing the religious equality of laity and clergy on the basis of the universal priesthood.
+* Supporting claim 3: Institutional reaction against those articles was panicked, coordinated, and theologically reactionary.
+* Supporting claim 4: Annual meeting decisions cannot destroy the truth of the articles, because their content was biblical and Lutheran.
+* Supporting claim 5: Sverdrup’s own writings explicitly taught that ordination is not a priestly matter but a congregational Christian act, performed jointly by congregations for reasons of expediency.
+* Supporting claim 6: Therefore, those who accused Augsburg of teaching a “new” doctrine of ordination were historically and doctrinally mistaken.
+* Supporting claim 7: The laying on of hands does not in itself confer ministerial power; this is supported by Sverdrup’s earlier appeal to Acts and the Pastoral Epistles.
+* Supporting claim 8: Even the rigid Missouri Synod teaches that the call of the congregation constitutes ministers and that ordination is not essential to validity of office.
+* Transitional pivot: The author shifts from ordination to a broader critique of the editorial article “Church and the Churches,” which approvingly excerpted H. E. Jacobs.
+* Supporting claim 9: Jacobs’s ecclesiology belongs to the General Council tradition and diverges sharply from Augsburg’s principles regarding doctrine, local congregation, church polity, and divinely instituted office.
+* Supporting claim 10: The editorial endorsement therefore reveals deep difficulty in steering by principle no. 1.
+* Supporting claim 11: Birkeland is justified in asking whether Folkebladet is against Augsburg, meaning against the original teachers who framed the principles.
+* Supporting claim 12: Many profess the principles while interpreting them differently; but only one interpretation can be correct.
+* Supporting claim 13: Laypeople do have the right and call to interpret God’s Word, yet the right to speak publicly on the principles is conditioned by calling, spiritual gift, maturity, wide reading, and demonstrated understanding.
+* Supporting claim 14: Birkeland has shown stronger qualifications for interpreting the principles than the editors, through experience, reading, production, originality, and consistency.
+* Concluding thrust: The editorial preference for unschooled lay judgment over informed engagement with church-polity literature is compared to fanatical anti-intellectualism; the author closes by noting the irony that many ordinary laypeople understand the principles better than some Augsburg men themselves.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "the universal priesthood" likely echoes 1 Peter 2:9 and Revelation 1:6 / 5:10.
+* Acts 8:17 is explicitly cited regarding laying on of hands accompanying prayer for the Holy Spirit.
+* Acts 13:3 is explicitly cited regarding the congregation in Antioch praying with laying on of hands for Paul and Barnabas before missionary sending.
+* 1 Timothy 4:14 is explicitly cited regarding Timothy and laying on of hands.
+* 2 Timothy 1:6 is explicitly cited, again in relation to Timothy and laying on of hands.
+* "preached the word" echoes common New Testament proclamation language.
+* "gift of grace" / "spiritual gift" echoes Pauline charisma language, especially Romans 12, 1 Corinthians 12, 1 Timothy 4:14, 2 Timothy 1:6.
+* "the holy catholic Church" is an ecumenical-creedal echo rather than a direct biblical quotation.
+* "the Kingdom of God has many forms" is not a biblical quotation but invokes the New Testament kingdom theme.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation preserves the author’s severity toward theological inconsistency, especially where he names reaction, confusion, and editorial misjudgment.
+* Sarcasm is retained in comments about “the irony of fate,” the statement that the resolution had “done its work,” the “worthy, enduring salt,” and the procedural absurdities in the footnote.
+* Doctrinal assertions are kept sharp and unsoftened, especially in the rejection of a Romanizing concept of office and in the insistence that only one interpretation of the principles can be right.
+* Rhetorical questions remain interrogative and accusatory rather than being recast as assertions.
+* The final comparison to Luther’s colleague and to fanaticism is preserved in full polemical force.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "har ingen ret" is rendered strongly as “has no right,” not “is not supposed.”
+* "skulde være bestemmende" is rendered as “was to be determinative,” preserving irony and force.
+* "kun én fortolkning kan være den rette" remains “only one interpretation can be the right one.”
+* "skal de ha ret og bør de ja adgang" keeps both the stronger and weaker modal layers: “they should have the right and indeed ought to have access.”
+* "maa det være saa" remains “it must be so.”
+* "maa vel" is usually rendered with inferential force: “must surely” or “must well.”
+* "kunde disponere" in the footnote is rendered plainly as ability/right: “could dispose of.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "menighet" = congregation
+* "lokalmenigheten" = local congregation
+* "kirke" = Church/church according to whether the doctrinal category or generic/institutional reference is intended
+* "naademidler" = means of grace
+* "troesliv" = life of faith
+* "embede" / "embedsbegrep" = office / concept of office
+* "det almindelige prestedømme" = the universal priesthood
+* "ordination" = ordination
+* "haandspaaleggelse" = laying on of hands
+* "forbøn" = intercession
+* "naadegave" = gift of grace / spiritual gift (context-sensitive but stable in theological sense)
+* "gjenfødt" = regenerate
+* "Guds rike" = the Kingdom of God
+* "den hellige almindelige kirke" = the holy catholic Church
+* "Ledende principer" = Guiding Principles
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "source" and "fountainhead" imagery around the means of grace is preserved as theological causality.
+* "headwind" and "fair wind" retain the movement metaphor of resistance and support.
+* "foggy speech" preserves the image of obscurity.
+* "out on the wide expanses" preserves Birkeland’s breadth of experience as spatial metaphor.
+* "held both surely and steadily pointed in the right direction" preserves the firearm/directional metaphor around interpretive aim.
+* "shot beyond the mark" is retained because it is already native to English and matches the original image.
+* "history’s commentary on Scripture’s doctrine" preserves the layered metaphor of history interpreting doctrine.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The translation preserves contrast between documentary quotation and polemical commentary.
+* It retains shifts from irony to sober confession (“for my own part I will say…”).
+* It keeps the mixture of acknowledgment and criticism when discussing laity, editors, and Birkeland.
+* It preserves the movement from doctrinal dispute over ordination to broader ecclesiological criticism.
+* It ends not with consolation but with sharpened irony and challenge.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long argumentative periods are preserved where the Norwegian clearly accumulates force by sequence.
+* Repeated sentence-openers such as “Evidently” and “With respect to” are retained to sustain spoken cadence.
+* Semicolons are used where they help preserve sermonic-polemical pacing.
+* Parentheses and dashes are retained where they contribute to spoken pressure or tonal turn.
+* Questions are left in direct form so that the oral challenge remains audible.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Installment 10: “Folkebladet,” May 15, 1918
+
+The Position.
+(J. O. Evjen.)
+
+(Continued.)
+
+It is remarkable that there are not a few in the Free Church who still adhere to neo-Lutheranism’s concept of the Church, as it was maintained by the once powerful theological faculty in Lund, Sweden—by such men as Professors Flensburg, Reuterdahl, Sundberg, Billing. In contrast to what Sverdrup taught in “Dogmatiske paragrafer” (S. S. VI), the Lund professors maintained that “the administration of the means of grace is not a product of the congregation’s life of faith, but rather its source; it is the Lord’s own institution. The Lord has not only ordered their function, but together with them an office for their administration, and the one who has not received this office by the ordered way has no right to administer the means of grace. If he does so, he breaks not only a human, but a divine order.”
+
+Is it “the irony of fate” that this—the so-called “Lundensian church-concept,” over which there has been so much strife in Sweden, and which a portion of the Swedish Augustana Synod bequeathed to the Conference—still is upheld in the Free Church, whose principle no. 2 is to a great extent a negation of Lund theology’s concept of the Church?
+
+Principle no. 2—that was the core of Birkeland’s articles and mine. These articles emphasized the religious (not formal) equality of the laity with the pastors, grounded in the principle of the universal priesthood. For most laypeople this was self-evident. But for a portion of the pastors it made their heads spin. The Board of Home Missions lost its head to such a degree that it connected a young pastor’s “fall” with these articles and with their authors’ influence upon the students at Augsburg. A half-secret meeting of several pastors—local and out-of-town—had been held in Minneapolis in order to go after the ordination articles, and naturally their authors, from the rear. The result was a declaration that was read before the meeting in Fargo. It served the reactionaries’ cause, was spiritless, and received the ambiguous superscription: it had “done its work.” A pity it did not get to stand in the annual report as a worthy, enduring salt.*)
+
+But to what end is it to contend over who it was that won? It is of very little significance to establish who the victors were. He who stands in accord with the truth is the victor, even if outwardly he suffers defeat. With that both parties may comfort themselves. For my own part I will say that no annual meeting decision can nullify the truth in these articles, which were both biblical and Lutheran.
+
+These articles combated the neo-Lutheran, Romanizing concept of office, which the new direction had always combated. Among other things, they showed indirectly that the annual meetings in Brainerd and Marinette had fumbled in regard to ordination. And directly they reproduced the genuinely Lutheran doctrine, which has never been foreign to Augsburg.
+
+For in 1895 Sverdrup wrote that ordination was not “a priestly matter,” not “an act of the gathered priesthood, but a Christian act, which can be performed by any congregation” (Veiledning 27); that it was “a congregational act, which only for reasons of expediency is carried out by several congregations in common” (25).
+
+Evidently not very many at the annual meeting in Marinette were aware of these statements, where it was said that at Augsburg a new doctrine of ordination was being advanced. Evidently the officiant at the annual meeting in Brainerd regarded ordination as a priestly matter, since he set aside two laymen (whom the meeting had elected to assist the officiant and a couple of other pastors) and on his own authority appointed two pastors to function in their place. Evidently one is still in confusion. A layman recently asked whether ordination would lose anything of its force if several laypeople were to take part in the laying on of hands. The answer he received was that Sverdrup, to be sure, was a layman, but he was never present in ordaining anyone. Thus: what S. did or did not do was to be determinative for ecclesiastical practice in generations to come!
+
+With respect to the laying on of hands itself—well, it was not misconstrued in our articles. Our view of it was by no means foreign to Augsburg. As early as 1875 Sverdrup felt prompted to write the following, supported by Richard Rothe’s work, “Die Anfänge der chr. Kirche und ihrer Verfassung,” 160f. (S. has underlined important places in this work concerning polity):
+
+“Not a single ordination in our sense of the word is the laying on of hands in the apostolic Church, as clearly appears from Acts 8:17, where the laying on of hands accompanies the prayer over all the baptized, that they might receive the Holy Spirit—from Acts 13:3, where the congregation in Antioch prays with laying on of hands for Paul and Barnabas, who are sent out to the work of missions, after they have already long preached the word—and from 1 Tim. 4:14 and 2 Tim. 1:6, according to which it is at any rate highly probable that Timothy twice received laying on of hands without its ever being said that by this he received any power of office. In the same way we also understand the laying on of hands here, where there is mention of the overseers of the poor, as a special direction of the intercession toward the individual.” (Samlede Skrifter I, 92).
+
+*) On Professor Helland’s proposal it had been decided that the declaration should be printed in the annual report. I signed the proposal (several did). It was adopted. At a later session two pastors proposed “that this decision be reconsidered, and that it be recommended to the signatories that they permit this to take place. We ground this on the fact that this resolution has already done its work...”
+
+This proposal was not in order, insofar as it recommended to the signatories (Pastor Caspersen, etc.) that they grant permission for reconsideration. The declaration was, after all, the property of the meeting. It could dispose of the property as it wished, without asking any of the signatories’ advice. The comic thing was that a couple of the signatories, at the chairman’s inquiry, rose and gave their “permission.” Did the chairman lose his bearings, or the movers, or the signatories—or all of them? A peculiar parliamentarian, very considerate besides.
+
+Even the great German stiffly orthodox Missouri Synod, on which the Free Church has not lavished many words of praise, is so free that it teaches:
+
+“It is the call of the congregation that constitutes ministers, and actually confers the ministerial office. Ordination is not a divine ordinance, but an apostolic-ecclesiastical institution. It does not confer the ministry, as Papists and Romanizing Protestants assert, but it is only a public testimony and confirmation of the call. Ordination is not essential to the validity of the ministerial office.”
+
+I do not know what the editor teaches about ordination, but I think the annual meeting got the understanding that he would not agree that Augsburg had the view of ordination that B. and I had maintained.
+
+3. Birkeland also has, it seems to me, good reason to place himself both questioningly and critically over against the editorial article “Church and the Churches,” an extract from the Lutheran’s reproduction of Dr. H. E. Jacobs’s article in “Constructive Quarterly.”
+
+For many years I have known Jacobs’s concept of the Church. It is that of the General Council, concerning which in the East there has been strife for more than fifty years and of whose principle Østedal wrote: it “is very far from Augsburg’s.” I was therefore painfully surprised when I saw Folkebladet’s editorial article “Church and the Churches,” and most of all when I read the editorial board’s assent to the quotations from Jacobs: “What is said here, we assent to with our whole heart in the Lutheran Free Church.”
+
+No one can write thus who knows Jacobs, and who in more than a merely formal sense is in agreement with the Guiding Principles.
+
+For with Dr. Jacobs doctrine is decisive in the church question. It is determinative for the boundaries of the confessional church and the particular church. The question of organization is for Jacobs merely and simply a question of expediency. The local congregation is to him no more divine than a church body; it is not the Kingdom’s proper form, for the Kingdom of God has many forms. Jacobs is also an eager spokesman for what we call “point 3.” He believes in the divine institution of the office, and finds the representative system in the New Testament. It was Jacobs’s view of the particular church that prevented the English Lutheran General Synod (1,400 pastors) from getting a seat in the proposed general Lutheran conference in Philadelphia, because it (the Synod) did not accept the whole Book of Concord! I have written a couple of pamphlets in English about this. It takes a great deal of imagination to make Jacobs’s concept of the Church harmonize with the Free Church’s. And nevertheless—the editorial board assents “with its whole heart” to the Lutheran’s extract of Jacobs’s article. I suppose the editorial board intended by its article “The Church and the Churches” to emphasize the whole Christian congregation—and that may be needed. But the whole Christian congregation, according to the Augsburg principle, exists only in the form of individual congregations, not as individuals. And this emphasis on the whole Christian congregation becomes nothing other than what Dr. Schmidt emphasized, and which called forth S. and O.’s disapproval. In the light of this, and of what we have maintained concerning the principles, and of much else that we have not expressly cited—for example S. S. II, 222 and Veiledning 36–38—we see how difficult it is for the editorial board to steer by principle no. 1. We will see it even more if, for example, we should adopt the definition of the Church given by the late missionary pastor and professor Johs. Johnson.
+
+In a lecture, 1915, Johnson says: “The Church is the common name for all the activity that the name of Jesus releases. From the most stiff-legged institution to the most unchurchly private endeavor to make God the center of human life.” An appealing definition—but very far from the one that “stands in harmony with Augsburg’s past.”
+
+With these things before our eyes—and I could mention many others—it seems to me that Birkeland, who has been almost iron-consistent in his interpretation of the principles, has reason to ask, Is Folkebladet against Augsburg? By this question he has hardly meant to say that the one who thinks otherwise than the principles thinks unbiblically. But he has certainly meant to establish that only one authentic interpretation of the principles is possible, and that this interpretation in recent times has received headwind rather than fair wind in Folkebladet’s editorial articles.
+
+By “Augsburg” B. must surely mean the old teachers who framed the principles. For now, it is evidently very different with the interpretation of the principles at Augsburg. Some think that principle no. 1 concerns the local congregation. Some teach that it concerns the holy catholic Church. And some perhaps take the golden middle way and think that it concerns both.
+
+The same difference of opinion meets us also among the pastors.
+
+What applies to the different interpretations of principle no. 1 can also apply to the other principles. One solemnly professes them, and yet has different interpretations of them. But only one interpretation can be the right one. Now, according to the editorial board, the laity has “the right and call to interpret the Word of God,” and therefore they should have the right and indeed ought to have access to express themselves concerning the principles—in Folkebladet. The editorial board understands Birkeland’s interpretation and mine as dictatorship and absolutism—and wishes to hear from the laity. But:
+
+The editorial board heard from the laity at the last annual meeting, but did not hear well enough—so thought Fostervold.
+
+With respect to the right and the call, it must be so that the right is conditioned by the call, and the call by the gift of grace. But is the gift of grace that enables one to interpret the Guiding Principles the possession of all? Might it not be that those who have shown that they possess something of this gift are more qualified for this interpretation than those who have displayed only a superficial acquaintance with them?
+
+If the principles are an intellectual deduction from the Word, then surely those who have thought most about them and have applied themselves most to understand them in the light of Scripture and church-historical development must be the more entitled to interpret them.
+
+Now everyone does indeed have the right to have his opinion about the principles. Birkeland has it. The editorial board has it. A fourteen-year-old confirmand has it too. But I will not say that the fourteen-year-old has a call and therefore the right to write in Folkebladet about Guiding Principles as, for example, Birkeland and the editorial board do. Something does depend upon the regenerate personality—and that is true. But it depends likewise upon maturity, wide reading, and much else besides. Or has the twentieth century done away with the difference in gifts of grace?
+
+With respect to B. and the editorial board, it seems to me that B. has furnished quite different and much more reassuring guarantees for the understanding of the principles than the editorial board has done. To be sure, the editorial board has been professor and student at Augsburg for more than a generation of man. I mention this because the editorial board ascribes to seniority and locality a certain special value. But Birkeland, for his part, is not without redeeming qualifications.
+
+Birkeland too, after all, has been at Augsburg—but likewise out on the wide expanses—both here in this country and in distant lands. He has kept his eyes open, reaped profit from his association with many church-historically significant personalities also outside Augsburg’s narrow walls. He has read much ecclesiastical literature and produced much that entitles him to be heard in the ecclesiastical sphere at least as much as any of his opponents. There is path and originality in what he writes. No compromise-making. No foggy speech. But straight-lined thoughts and a firm grasp. With respect to the interpretation of the principles, he has had both surely and steadily pointed in the right direction. If he has at times shot beyond the mark—and who does not do that?—he has nevertheless held the direction.
+
+But now the editorial board has taken Birkeland to school. And me as well. And those poor “learned works” on polity, which are to yield place to the unschooled layman’s judgment! How this reminds one of that colleague of Luther who left his professorship in Wittenberg, took his Bible to the unlearned peasants, and asked them to interpret it for him, since he thought that theological learning was a hindrance to the Spirit! Flattering for the peasants, but the purest fanaticism for Luther, who was not dualistic in his conception of Christianity.
+
+It is precisely for men like the editor that I have again and again referred to the literature of polity, history’s commentary on Scripture’s doctrine of the universal priesthood, the foundation of the Guiding Principles. There lies documented in this literature the thinking and experience of many generations, from which the editorial board takes a lofty distance, and of which his writing betrays so little knowledge.
+
+There are many who understand the Guiding Principles without having specialized in polity literature. Laypeople especially, Norwegian academics as well. But how difficult it proves for a portion of the Augsburg men to understand them! Is it because Augsburg has not been able to give them enough light, or does the fault lie in themselves? (To be concluded.)
+
+Source file: fileciteturn0file0

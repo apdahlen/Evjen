@@ -1,0 +1,276 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* stillingen: not merely “the position” in a casual sense; here it carries the sense of ecclesiastical position, stance, or doctrinal-ecclesial alignment.
+* church polity / kirkeforfatning / kirkeret: overlapping but non-identical terms. “Church polity” refers to constitutional/order questions of church structure; “kirkeret” is more specifically “church law”; “kirkeforfatning” is “church constitution/polity.” These must not be flattened into a single English term where distinctions matter.
+* affidavit: the English legal term is already present in the Norwegian text and should remain so.
+* Aaben Erklæring: likely a title and should remain a title rather than be translated literally unless necessary for comprehension.
+* almindelige kirkegjænger: “ordinary churchgoer,” not merely “attendee”; the phrase implies a non-specialist lay hearer.
+* faget: “the discipline/field,” used with irony about theology as an academic specialty.
+* biblicistiske retning / biblicisme: “biblicist tendency” / “biblicism,” not simply “biblical direction.”
+* fødelære: literally “doctrine of birth,” but likely used in a theological sense tied to regeneration/new birth; caution is required.
+* fristelige menighets forfatning: likely “the free congregation’s constitution/polity,” not “tempting congregation.” The form reflects older orthography.
+* naadegaverne: “the gifts of grace” or “charisms”; because the passage explicitly links this to charismatic organization, “gifts of grace” with occasional “charisms” is best.
+* stedsmenigheten: “the local congregation,” not simply “the church.”
+* reformvennerne: “the reform friends/advocates,” best rendered “the reform party” or “the reform advocates” depending on tone.
+* fremstridtet: likely “an advance beyond” or “a development beyond.”
+* misjonsmenigheter: “mission congregations,” not missionary societies.
+* charismatiske organisation / den charismatiske organisation: should retain the technical sense of organization by grace-gifts/charisms.
+* Aandens frihet: “the freedom of the Spirit,” a doctrinally loaded phrase.
+* kirketugt: “church discipline,” not “severity.”
+* den rette form: “the proper form” or “the right form”; doctrinally important.
+* religiøs størrelse / aandelig størrelse: “religious reality/entity” and “spiritual reality/entity,” not “size.”
+* retslig / retselementet / rettens herredømme: all belong to the semantic field of law/juridical order; consistency is essential.
+* hellig almindelige kirke, de helliges samfund: clear echo of the creed; should be rendered with ecclesiastical precision.
+* lægmandsvirksomhet: “lay activity/work,” not casual volunteering.
+* frikirken / frikirkelige ideer: “the Free Church” / “free-church ideas,” not merely “free church” in a generic adjectival sense wherever a specific movement is intended.
+* raadspørre sig: “consult,” with an older formal cast.
+* bærer eller brister: idiomatic alliterative pair meaning “stands or breaks / holds or fails.”
+* indlæg: “contributions” or “arguments/submissions,” depending on context.
+* embedsbegrepet: “the concept of office,” in a theological-ecclesial sense.
+* ad omvei: “by a roundabout way,” preserving the mild irony.
+* paavirkning / influeret: “influence/influenced,” often polemically charged in this context.
+* helliges autonomi: “the autonomy of the saints,” doctrinally exact.
+* maalestok: “standard / measure / rule.”
+* aarsak: “cause,” not merely occasion.
+* principerne / Levende principer: preserve capitalization/titling where it refers to a named or quasi-named set of principles.
+* slegtskapet: “kinship/affinity.”
+* tar ikke i betænkning: idiom meaning “do not hesitate / scruple not.”
+* skraasikker: “cock-sure / utterly certain”; because of register, “fully certain” or “self-assured” may be too weak. “smugly certain” adds too much. “dead certain” may fit tone.
+* den røde traad: “the red thread,” idiomatically “the main thread / connecting thread.”
+* haandsrækning: “helping hand.”
+* adgangstegn: here likely “letter of introduction / token of admission / recommendation.” Context suggests a commendatory introduction.
+* duer: “serves / suffices / will do.”
+* pneumatisk-charismatiske elements: technical theological vocabulary; must remain precise.
+* oldtidens forfatning: “the constitution/order of the ancient church,” not antiquity in general.
+* samfundsdannelse: “formation of community,” specifically ecclesial community formation.
+* bringe Gud ære: “bring God glory/honor”; “glory” is more scripturally resonant.
+* fremmede bestanddele: “alien elements,” not merely foreign components.
+* aandelige tempel bygget av levende stene: direct biblical resonance; preserve imagery exactly.
+* utfoldelse: “unfolding / development / exercise”; here “unfolding” best preserves metaphor.
+* tenderede henimot: “tended toward.”
+* modificere sit syn: “modify his view,” not modernize.
+* konsekvenserne: “the consequences/implications.” Here “implications” is more natural.
+* borgerskap i himmelen: “citizenship in heaven,” clear biblical echo.
+* tilsyne i form av et samfund: “appears in the form of a community.”
+* støtte og hjælp / spærring og hindring: paired expressions that must retain contrast and cadence.
+
+Syntactic Hazards
+
+* The prose uses long accumulative sentences with semicolons, dashes, parentheses, appositions, and quoted formulations. Breaking these into short modern sentences would flatten the polemical and scholarly rhythm.
+* Many clauses move by qualification and correction: the author states a point, narrows it, then contrasts it with another thinker. These pivots must remain explicit.
+* The passage layers citation, paraphrase, and authorial commentary; quotation boundaries must stay clear.
+* Lists of ecclesial forms are deliberately cumulative: “not a local organization, not an organized church body, not a state church, not a confessional church.” This parallelism must be preserved.
+* Parenthetical glosses such as “(church’s organization by the gifts of grace)” and “(pneuma = spirit, charisma = gift of grace)” are integral to the argument and should remain in place.
+* Several sentences hinge on concessive structures: “Granted... yet...” or “Though... nevertheless...” These must not be weakened.
+* The author’s ironic asides depend on careful clause order. Modern smoothing would erase the wit.
+
+Theological Hazards
+
+* The distinction between church as spiritual organism and church as juridically organized body is central and must remain exact.
+* “The freedom of the Spirit” is not emotional spontaneity but anti-juridical ecclesiological principle.
+* “Gifts of grace” are not vague talents; they are spiritually bestowed ecclesial gifts/charisms.
+* “The holy catholic church, the communion of saints” must retain confessional resonance.
+* “Holiness of the congregation” is a doctrinal issue, not moral uplift language.
+* The contrast between visible forms and essential church-being is theological and ecclesiological, not merely institutional.
+* Citations about God’s house, the Lord’s body, and the spiritual temple built of living stones must retain biblical gravity.
+
+Voice Hazards
+
+* The author writes in a learned, combative, ironic, but controlled ecclesiastical prose. Over-modernizing would erase both the polemical edge and the formal dignity.
+* Irony must remain dry rather than sarcastic.
+* The text alternates between explanation, critique, and commendation; this tonal mobility must be preserved.
+* The prose carries a public, essayistic cadence aimed at informed readers, not a private conversational tone.
+
+STEP 2: IDIOM ANALYSIS
+
+* det kommer jo ikke an paa navnet saa meget som paa gavnet: idiom meaning that the name matters less than the benefit or practical usefulness. English equivalent: “it is not so much the name that matters as the use/benefit.” The play between name and gain should be preserved.
+* bærer eller brister: idiom meaning whether something stands or breaks, holds or fails. Literal “bears or bursts” would obscure the argument. Best rendering: “whether Levende principer stands or fails.”
+* ad omvei: “by a roundabout way.” The phrase preserves the author’s amused acknowledgment that consulting church-law literature to learn what the New Testament teaches seems indirect.
+* tar ikke i betænkning at sige: idiomatically “I do not hesitate to say.”
+* ser den røde traad: Scandinavian idiom for discerning the unifying thread. Best rendered “see the thread running through it” or “see the main thread.”
+* en haandsrækning: “a helping hand.”
+* som ikke er for stor paa det: idiomatically someone not too proud for it. Best rendered “for those who are not too proud to accept it.”
+* bringe Gud ære: biblical/devotional phrase meaning “give glory to God.” This has direct scriptural resonance.
+* Guds hus / Herrens legeme / aandelige tempel bygget av levende stene: strong biblical allusions, especially 1 Peter 2 and Pauline church imagery. Literal translation is necessary because the imagery is itself the point.
+* sit borgerskap i himmelen: biblical allusion to Philippians 3:20. The natural English equivalent is “its citizenship is in heaven.” This matches standard English Bible diction without requiring archaic pronouns.
+* de helliges samfund: creedal expression, naturally rendered “the communion of saints.”
+* Guds folk paa jorden, Kristi legeme, den Helligaands gjerning: these are biblical-doctrinal designations. They should remain elevated and direct.
+* støtte og hjælp: in this context, “support and help” is straightforward, though “aid and support” may better preserve cadence.
+* spærring og hindring: “obstruction and hindrance” or “barrier and hindrance.” The pair should remain distinct.
+
+Where the King James Bible offers a natural English equivalent
+
+* “the communion of saints”
+* “citizenship in heaven” is more modern than KJV, but scripturally resonant and accurate.
+* “spiritual temple built of living stones” echoes familiar English biblical phrasing.
+* “God’s people on earth,” “the body of Christ,” “the Holy Spirit’s work” all have natural biblical English equivalents.
+
+Expressions where literal translation would obscure force
+
+* fødelære: literal “birth-doctrine” would confuse modern readers; contextual rendering is needed.
+* bærer eller brister: literal rendering obscures idiomatic meaning.
+* adgangstegn: literal “entry-sign” is misleading; “recommendation” or “letter of introduction” fits better.
+* som ikke er for stor paa det: literal translation would sound odd; the point is humility versus pride.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening clarification: the author insists that the terminology “church polity” and “kirkeforfatning” is not his invention but already present in the literature under discussion.
+* Polemical aside: he rebukes the theologian ignorant of the field while feigning sympathy.
+* Historical-genealogical argument begins: E. and D. are shown to have been influenced by four currents.
+* Third current: J. T. Beck and biblicism. Specific points of affinity are named: local congregation, gifts of grace, and severe judgments on existing churches.
+* Fourth current: Rudolph Sohm. Stronger affinity is traced, especially concerning charismatic organization and the freedom of the Spirit over against juridical structures.
+* Distinction within affinity: Sverdrup differs from Sohm on the role of the local congregation, but shares major principles concerning grace-gifts and anti-juridical emphasis.
+* Extended doctrinal exposition: Sohm’s ecclesiology is summarized in detail, especially church as organism rather than organization.
+* Contrast sharpened: Sohm differs from Sverdrup over the holiness and formal status of the local congregation.
+* Terminological defense: even if Sohm dislikes “church law” and “church polity,” the author argues that one must still consult such literature because it most clearly illuminates the issues.
+* Practical example: J. J. Jansen studied church-law writers in order to understand the New Testament doctrine of office.
+* Return to main line: E. and D. largely developed their views before Sohm, yet Sohm later gave strong reinforcement to Sverdrup.
+* Secondary genealogy: Ditedal is connected to Michael Baumgarten, a precursor of Sohm.
+* Interim synthesis: of the four currents, the strongest kinship is with the Congregationalists, then with Sohm.
+* Methodological claim: one cannot rightly assess Sverdrup without studying older Congregational constitutional literature and Sohm’s church-law works.
+* Anticipated objection and reply: the claim may irritate readers, but the author insists from experience.
+* Special commendation of Sohm: a quotation from a Norwegian pastor is offered to commend Sohm’s contribution.
+* Rhetorical linkage: the quoted praise of Sohm is tied explicitly to Sverdrup’s own statements.
+* Final speculative conclusion: had Sverdrup read Sohm’s later work, he might have modified his first principle; their thought tends toward convergence.
+* Closing conceptual comparison: Sohm and Sverdrup would agree on the church as heavenly, spiritual reality, but differ on whether earthly communal form belongs essentially to the church’s concept.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* den hellige almindelige kirke, de helliges samfund: Apostles’ Creed / Nicene creedal ecclesiology.
+* Guds folk paa jorden: biblical people-of-God motif, widespread in both Old and New Testaments.
+* Kristi legeme: 1 Corinthians 12; Romans 12; Ephesians.
+* den Helligaands gjerning: broad New Testament pneumatological language.
+* sit borgerskap i himmelen: Philippians 3:20.
+* Herrens legeme: 1 Corinthians, ecclesial and sacramental resonance.
+* aandelige tempel bygget av levende stene: 1 Peter 2:5, with temple/church imagery.
+* Guds hus: 1 Timothy 3:15 and broader biblical temple-house imagery.
+* naadegaver / gifts of grace: Romans 12; 1 Corinthians 12; 1 Peter 4.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author’s force lies not in overt denunciation alone but in cumulative argument, controlled irony, and confident scholarly judgment.
+* Critical statements about theological ignorance should remain sharp.
+* Praise of Sohm should remain warm, earnest, and admiring without becoming sentimental.
+* Speculative remarks about Sverdrup’s likely development should remain measured, not overstated.
+* The quotation praising Sohm must preserve emotional weight: “one’s heart can be seized,” “he burns with zeal,” “alien elements out of God’s house.”
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* maa: where present in idiom or argument, should remain “must,” not “should,” unless clearly weaker.
+* skulde: in historical-theological statements often means “was to / should / was supposed to,” depending on context; preserve force case by case.
+* vilde: often conditional or future-in-the-past; must not be flattened.
+* kan ikke: “cannot,” not “may not be able to,” unless context demands.
+* ikke nogen har ret til at bestemme: “has no right to determine,” preserving juridical force.
+* synes uundgaaelig: “seems unavoidable,” maintaining firmness.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet: congregation
+* stedsmenighet: local congregation
+* kirke: church
+* kirkeret: church law
+* kirkeforfatning: church polity / church constitution (according to context)
+* naadegave / naadegaver: gift of grace / gifts of grace
+* Aanden: the Spirit
+* Aandens frihet: the freedom of the Spirit
+* hellig: holy
+* de helliges samfund: the communion of saints
+* kirketugt: church discipline
+* embedet: the office
+* frikirke / frikirkelige: Free Church / free-church
+* autonomi: autonomy
+* apostolisk forfatning: apostolic polity / apostolic constitution (context-dependent)
+* retslig: juridical
+* organisation: organization
+* organisme: organism
+* samfund: community
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “The body of Christ” must remain bodily imagery, not become “community of believers.”
+* “Spiritual temple built of living stones” must remain vivid and architectural.
+* “The red thread” should remain a thread image if possible, since it is idiomatic and recognizable.
+* “A helping hand” is acceptable because it preserves idiomatic concreteness.
+* “Burns with zeal” should remain fiery language.
+* “Alien elements” being cleansed out of God’s house should remain spatial and temple-oriented.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The passage alternates among scholarly exposition, ironic critique, historical genealogy, and sincere admiration.
+* The dry wit of the early sections should not infect the later commendation of Sohm.
+* The concluding comparison of Sohm and Sverdrup must sound analytical and calm, not polemical.
+* Quoted material should feel elevated and earnest, contrasting with the author’s more incisive prose.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many sentences should remain long enough to carry the essay’s public rhetorical flow.
+* Semicolon logic should often be preserved.
+* Appositional piling-up is part of the cadence and should remain audible.
+* Quoted passages should be translated with full breath-patterns intact, especially where they move from analysis to pathos.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Installment 5: “Folkebladet,” April 10, 1918
+
+The Position.
+
+(3. D. Evjen.)
+
+(Continued.)
+
+The Congregationalists’ corresponding treatment of these matters is found in the literature which they call church polity. Ditedal too is satisfied with this term: he uses it four times in his short affidavit concerning Open Declaration (Veiledning, 198 ff.).
+
+It is not I who have put this expression into their mouths. I hasten also to add that it is not I who supplied the busts on that six-foot-long constitutional shelf, of which I wrote, with the name church polity. They have this name on their title-pages. It is natural enough for the ordinary churchgoer to think that this name has chiefly to do with legal provisions, laws, and rules concerning the church. But a theologian who knows nothing more and better about the “field” deserves our undivided sympathy and a heartfelt wish for improvement.
+
+3. E. and D. have also been influenced by the biblicistic tendency whose original spokesman was J. T. Beck. The second volume of his doctrine devotes about 50 pages to “The Constitution of the Free Congregation” (the heading). In 27 pages Beck treats what he calls the “principles” or the “inner constitution.” Under the heading of the “outer constitution” he treats the gifts of grace. Beck’s conception of the local congregation is more like that of the Norwegian reform advocates than that of the Congregationalists. But his pronounced biblicism, his strong emphasis on the gifts of grace (in this he represents an advance beyond the reform advocates and the older Congregationalists), together with his sharp judgments upon the congregations, that they had not come farther than mission congregations, are factors that have been determinative for Levende principer.
+
+4. E. and D. also have much in common with the eminent Lutheran jurist Rudolph Sohm, who, more vigorously than Beck, lays the weight upon the charismatic organization (the church’s organization by the gifts of grace) and upon the freedom of the Spirit in contrast to everything that is juridical. Sverdrup’s words, “with the diversity of the gifts of grace and their right use, the freedom of the Spirit wins its true triumph,” are a genuinely Sohmian sentence.
+
+Whereas Sverdrup lays the weight upon the use of the gifts of grace essentially in the local congregation, Sohm finds that the local congregation is altogether too narrow for this purpose. He maintains that the holy catholic church, the communion of saints, without regard to organization, is the place for their use. To be sure, Sverdrup would not have asserted that every organization which calls itself a congregation has the right to determine whether the Christian shall use his gift of grace or not (II, 314). But he held fast in principle to this, that “without congregation the gifts of grace are without attachment and without purpose” (Luth. Kirkeblad 1893). He regarded, for example, “Christian lay activity as one of the most precious gifts of grace in our time” (same place).
+
+With respect to Sverdrup’s mild conditions for the reception of members into the congregation, and his likewise mild doctrine of church discipline, this is as Sohmian as it can be in one who, differing from Sohm, taught that “the congregation is the proper form,” and that all the glorious things which are said about the church, the communion of saints, in Sohm’s brilliant, spirited work Church Law, are to apply to the local congregation.
+
+Sohm regards the church as wholly and entirely religious, an organism, not an organization; that is to say, the church is not any local organization, not an organized church body, not a state church, not a confessional church (denomination); but it is God’s people on earth, the body of Christ, the work of the Holy Spirit. “Local congregations” and other ecclesiastical organizations are indeed necessary, but none of them is holy. They are no more “holy” or more “church” than any other organization which men have agreed to form and maintain.
+
+In this Sohm differs from Sverdrup, who according to Samlede Skrifter (II, 5) called “the holiness of the congregation” “the real main question in the Free Church.” Indeed, Sverdrup went so far as to say that the cause of the American doctrinal controversy was “that men have different conceptions of the congregation.” “But behind the doctrinal controversy too there has lurked a different conception of the congregation and of its composition and work” (II, C, 7).
+
+Sohm does not like the word church law or church polity, because he means that the church cannot be organized: the body of Christ cannot have juridical determinations imposed upon it; the outward church system is, generally speaking, not church at all, and therefore its juridical norms (all law is formal, coercive) are a contradiction of the essence of freedom. His well-known thesis concerning church law therefore runs thus: “All church law stands as a contradiction of the essence of the church.” Congregation, he teaches, is no definite empirical magnitude, no social concept in general; it is a spiritual reality raised above earthly norms; it withdraws itself from the dominion of “law” and is unfit for juridical organization. (Luther’s view.)
+
+Although Sohm rejects the expressions “church law” and “church polity,” yet he does bow to common usage and writes an epoch-making work with the title Church Law. If one will accept Sohm’s rejection of these expressions, then one must also adopt his definition of “law” (which jurists as a rule will not do) and understand the Free Church’s main principle.
+
+Meanwhile one cannot all at once change the name of the literature which casts the strongest light upon principles such as Levende principer, or even upon Sohm’s own ecclesiastical views. After all, it is not so much the name that matters as the benefit — the benefit of consulting constitutional literature in order to see whether Levende principer stands or fails. For in this literature there is a wealth of contributions for and against the norms and forms that are determinative for the church’s forms of manifestation, its inner and outer life. Most of these contributions will be built upon Scripture or upon history or upon both. It is characteristic that the pastor J. J. Jansen (Nøsen) relates that when he wished to write about the concept of church and office, he turned to church law (he names a full dozen authors) there to “study, understand, and come first to a result concerning what the New Testament teaches regarding the office.” It may seem to be a strange way of studying the New Testament — by a roundabout way. But Jansen doubtless knew what he was doing.
+
+But back to Sohm. E. and D. had their ecclesiastical views essentially ready long before Sohm came forth with his in 1892. Yet it cannot be denied that Sverdrup found in Sohm a powerful support for his conception of the gifts of grace and the freedom of the Spirit. For after 1892 he was much sharper in pressing it than before. And many of his ablest articles bear witness — linguistically as well — to influence from Sohm.
+
+In Ditedal there are fewer traces of this influence. But Ditedal, in return, had from earlier days been strongly influenced by Professor Michael Baumgarten, who — as Professor Kaunleiter points out (Herzog-Hauck’s Encyclopædie II, 461) — was a kind of forerunner of Sohm. Baumgarten could say: “God grant we had never got a church law. We should then long ago have had a spiritual church order.”
+
+Baumgarten was one of Germany’s most zealous champions of free-church ideas, and believed in what he called “the autonomy of the saints.” He felt nothing but aversion toward the connection between state and church, laid stress upon the freedom and inwardness of faith, hated all coercion and legalism. He taught that the church ought to use the apostolic writings as its standard also for church government: there ought to be an apostolic polity. It was chiefly the latter that caused the church historian Kliefoth to secure from the Duke of Mecklenburg Baumgarten’s dismissal as theological professor at the University of Rostock. In his understanding of the Acts of the Apostles Ditedal was markedly influenced by Baumgarten’s work on apostolic history (1858), which is not difficult to demonstrate.
+
+These four currents — the reform movement, Congregationalism, the Beckian, and the Sohmian — the principles have taken into account. The kinship is greatest, however, with the Congregationalists, and next with Sohm, despite the fact that Sohm denies principle no. 1.
+
+I do not hesitate to say that I cannot see how anyone can rightly assess Sverdrup’s ecclesiastical views unless he acquaints himself with the constitutional literature of the older Congregationalists and with Sohm’s works on church law.
+
+To suggest something of this sort — that one must read certain writings, not authored by E. and D., in order rightly to understand these writings authored by E. and D. — can hardly do otherwise than have an irritating effect. I know that very well. But as one who has “made the attempt,” and thus speaks from a little experience, I am free enough to say it. For among us too there are those who read the principles and interpret them as a Jew with the books of Moses reads his Old Testament, dead certain that they have the right understanding, see the thread running through it, and have no need of guidance.
+
+I especially single out Sohm. He can indeed offer those who are not too proud for it a helping hand. If the recommendation I give him does not suffice, then perhaps the following from a pastor in Norway will be acceptable:
+
+“It is ... Sohm’s great merit to have vindicated the great significance of the pneumatic-charismatic element (pneuma = spirit, charisma = gift of grace) in the constitution of the ancient church. He has found the right point of departure for understanding what is characteristic and unique in the church’s formation as community, and thereby has become able, with unsurpassed clarity and sharpness, to set forth the constitutional-historical problems which here call for the attention of research.
+
+“One’s heart can be seized by the lofty idealism in Sohm’s thoughts. One feels how he suffers under the church’s dualism, how it pains him to see the element of law bring a foreign and dangerous spirit into the church’s development, how he longs for harmony and clarity. And in all his work one particularly notices how he burns with zeal to bring God glory and let his Spirit be the church’s only Lord and ruler. He would cleanse the alien elements out of God’s house and make earnest of the fact that this shall be the Lord’s body and a spiritual temple built of living stones.”
+
+How much does this not recall Sverdrup’s statement: “That which is really the principal matter in the free congregation, and which we cannot stress often enough, is the unfolding and right use of the gifts of grace.” Or, “with the diversity of the gifts of grace and their right use, the freedom of the Spirit wins its true triumph” (S. S. II).
+
+The longer Sverdrup wrote, the more he tended toward Sohm. And it is possible that Sohm’s new work of 1914, which represents an intense labor continued all the way from 1892, when his first volume on church law appeared, might have led Sverdrup to modify his view with respect to principle no. 1. The line of thought in the two men is very similar: agreement in the implications seems unavoidable.
+
+One of Sohm’s colleagues defines the concept of the church as follows:
+
+“§ 1. The church is a religious reality, God’s people, the body of Christ. It has its citizenship in heaven and has there its home. But in this church God’s redeeming will is carried through in mankind here on earth. § 2. Therefore the church here on earth appears in the form of a community: a communal life. This form, however imperfect it may be, is essential for the church. Consequently the communal is more than a ‘support and help’; it belongs to the very concept of the church, and is the form in which the church of faith is realized, in so far as it can be realized here in the world.”
+
+Sohm and Sverdrup would agree in § 1.
+Sohm would reject § 2 and say that this “form” is not essential for the church, does not belong to the very concept of the church, but is only a support and help. Sverdrup would have accepted § 2, but on the condition that “form” means the local congregation, and that all other outward ecclesiastical organizations are “support and help,” or obstruction and hindrance, according to circumstances.
+
+(Continued.)
+
+Source file: fileciteturn0file0

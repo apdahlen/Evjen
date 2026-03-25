@@ -1,0 +1,313 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "Stillingen" can mean position, stance, situation, or posture in argument. Here it functions as "The Position" or "The Standpoint," carrying polemical and ecclesial force.
+* "Ledende principer" is not merely "guiding principles" in a casual sense, but a recognized constitutional-principial formulation within a church context. It must be rendered consistently and with institutional seriousness.
+* "hylder det syn" means not simply "likes that view" but "adheres to / espouses that view."
+* "imøtegaaelse" is not merely "response" but "reply in opposition," "rejoinder," or "countering."
+* "forstaaelse av hvad jeg har strevet" likely means "understanding of what I have been striving after / laboring to show," not physical struggle.
+* "enighet i formel, ikke i reel henseende" requires preserving the distinction between merely formal agreement and real agreement.
+* "væsentlig forfatning" must not be flattened. "Forfatning" here means constitution / polity / ecclesial constitutional order, not generic "organization."
+* "uvæsentlige" means immaterial to the conclusions drawn, not trivial in an absolute sense.
+* "aand og liv" carries strong biblical-theological force. It should remain "spirit and life," not be paraphrased into vague vitality.
+* "kaldes ved Kristi navn" is a biblical expression: "is called by Christ’s name" or "bears the name of Christ."
+* "samklang" means concord / harmony, not mere similarity.
+* "efter sit væsen" and "efter formen" are technical distinctions: according to essence / according to form.
+* "utvortes" must remain "outward" or "external," preserving the visible/institutional sense.
+* "rikets indre væsen" and "rikets ydre form" involve kingdom/church distinctions with doctrinal importance; these must not be conflated.
+* "retfærdighet, fred og glæde i den Helligaand" echoes Romans 14:17 and must retain scriptural resonance.
+* "Jesu legeme aabenbaret i verden" should remain concrete: "the body of Jesus manifested in the world."
+* "opløser det kristelige samfund i enkeltstaaende individer" must preserve the polemic against atomizing Christianity into isolated individuals.
+* "hører væsentlig med" means belongs essentially to, not incidentally.
+* "hovedprincipiet" should remain "the main principle" or "the governing principle," with doctrinal weight.
+* "tilstemt dr. Jacobs" means voted with / sided with, not merely agreed privately.
+* "docere" should not be modernized into a casual "teach" without noting its formal academic sense; "lecture on" or "teach" may be used depending on cadence.
+* "betingelse" here means qualification / fitness, not merely condition.
+* "rette vedkommende" is an idiomatic bureaucratic phrase: "the proper parties" or "the proper persons concerned."
+* "hævdelsen av mit standpunkt" is "in maintaining / asserting my position."
+* "skriftmæssighet" means conformity to Scripture, not literary quality.
+* "misrepræsenteret" should remain "misrepresented."
+* "Skrift utlægger skrift, forfatter utlægger forfatter" should preserve aphoristic force: "Scripture interprets Scripture; author interprets author."
+* "veiledning" means guidance, but here it is also a title and likely should remain italicized or in quotation marks as a work-title.
+* "aandelig blind," "videnskabelig uduelig," "intellektuelt uformuende" rise rhetorically; the translation must keep the cumulative self-indicting progression.
+* "skolestel" means school system / educational order, not schooling in the abstract.
+* "anskueliggjøre" means make concrete / illustrate vividly.
+* "naademidlerne" must remain "means of grace," the standard theological rendering.
+* "embedet" is office / ministry, depending on context; consistency is crucial.
+* "naadegave" is "gift of grace" or "charism," but context suggests a spiritually gifted man; the doctrinal nuance must remain.
+* "forsanset" is entrenched / fortified.
+* "skjult dualisme" is a technical theological-philosophical charge and must remain visible.
+* "i pagt med" means in accord with / in covenantal harmony with, not merely in sympathy with.
+* "rikets fremme" means the advancement of the kingdom.
+* "helliget vorde dit navn" etc. quotes the Lord’s Prayer in older diction; the translation should preserve the prayer’s recognizable form while using modern pronouns.
+
+Syntactic Hazards
+
+* The prose uses long argumentative sentences with semicolon pivots, qualifications, and accumulative reasoning. Breaking them into short sentences would weaken the polemical force.
+* Parenthetical insertions such as "for at bruge dets egne ord" and "d. v. s." shape argumentative stance and must remain integrated rather than detached as footnote-like glosses.
+* Contrasts are often built through paired clauses: form/reality, essence/form, inward/outward, central/peripheral. These structures must be preserved.
+* The passage repeatedly advances by correction: "Redaktøren forveksler..." / "Og han forveksler..." The repetition is deliberate and should remain.
+* Conditional sequences such as "Men kommer de sammen..." / "og organiserer de..." are doctrinally precise and syntactically cumulative.
+* The rhetorical question sequence around whether one may state a possible disagreement must remain pressing and unresolved.
+* English phrases embedded in the Norwegian ("The American cares only..." and "but only as a means to an end") are part of the rhetoric and should be retained or smoothly integrated without flattening their pointedness.
+* The final paragraph culminates in a major rhetorical contrast, followed by a prayer citation. Its cadence must be preserved.
+
+Theological Hazards
+
+* The distinction between kingdom and congregation/church is central and must remain exact.
+* The distinction between congregation according to essence and according to form is ecclesiologically decisive.
+* "Word and sacraments" must remain theologically standard.
+* "Means of grace," "office," and "congregation of believers" involve classic Lutheran categories and require consistent rendering.
+* The critique of pietism and false spirituality depends on preserving the communal nature of the church against individualism.
+* "The body of Jesus manifested in the world" must not be paraphrased into sociological language.
+* "Spirit and life," "souls’ salvation," and "called by Christ’s name" must preserve biblical gravity.
+* The claim that constitutional principles are means, not the center of Christianity, must not be misconstrued as anti-ecclesial; it subordinates polity to Christ and the kingdom.
+* The closing appeal to the Lord’s Prayer grounds the entire argument eschatologically and devotionally.
+
+Voice Hazards
+
+* The author’s tone is controlled, combative, learned, and morally earnest. Over-smoothing would erase the tension between academic precision and ecclesial rebuke.
+* Self-deprecating lines are not casual humility; they are ironic and indicting, exposing institutional inconsistency.
+* The rhetoric repeatedly implicates editorial leadership without theatrical flourish. This restraint must be preserved.
+* The author alternates between doctrinal exposition, institutional criticism, and broad spiritual reorientation toward Christ. These shifts in register are essential.
+* The closing movement from institutional controversy to the future of God’s kingdom carries solemn elevation; it must not become inspirational prose.
+
+STEP 2: IDIOM ANALYSIS
+
+* "kaldes ved Kristi navn"
+
+  * Meaning: to bear the name of Christ, to be identified as belonging to Him.
+  * Scriptural context: echoes biblical naming/belonging language.
+  * Theological implication: Christian identity imposes obligation on every man and woman so named.
+  * Rendering note: a literal form works well because the biblical resonance is intelligible in English.
+
+* "kommer de sammen om ordet og sakramenterne"
+
+  * Meaning: gather around the Word and the Sacraments for mutual edification.
+  * Scriptural/ecclesial context: classic Lutheran account of the church’s concrete gathering.
+  * Theological implication: the congregation is not mere inward faith, but a visible gathering around instituted means.
+  * Rendering note: must not be reduced to "meet for worship"; the sacramental specificity matters.
+
+* "rikets indre væsen" / "rikets ydre form"
+
+  * Meaning: the inward essence of the kingdom versus its outward form.
+  * Scriptural context: "righteousness and peace and joy in the Holy Spirit" points directly to Romans 14:17.
+  * Theological implication: kingdom and congregation are related but not identical categories.
+  * Rendering note: keep the metaphysical contrast of inward essence and outward form.
+
+* "opløser det kristelige samfund i enkeltstaaende individer"
+
+  * Meaning: dissolves Christian fellowship into isolated individuals.
+  * Theological implication: critique of atomized spirituality and anti-ecclesial pietism.
+  * Rendering note: literal translation is effective and should remain sharp.
+
+* "Skrift utlægger skrift, forfatter utlægger forfatter"
+
+  * Meaning: Scripture interprets Scripture; an author interprets an author.
+  * Context: hermeneutical maxim applied analogically from theology to authorial intent.
+  * Theological implication: proper interpretation respects internal coherence and original intention.
+  * King James relevance: "Scripture interprets Scripture" has a natural English theological idiom, though not a fixed KJV quotation.
+
+* "discipelen vil være over mesteren"
+
+  * Meaning: the disciple wants to be above the master.
+  * Scriptural context: echoes Gospel language about disciple and master.
+  * Theological implication: acknowledging teachers’ limitations can be accused of arrogance.
+  * Rendering note: preserve the biblical echo.
+
+* "støvet lagt sig"
+
+  * Meaning: the dust has settled.
+  * Context: after prolonged controversy, the heat has passed and judgment becomes possible.
+  * Rendering note: standard English idiom works naturally.
+
+* "i pagt med Guds rikes fremtid"
+
+  * Meaning: in accord with / in living alignment with the future of God’s kingdom.
+  * Theological implication: true ecclesial judgment is eschatological rather than factional.
+  * Rendering note: "in accord with" preserves gravity; "in step with" would be too colloquial.
+
+* "helliget vorde dit navn; komme dit rike; som i himmelen saa og paa jorden — din vilje ske"
+
+  * Meaning: the Lord’s Prayer.
+  * Scriptural context: Matthew 6 / Luke 11.
+  * Theological implication: the whole controversy is subordinated to God’s kingdom and will.
+  * King James relevance: a familiar liturgical English equivalent exists, but the instruction here requires modern pronouns and avoidance of archaic forms.
+  * Rendering note: "hallowed be your name; your kingdom come; as in heaven, so also on earth—your will be done" best preserves gravity and recognizability.
+
+* "Frikirkens hjerte"
+
+  * Meaning: the Free Church’s heart.
+  * Context: rhetorical overstatement directed at Augsburg Seminary’s perceived centrality.
+  * Rendering note: keep the bodily metaphor.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: the editor does not truly share the authors’ view of the Leading Principles, despite claiming agreement on several points.
+* First supporting claim: the editor’s agreement is merely formal, not real; his concessions do not support the conclusions he draws.
+* Clarifying concession: the author warmly agrees that the church’s principal task is the salvation of souls, spirit, and life; this should be self-evident for all Christians.
+* Central doctrinal dispute: the editor misunderstands Principles 1 and 2, especially the nature of the congregation in essence and in form.
+* Positive exposition: one believer alone is not the congregation; two believers are not yet congregation merely by existing, but by gathering around Word and Sacraments they become congregation according to essence, and by organizing outwardly they become congregation according to form.
+* Further doctrinal correction: the editor confuses the inward essence of the kingdom with the essence of the congregation, and the outward form of the kingdom with the form of the congregation.
+* Historical reinforcement: the 1875 faculty opposed pietism and false spirituality that dissolved Christian society into isolated individuals; this proves the ecclesial principle at stake.
+* Polemical application: had the editor understood this language, he would have understood the Principles, their authors, Birkeland, and the Fargo meeting better, and would not have sided with Dr. Jacobs as he did.
+* Institutional/personal turn: the author notes his own nine years teaching theology and church polity at Augsburg in accordance with the Leading Principles.
+* Implied challenge: if the editorial office believes he is unfit or others could teach better, let the proper authorities act accordingly.
+* Defense of interpretive integrity: he shares Birkeland’s interpretation, not the editor’s; he has studied Scripture and constitutional literature; he knows both the strength and weakness of the Principles.
+* Methodological claim: he cited Sverdrup and Oftedal not to prove the scripturality of the Principles, but to show fidelity to authorial intent.
+* Intensified self-implication: if he has failed to interpret the Principles rightly all these years, this condemns not only him but the institutions that appointed and educated him.
+* Transition to broader critique: all masters have imperfections; therefore one may point to weaknesses even in revered formulations.
+* Comparative historical example: the Lund/Uppsala church-concept controversy shows how major theological camps can each harbor hidden dualism.
+* Provocative question: do the Leading Principles also contain a dualism?
+* Meta-ecclesial warning: anti-historical insularity makes such questioning difficult; and if agreement is hard to voice, disagreement will be harder still.
+* Re-centering claim: the Principles matter, but they are not central in Christianity.
+* Constructive restatement: constitutional principles concern the congregation’s spirit, life, and freedom, aiming not only at conditions but at a congregational life produced by the Spirit and lived in freedom.
+* Final theological hierarchy: one may be saved without knowing the Principles; they, along with church organization, office, worship, confessions, and even Augsburg Seminary, are only means to an end.
+* Conclusion: compared with Christ, who is central in Christianity, everything else is peripheral.
+* Final appeal: the true question is not alignment with factions, elites, or institutions, but whether one stands in accord with the future of God’s kingdom and is willing to be used for its advance, in fulfillment of the Lord’s Prayer.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "for aand og liv"
+
+  * Likely echo: John 6:63 ("the words ... are spirit and life").
+
+* "som kaldes ved Kristi navn"
+
+  * Likely biblical naming/belonging language; broad scriptural resonance of being called by the Lord’s name.
+
+* "retfærdighet, fred og glæde i den Helligaand"
+
+  * Direct echo: Romans 14:17.
+
+* "Jesu legeme aabenbaret i verden"
+
+  * Strong echo of Pauline body-of-Christ ecclesiology, especially 1 Corinthians 12 and Romans 12.
+
+* "ordet og sakramenterne"
+
+  * Not a direct quotation, but classic Lutheran condensation of biblical church life grounded in Christ’s institution.
+
+* "opløser det kristelige samfund i enkeltstaaende individer"
+
+  * Not a direct quotation, but anti-individualist ecclesial logic consonant with New Testament body imagery.
+
+* "Skrift utlægger skrift"
+
+  * Traditional hermeneutical maxim rather than direct biblical quotation.
+
+* "discipelen vil være over mesteren"
+
+  * Echo: Gospel sayings such as Matthew 10:24 / Luke 6:40.
+
+* "helliget vorde dit navn; komme dit rike ... din vilje ske"
+
+  * Direct citation/paraphrase of the Lord’s Prayer, Matthew 6:9-10.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must retain the author’s restrained severity.
+* Rebukes of editorial misunderstanding must remain explicit and pointed.
+* The author’s ironic self-accusations must preserve their edge; they are a rhetorical exposure of institutional absurdity.
+* Questions about whether one may even voice disagreement must remain tense and unresolved.
+* The final redirection toward Christ and the kingdom must retain solemn authority, not become sentimental uplift.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "bør være" must remain "ought to be," not merely "should probably be."
+* "kan antafte ham" / "kan ikke undgaa" / "kan bli opfattet" must preserve possibility and inability clearly.
+* "maa regne med" must remain "must reckon with," not weaker "may consider."
+* "vil" often expresses determination or future force and must be judged case by case.
+* "kunde holde sig" should remain "could stand" or "could hold its ground."
+* "skal anskueliggjøre" should remain "I shall illustrate this" rather than a softer phrasing.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Ledende principer = Leading Principles
+* menighet = congregation
+* kirke / kristne kirke = church / Christian church
+* væsen = essence
+* form = form
+* utvortes organisation = outward organization
+* Guds rike / riket = God’s kingdom / the kingdom
+* aand = spirit
+* liv = life
+* ordet og sakramenterne = the Word and the Sacraments
+* naademidlerne = the means of grace
+* embedet = the office
+* naadegave = gift of grace / gracious gift; in context, "a man with a gift of grace"
+* skriftmæssighet = conformity to Scripture / scripturality
+* frelse = salvation
+* frihet = freedom
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "Jesu legeme aabenbaret i verden" must remain bodily and manifest, not abstract.
+* "Frikirkens hjerte" must remain "the Free Church’s heart."
+* "støvet lagt sig" should remain the image of dust settling.
+* "lægger hovedvægten paa" preserves the weight metaphor and should be retained as "lays the chief weight upon."
+* "periferi" versus "det centrale" must remain spatially metaphorical.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The passage moves from critique, to doctrinal clarification, to institutional challenge, to historical comparison, to eschatological refocusing.
+* Severity dominates early sections, but the close introduces constructive reorientation rather than mere denunciation.
+* The statement that one can be saved without knowing the Principles softens factional absolutism without softening doctrinal seriousness.
+* The final prayerful cadence introduces solemn hope after prolonged controversy.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve longer sentence structures where the logic accumulates through contrast and qualification.
+* Keep repeated sentence openings where they create spoken insistence.
+* Maintain semicolon pivots in high-pressure doctrinal sentences.
+* Let the final sentence broaden and rise in cadence toward the Lord’s Prayer.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Installment 11: “Folkebladet,” May 22, 1918
+
+The Position.
+(I. O. Evjen.)
+
+(Conclusion.)
+
+I do not find that the editorial office fully adheres to the view of the Leading Principles held by their authors. The editor’s earlier reply to Birkeland and his two most recent editorial articles, “The Congregation,” show no change in his understanding of the principles—nor any understanding of what I have been striving to show. To be sure, he states that we are agreed on three or four points. But this agreement is, at the very most, an agreement in a formal, not in a real, sense. The editor’s concession that the principles are “essentially constitution” means, for the conclusions he draws, no more than if he had written: the principles are “essentially water.” The same I would say of the points 1 and 2 which he sets forth: they are immaterial to the consequences the editor deduces. The fourth point—“The church’s principal task is nevertheless not to labor for constitution, but for the salvation of souls, for spirit and life”—with this, however, I am heartily in agreement. For that is, or ought to be, the self-evident principal task of all congregations, churches, and church bodies, indeed of every single man and woman who is called by Christ’s name.
+
+Otherwise I see no principial agreement in our understanding of the principles. The editorial office’s understanding of principles no. 1 and 2 is not in harmony with what I have cited from S. and D. on pages 251 and 301 of Folkebladet (second column) and in many other places. Sverdrup never taught that where there is one believing man, there the congregation is present “according to its essence.” Two Christians in one place are—indisputably—not a congregation, either according to essence or according to form. But if they come together around the Word and the Sacraments in order to help one another, then they are a congregation according to the essence; and if they organize the outward congregational organization, then they are a congregation also according to the form. That was Sverdrup’s doctrine and that is the doctrine of the principles.
+
+The editor confuses the inward essence of the kingdom (righteousness, peace, and joy in the Holy Spirit) with the essence of the congregation (the body of Jesus manifested in the world). And he confuses the outward form of the kingdom (the congregation) with the form of the congregation (the outward organization).
+
+In 1875 the faculty contended (to use its own words) “against pietism and false spirituality, which dissolves Christian society into isolated individuals.” It contended for what it regarded as truth, that “it belongs essentially to the essence of the Christian church to exist in the form of congregations, not as individual Christians standing alone.” There is nothing to indicate that the editor has ever understood this language, the main principle in the Augustana understanding of the congregation. Had he done so, then he would have understood both the principles and their authors, both Birkeland and the spirit at the Fargo meeting, better than he now does; nor would he have voted with Dr. Jacobs as he has done.
+
+Now Prof. Nydahl has the right to hold his opinion. No one can challenge him for that. And he has the right to criticize the principles—under his own name. But the matter becomes somewhat different when he gives editorial interpretations of the principles that are interpretations away from them, and when he puts the brakes on Birkeland’s writings and labels them under dictatorship, absolutism, and so forth.
+
+For nine years now I have been a theological teacher at Augsburg, where the theological faculty has charged me with lecturing on various theological subjects—church polity as well. I have felt it to be a duty to teach in accordance with the Leading Principles. It is possible that I do not possess the qualifications to teach this subject, and that the editorial office has been aware of that through all these years. There can now no longer be any doubt that the editorial office thinks it could be done better, and that there are those at Augsburg who could do it better. I hope that the proper persons concerned will go to the proper authority and bring about a better arrangement. What I wish to make clear is that I share Birkeland’s interpretation of the principles, but not that of the editorial office.
+
+In maintaining my position in my teaching I have gone both to Scripture and to the literature on polity and to much else besides, in order to illuminate the individual principles. I know their strength and their weakness. About their weakness I have kept silent. But I have always interpreted them as I believe their authors intended them. Of the complete conformity of the principles to Scripture and of their absolute validity I have never made any assertion.
+
+In my contributions to the paper I have both in season and out of season cited S. and D.—not in order to prove the conformity of the principles to Scripture (for that I do not need the help of others), but to show that in my understanding and interpretation of the principles I have been faithful to the authors. I have not misrepresented them. “Scripture interprets Scripture; author interprets author;” therefore I also published the little collection called “Guidance,” which has been a guide both to me and to many students, and which could have been the same to the editorial office.
+
+If in these years I have not been able to interpret the principles rightly, then I have never deserved to lecture on theology or to teach anything whatever. If I am so spiritually blind, so scientifically unfit, indeed so intellectually incapable, that through all this time I have been unable to provide a correct diagnosis of the principles, then that is a sorrowful commentary on the annual meetings’ filling of professorships, and an even more sorrowful commentary on our whole higher educational system, both domestic and foreign; for I have, after all, tested a little of both.
+
+I mentioned something about the weakness of the principles. It can be risky to suggest anything of that sort; it can be taken as though the disciple would be above the master. But one must reckon with imperfections in masters also. I shall illustrate this. In Sweden there was carried on for more than a generation a sharp conflict between the theological faculty in Lund and the theological faculty in Uppsala. It concerned the concept of the church. We have mentioned a little about it before.
+
+The church-concept of the Lund faculty was high-church; the means of grace constituted the church, the office was given in and with the means of grace, which were thus regarded as instituted by God; the congregation, the believers, were a product of the means of grace and the office.
+
+The church-concept of the Uppsala faculty was low-church: the means of grace were a product of the believing congregation, the office likewise; the congregation chose a man for the office, but the holder of the office was to be a man with a gift of grace.
+
+A massive literature was the result of the collisions between these two concepts of the church. Each of the two theological camps developed and fortified its own concept of the church and pointed out the weaknesses in the concept embraced by the opponent. Able men, far more isolated on the academic field than the students and professors at the Scandinavian-American schools, shook themselves out again and again for attack and defense. And now? Now the dust has settled. It has been shown that neither of these concepts of the church could stand. In each of them there was a hidden dualism.
+
+Is there any dualism in the Leading Principles? If we are like the sort of Americans of whom it is said, The American cares only for the acts of the apostles, and the acts of his grandfather,—then we shall not want to know of any such question. If we are Augustanas in such a way that we care only for the acts of the apostles and the acts of Sverdrup and Oftedal—that is, care little about history and the continuity of history—then it is daring to raise such a question in our midst.
+
+But let anyone take up Luther, Sohm, W. Walther, and he cannot avoid this question. And if he finds the answer—may he be allowed to state it? When it is so difficult to be permitted to express one’s agreement with the principles, as Birkeland does, how much more difficult will it not be to document a possible disagreement? The times to come must answer that.
+
+The principles have their significance. But they are not what is central in Christianity. And neither B. nor I have made them that. To be sure, it may look as though they were the central thing, if one is to judge from all the column-space they have received from B. and me, especially from me. Yet they have always occupied much space in Folkebladet, even before I began to write. Still, this I will emphasize: the Free Church’s Leading Principles “lay the chief weight upon the congregation and its spirit, life, and freedom.” For those who think that constitutional principles concern only outward arrangements, this sentence, taken from Guidance 118, ought to be shown a measure of serious reflection. Individual ethics aims at the individual’s spirit, life, and freedom. Polity aims at the congregation’s spirit, life, and freedom, although—what of course no one will deny—the former is a condition for the latter. But the principles intend more than this condition: they intend a congregational life brought forth by the Spirit and lived in freedom.
+
+One may be saved without knowing the principles. But, as said, they have their significance, but only as a means to an end, which also holds true of the organized church, great or small, of the office, of the public service of worship including preaching and hymn-singing, of the confessional writings, yes, also of Augsburg Seminary, which one has not—rhetorically at least—placed in the periphery, but has outright made into “the Free Church’s heart.”
+
+Compared with Christ, who is what is central in Christianity, everything else is peripheral. Constitution is no exception, and therefore neither are the Leading Principles, nor Augsburg Seminary either—which, moreover, ought to be superfluous to say.
+
+The great question does not become: Does one stand in harmony with this or that group of principles, this or that wing of an aristocracy of office, this or that institution? But the question—the real one—becomes: Does one stand in accord with the future of God’s kingdom, and is one willing to let oneself be used for the kingdom’s advance, to labor for the fulfillment of the prayer: hallowed be your name; your kingdom come; as in heaven so also on earth—your will be done!
+
+(Conclusion.)

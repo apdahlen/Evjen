@@ -1,0 +1,301 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* stillingen: In this polemical context, not merely “the position” in an abstract sense, but the stance, issue, or state of the controversy.
+* principerne / principer: Not generic “principles” in a loose moral sense, but formal governing principles, very close to constitutional or ecclesiastical polity principles.
+* kirke-forfatning / kirkeforfatning / forfatningsprinciper: A central technical term. It refers to church constitution, church polity, ecclesiastical constitutional order, not merely “organization” in a casual sense.
+* aandløs: Literally “spiritless,” but here also sarcastically invoking the opponent’s language of “spirit” and “life.” It must not be flattened into merely “shallow” or “dull.”
+* vækkelse: Revival, awakening. In this tradition it has a distinctly pietistic and evangelical sense, often linked to repentance and spiritual quickening.
+* liv / aand og liv: “Life” and “spirit and life” carry theological resonance, not mere vitality or enthusiasm.
+* rubricerte: Classified, categorized. The speaker is insisting on intellectual and theological classification.
+* analogier: Not just surface similarities, but structural correspondences between Sverdrup’s arguments and established church-polity literature.
+* slegtskapet: Kinship, affinity, family resemblance. Important as a metaphor of conceptual relation.
+* distinguere: Polemical borrowing meaning “to draw distinctions.” Must retain the ironic tone.
+* formaning til vækkelse: Exhortation to revival. Needs to sound like a specific genre of religious appeal, not general moral encouragement.
+* menighet: A theologically charged term. Depending on context, “congregation” may fit, but often “church” would blur the local and visible sense. Here “congregation” is usually best.
+* levendegjørelse og frigjørelse: A fixed programmatic pair. Literally “vivification and liberation,” but these are ecclesial and spiritual terms. “Quickening and liberation” preserves more of the older theological force than “revitalization and freedom.”
+* ordets egentlige forstand: In the proper or strict sense of the word. Important in ecclesiological argument.
+* samvittighet: Conscience, with full moral and spiritual weight.
+* besætte Kristi legeme: Literally “occupy/fill Christ’s body.” In context, “fill out” or “people” Christ’s body is better than a flat literalism.
+* kald: Calling, vocation.
+* gudsfrygt: God-fearingness, fear of God, piety. “Piety” is possible, but “fear of God” preserves biblical force.
+* augsburgske menighetsopfattelse: The Augsburg Confession’s understanding of the congregation/church. Strong confessional freight.
+* synlig / usynlig menighet: Visible/invisible church-congregation. Established theological vocabulary.
+* naademidlerne: Means of grace.
+* disciple: Disciples, not merely adherents.
+* indstiftelse / indstiftet av Gud: Divine institution, instituted by God.
+* samfund: In this ecclesial setting, “synod,” “association,” or “church body” may be tempting, but the polemical force depends on a broader “association/fellowship/body.” Contextual variation is needed.
+
+Syntactic Hazards
+
+* The prose builds argument through long accumulative sentences with semicolon-like pivots and embedded qualifications. Breaking these into short modern units would weaken the polemical force.
+* Parenthetical insertions often carry irony or sharpen the argument. They should remain visibly parenthetical.
+* The author frequently stages objections (“Hvor aandløs en slutning!”) and then answers them. This dialogic structure must be preserved.
+* Lists of terms linked by commas and conjunctions accumulate doctrinal and rhetorical weight; they should not be trimmed.
+* Quotations from authorities are embedded as argumentative witnesses. Their placement and cadence matter.
+* Analogical reasoning unfolds over several sentences; the translation must preserve the chain of thought rather than reduce it to summary.
+
+Theological Hazards
+
+* The contrast between “forfatning” and “aand og liv” is not merely organizational versus spiritual in a secular sense; it is a dispute over the theological status of church order in relation to spiritual life.
+* “Sjælenes frelse” must remain “the salvation of souls,” not generalized into “helping people spiritually.”
+* “Vække bevidsthet om menighetens væsen og kald” concerns awakening consciousness of the congregation’s essence and calling; ecclesiology is central.
+* “Kristi legeme” must remain “the body of Christ,” with full Pauline resonance.
+* The distinction between visible and invisible congregation/church is confessional and doctrinally precise.
+* “Naademidlerne” and “ordet og sakramenterne” must retain sacramental-theological clarity.
+* The argument that local congregations are of divine institution while larger federations are human arrangements must remain sharp and unsoftened.
+
+Voice Hazards
+
+* The tone is polemical, learned, sardonic, and insistent, yet still ecclesial. Over-smoothing would erase the author’s edge.
+* The writer repeatedly appeals to theological competence, confessional precision, and plain consistency. That force must remain.
+* Irony is essential: remarks like “Hvor aandløs en slutning!” and “Det git ikke an at præcisere noget for hyklænderen” carry contemptuous rhetorical pressure.
+* The prose alternates between scholarly classification and exhortational rebuke. Both are integral to voice.
+* The translation must preserve the sermonic-publicistic cadence of a church newspaper controversy, not recast it as neutral academic prose.
+
+STEP 2: IDIOM ANALYSIS
+
+* aand og liv: Literally “spirit and life.” Likely echoing biblical language, especially John 6:63 (“the words... are spirit, and they are life” in older English tradition). In this controversy it functions as a slogan for what opponents regard as spiritually living religion. A merely literal translation is possible, but the English must preserve the theological resonance rather than sound like vague inspiration.
+* reflettioner gjør sig selv gjældende: An ironic idiom meaning “the implications speak for themselves” or “certain reflections naturally force themselves upon one.” The phrase is sardonic and should not be modernized into flat commentary.
+* maale sig med hvemsomhelst: “Measure himself with anyone,” meaning he could hold his own against anyone. It signals respect for Sørgensen’s theological stature.
+* tale som en daare til vise: Clear biblical echo, especially 2 Corinthians 11, where Paul speaks “as a fool.” A natural English equivalent is “I speak as a fool to wise men,” or more idiomatically, “I speak as a fool to the wise.”
+* det er saa rart med dette indhold: Idiomatically, “there is something strange about this content.” The point is ironic: the same material is dismissed as dead literature in one place but treated as spirit and life in another.
+* gaar paa personligheten: Goes to the personality/personhood, meaning it concerns the shaping of the person or type of Christian character. The speaker rejects this reading as mystical and confused.
+* ny kristentype: “New type of Christian.” The phrase is polemical and must remain somewhat awkward because the author is mocking the category.
+* Frikirkens dage talte: “The Free Church’s days are numbered.” Strong prophetic idiom.
+* nøkkelen til deres forstaaelse ligger i...: “The key to understanding them lies in...” Standard but important argumentative phrase.
+* se hen til sit tarv: Archaic phrasing for “to look to its own need/advantage.” In context, to make the church’s practical welfare the highest principle.
+* slagord: Slogans/watchwords. Here used dismissively of pious catchphrases.
+* det git ikke an at præcisere noget for hyklænderen: Literally difficult because “hyklænder” is an old racialized term used in a contemptuous anecdotal comparison. In context it means the onlooker obstinately refuses distinction. The translation should preserve the offensiveness of the original historical usage without intensifying it beyond the source. “Negro onlooker” reflects the original period diction but is offensive in modern English; because this is an academic translation of historical prose, it should be retained only insofar as necessary to represent the source faithfully. The sentence’s function is to illustrate refusal to distinguish categories.
+* gjøre sjælene salige: A classic theological phrase, “to save souls” or “make souls blessed/saved.” “Save souls” is the natural English equivalent.
+* føre den enkelte til Frelseren: “Bring the individual to the Savior.” Strong evangelical idiom.
+* opbygge og besætte Kristi legeme: To build up and fill/populate the body of Christ. Echoes Pauline body imagery and ecclesial edification.
+* bryte sig vei paa egen haand: “Make their own way on their own.” Suggests having to force a path independently because the church order gives no place.
+* stikker ut arbeidsfeltet: “Marks out the field of labor.” A vivid idiom for assigning or opening proper service.
+* tørre og kolde: “Dry and cold.” A familiar pietistic description of outwardly active but inwardly unimpressive believers.
+* hjertekristendom: “Heart Christianity.” A strongly pietistic term, denoting inward lived faith.
+* maa svare til dette sit navn: “Must answer to this its name,” meaning must correspond to what it is called.
+* det hellige krav: “The holy demand.” This has a sermonic and morally binding ring.
+* to eller tre i Jesu navn: Direct biblical allusion to Matthew 18:20. A natural English rendering should echo familiar Bible phrasing while using modern pronouns when necessary.
+
+KJV/Natural English Equivalents
+
+* Kristi legeme = the body of Christ
+* ordet og sakramenterne = the Word and the Sacraments
+* naademidlerne = the means of grace
+* to eller tre i Jesu navn = two or three in Jesus’ name / gathered in Jesus’ name
+* sjælenes frelse = the salvation of souls
+* gudsfrygt = the fear of God
+
+Expressions Where Literal Translation Would Obscure Force
+
+* levendegjørelse: “Making alive” is too mechanical. “Quickening” better preserves theological force.
+* frigjørelse: “Liberation” fits better than “emancipation” here, though both are possible. It must remain ecclesial, not political.
+* gaar paa personligheten: A literal “goes on the personality” is obscure; “bears upon personality” or “concerns personality” is clearer while preserving the oddity.
+* besætte Kristi legeme: A literal “occupy Christ’s body” misleads in English. “Fill out the body of Christ” is better.
+* forfatning: Often “constitution” or “polity” is preferable to a flat “organization,” depending on sentence context.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: Eyen argues that Sverdrup’s writings, especially the volumes on the congregation and the “Leading Principles,” concern church polity/constitution rather than being merely appeals to revival or inward spiritual life.
+* Opening move: He presents his own reading of Sverdrup as unprejudiced and based on experience and study.
+* Anticipated objection: Opponents accuse him of a spiritually dead conclusion because they think “Menigheden” deals directly with awakening and life.
+* Appeal to authority: He cites Pastor S. E. Sørgensen as an independent theological witness who read Sverdrup in essentially the same way.
+* Strengthening by analogy: He argues that Sverdrup’s writings bear clear analogies to recognized church-polity literature, even if not directly borrowed from it.
+* Exposure of inconsistency: He mocks the opposition for calling similar material dead “literature” on his shelf, yet “spirit and life” when bound in Sverdrup’s collected works.
+* Core claim sharpened: “Leading Principles” are church-polity principles, neither more nor less.
+* Rejection of alternative reading: Caspersen’s interpretation that they concern personality or a new Christian type is dismissed as mystical confusion.
+* Second appeal to authority: Pastor E. Lou is cited as affirming that the principles are polity, not exhortation to revival.
+* Practical consequence: Unless the Free Church agrees on that point, its future is threatened.
+* Clarification: Calling the principles “polity” does not mean the church’s chief task is polity; the chief task remains the salvation of souls.
+* Crucial distinction: Yet the salvation of souls alone does not exhaust the church’s calling; there is also the quickening and liberation of congregations.
+* Proof from Sverdrup: Eyen quotes Sverdrup that the task is not only to awaken individuals but to awaken consciousness of the congregation’s essence and calling.
+* Comparative example: He uses Norway’s state church to show that sincere godliness can exist where true congregations, in Sverdrup’s strict sense, do not.
+* Ecclesiological conclusion: One cannot stop at individual conversions; the visible congregation must take shape in accordance with its invisible reality.
+* Final sharpening: The Free Church differs from other church bodies precisely in treating the local congregation as a divine institution and larger bodies as human arrangements.
+* Closing move: Tangjerd’s contrary criticism is introduced for further dispute in the continuation.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* aand og liv: probable echo of John 6:63.
+* tale som en daare til vise: echo of Pauline rhetoric in 2 Corinthians 11 and possibly 1 Corinthians 10:15 / 4:10 in tone.
+* sjælenes frelse: broad biblical and evangelical idiom, resonant with James 5:20 and 1 Peter 1:9.
+* den enkelte til Frelseren: evangelical expression centered on Christ as Savior.
+* ordets og Aandens kraft: biblical idiom joining Word and Spirit; compare 1 Thessalonians 1:5 and broader Lutheran usage.
+* opbygge ... Kristi legeme: strong Pauline echo; especially Ephesians 4:12 and related body imagery in 1 Corinthians 12.
+* Kristi legeme aabenbarelse: manifestation of the body of Christ; Pauline ecclesiology.
+* alle gaver og bruk for alle hænder: echoes body imagery and varied gifts, especially 1 Corinthians 12 and Romans 12.
+* Jesu Kristi legeme: explicit Pauline ecclesiological term.
+* det nye testamente talt saa høie og hellige ord om menigheten: general appeal to New Testament teaching on the church.
+* usynlig / synlig menighet: post-Reformation theological development rooted in biblical ecclesiology.
+* to eller tre i Jesu navn: Matthew 18:20.
+* naademidlerne: Lutheran theological term grounded in biblical doctrine of Word and Sacraments.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Warnings and rebukes must remain direct. Eyen is not merely explaining a concept; he is exposing confusion and inconsistency.
+* Sarcastic exclamations should remain energetic and a little sharp.
+* The authorities quoted are not decorative; they are marshaled as witnesses in a live doctrinal dispute.
+* Phrases such as “it is almost incomprehensible” and “the Free Church’s days are numbered” must keep their full severity.
+* The translation should let the force arise from the inexorable logic of the argument rather than from inflated diction.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* maatte jeg sige: “I had to say,” not “I felt” or “I would say.”
+* kunde ha ydet: “could have furnished,” preserving actual possibility.
+* vil kunne fortælle os: “will be able to tell us,” not weakened.
+* maa være: “must be,” not “should be.”
+* kan aldrig bli: “can never become,” not “does not usually become.”
+* maa ethvert andet vike: “every other consideration must give way.”
+* git ikke an: “it is not possible / one cannot.”
+* vilde det betyde...?: “would that mean...?” preserving hypothetical force.
+* der maa være noget mere: “there must be something more.”
+* der maa begyndes... man kan ikke bli staaende: “one must begin... one cannot remain standing there.”
+* maa svare til dette sit navn: “must answer to that name.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet = congregation
+* kirke-forfatning / kirkeforfatning = church polity / church constitution
+* forfatningsprinciper = constitutional principles / polity principles
+* aand og liv = spirit and life
+* vækkelse = awakening / revival (context-dependent; use “awakening” when the polemical slogan is in view, “revival” where the English idiom is more natural)
+* samvittighet = conscience
+* Frelseren = the Savior
+* ordet og sakramenterne = the Word and the Sacraments
+* naademidlerne = the means of grace
+* Kristi legeme = the body of Christ
+* levendegjørelse = quickening
+* frigjørelse = liberation
+* gudsfrygt = fear of God
+* synlig / usynlig menighet = visible / invisible congregation
+* indstiftet av Gud = instituted by God / of divine institution
+* samfund = association / church body (context-sensitive, but consistently distinguished from local congregation)
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* The shelf of six feet of polity literature must remain concrete; it dramatizes scholarly weight and analogy.
+* “Spirit and life” versus dead literature must remain vivid, since the irony depends on embodied imagery.
+* “The body of Christ” must remain an image, not be paraphrased into “Christian community.”
+* “Break their own way” and “mark out the field of labor” should preserve their active, physical imagery.
+* “Dry and cold” and “heart Christianity” should remain metaphorical rather than explanatory.
+* “Answer to its name” should remain metaphorical and judicially resonant.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The piece moves between mockery, scholarly argument, confessional precision, pastoral concern, and severe warning.
+* Respectful description of Sørgensen and Lou contrasts with harsh dismissal of opposing confusion.
+* The Norway/America comparison softens momentarily into careful fairness, then returns to hard ecclesiological consequence.
+* The translation must preserve these tonal shifts rather than leveling everything into continuous polemic.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many sentences are shaped for public reading and controversy, with clear pivots and cumulative clauses.
+* Rhetorical questions should remain rhetorically weighted.
+* Repetitions such as “Det er ikke bare... Det er ikke alene...” should be preserved.
+* Short emphatic clauses such as “Der maa være noget mere” and “Nei” must stand with full oral force.
+* Quotations should sound speakable, not like compressed academic paraphrase.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Installment 2: “Folkebladet,” March 20, 1918
+
+The Position.
+(B. O. Eyen.)
+
+II.
+
+When I took up Sverdrup’s Collected Writings, the principles, and so forth, I studied them without any preconceived opinion. I studied them in the light of the experiences I had had, and the knowledge I had gathered.
+
+When I read the second volume of the Collected Writings, the volume that bears the title The Congregation, I had to say: this volume has for the most part to do with church polity.
+
+What a spiritless conclusion! I hear someone say. Can Eyen not see that the volume The Congregation deals directly with awakening and life?
+
+But no, I classified the book under ecclesiastical constitutional literature. Nor was I the only one who did so. Pastor S. E. Sørgensen, of Trondhjem, Norway, did the same, when in 1910 he wrote:
+
+“The second volume consists almost exclusively of articles from the long discussion concerning questions of church constitution that has been carried on among our countrymen in America.”
+
+And he added: “The rich and mighty Reformed church life pulsating all around him (Sverdrup) would seem to have been able to furnish him with more than enough analogies, at any rate. But it is remarkable how small a role all this plays, if indeed it can be said to be touched upon at all.”
+
+Thus, Sørgensen held that the second volume of Sverdrup’s Collected Writings was directed toward church constitution, and that the Reformed church life could have furnished Sverdrup with more than enough analogies. Unfortunately, however, we were told by our pastors that there had never been any discussion of church constitution among the Norwegian Lutherans in America! Reflections force themselves upon one.
+
+Was Sørgensen mistaken? Was it lack of spirit, of experience, of theological formation, that caused him to write thus?
+
+I do not think so. I believe he could measure himself with any one of us in these things. As a competent theologian he gave the matter its right name.
+
+Sørgensen spoke, as we see, of analogies. I have more than once called attention to these analogies in my lectures on church polity. And I hope this will not be regarded as some unpardonable offense.
+
+What Sørgensen says of Volume II may, with greater or lesser reservation, also be said of Volumes III and IV.
+
+By comparing Sverdrup’s articles on the congregation with the constitutional literature that stands at my disposal, I find exceedingly little in Sverdrup for which I do not find analogies in my works on church polity, which fill a shelf six feet long. I speak perhaps as a fool to the wise, but others do the same also, for example Harvard’s five-foot shelf of classics. I do not at all mean to say that Sverdrup drew from this literature. But no one can deny the kinship: it is intimate.
+
+Now there are doubtless those who will call this six-foot shelf a bit of literature, and its contents mere lit. But there is something strange about this content: it is to be a mere bit in this shelf, but becomes at once spirit and life when it comes between the covers of the Collected Writings. One wonders whether it is right of opponents to distinguish as they have been accustomed to do: constitution versus spirit and life.
+
+What holds for most of Sverdrup’s and Oftedal’s ecclesiastical interventions holds especially for “Leading Principles.” All these principles — they are eight, in twelve paragraphs — are constitutional principles, neither more nor less.
+
+Any recognized Protestant theological faculty in Scandinavia or Germany that is allowed to see the principles will be able to tell us that. That they are of significance for spirit and life, no one will deny. But one may say that about all work for the kingdom of God, yes, also about collections of money for seminary, mission, and so forth. Week after week the receipts lay claim to many columns in Folkebladet. It never comes to an end, yet no one complains that they are not “spiritual.” At times they represent no little spirit.
+
+Leading Principles are constitutional principles. Pastor Caspersen has come into a tremendously mystical vein when in certain articles in Folkebladet he maintains that the question “Do you want a congregation?” and “Leading Principles” are something that bears upon personality, or that sets forth a “new type of Christian.” It is almost incomprehensible that a man with theological formation can write such a thing.
+
+Quite otherwise thought, wrote, and spoke Pastor E. Lou, who was known in his Bible as few among us were, and who followed theology and labored zealously as perhaps none of us did. Lou wrote an immense amount in former days in Luthersk Kirkeblad and in Folkebladet. He both thought and theologized, but in an altogether different, sober, unpretentious manner. In June 1914, when he reviewed Guide to the Free Church’s Principles, he wrote in Folkebladet:
+
+“If the people of the Free Church do not agree on this, that the principles are constitution, then the Free Church’s days are numbered.”
+
+Words almost prophetic, the fulfillment of which perhaps lies not so far off as many think.
+
+And this was not Lou’s thought only in 1914. In the last letter he wrote to me, shortly before his death — and I have permission to quote him — he said: “We are agreed concerning the principles, that they are constitution and not an exhortation to ‘awakening’ in this word’s meaning, as the ‘awakened’ understand it.”
+
+Now it may well be rather indifferent what we call the principles. If we had called them practical theology, that name would doubtless have given less offense than the more precise expression constitutional principles, for constitution is, after all, a part of practical theology.
+
+But since exceedingly different understandings of the principles prevail with respect to what they mean — and as to their value there will always be difference of opinion — it is surely right that they be made the object of discussion until agreement is reached on what they contain in themselves. For the Free Church is served only very little by having principles that mean one thing to some, another thing to others. It is meaningless to connect them with a “new type of Christian,” and it is likewise meaningless to confuse the Free Church’s task or purpose with its principles. The key to their understanding lies in the literature of church polity.
+
+Pastor Holck in Norway, one of the friends of reform, who in his day wrote much about questions of church constitution, wrote in the 1870s: “Indirectly it has been stated that the supreme principle for the church must be to look to its own need, to its purpose, to save souls, and that to this concern every other consideration must give way. In spite of its appearance of truth, this rests upon a manifest misunderstanding. To advance the church’s purpose, the salvation of souls, can never become a principle in the same sense in which religious liberty is one; it is a task that is to be solved.”
+
+When I hear that the principles are time and again classified under “spirit and life” and similar slogans, I see a picture: a schoolman lays four open books on a table, all in the English language; the one book treats astronomy, the second physiology, the third physics, and the fourth philosophy. “This is astronomy,” says the schoolman, “this is physiology, this is physics, this is philosophy.” No and again no, comes the answer from an obstinate Negro onlooker: “It is neither the one nor the other: it is all English!” One cannot make anything precise for such a caviler.
+
+But if we could now agree that the principles are constitution, would that mean that the Free Church’s foremost task is to work for constitution?
+
+No, every church’s foremost task must be the salvation of souls. But if that were all that mattered, then one could simply refrain from organizing congregations, and still less from organizing associations of congregations. There must be something more.
+
+In the Free Church’s Rules — rules are not the same as principles — we read that the purpose of the association called the Lutheran Free Church is to labor “for the quickening and liberation of all Norwegian Lutheran congregations.” Is it only the awakening and salvation of souls that are here being aimed at?
+
+The men who framed the principles should here be allowed to speak. Sverdrup wrote: “It is not merely a question of awakening the individual conscience. It is not solely the task to bring the individual to the Savior. The task is to awaken consciousness of the congregation’s essence and calling, by the power of the Word and the Spirit, to build up and fill out the body of Christ.” (Collected Writings III.)
+
+And in other places he writes of the manifestation of the body of Christ, that the congregation shall win its proper position among us, and so forth.
+
+It is the duty of all Christians to labor for the quickening and liberation of individuals. But it is not thereby said that this, without more ado, means “the quickening and liberation of the congregations.” In Norway much Christian work is done — I am inclined to think that there is even more fear of God among the church people there than among us. But in spite of this Sverdrup would not admit that in the Norwegian state church there are congregations in the proper sense of the word. I do not state my own opinion here, but Sverdrup’s — and precisely in order to shed light on the principles. After a visit to Norway in 1886 Sverdrup wrote this:
+
+“The state church has too little room for Christian and ecclesiastical work.... There is no congregation in the proper sense of the word in which there is room for all gifts and use for all hands. If some Christian man or woman feels a call and inclination to some work, then they must break their own way on their own. There is no one who marks out the field of labor for them....
+
+“Naturally there is room for many works of love and much self-sacrifice in family life, in the school, in private intercourse with people. But the actual specifically Christian field of labor is lacking, the congregation, the body of Jesus Christ. In all outward respects it is so bound by law, and in a certain sense so fatherly provided for by the state, that there is no room for the Christians’ self-sacrificing labor for it.
+
+“Christian people who come from Norway to America often find that the brethren in the Free Church are so dry and cold, so filled with busyness, that it is almost doubtful whether they can really have any true heart Christianity, any inward life in God. They seem to them far too outward-turned and directed toward work.
+
+“Conversely, he who comes from America to Norway gets the impression that Christianity is chiefly feeling, inwardness, contemplation, thought, but little or no work....
+
+“But it would be altogether unjust to conclude from this that there is therefore less true and honest fear of God in the one place than in the other.”
+
+Thus: the fear of God is to be equally true and honest in both lands. And yet: no congregation in the proper sense of the word in Norway.
+
+How then can the sort of language we hear so much of be grounded in Sverdrup, language which says that if only souls are converted and brought to God, then one is thereby, without more ado, laboring for the quickening and liberation of the congregation?
+
+Certainly, one must begin with individuals, but one cannot remain standing with individuals. If there should be found a little congregation in which all were believers, could one then say that it did not need to be counted among those congregations to which the Free Church refers when in its rules it speaks of “the quickening and liberation of all Norwegian Lutheran congregations”?
+
+No, according to the Augsburg understanding of the congregation, something more is required: there must be labor so that the congregation becomes a visible congregation, which, because it bears the name of the invisible congregation, must answer to this its name.
+
+Therefore it is not consistent to say that the organizations are indifferent. But it is tempting to speak thus, which Sverdrup also emphasizes when he says:
+
+“In the New Testament such high and holy words are spoken about the congregation that many have given it up in despair and have sought to escape from the holy demand by teaching that all the great and glorious things are said about an invisible congregation, and that is — another matter.”
+
+“The body of Christ, that whereby Christ is seen, that through which Christ works, is visible, because it is believing men and women who labor with the Word and the Sacraments, and it is precisely these outwardly organized societies that are called congregation.” (1897.)
+
+Here the Norwegian Lutheran Free Church distinguishes itself from the “societies” and the “people’s churches” and the “state churches,” which make the congregations into wholly subordinate members of the larger organizations or at any rate do not set them higher than these organizations. The Free Church regards the local congregation as a divine institution; it regards the other organizations as human arrangements.
+
+Pastor P. L. Tangjerd has in Four Hundred Years of Lutheranism criticized the Free Church for this. He says that sentences such as “the congregation is of divine origin, but the association of human origin,” “the local congregation is the proper form of the kingdom of God on earth” — are “suited to confuse the concepts.”
+
+He continues:
+
+“What is a congregation? Disciples gathered around the means of grace (‘two or three in Jesus’ name’). Whether they have an outward organization, how long the gathering lasts, how near one another the disciples live, and so forth, plays no role. An annual meeting of the association is in the biblical sense just as much a congregation as any local congregation within the association. Both are equally much and equally little ‘instituted by God’ and ‘the proper form of the kingdom of God on earth’.... ‘Congregation’ and ‘association’ stand side by side with respect to divine institution....”
+
+(To be continued.)

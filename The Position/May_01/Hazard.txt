@@ -1,0 +1,277 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* princip / principer: Not merely “principle(s)” in a loose modern sense, but foundational axioms, governing grounds, or first rules within theology, ethics, and church polity. The term carries systematic-theological weight throughout the passage.
+* grundsætning / grundvold / forklaringsgrund / støttepunkt / hvilepunkt: A cluster of foundation-metaphors that overlap conceptually but are not identical. They must not be collapsed into one repeated English term. Each contributes to the conceptual architecture of “princip.”
+* gyldighet: Here not merely “validity” in an abstract logical sense, but binding force or authoritative standing.
+* livsytringer: Literally “expressions of life,” but with philosophical and organic resonance. A too-flat rendering like “behaviors” would diminish the author’s conceptual range.
+* stræbemaal: A foreignizing term in the original, marked as such by the author. It suggests aim, object of striving, or telos. It must preserve the slightly technical/philosophical tone.
+* tankegenerationen: Not biological generation, but the whole generative unfolding of thought.
+* kristelig princip: “Christian principle,” but in this register it means a foundational Christian ground, not a vague value statement.
+* over evne: Idiomatically “beyond one’s power” or “too difficult,” not “over ability” in a literalistic sense.
+* svigtende grundvold: “Failing” or “giving way” foundation; it suggests instability under weight, not mere weakness.
+* principlære / fundamentallære: Technical disciplinary terms within dogmatics and ethics. These should be rendered as “doctrine of principles” / “fundamental doctrine” or equivalent, not flattened into “basic ideas.”
+* troeslære: Older spelling for “doctrine of faith,” catechetical or dogmatic instruction.
+* erkjendelse / erkjendelsesteoretiske: Cognition, knowledge, epistemic apprehension. The text uses the terms in a formal theological-philosophical way.
+* avgjørende kristendomsnorm: Not simply “important rule,” but decisive normative standard for Christianity.
+* skriftprincipet: A technical term: the principle of Scripture, or scriptural principle.
+* retfærdiggjørelsen av troen alene: As printed, literally “justification of faith alone,” but context indicates the Reformation’s material principle, i.e. justification by faith alone. This must be rendered in doctrinally standard form.
+* Guds rike / aabenbaret Guds naadegjerning / Kristi retfærdighet: Theological phrases that must retain doctrinal precision and biblical resonance.
+* regulativt princip: Guiding, regulative principle; technical, not casual.
+* i Kristus: A Pauline formula of immense theological density. It must remain unforced and scripturally recognizable.
+* stoltheten / samvittigheten / kjærlighet / gjenfødelsen / evolutionen: Competing ethical principles named in compressed historical survey form; each must be rendered precisely and consistently.
+* Kristus levende og virkende i os ved ordet: Dense theological phrasing; “the Word” is likely intended, not merely “word” in a generic sense.
+* Gudssamfundet: Communion/fellowship with God. “Community” would be incorrect.
+* livssamfund: Life-fellowship / living communion; important to preserve the compound force.
+* frigjørende magt: Liberating power; not merely influence or inspiration.
+* kirkeforfatning: Church polity / church constitution / ecclesiastical order. The term is central and should remain stable.
+* almindelige prestedømme: The universal priesthood / priesthood of all believers. This is a major Reformation doctrine and must be rendered with care.
+* menighetsprincipet / kirkeprincipet: Technical polity labels coined or used programmatically.
+* avrundende avsluttende verk: A rounded, concluding work; rhetorical emphasis on the unrealized synthesis.
+* for the time being: English phrase already in the source; preserve it as an intentional stylistic insertion.
+* indsats: Contribution, effort, intervention. Here likely “contribution” or “achievement” in theological discourse.
+* eklektikere: Eclectics, not merely “broad thinkers.”
+* distinct contribution: English phrase in original; preserve this marked insertion.
+* indlæg: Intervention, contribution, statement in controversy; not a physical “insert.”
+* vantro Thomas: “Doubting Thomas,” biblical-cultural allusion with polemical edge.
+* spor: Track, path, course; contextually “the right track.”
+* smaatterier: Petty trifles / trivialities; needs mild contempt without slanginess.
+* bilægge den ad overbevisningens vei: To settle it by the way of conviction/persuasion, not coercion.
+* katoliserende hierarkisk grundanskuelse: A Romanizing / Catholicizing hierarchical fundamental view; heavily polemical and ecclesiological.
+* gebet: German loanword meaning sphere/domain/territory; should not be awkwardly literalized.
+* eneberettiget / medberettiget: Exclusively legitimate / co-legitimate; juridical-ecclesial nuance.
+* troskap mot kirken og dens bekjendelse: Loyalty / faithfulness to the Church and its confession.
+* opfordret til gjentagelse og motsigelse: Moved/called to reiteration and contradiction/refutation; the latter should preserve polemical force.
+* principiel opfattelse, utvikling, sammenstilling og begrundelse: Principial/fundamental understanding, development, coordination, and grounding. A dense academic sequence that should remain ordered.
+* lavkirkelige / høikirkelige: Low-church / high-church; ecclesiastical party labels.
+* embedet som en guddommelig indstiftelse: The office/ministry as a divine institution, a contested doctrinal claim.
+* forvaltningen av sakramenterne: Administration of the sacraments, not merely “use.”
+* forløsende ord: A word of release / liberating word / relieving word. Context suggests a decisive and freeing intervention in controversy.
+* stormagt: Great power, major force. In this context metaphorical, not geopolitical in the literal sense.
+
+Syntactic Hazards
+
+* The prose relies on long cumulative sentences with appositional layering. Breaking them into short modern English sentences would flatten the conceptual build-up.
+* Semicolons and colons organize doctrinal exposition and categorical division. These punctuation marks carry argumentative force and should often be preserved.
+* Numbered sections (1, 2, 3) structure the argument and must remain visibly parallel.
+* Definitions proceed by serial reformulation (“Det er … Det er … Som saadant … Men …”). The translation must preserve this unfolding logic.
+* Parentheses and dashes frequently carry secondary authority, historical notes, and rhetorical qualification. These should not be omitted.
+* The quoted Höfling passage contains very long nested subordinate clauses. These must remain intelligible without losing the pressure of accumulation.
+* The author alternates summary statements with rhetorical questions (“Men hvad er det nu for et princip …?”). These should retain their oral-theological rhythm.
+* Lists of names and views are compressed and syntactically lean; over-explaining them in translation would distort the academic style.
+
+Theological Hazards
+
+* The distinction between the formal and material principles of the Reformation is doctrinally exact and must not be blurred.
+* “Scripture as the only decisive norm” must remain exclusive in force.
+* “Justification by faith alone” must be rendered in the conventional doctrinal form, preserving Protestant theological precision.
+* “In Christ” is not decorative but theologically determinative, especially in Pauline context.
+* Ethical formulations involving faith, love, regeneration, and communion with God must retain confessional nuance.
+* “The universal priesthood” is a doctrinal cornerstone in the church-polity section and cannot be weakened into generalized lay participation.
+* The contrast between visible and invisible Church in the discussion of Kahnis versus S. and O. is ecclesiologically significant.
+* The high-church/lower-church controversy concerns ministry, sacrament, ordination, confession, and church principle; these categories must remain doctrinally explicit.
+
+Voice Hazards
+
+* The voice is didactic, polemical, historically informed, and ecclesially committed. It must not become neutral textbook prose.
+* The author speaks with evaluative authority; phrases like “It is to be regretted,” “I do not say,” and “It is not too much to say” must retain their measured assertiveness.
+* Mild irony and sharpness appear in phrases like “some ‘doubting Thomas’ among us” and in the dismissal of “diverse small trifles.” This edge should remain, but without colloquial modern sarcasm.
+* The prose moves between exposition and advocacy. Translation must preserve the sense that ideas have ecclesial consequences.
+* Foreign insertions (“for the time being,” “distinct contribution”) are stylistically marked and should remain marked.
+
+STEP 2: IDIOM ANALYSIS
+
+* staar og falder med: Idiom meaning “stands or falls with.” It expresses total dependence of the whole on the validity of the foundation. A literal rendering is also the natural English equivalent.
+* veiens enhet: Literally “the unity of the way/path.” In context it refers to a unifying line or principle from which multiplicity is derived. A too-literal rendering could sound odd; “the unity of the way” may still be preserved if the philosophical tone is wanted, but the translator must ensure intelligibility.
+* befrugtende sæd: “Fertilizing seed” or “fruitful seed.” This is organic and generative imagery for thought. It should not be paraphrased into “inspiration.”
+* over evne: Means “beyond one’s strength/ability.” Here the author says a Christian principle is not burdensome in that sense; it is something one stands upon.
+* skriften, som den eneste, avgjørende kristendomsnorm: Strongly echoes Protestant confessional language about Scripture as sole norm. “Only decisive norm of Christianity” preserves the polemical exclusivity.
+* retfærdiggjørelsen av troen alene: Though printed unusually, the doctrinal reference is plainly to the Reformation formula “justification by faith alone.” This should be normalized in English for doctrinal accuracy.
+* Guds rike … virkeliggjort i Kristi retfærdighet: Echoes biblical and dogmatic language: Kingdom of God, grace-act, righteousness of Christ. This is not idiomatic fluff but compressed theology.
+* i Kristus: A pervasive Pauline expression with likely echoes of Romans, Corinthians, Galatians, Ephesians, Philippians, and Colossians. English should retain the simple biblical form “in Christ.”
+* virksom gjennem kjærlighet: Likely echoes Galatians 5:6, “faith working through love.” This is a case where a familiar biblical English equivalent is especially apt.
+* almindelige prestedømme: Classic Reformation phrase, often rendered “the universal priesthood” or “the priesthood of all believers.” The latter may help clarity, but because the original is concise and principial, “the universal priesthood” preserves the conceptual character.
+* det synlige Kristi legeme: “The visible body of Christ.” This draws on Pauline ecclesiology and must remain biblical in resonance.
+* for the time being: Already English in the original; it likely reflects educated multilingual style. It should remain exactly as is.
+* vantro Thomas: Biblical allusion to Thomas in John 20. Standard English idiom is “Doubting Thomas.”
+* ind paa det rette spor: “Onto the right track.” The metaphor is conventional and may be rendered idiomatically.
+* bilægge den ad overbevisningens vei: Literally to settle it “by the way of conviction.” Natural English is “to settle it by way of persuasion” or “through persuasion.”
+* katoliserende hierarkisk grundanskuelse: Not a set idiom, but a loaded confessional polemical phrase. It should preserve its force: “a manifestly Catholicizing hierarchical fundamental view.”
+* sit ganske hjerte tilhører: Echoes biblical-devotional idiom of whole-hearted belonging. “Belongs with all his heart” preserves the moral weight.
+* gjentagelse og motsigelse: Formulaic controversial prose: repeated assertion and contradiction/refutation. A purely modern phrase like “respond again” would be too weak.
+* forløsende ord: In theological register, “a word of release” or “a liberating word.” Since the context is controversy, “a liberating word” works naturally while keeping resonance.
+
+King James or traditional biblical equivalents that may be naturally helpful without importing archaic pronouns
+
+* “stands or falls with”
+* “in Christ”
+* “faith working through love”
+* “body of Christ”
+* “Doubting Thomas”
+
+Expressions where literal translation would obscure force
+
+* veiens enhet: requires careful handling so it does not sound bizarre in English.
+* over evne: should not be rendered woodenly.
+* retfærdiggjørelsen av troen alene: should be doctrinally normalized as “justification by faith alone.”
+* principlære / fundamentallære: must sound like technical theological disciplines, not school primers.
+* bilægge den ad overbevisningens vei: needs idiomatic English preserving the contrast with coercive conflict.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: The author begins by defining what a principle is in general: a foundational proposition, beginning-point, or governing rule, the validity of which supports or undermines the whole.
+* Expansion of concept: He deepens the definition by describing principle as a unifying source from which many life-expressions derive, and as a resting-point, seed, support, explanatory ground, and foundation for all dimensions of life.
+* Christian application: He insists that a Christian principle is not oppressive or beyond one’s strength; it is a foundation that supports and bears. Sverdrup’s aphorism about a false principle as a failing foundation reinforces this.
+* Transition to disciplines: The essay then turns to theology’s subfields, stating that dogmatics, ethics, and church polity each have their own principles. This yields the three-part structure.
+* Part 1, dogmatics: The author identifies the two classic Protestant/Reformation principles: the formal principle (Scripture as sole decisive norm) and the material principle (justification by faith alone). He then explains that dogmatics concerns knowledge and requires both direction/goal and a regulative principle, illustrated through Vang’s interpretation of Paul: all is led by the principle “in Christ.”
+* Part 2, ethics: The author surveys competing accounts of ethics’ principle across history—pride, conscience, love, faith, regeneration, evolution—before listing several theological definitions. The movement narrows toward positions compatible with the author’s own ecclesial camp, culminating in Oftedal, Gunneren, and Sverdrup: Christ’s liberating power in a Christian life of personality.
+* Part 3, church polity: The author proposes that the highest principle for church constitution is the universal priesthood, which Kahnis regarded as the Reformation’s third principle. The crucial distinction follows: Kahnis applied it to the invisible Church, whereas Sverdrup and Oftedal applied it to the visible body of Christ, the congregation, naming it the congregational principle.
+* Evaluation of Sverdrup and Oftedal: The author laments that they never produced a final rounded work stating their principles comprehensively. He argues this would have been their greatest practical-theological contribution.
+* Historical-theological judgment: He claims their most distinctive contribution lay not in dogmatics, exegesis, or history, where they were more eclectic, but in church polity and the doctrine/concept of the Church.
+* Comparative claim: He compares their contribution, even in the small amount contained in “Veiledning,” to Höfling’s influential work, calling their intervention similarly epoch-making and in several respects a major advance.
+* Supporting evidence via Höfling: To prove that church polity concerns deep principles rather than outward forms and trifles, he cites Höfling’s preface at length. The quotation argues that confusion and conflict over church principles could lead to schism, especially under pressure from a Catholicizing hierarchical view.
+* Closing application: After the quotation, the author situates Höfling in the low-church/high-church controversy, describes the opponents’ positions, and concludes that Höfling’s work decisively defeated that tendency in Europe, though its heirs came to America, where the tendency has become a major force.
+
+This progression must remain intact: definition → classification → doctrinal exposition → polity application → historical evaluation → evidentiary quotation → confessional-historical conclusion.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “i Kristus” / “in Christ”: Strong Pauline echo, especially Romans 8:1; 12:5, 1 Corinthians 1:30; 15:22, 2 Corinthians 5:17, Galatians 3:28, Ephesians 1:3 and many others.
+* “retfærdiggjørelsen … troen alene” / justification by faith alone: Not a direct biblical quotation, but a Reformation doctrinal formulation rooted especially in Romans 3–5 and Galatians 2–3.
+* “Guds rike” / Kingdom of God: Frequent Gospel and apostolic biblical language.
+* “Kristi retfærdighet” / Christ’s righteousness: Pauline doctrinal language, especially Romans and 2 Corinthians 5:21, Philippians 3:9.
+* “virksom gjennem kjærlighet” / working through love: Strong echo of Galatians 5:6.
+* “det almindelige prestedømme” / universal priesthood: Rooted chiefly in 1 Peter 2:9 and Revelation 1:6; 5:10, with Reformation doctrinal elaboration.
+* “det synlige Kristi legeme” / the visible body of Christ: Pauline Church imagery from Romans 12 and 1 Corinthians 12.
+* “vantro Thomas” / Doubting Thomas: John 20:24–29.
+* “sit ganske hjerte” / with all his heart: Broad biblical-devotional idiom echoing whole-hearted devotion language, e.g. Deuteronomy 6:5, Jeremiah 29:13, though here not a direct citation.
+* The overall contrast of visible/invisible Church and ministry/sacrament/ordination is not directly biblical quotation, but deeply shaped by Protestant dogmatic use of biblical categories.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author’s judgments must remain decisive. He is not merely cataloguing positions; he is weighing them.
+* Phrases expressing regret, evaluation, and comparison must retain force: “It is to be regretted,” “I do not say,” “It is not too much to say.”
+* Polemical terms directed against hierarchical or semi-Catholic tendencies must not be softened.
+* The Höfling quotation must retain its sense of danger: confusion, conflict, schism, and the urgency of persuasion.
+* The closing statement about the tendency becoming “a major power” in America must preserve alarm and seriousness.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* maa / maatte / kunde: These forms often indicate necessity, consequence, or possibility with real argumentative pressure. They should not be weakened into mild hedges.
+* maa gaa / maa betegnes / maa føle sig opfordret / maa være saa heldig: Each instance needs modal force preserved according to context: necessity, obligation, or earnest wish.
+* skulde lykkes: Conditional but weighty; “should succeed” preserves the tenor.
+* kunde gi anledning / kunde de ha gjort / neppe kunde ha gjort: Retain real potentiality or comparative limitation.
+* blev tilkjendt / burde kunne bidra: Preserve evaluative or normative force.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* princip / principer = principle / principles
+* grundsætning = fundamental proposition / foundational proposition (context-sensitive, but stable within definitional passages)
+* grundvold = foundation
+* skriften = Scripture
+* skriftprincipet = the principle of Scripture / the scriptural principle
+* det formale princip = the formal principle
+* det materiale princip = the material principle
+* retfærdiggjørelse = justification
+* tro = faith
+* Guds rike = the Kingdom of God
+* naadegjerning = gracious act / act of grace
+* Kristi retfærdighet = Christ’s righteousness
+* etik = ethics
+* kjærlighet = love
+* troen virksom gjennem kjærlighet = faith working through love
+* gjenfødelsen = regeneration
+* kirkeforfatning = church polity
+* almindelige prestedømme = the universal priesthood
+* kirkeprincipet = the Church principle
+* menighetsprincipet = the congregational principle
+* menigheten = the congregation
+* Kristi legeme = the body of Christ
+* embedet = the ministry / the office (choose by context; likely “the ministry” in ecclesial controversy, but “the office” where juridical emphasis is strongest)
+* sakramenterne = the sacraments
+* ordinationen = ordination
+* bekjendelse = confession
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Foundation imagery must remain: foundation, resting-point, support, ground.
+* Organic imagery must remain: fertilizing seed, developmental powers.
+* Path imagery must remain where possible: unity of the way, right track, way of persuasion.
+* Body imagery must remain: visible body of Christ.
+* Military/power imagery at the end (“stormagt”) should remain strong: major power / great power.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The opening is explanatory and conceptual.
+* The middle sections are academically classificatory.
+* The later sections become evaluative and then openly polemical-historical.
+* The Höfling quotation intensifies anxiety and warning.
+* The final historical remarks turn confident in judgment yet ominous in application to America.
+
+These tonal shifts must remain visible rather than being leveled into uniform academic prose.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The prose is suited to public theological exposition. English should preserve the movement of clauses and the rhetorical landing points.
+* Repetitions such as “Det er … Det er …” and “Ogsaa … Ogsaa … Ogsaa …” should be retained where possible to preserve oratorical structure.
+* Numbered transitions and rhetorical questions should sound spoken as well as written.
+* The Höfling quotation should preserve long-breathed cadence rather than being aggressively segmented.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Installment 8: “Folkebladet,” May 01, 1918
+
+Position.
+(J. D. Evjen)
+
+(Continued.)
+
+A principle is commonly a foundational proposition. It means beginning, and it is applied to the first propositions or chief rules which one follows within a given domain. It is “that ground with whose validity the rest stands or falls.”
+
+It is, in other words, the unity of the way from which a multiplicity of expressions of life are derived and explained, an original unity to which thought may be led back. As such it may be what, in a foreign term, one calls a “goal of striving.” But in the first line, and essentially, it is a resting-point, fertilizing seed for the whole generation of thought, a point of support, an explanatory ground for the whole of the powers of development in, and a foundation for, the moral, religious, material, personal, and social life.
+
+A Christian principle is not beyond one’s strength. It is a foundation upon which to stand, something that supports, that bears. Therefore Sverdrup could write—and it was among the last things he wrote (see facsimile in S. S. III.)—“A false principle is like a failing foundation.”
+
+Dogmatics has its principles. They are treated in what is called the doctrine of principles in dogmatics, or fundamental doctrine, which constitutes almost a third of this discipline (for example, Kirms’s, v. Oettingen’s). Lønning’s little doctrine of faith, which in my school days was used at Augsburg, contained no doctrine of principles, for which reason nothing further was said about it in “class.”
+
+Ethics also has its principles. They are found in the doctrine of principles in ethics, which likewise constitutes about a third of the discipline of ethics. Since nothing in this discipline was taught at Augsburg, nothing further was said there about the principles of ethics either.
+
+Church polity also has certain principles which are derived from a fundamental principle. The principles of church polity were not discussed to any extent in “class.” Instruction in this area came theoretically chiefly through the newspapers, and practically through the church conflict.
+
+Thus: three groups of principles.
+
+1. What are the dogmatic principles?
+   One speaks of two great Reformation principles, which at the same time are the chief foundational propositions for all Protestant dogmatic thought: the formal principle and the material principle, first set forth by Twesten in 1829.
+
+The formal principle is the foundational proposition concerning Scripture as the sole decisive norm of Christianity. It is the epistemological point of departure, the source to which we must go. It is the principle of Scripture.
+
+The material principle is the foundational proposition concerning justification by faith alone. It is the religious principle for a dogmatic evaluation of Christianity. It may also be designated as the Kingdom of God, a revealed act of divine grace, realized in Christ’s righteousness.
+
+Dogmatics has to do with knowledge. On the one hand, it has a direction and an aim. On the other hand, it has a regulative principle, something that guides. The Danish dogmatician T. R. Vang says that “the direction and goal of Paul’s knowledge” are “God’s thoughts concerning human beings, the content of his will, his plan of salvation and its fulfillment.” And then he asks: “But what now is the principle that guides him in this his energetic thinking?” “He has expressed it in the words that return again and again: in Christ.”
+
+2. If one asks: What is the principle of ethics? then the answers differ. In ancient ethics it was pride. In Abelard’s ethics (the Middle Ages) it was conscience. Reinhard (ca. 1800) held that the principle of ethics was love (against Kant’s principle, pure morality). Goethe said: “I bow before him (Christ) as the divine revelation of the highest principle of morality;” but in Goethe’s eyes Christianity was surely only a revelation of natural religion. He also wanted to worship the sun, “for it is likewise a revelation of the highest!” De Wette made faith the principle of moral teaching, Harleß regeneration, Darwin evolution.
+
+According to J. T. Beck, the principle of ethics is “Christ living and working in us through the Word.” Gisle Johnson: “The Christian faith, as it shows itself working through love.” Luthardt: “Communion with God in Christ, which in faith becomes a personal reality, and in life shows itself working in love.” N. Seeberg: “Humanity’s living communion with God in order to serve God with a view to the aim of the eternal ideal.” Grützmacher: “The source and principle of theological ethics is the Christian character.” Oftedal, Gunneren, and Sverdrup: “Christ’s liberating power in a Christian life of personality.”
+
+3. If we were to seek a highest principle for polity, a fundamental thought from which, for example, Living Principles is derived, then it would have to be the universal priesthood, which Kahnis regarded as the third principle in the Reformation. But whereas Kahnis called it the Church principle and applied it to the invisible Church, S. and O. applied it to the visible body of Christ, the congregation, and called it the congregational principle.
+
+Living Principles are foundational propositions for church polity derived from one of the chief principles of the Reformation, the universal priesthood.
+
+It is to be regretted that S. and O. did not have time to give expression to their principles in a rounded, concluding work. With such a work they could have made—for the time being—a contribution in practical theology which they could scarcely have made by any other work. In the area of polity they represented, for more than a generation—and with all diligence—a direction which must be described as new within Lutheran theology. Here their plus was greater than it was in dogmatics, exegesis, or history. Sverdrup was a gifted teacher in dogmatics, and he was well at home in the Old Testament. But did he represent any new direction in these disciplines? If so, wherein did it consist? Oftedal had wide-ranging interests, but did he represent any new direction in New Testament exegesis or in church history? In these areas, compared with the field of polity, they were essentially eclectics.
+
+I do not say that this was less important than that which they contributed to polity. But in the history of theology, in the area of the concept of the Church, their illumination of church polity will stand as their distinct contribution. Even the little that has been included in “Veiledning” can, in its significance, be placed on a par with Höfling’s well-known work, Fundamental Propositions for Evangelical Lutheran Church Polity (year 1850, 225 pages, 3 editions in two years, also translated into Norwegian). Höfling’s book was accorded the predicates “epoch-making,” “of enduring significance.” It is not too much to say that the contribution of S. and O. (even in Veiledning) just as fully deserves the same predicates. In several respects the contribution of S. and O. signifies a great advance.
+
+Höfling’s book ought to be able to contribute a little toward setting some “Doubting Thomas” among us on the right track, since it both says and proves that church polity goes deeper than merely external forms and various trifles, about which those who know least of the discipline never grow tired of talking. In the preface Höfling says:
+
+“It is not single forms of Evangelical-Lutheran church polity, but properly its principles and foundational propositions, concerning which in our day, alongside great confusion, there prevails a great difference of opinion, and concerning which in various places a controversy has arisen that threatens to become serious and could even give rise to a lamentable schism, if it should continue to be conducted in the same manner as hitherto and if it should not succeed in being settled by way of persuasion. A manifestly Catholicizing hierarchical fundamental view seeks to assert itself within the sphere of our Church, even if not as exclusively legitimate, then at any rate first of all as co-legitimate, in that it supposes itself to display a quite particular fidelity to the Church and its confession. The less now the author can regard the important meaning of our confession, or the true consequences of our Church principle with respect to this point, as doubtful, the more must he, in the interest of that Church and that confession to which he belongs with all his heart, feel himself called to reiteration and contradiction. And his highest wish is now that he may be so fortunate as to set forth the distinctive principles and foundational propositions of Evangelical-Lutheran church polity in a manner convincing to all. When he believes that he gives here one thing or another that is new, this applies not so much to practical results as to principial understanding, development, arrangement, and grounding…”
+
+So much for Höfling.
+
+Höfling represents the low-church standpoint in the ecclesiastical controversy in Germany around 1850. The leaders of the high-church party who attacked him were men such as Stahl, Löhe, Lechler, Huschke, Kliefoth, Dieckhoff, Münchmeyer—well-known names in church history. These men laid great weight on the Church’s legal determinations, regarded the ministry as a divine institution, and held semi-Catholic notions concerning the administration of the sacraments, ordination, and so forth (Lønning became their faithful disciple).
+
+Höfling’s writing became a liberating word. The tendency he combated suffered a great defeat. There are now exceedingly few in the Lutheran lands of Europe who represent this tendency. The heirs came to America. Here the tendency has become a major power.
+
+(To be continued.)
+
+Source file: fileciteturn0file0

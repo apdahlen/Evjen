@@ -1,0 +1,316 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* stillingen: not merely “the position” in a casual sense, but a settled doctrinal or ecclesiastical position, stance, or formulation.
+* verk: older Scandinavian usage for “work,” often a substantial scholarly work.
+* kirkebegrep: not just “church concept,” but a developed theological conception of the Church.
+* ledende principer: not merely “guiding principles” in a managerial sense, but authoritative governing principles under doctrinal discussion.
+* privatim ialfald: “privately at least,” with the sense that, if not publicly, then certainly in private study and discussion.
+* fordyper man sig: “if one immerses oneself,” stronger than simply “looks into.”
+* helhetsanskuelse: comprehensive view, total conception, integrated grasp.
+* sporansen: older form, likely meaning the spur, impulse, or incentive; spiritually, inner drive or keenness.
+* frugtbringende indsættelse: fruitful engagement, application, or sustained effort, not merely “insertion.”
+* ordet: often “the Word” in a theological sense, and in context may carry Scriptural authority, not mere speech.
+* menighet: must be handled consistently as “congregation” rather than “church” where the local gathered body is in view, because the local congregation is central to the argument.
+* samfund / kirkesamfund: “communion,” “association,” or “denomination,” depending on context; must not be flattened.
+* de helliges samfund: communion of saints; a fixed doctrinal phrase with confessional resonance.
+* uorganiserte / organiserte: these contrast formal outward organization with the reality of the congregation; must not be rendered too loosely.
+* væsen: essence, being, intrinsic nature; a heavily theological word.
+* embedsmænd: officebearers or ministers, not merely “officials.”
+* utvortes / indvortes: outward / inward, but these terms are themselves discussed as problematic and must be preserved carefully.
+* blandingsformen: mixed form, referring to the visible congregation as containing both believers and hypocrites.
+* i uegentlig forstand: in an improper or non-strict sense.
+* grundvold: foundation, specifically theological foundation.
+* komme ihu: remember, call to mind; older solemn diction.
+* brøde: transgression, offense, guilt; stronger than “mistake.”
+* vanhellig: profane, unholy, desecrating.
+* menighetsskikkelse: outward congregational form or shape.
+* realiter: in reality, in actual fact.
+* konstituerende medlemmer: constitutive members, members in the proper defining sense.
+* hyklere: hypocrites; must retain full moral force.
+* bestanddel: constituent part.
+* sakrament: sacrament; significant because the text compares views of congregation and sacrament analogically.
+* nadveren: the Supper, the Lord’s Supper, Holy Communion; choose one term and retain consistency.
+* fortapelse: perdition, damnation, destruction; cannot be weakened.
+* indstiftelse: institution, specifically divine institution.
+* aabenbarelsesform: form of manifestation, mode of outward manifestation.
+* fysiologisk nødvendig: organically necessary, perhaps quasi-natural necessity; should not be reduced to “practical.”
+
+Syntactic Hazards
+
+* Very long argumentative sentences accumulate distinctions through semicolons, commas, and subordinate clauses. These must not be broken up so much that the reasoning loses pressure.
+* Parenthetical clarifications and inserted contrasts are structurally important and often carry polemical force.
+* The passage moves repeatedly through thesis, qualification, counter-position, and reaffirmation in a single sentence.
+* Quoted material from S. and D. contains layered clause structures that mirror sermon or lecture prose; these should retain their cumulative logic.
+* Contrastive formulas such as “for det første ... for det andet” and “ikke ... men” are doctrinally load-bearing and must remain explicit.
+* The text often moves from general claim to local application without warning; this cadence should be preserved.
+* The footnote material sharpens, rather than digresses from, the main argument; it should not be trivialized.
+
+Theological Hazards
+
+* The distinction between the holy catholic Church, the communion of saints, and the local congregation is central and must remain sharply differentiated.
+* The claim that the congregation is the only God-appointed outward form of the Kingdom of God on earth is doctrinally decisive.
+* “Body of Christ,” “temple of God,” “bride of Christ,” and “Kingdom of God” are not decorative metaphors but ecclesiological assertions.
+* The distinction between believers as proper members and unbelievers as outwardly attached members must remain precise.
+* Word and Sacraments are presented as constitutive of the congregation in the biblical sense; this must retain confessional clarity.
+* The text rejects both ecclesiastical collectivism and atomized pietism; both poles must remain visible.
+* Necessity language concerning congregation, salvation, danger to the soul, and contempt for God’s ordinance must not be softened.
+* “Absolute necessity where possible” is a strong doctrinal claim and must retain full modal force.
+
+Voice Hazards
+
+* The prose is polemical, earnest, and exacting, but not sensational; translation must preserve gravity without melodrama.
+* The author repeatedly presses the reader with rhetorical questions. These must remain searching, not casual.
+* The style assumes an audience morally implicated by the argument; this pressure must remain intact.
+* The contrast between careful scholarly analysis and spiritual warning is part of the voice.
+* Terms like “ulykkeligste uttryk,” “forvirrende,” “sørgelig mangel,” “stor fare for deres sjæl,” and “kan ikke komme bort fra” must retain firmness.
+* The argument proceeds with juridical and sermonic inevitability; smoothing would erase that force.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Vi har Abraham til far” is a biblical allusion to Matthew 3:9 and Luke 3:8. It signifies complacent reliance on inherited religious status. In English, “We have Abraham as our father” preserves the scriptural force.
+* “Gjør front mot” means “stands opposed to” or “fronts against.” It is more combative than mere disagreement.
+* “De helliges samfund” is a confessional phrase equivalent to “the communion of saints.” This should retain its ecclesial and creedal register.
+* “Guds rike paa jorden” is “the Kingdom of God on earth,” not merely a religious community. It carries biblical and eschatological force.
+* “Aandens folk i verden” means “the Spirit’s people in the world” or “the people of the Spirit in the world.” It has strong pneumatological resonance.
+* “Jesu Kristi legeme” and “Jesu brud” are scriptural ecclesial images from Pauline and broader biblical usage; they must remain concrete.
+* “Guds tempel er hellig” echoes 1 Corinthians 3:17. It functions as warning, not ornament.
+* “Hvor disse midler rettelig brukes” reflects confessional Lutheran idiom concerning the means of grace. “Where these means are rightly used” is a natural equivalent.
+* “Mission” in context likely means a mission station or missionary situation, not the abstract enterprise of mission.
+* “Det er ikke mangelen av sakramenterne som fordømmer, men det er foragten for dem” is a traditional theological distinction: lack due to impossibility does not condemn, contempt does.
+* “Fri-fri” appears to refer polemically to an extreme free-church or anti-institutional position. It should likely be retained with light clarification rather than normalized away.
+* “Komme bort fra” often means “evade” or “get away from,” not merely “move away from.”
+* “Vride paa deres uttalelse” means “twist their statements,” which carries polemical accusation.
+
+Where the King James Bible offers a natural English equivalent
+
+* “We have Abraham to our father” is too archaic for the present instructions. Better: “We have Abraham as our father,” retaining biblical recognizability without archaic pronouns.
+* “Body of Christ,” “temple of God,” “bride,” “foundation,” and “Kingdom of God” all have natural established English biblical equivalents.
+* “The Holy Spirit” and “the outpouring of the Spirit” are also naturally available in established biblical English.
+
+Expressions where literal translation would obscure force
+
+* “den rette form” should not always be “the right form” in a colloquial sense; often “the proper form” or “the true form” is stronger and more precise.
+* “utvortes” and “indvortes” cannot be handled mechanically as “external” and “internal” in every case; sometimes “outward” and “inward” better preserve devotional and theological cadence.
+* “stedmenighet” should be rendered as “local congregation,” not literally “place-congregation.”
+* “samfund av professorer ... og studenter” is not merely “group” but a constituted communal body.
+* “gripe forstyrrende ind” is more than “interfere”; it means intrude in a disturbing or disruptive manner.
+* “svarer til sit navn” means “answers to its name,” idiomatically “truly corresponds to what it is called.”
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Thesis
+
+* The author argues that the local congregation is fundamental in the ecclesiology of S. and D., and cannot be reduced either to the broad organized church or to a purely invisible communion of saints.
+
+Progression of thought
+
+* The passage opens by invoking Cairns and Aulen to frame the profundity of ecclesiology.
+* It then insists that the “guiding principles” must be seriously studied and discussed, because they raise necessary theological questions.
+* The author narrows special attention to principle no. 1 and insists that objections to it must be answered, not dismissed.
+* He rejects the attempt to explain principle no. 1 as if it referred merely to the unorganized holy catholic Church.
+* He then states the double opposition of principle no. 1:
+* * against complex church organizations as if they were the church in the scriptural sense;
+* * against the view that the communion of saints as an unorganized reality is all that is needed.
+* Historical quotations from S. and D. are then marshaled to prove that they regarded the congregation, not the larger church body, as the proper form of God’s Kingdom on earth.
+* The argument develops the distinction between the congregation’s inward essence and outward side, while insisting that the outward congregation remains a real and necessary form.
+* The author then clarifies how believers are true members, while unbelievers are attached only outwardly.
+* He addresses terminological confusion around visible/invisible and inward/outward.
+* He distinguishes outward congregation from outward organization, arguing that a congregation may exist before formal organizational structures arise.
+* He explains principle no. 2 and principle no. 4 together: theoretically, the congregation consists of believers; practically, hypocrites may be mixed into the outward organization.
+* He then intensifies the claim by showing how strongly S. and D. treated the necessity of the congregation, even analogically alongside sacramental necessity.
+* Concrete examples from Augsburg and from the question of multiple memberships reinforce the centrality of the local congregation.
+* The conclusion restates that the local-congregation concept is irreducibly fundamental for S. and D., and compares its necessity to the family’s necessity in social life.
+
+Concluding force
+
+* The passage ends by insisting that as the human race is called a family yet actually consists in particular families, so the whole Christian Church consists in individual congregations. The analogy seals the argument by making the local congregation structurally indispensable.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Vi har Abraham til far” echoes Matthew 3:9 and Luke 3:8.
+* “Guds rike paa jorden” echoes New Testament Kingdom language throughout the Gospels and Pauline theology.
+* “Aandens utgydelse” echoes Acts 2 and Joel 2 as interpreted in Pentecost theology.
+* “Jesu Kristi legeme” echoes 1 Corinthians 12, Romans 12, and Ephesians.
+* “Jesus Kristus til hoved og herre” echoes Christ as head of the Church, especially Ephesians 1:22-23, 4:15, 5:23, and Colossians 1:18.
+* “ordet og sakramenterne” reflects Lutheran confessional synthesis grounded in New Testament ministry and sacramental institution.
+* “Guds tempel er hellig” and warning against defiling it echo 1 Corinthians 3:16-17.
+* “Jesu brud” echoes bridal imagery in Ephesians 5 and Revelation.
+* “samles om ordet og sakramenterne” echoes the gathered church as constituted around apostolic means of grace.
+* “den levende grundvold” and building imagery echo 1 Corinthians 3 and Ephesians 2.
+* “retfærdighet, fred og glæde i den Helligaand” directly echoes Romans 14:17.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must preserve the sense that this is not neutral description but contested ecclesial argument.
+* Questions such as whether principle no. 1 fully agrees with the Word must remain sharp and unsettling.
+* Assertions that some attitudes make fruitful engagement unlikely must retain moral severity.
+* Language concerning danger to the soul, contempt, profanation, and distortion of the church must remain stern.
+* The tone should be disciplined and weighty, not dramatic or embellished.
+* Repeated insistence that one cannot escape the local-congregation concept must land with cumulative force.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* maa will generally be rendered as “must,” not “should,” unless context clearly weakens it.
+* bør, where present, should retain normative force as “ought” or “should,” depending on context.
+* vil in doctrinal assertions may signal not mere futurity but volitional or necessary pattern; context must govern.
+* “behøves” should often be “is needed” or “is necessary,” not merely “is useful.”
+* “absolut nødvendig” must be preserved as “absolutely necessary.”
+* “kan ikke komme bort fra” should be “cannot get away from” or “cannot evade,” not a softened paraphrase.
+* “koste hvad det vil” must retain sacrificial force: “whatever it may cost.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+Preferred renderings for consistency
+
+* kirke = church, unless the local gathered body is specifically meant
+* menighet = congregation
+* stedmenighet / lokalmenighet = local congregation
+* de helliges samfund = the communion of saints
+* Guds rike = the Kingdom of God
+* ordet = the Word
+* sakramenterne = the Sacraments
+* den Helligaand / Guds aand = the Holy Spirit / the Spirit of God
+* Jesu Kristi legeme / Kristi legeme = the body of Christ
+* grundvold = foundation
+* utvortes = outward
+* indvortes = inward
+* væsen = essence
+* embedsmænd = officebearers
+* kirkesamfund = church bodies or denominations, depending on context
+* fortapelse = perdition
+* sjæl = soul
+* indstiftelse = institution
+* aabenbarelsesform = form of manifestation
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* The congregation as the outward form of the Kingdom of God must remain a metaphorical and theological claim, not reduced to institutional utility.
+* Christ as soul and head of the body must remain vivid and bodily.
+* The temple image must remain cultic and morally dangerous: profaning the temple is not merely behaving badly.
+* The family analogy at the end must remain concrete and organic.
+* “Weapons turned against pietism and false spirituality” should preserve martial metaphor.
+* “Anchored fast” for prejudice should remain physical and forceful.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The text alternates between scholarly reflection, doctrinal exposition, and warning.
+* It begins with appreciative engagement with scholarship, then turns to rigorous examination.
+* It moves from patient distinctions to sharper polemical repudiation.
+* It then offers nuanced concessions, for example regarding isolated Christians, without relaxing the central claim.
+* The ending is firm and conclusive rather than merely explanatory.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve sentence flow where reasoning accumulates through repeated clauses.
+* Keep semicolon pivots where they help the sermonic and argumentative rhythm.
+* Let quotations sound spoken, declarative, and weight-bearing.
+* Avoid clipped modern syntax.
+* Preserve repeated formulae such as “for them,” “not merely,” “it is the same how much,” because they build oral emphasis.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Installment 6: “Folkebladet,” April 17, 1918
+
+The Position.
+(J. O. Evjen.)
+
+(Continued.)
+
+Whoever has read the significant work of the Swedish professor Gustaf Aulen from 1912, “The Lutheran Church-Idea,” in which the author treats the Lutheran conception of the Church together with the “Lundensian church-conception” and the “Upsalian church-conception,” will have noticed a quotation in the preface from one of Scotland’s leading churchmen, John Cairns (died 1892). Cairns says:
+
+“With all that the labour of the theologians has done
+to define and vindicate the idea of the church, I believe
+that we are as yet only on the surface of its depths.”
+
+I think Cairns would have rejoiced over Sohm’s presentation of the Church. Yes, I think he would also have rejoiced over the “guiding principles,” though they do not go so far as Sohm.
+
+One thing must now be clear. The guiding principles and that which their authors have written concerning them must be studied, discussed, and illumined, privately at least. If one immerses oneself in these principles, then a hundred questions will arise, and one will scarcely give up before one has received satisfactory answers from the authors. If, in addition, one reads related literature written by others, then new points of view emerge; and one then returns to the principles with these, makes comparisons, and forms for oneself a comprehensive view in which no details have been skipped over, nothing foreign has been imported, and the greater and the lesser have received their proper importance and their proper place.
+
+It is not for everyone to do this work. Where prejudice has anchored itself fast, where the spur is dull, indifference great, and the assertion “We have Abraham as our father” strong, there the prospects for a fruitful engagement with the principles and the literature on church polity are by no means promising. But where there is good will, an honest endeavor to get hold of what is right, there one may come a long way. And it is needed.
+
+Principle no. 1 especially needs our attention. Do we all understand it? Is it too much to ask whether it is fully in accord with the Word? Is it absolutely excluded that the authors could have been mistaken? The opposition to this principle at any rate justifies the raising of such questions. Thus: questions awaiting answers, tasks awaiting solution.
+
+One may, of course, get away from these questions and tasks by once more asserting that principle no. 1 aims at the unorganized holy catholic Church, the communion of saints. But that is precisely what it does not do.
+
+One may indeed make objections by pointing to the exposition of principle 4, which speaks of the congregation’s outward organization. But this principle must be understood in connection with principle no. 1.
+
+Principle no. 1 fronts against two things. First, against the complex organizations which we call the organized church, the state churches, the church bodies, and so forth. The principles regard these organizations not as church or congregation in the sense of Scripture, but as worldly organizations. Second, they front against the view that the communion of saints, the unorganized church, is all that is needed. For the Church in the sense of Scripture is presented by S. and D. as consisting of congregations, not individuals.
+
+Already in 1875 S. and D. turned “the weapons ... against pietism and false spirituality, which dissolves the Christian community into isolated individuals.” “It belongs inseparably to the essence of the Christian Church to exist in the form of congregations, not as individual Christian persons.”
+
+In 1895 S. and D. wrote (joint declaration): “The Church is the Kingdom of God on earth, which between Christ’s ascension and His coming in glory has no other rightful form than the congregation.”
+
+In 1898 S. declared: “This is something new when in point 1 we declare the congregation to be the proper form of the Kingdom of God on earth; for for hundreds of years men have called the church the proper form.”
+
+That this means something other than adopting a new name for an old thing appears from what S. wrote in 1896:
+
+“The first thing, then, which comes forward as the scriptural principle in the relation between congregation and church body is this: that the congregation is the original, and the church body the derived; the congregation is the actual proper, apostolic, and Christian form of the Kingdom of God on earth in the time from the outpouring of the Spirit until Christ’s coming again; all outward societies or churches or institutions or associations or companies have, according to God’s Word, their justification only as serving organs for the congregation, not as ruling and commanding and ordering authorities.
+
+“This principle is the first and most far-reaching of all rules for church polity. The individual local congregation has God’s Word over it, has Jesus Christ as head and Lord, has God’s Spirit as its guide; but it has no other authority over it.
+
+“It is entirely clear that the New Testament wills that Christians should not only have an inward fellowship of the Spirit with one another, but that they should also form outwardly organized congregations with their officebearers and their rules. We should depart from the altogether clear demand of God’s Word if we sought to be so spiritual that we would have no outward congregation. The outward congregation belongs to apostolic and biblical Christianity. A portion of the many who will not belong to any outward congregation because it is not spiritual enough for them—their Christianity suffers from a sorrowful lack and frailty, though it is far from us to mean that such frail Christians are not Christians at all. On the other hand, the same does not hold for what is called church bodies ...
+
+“The very first principle of criticism for church polity is therefore this, that the Christian Church consists of free, independent, and self-governing congregations ... Thus is Scripture.” (Veiledning 335).
+
+The congregational form is necessary, according to S. “The Kingdom of God has its inner essence, which is righteousness, peace, and joy in the Holy Spirit. It also has its outward form, which is the congregation, the Spirit’s people in the world.” The congregation is this outward form, “the only outward form appointed by God for His Kingdom on earth.”
+
+But this outward form of the Kingdom of God, the congregation, itself has both an outward side and an inward side.
+
+There is talk of “its inward side in its invisible essence,” its “inner spiritual essence.” According to this, in “its innermost essence it [the congregation] is the body of Jesus Christ, or the work of the Holy Spirit.” “In a dogmatic sense people are not received into the congregation by decision of the congregation meeting—but by the Word, Baptism, and faith.” (S. and D. 1895).
+
+But the congregation also has its outward side, the mixed form, the formal organization.
+
+It is the believers in the local congregation who are the body of Christ. The unbelieving members are members of the congregation in an improper sense; they stand only in an outward connection.
+
+The proper form of the Kingdom is the outward congregation: “The individual outward congregation is the body of Christ ... every single member in this outward congregation is a member of the body of Christ” (Oftedal in Veiledning 65). “The body of Christ ... is visible, because it is believing men and women who work with the Word and the Sacraments, and it is the outward, organized fellowship of these which is called congregation.” (S. in Veiledning, 38). “What is said about the unity of all congregations is also said about the individual outward congregation.” (Oftedal in Veiledning, 65).
+
+And again Sverdrup:
+
+“For all congregations and for every one of them Jesus Christ is the living foundation upon which the congregation is built ...
+
+“Paul did not mean that Jesus and His life, death, and resurrection are once for all the foundation of the Church, and since it has once been laid, it cannot be laid again; rather, he means that by the preaching of the Gospel in Corinth this foundation was laid there again, and the Corinthian congregation was built upon it.
+
+“And not that alone. All congregations, and every single one of them, are the body of Jesus Christ. In this body He is the soul, and for this body He is the head ... As near as the soul is to the body, so near is Jesus to the congregation ... He Himself is the head and governs and leads the congregation, works through it. (Luth. Kirkeblad 1893, no. 4).
+
+“... every congregation and every congregational member must remember that it is not merely the whole great Church, the gathering of all congregations, which is the body of Jesus and the bride of Jesus; rather, it is precisely the little gathering of people who in each place gather around the Word and the Sacraments that has the calling to be God’s temple, the body of the risen and glorified Savior, through which He Himself will work on earth, by which He still reveals Himself on earth.
+
+“Therefore the responsibility is so great. God’s temple is holy; therefore it is all the greater a transgression for a congregational member to be profane and thereby corrupt God’s temple.
+
+“Luther’s words about ‘the whole Christian congregation on earth’ must also be true of each individual congregation, if this truly answers to its name.” (L. K. 1893, no. 10).
+
+Some of the most unfortunate expressions theologians have been accustomed to use concerning the congregation are: visible and invisible, inward and outward. They work in an altogether confusing way. S. and D. have to some degree accepted this usage, and it was scarcely to be expected that they could use these expressions for 35 years without committing one inconsistency or another—for whom have not these expressions caused to stumble? *)
+
+One should note the difference.
+There may be an outward congregation and yet outward organization may be lacking. “It is the use of the Word and the Sacraments that constitutes a congregation in the biblical sense” (S.). This means the local congregation—not “the whole Christian Church.” The outward organization, the outward congregational form, follows as a rule afterward.
+
+“Where these means [Word and Sacraments] are rightly used, there at least is a mission, and where these means work eternal life in souls, there the body of Christ and His congregation are present according to their essence, even though there is not yet any congregational organization” (S. S. II, 236).
+
+“The congregation [the outward congregation] was there ... already at Pentecost. It had adopted no constitution, chosen no officebearers, organized itself in any way by outward regulations and decisions; nevertheless it was there.” (S. S. II, 9).
+
+The formal organization is the outward, the external organization. But the organization in reality is the congregation, the local congregation.
+
+(N. B. We distinguish sharply between outward organization and outward congregation.)
+
+The local congregation, when it answers to its name, is a gathering of believers. It is defined in principle no. 2, which deals precisely with the congregation’s constitutive members. This principle states what the congregation theoretically is. Those who are called constitutive members are believers. But in the outward organization there are also hypocrites; they insinuate themselves into it, they are no constituent part, their connection is only outward. That is what the congregation in its practice is according to principle no. 4, and the Augsburg Confession, art. 8. (cf. S. S. III, 368).
+
+S. and D. laid such weight on the constituted local congregation (organization may follow later) that there may be those who will say they made it into a sacrament. And it is true that S.’s view of the congregation resembled very much the ancients’ view of the Sacraments. Therefore S. could say that one who lived alone on an island had no need of the Supper, the congregation’s meal. The ancients said that it is not the lack of the Sacraments that condemns, but contempt for them. Compare Sverdrup: “Where an individual Christian lives alone in prison or under some other compulsion, there the lack of congregation will not become for him perdition (Veiledning 95).” “The congregation is absolutely necessary where it is possible.” “Where Christians can be congregation and will not, there is at times great danger for their soul (95).”
+
+“Our free-church people put it thus, that when God’s Word has set the congregation as the proper form for the Kingdom of God on earth until Christ’s coming, then it is both necessary and possible to have congregation, whatever it may cost” (against the free-free).
+
+All this, of course, points to the “outward congregation.”
+
+The local congregation was of such significance for S. and D. that, for example, in the 1870s they did not wish any local congregation to be established at Augsburg, although their colleagues Gunnersen and Gjeldaker wished this. The matter was dealt with several times in the faculty. Even a faculty opinion was submitted. Among the grounds S. and D. advanced was this, that school discipline with its strictness would intrude in a disturbing way into the congregation as a community of professors (and their families) and students. Church discipline and school discipline might get in one another’s way.
+
+The local congregation was of such significance for S. and D. that they never stated, so far as I know, that an individual could be a member of several congregations at once; whereas they saw nothing wrong in a congregation’s standing in connection with several church bodies, since these (in contrast to the congregation) are not governed by the law of the body of Christ. The church bodies were only organs, worldly arrangements, which could serve the congregation, which was the actual organization, the divine institution, the only form of manifestation of the holy catholic Church (cf. Pontoppidan F. C. B. edition, col. 243).
+
+It is the same how much one wishes to get away from the fact that S. and D. held this doctrine of the congregation; it is the same how much one wishes to twist their statements—one cannot get away from the concept of the local congregation as the fundamental thing in S. and D.’s conception of the Church. For them the local congregation was not merely something expedient, not merely an organization physiologically necessary; for them it was at least just as necessary in the specifically Christian sphere as the family is in the social. The whole human race is called a family, but the individual family is a necessary ordinance for the proper growth and upbringing of the human race. Neither state nor school nor orphanage can wholly replace upbringing in the home. Thus all Christians together are called congregation, or church, but this whole Christian congregation or church consists of individual congregations.
+
+(To be continued.)
+
+Footnote
+
+*) In 1877 Oftedal wrote: The congregation is visible because God’s Word and the Sacraments are there, and invisible because the believers are there and it is “the body of Christ” (Kvartalskrift 1877, 15).
+
+In 1897 Sverdrup wrote: The congregation becomes visible by its believing members and their activity. ... The body of Christ ... is visible. (Veiledning 37, 38).

@@ -1,0 +1,342 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* stillingen: not merely “the situation” in a casual sense, but the standing condition, alignment, posture, or state of affairs within an ecclesial controversy.
+* skism(er): not just disagreements, but schisms in an ecclesiastical sense.
+* forslidende ord: worn, injurious, abrasive, or corrosive words; the phrase suggests speech that has frayed bonds and caused damage.
+* renter eller magtsprog: likely “threats or the language of power,” not financial “interest rates.” The contrast is with coercion, not persuasion.
+* tomplot: empty plots, intrigue, maneuvering, scheming.
+* overbevisningens vei: the way of conviction or persuasion; an important governing phrase.
+* skriftens grund: the ground/foundation of Scripture, not merely “biblical basis” in a flattened modern sense.
+* mellemstaaende / utenforstaaende: not interpersonal grievances “between parties,” but what lies between persons versus what stands outside the merely personal.
+* gravgaarden: graveyard, kept concrete because the author develops an extended image from burial, silence, and death.
+* slaa av paa formaalet: lower, relax, or reduce the aim/purpose; not simply “modify the mission.”
+* levendegjørelse og frigjørelse: enlivening/bringing to life and liberation; doctrinally charged and programmatic language.
+* petrefakt: petrifaction, fossilized remnant; preserve the image of something hardened into dead form.
+* fællesprogram: common platform or shared program; context suggests a vague platform from which all extract what suits them.
+* adbing machine: apparently an English borrowing used ironically; likely “adding machine.” The sense is that annual meetings merely ratify or total up policy already made elsewhere.
+* nødbr emse: emergency brake; must be kept vivid.
+* ubekvemme passagererer: troublesome/inconvenient passengers; part of the train metaphor and therefore should remain concrete.
+* lægfolkets religiøse likestilling med presterne: the religious equality of the laity with the clergy; this is a load-bearing theological phrase.
+* omstyrte formelle rettigheter og ordninger: overturn formal rights and arrangements; must not be overstated into revolutionary language beyond the author’s claim.
+* skyts og skjermbret: weaponry and shield, figuratively the opponent’s means of attack and defense.
+* taatede deklamationer: misty, vague, vaporous declamations.
+* højtkirkelig / lavkirkelig: high-church / low-church, technical ecclesiological language.
+* katolicerende: catholicizing, not Roman Catholic in a narrow confessional sense, but tending toward a catholicizing conception.
+* embedsbegreb: doctrine/conception of office or ministry; must be rendered consistently.
+* fri-krit: likely “free-church-like” or “free-churchish,” not “free critique.” In context it means suspiciously alien to some within the Free Church environment.
+* bestyrer for Augsburg’s Board of Trustees: managerial/chair role; avoid guesswork beyond what the text states.
+* personligheter: not “personalities” in the modern psychological sense, but personal attacks / personalities in polemical parlance.
+* pligtskyldigens ubedøvende sprog: literally the duty-bound, non-narcotizing language; language that does not stupefy, numb, or sedate.
+* aandeliv / aand og liv: biblically resonant “spirit and life”; must not be flattened into vague spirituality.
+* barnelot: child’s play / trifling matter; likely ironic understatement.
+* Belialsstiftelser: foundations/works/institutions of Belial; harsh biblical-polemical language requiring careful retention.
+* i rette med: take issue with / enter into dispute with / seek redress against.
+* overrumpling: a surprise move, rushing something through.
+* almindelige stemning blandt folket: the general mind/sentiment among the people; here “the people” means the broader constituency, especially laypeople.
+* kløft: gulf, chasm; a major governing metaphor in the conclusion.
+* religiøse særstilling: special religious status, not merely professional distinctness.
+
+Syntactic Hazards
+
+* Long cumulative sentences with semicolon pivots build argument by accretion; they should not be broken into short modern units without necessity.
+* Dashes repeatedly mark contrastive qualifications and sharpen the polemic; these should be preserved where possible.
+* Enumerations often carry rhetorical weight and moral pressure; they should remain ordered and cumulative.
+* The author moves from abstraction to image very quickly: principles, peace, burial, graveyard, silence, death. The syntax must preserve that movement.
+* Rhetorical contrast between personal and non-personal argument depends on clause arrangement; reordering would weaken the defense.
+* Quoted material from Jansen and Fostervold should remain visibly distinct and rhetorically embedded in the surrounding argument.
+* The repeated “Hvad...” constructions and anaphoric openings create public-speaking cadence and should remain recognizable.
+
+Theological Hazards
+
+* Principle no. 2 concerns lay equality with clergy; this is not a sociological claim only, but a theological and ecclesiological one.
+* skriften / den lutherske lære: Scripture and Lutheran doctrine are invoked as ultimate norm; that hierarchy must remain clear.
+* menneskelige ordninger: human arrangements, contrasted with divine institution; doctrinally significant in ministry debates.
+* aanden og livet: scriptural phrase degraded into sloganry according to the author; the rebuke depends on the biblical resonance remaining audible.
+* Kristus og Belial: a sharp biblical opposition, likely echoing 2 Corinthians 6:15; cannot be softened.
+* det ene fornødne: “the one thing needful,” with likely biblical echo from Luke 10:42.
+* nærmere forhold til Gud: closer relation to God; the author presents this as a troubling sacerdotal implication.
+* kald og ordination: call and ordination are treated as unable to confer superior religious standing.
+
+Voice Hazards
+
+* The prose is severe, controlled, polemical, and morally assured; smoothing it into balanced academic English would erase the authorial force.
+* Irony is frequent but dry rather than playful; it must not become witty or casual.
+* The author repeatedly insists on objective truth and duty-bound speech; the translation must sound firm, not emotionalistic.
+* The author speaks from inside an ecclesial struggle and addresses conscience indirectly; the English must preserve that implicating public tone.
+* Violent or concrete metaphors (“bury the principles,” “shoot holes,” “emergency brake,” “set passengers off”) are essential to force and should not be abstracted away.
+
+STEP 2: IDIOM ANALYSIS
+
+* overbevisningens vei
+
+  * Meaning: the way of persuasion grounded in conviction and understanding.
+  * Function: opposes coercion, intrigue, compromise, and mere power.
+  * Theological implication: truth should prevail through conscience persuaded by principle.
+
+* skriftens grund
+
+  * Meaning: the foundation or ground of Scripture.
+  * Scriptural/theological force: invokes Scripture as the decisive norm.
+  * Natural English: “on Scriptural ground” or “on the ground of Scripture.”
+
+* Freden kommer med forstaaelsen
+
+  * Meaning: peace comes through understanding.
+  * Force: peace is not mere quiet or procedural settlement, but truth-born concord.
+
+* begrabe principperne ... en fred, der er taus som gravens
+
+  * Meaning: one can obtain peace by burying principles, but it will be the silence of death.
+  * Force: peace without truth is deathly peace.
+  * Literal rendering is appropriate because the metaphor is deliberate and extended.
+
+* paa gravgaarden er det tyst og stille: dødens stilhet
+
+  * Meaning: the cemetery is quiet because it is ruled by death.
+  * Implication: outward calm can be spiritually or institutionally fatal.
+
+* en slags adding machine / nødbremse / sætte nogen ... av
+
+  * Meaning: annual meetings function as ratifying machinery or emergency interventions by leadership.
+  * Force: a sustained train/machine image satirizes institutional manipulation.
+  * Literal concreteness is preferable to explanatory paraphrase.
+
+* lægfolkets religiøse likestilling med presterne
+
+  * Meaning: the laity are religiously equal to priests/pastors.
+  * Theological context: Lutheran teaching on the priesthood of all believers and the non-sacramental superiority of clergy.
+
+* intet forsøk blev gjort paa at omstyrte formelle rettigheter og ordninger
+
+  * Meaning: the author denies revolutionary intent.
+  * Force: distinguishes theological principle from institutional anarchy.
+
+* skyts og skjermbret
+
+  * Meaning: weapons and shield.
+  * Force: military metaphor for argument and counterargument.
+
+* taatede deklamationer om aand, personligheter og periferi
+
+  * Meaning: vague declamatory talk about “spirit,” personalities, and peripheral matters.
+  * Theological implication: true spiritual language has been debased into evasive rhetoric.
+
+* Det nye testamente tvang mig
+
+  * Meaning: the New Testament compelled me.
+  * Force: strong modal and theological force; conviction produced by Scripture, not preference.
+
+* pligtskyldigens ubedøvende sprog
+
+  * Meaning: speech discharged in duty, speech that does not narcotize.
+  * Function: the writer presents plain rebuke as moral obligation.
+  * Literal translation would sound odd if too wooden, so “the non-narcotizing language of duty” or “duty-bound, unsedating speech” must preserve the image without becoming opaque.
+
+* skytes hul i uholdbare argumenter
+
+  * Meaning: shoot holes in untenable arguments.
+  * Force: common polemical metaphor; should remain vivid.
+
+* aand og liv
+
+  * Biblical context: likely echoes John 6:63 (“the words ... are spirit and life”).
+  * Theological implication: the phrase has Scriptural density and must not be reduced to vague inspiration.
+
+* Kristus og Belial
+
+  * Biblical source: 2 Corinthians 6:15.
+  * Force: radical antithesis between Christ and the demonic/adversarial principle.
+  * The author uses it to expose how gravely opponents have treated the controversy.
+
+* det ene fornødne
+
+  * Biblical source: Luke 10:42.
+  * Meaning: the one thing needful.
+  * Force: opponents assume a superior posture of spiritual instruction.
+
+* gaa i rette med
+
+  * Meaning: contest, take issue with, seek to call to account.
+  * Tone: formal, not colloquial.
+
+* kløften mellem presterne og lægfolket
+
+  * Meaning: the gulf between clergy and laity.
+  * Theological implication: not merely social division, but a division produced by a high-church doctrine of office.
+
+The King James Bible sometimes offers natural English equivalents for the biblical echoes, especially “the one thing needful” and “Christ and Belial.” But the surrounding prose should not be made generically King James-like. Biblical elevation should arise where the source text itself invokes Scripture.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: controversies and even schisms have existed among us, and more may come.
+* First pivot: new schisms are prevented not by coercion, intrigue, or compromise, but by the way of conviction.
+* Clarifying claim: first one must agree on what the principles are and what they mean; only then can one ask whether they stand wholly on Scriptural ground.
+* Defensive clarification: Birkeland’s and the author’s efforts were not personal squabbling but attempts to clarify principles.
+* Image pivot: peace can come through understanding, but also through burying principles; that second peace is deathly.
+* Institutional warning: even if the Free Church survives after burying principles, it must answer why “S” stands alone and why its purpose has been reduced.
+* Further warning: even if principles survive, they may harden into a petrifaction or vague common platform serving everyone’s preferences.
+* Refrain: therefore, the way of conviction.
+* Institutional critique: annual meetings have become ratifying machinery or emergency brakes for politics already being run between meetings.
+* Case example: Marinette, Willmar, and Fargo show the pattern.
+* Doctrinal defense: the disputed articles rested on principle no. 2, a recognizably Lutheran claim about lay equality with clergy.
+* Polemical claim: no one refuted the actual arguments; opponents relied on foggy declamation.
+* Historical support: J. J. Jansen’s own intellectual journey and related figures (Jakob Sverdrup, Georg Sverdrup, Sohm) show that a low-church doctrine of office has real Lutheran pedigree.
+* Present irony: what had historical precedent was now treated as alien and “free-churchish.”
+* Personal defense: the solidarity of criticism against Birkeland and the author was artificially constructed.
+* Ethical self-defense: objective truth and the duty to reject bad arguments are not “personal attacks.”
+* Speech ethic: duty-bound speech speaks openly and directly; it does not whisper, scheme, threaten, or hide behind slogans and committees.
+* Escalation: if opponents devote such time to these articles, the controversy is clearly serious, perhaps cast by them in terms as stark as Christ versus Belial.
+* Commendation of Birkeland: he has grasped and applied the principles consistently.
+* Editorial indictment: Folkebladet has humiliated Birkeland through personal editorial rebukes and publication of criticism without dissent.
+* Specific charges:
+
+  * Birkeland rightly criticized the Fargo decision in the union matter as inconsistent with Leading Principles.
+  * Birkeland rightly criticized the editorial “Impressions from the annual meeting.”
+* Supporting witness: P. Fostervold’s testimony shows that the lay voice at the meeting strongly opposed the dissatisfied pastors.
+* Concluding diagnosis: the chairman admitted that the articles widened the gulf between pastors and laity, but the gulf long pre-existed; the articles merely made the people more conscious of it.
+* Final causal claim: the gulf was created by the high-church doctrine of office and the notion that call and ordination confer a closer relation to God.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* skriftens grund
+
+  * General biblical-normative idiom rather than a direct quotation.
+
+* dødens stilhet
+
+  * Not a fixed quotation, but biblical in tone through its stark personification of death.
+
+* aand og liv
+
+  * Likely John 6:63: “the words ... are spirit, and they are life.” The phrase carries explicit scriptural resonance.
+
+* Kristus og Belial
+
+  * 2 Corinthians 6:15.
+
+* det ene fornødne
+
+  * Luke 10:42, commonly rendered “one thing is needful.”
+
+* objective contrast between truth and falsehood, exposing what is untrue
+
+  * Not a direct quotation, but strongly shaped by confessional polemical prose.
+
+* nærmere forhold til Gud
+
+  * Not a quotation, but a claim the author finds objectionable because it implies sacerdotal superiority contrary to his understanding of the New Testament.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Warnings must remain warnings. When the author says principles may be buried, petrified, or reduced to a platform for private preference, the translation must retain that threat.
+* Personal rebukes must remain sharp but controlled. The author’s force comes from confidence in truth and consequence, not from emotional excess.
+* Irony must stay dry and cutting. Phrases like “a peace as silent as the grave’s” and “as though we had never before heard” should remain unsmoothed.
+* The translation should preserve the public, adversarial, conscience-pressing tone of a church controversy conducted before readers.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* maa / må: preserve as “must,” not “should” when necessity is intended.
+* vil / vilde: preserve future force or conditional force carefully; do not weaken into possibility where the source is assertive.
+* kan: distinguish possibility from permission.
+* tør være bekjendt: “it may well be known” or “it should be known” depending context; here best rendered as a restrained formal assertion.
+* havde god grund til: “had good reason to,” preserving the firmness of justification.
+* fortjener at jevnes: “deserve to be leveled” or “deserve to be laid flat,” not merely “deserve criticism.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* princip / principer = principle / principles
+* skriften = Scripture
+* lutherske lære = Lutheran doctrine
+* lægfolk = laity / laypeople (vary only where syntax requires)
+* prester = pastors / clergy (choose one primary form; here “pastors” in many places, “clergy” where collective contrast is needed)
+* embedet = the office / the ministry-office depending context; primary rendering: “the office”
+* embedsbegreb = doctrine of office / conception of office; primary rendering: “doctrine of office” or “conception of office” according to sentence flow
+* ordination = ordination
+* kald = call
+* aand og liv = spirit and life
+* det ene fornødne = the one thing needful
+* høikirkelig / lavkirkelig = high-church / low-church
+* religiøse særstilling = religious special status / special religious standing; primary rendering: “special religious standing”
+* objektive sandhet = objective truth
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* burying principles / silence of the grave / graveyard / death’s silence: retain fully as one image cluster.
+* petrifaction/fossilization of principles: preserve the hardening image.
+* annual meetings as adding machine / emergency brake / troublesome passengers put off the train: preserve the satirical mechanical-train imagery.
+* weapons, shields, and shooting holes in arguments: preserve martial imagery.
+* gulf between pastors and laity: preserve the chasm metaphor.
+* narcotizing language versus plain speech: preserve the stupefaction image.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The passage moves between diagnosis, warning, irony, historical demonstration, self-defense, commendation, and indictment.
+* The translation must preserve the moments of dark irony (graveyard peace), sober historical narration (Jansen), and renewed polemic (against editorial handling).
+* The closing shift from meeting reports to the deeper historical gulf is crucial; it moves from event to diagnosis.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve repeated openings such as “Ogsaa hos os ...” and “Birkelands og mine ...” where possible.
+* Retain semicolons and colon turns when they help public-speaking rhythm.
+* Do not over-compress long arguments into summary prose.
+* Keep questions and exclamatory pressures measured but audible.
+* Maintain the sense that the passage was meant to be read aloud to attentive, contested listeners.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Situation.
+(J. O. Evjen.)
+
+(Continued.)
+
+Among us too there have been controversies, yes, schisms. Among us too words have been spoken that wear and wound. But over these words there reigns great disagreement, and there may come new schisms. These can be prevented—not by resorting to threats or the language of power, not by empty plotting or compromises—but by going the way of conviction. If there is agreement as to what the principles are and what they intend, then much will have been gained. It may be another question to decide whether the principles stand wholly and entirely on the ground of Scripture. First there must be agreement on what the thing is, before there can be discussion of its “how.”
+
+That seeking to promote this understanding—and both Birkeland and I have sought it—has nothing to do with person and personal wrangling, is plain. It is small-minded thinking that writes, for example, Birkeland’s articles to the account of personal squabbling. Birkeland’s contributions have not concerned anything lying between persons, but something lying outside them, namely what the principles are and what they mean.
+
+Peace comes with understanding. But it can also come in another way. It is possible to bury the principles and get a peace that is as silent as the grave’s. In the graveyard it is hushed and still: the silence of death. There one contends neither over personal issues nor over principles.
+
+If the Free Church buries the principles—or whatever still remains of them—this will not, without more, mean the Free Church’s downfall. It can surely continue its existence, taking comfort in memories from former days, lowering its aim and writing “the enlivening and liberation of the individuals” instead of “the enlivening and liberation of the congregations.” But then it must also prepare itself to find an answer to the question: Why does S stand alone?
+
+But even if the principles are allowed for some time yet to exist upon the surface of the earth, there is nevertheless danger that they may become a petrifaction, or a common platform from which everyone fetches what best suits his own need, whether it be a new Christian type, or an ideal, or something else.
+
+Therefore: the way of conviction.
+
+If the understanding of the principles were greater, the annual meetings would look different. As things now are, they are a kind of adding machine for the politics that are carried on between the annual meetings, an emergency brake to which the train staff resort every time they “see ghosts” on the line. So it was in Marinette, in Willmar, and in Fargo, where arrangements were even made to put some inconvenient passengers off. Had the understanding of the principles been greater, the meeting in Fargo would not have witnessed that concerted, peevish opposition to Birkeland and me. The meeting in Fargo was a classic expression of the situation among us.
+
+Birkeland’s and my articles in Folkebladet took principle no. 2 as their point of departure. And this principle is, after all, acknowledged as essentially correct—even in the most conservative Lutheran circles in Europe. What our articles asserted were old Lutheran truths concerning the religious equality of the laity with the pastors. No attempt was made to overturn formal rights and arrangements, which were valued for precisely what they are—human arrangements.
+
+I showed myself fully in agreement with Scripture and Lutheran doctrine and paid due regard to the principles. No one has refuted anything that B. and I wrote. The opponent’s weapons and shield were vaporous declamations about “spirit,” personalities, and “periphery.” Nothing tangible. Yet the loudest spokesmen against the ordination articles were certainly not the faithful followers in church law of the Coast pastor (J. J. Jansen), who himself also gives a detailed account of the problems of ordination. Jansen wrote—as we have earlier indicated—in his autobiography:
+
+“Together with my aunts and my dreams of becoming a pastor, there had developed in me a sort of high-church enthusiasm for the church and the office, and with that also an intense interest in the literature as a whole. It was here that I meant to study, understand, and come to a result, first concerning what the New Testament teaches regarding the office. I read Ritschl, A. Rothe, Thiersch, Stahl, Löhe, Lechler, but on the other side also Höfling, Richter, Rudelbach. I studied Carpzov, Böhmer, Buseudorf, and many more. The great folios in my library still remind me of many an eager hour.....
+
+“My heart was from the beginning with Stahl and Löhe, with the high-church, catholicizing, mystical doctrine of the church and doctrine of office. But in the course of study I became more and more low-church. How did I become low-church? The New Testament compelled me. Thus there came forth my, no doubt very imperfect, scientific attempt, ‘The Ecclesiastical Office in the Apostolic Age.’ (1877–78).”
+
+It should be known that Jakob Sverdrup attacked this attempt in Ny luthersk Kirketidende. It was too high-church for Jakob Sverdrup, who himself wrote much about the office—low-churchly. But more low-church than Jakob Sverdrup was his brother Georg, who with respect to the office essentially shared Sohm’s view.
+
+But when this low-church doctrine of office, with the corresponding contentious understanding of ordination, came forward again in Folkebladet, 1917, it seemed to some like something uncannily foreign and free-churchish. Our contributions were even perceived as personal attacks.
+
+Birkeland’s and my articles were lumped together at the Fargo meeting. What the dissatisfied said about the one of us was also made to apply to the other. A remarkable, artificially constructed relation of solidarity! As for “personalities,” I knew myself quite free of them. And as regards Birkeland, it astonishes me that he could write as objectively as he did, after the unjust treatment given him in Willmar, and after the maneuvering that had been employed, and had succeeded, in preventing his reelection as chair of Augsburg’s Board of Trustees. It was said that money would not come in to Augsburg if he were to retain the chairman’s seat, and that confidence in the school would disappear! Even the ordination committees had brought Birkeland’s name into the questions they put to the theological candidates. In view of this and much else I say: all respect for Birkeland.
+
+As for me, I have always sought to argue as one generally argues in respectable theological journals. It has been objective truth that has concerned me. When I have said or shown that this or that publicly advanced assertion is untenable, then I have said no more than a conscientious carpenter has the right and duty to say to another carpenter: This beam will not do. Get something else! But such an address is no personal attack. Nor is it murder—which, as I understand it, an editorial statement would underline. It is not for murder’s sake that holes are shot in untenable arguments. Coverings that serve to protect what is false—it is all one how well-intentioned they may be—deserve to be leveled.
+
+My language has been the non-narcotizing language of duty. Such language speaks openly. It does not whisper, does not threaten. It does not whisper in the twilight, does not compose protests and does not circulate petitions. It does not maneuver under cover of committee chairmen’s reports. In its embarrassment it does not take refuge in words like “spirit and life,” words which in Scripture mean very much, but which here and there among us have in fact been degraded into a slogan that conceals kinds of diversity of many sorts, including intellectual irrationality and sloth.
+
+The non-narcotizing language of duty has also been Birkeland’s language, yes, even where he cited Stendal’s words about Christ and Belial. For there are indeed collisions among us. And if one takes into consideration that the men who most often use the grand language about spirit and life took two days of the Fargo meeting’s costly time to discuss Birkeland’s (and my) contributions, then one gets the impression that the collisions are anything but child’s play. Yes, it seems as though there were a little (perhaps much) of a Christ-Belial relation of opposition here, where Birkeland and I become a kind of establishments of Belial in modern form, trafficking in personalities and needing publicly to be chastised and instructed concerning the necessity of the one thing needful, exactly as though we had never before heard or known what the first foundational truths of Christianity are.
+
+I have always respected Birkeland for his labors on behalf of the principles. He is one of the few who has shown a firm grasp of the principles and has interpreted them consistently. If there is anything to object to in the consequences B. has set forth, then the fault is not Birkeland’s, but the principles’.
+
+Now when Folkebladet has undertaken to humiliate Birkeland by editorial rebukes—boldly personal rebukes—and by publishing others’ disapproving criticism of his person without any sort of editorial dissent, it seems to me that he has good ground to take issue with Folkebladet, even if he sets aside the personal element in these articles and fastens upon the more substantive side.
+
+1. Birkeland had good reason to criticize the decision that the Fargo meeting adopted in connection with the union matter. Neither the decision—which came as an overrumpling—nor the editorial defense, which was surely prepared in calm and ease, is in harmony with Leading Principles.
+
+2. Birkeland also had good reason to criticize the editorial “Impressions from the annual meeting.” I must say I did not recognize the annual meeting in these impressions; nor did I know with what justification the editorial office expressed its hope that “those who hereafter write in the paper will respect the general sentiment among the people with regard to this matter.” But I did recognize the annual meeting in the criticism that P. Fostervold exercised upon the “Impressions.” Fostervold wrote among other things this:
+
+“But how the paper can write such things is more than I can understand. When one tries to make it appear that the general sentiment among the people was on the side of those pastors who attacked the articles on ordination, then Folkebladet must know that it is doing the annual meeting an injustice. For every single layman who spoke in this matter—and they were not so few—placed himself clearly and decidedly against these pastors. And they surely, better than anyone else, represented the general sentiment among the common people. These men were not, either, some young brawlers. They were older, sober-minded men. There were, moreover, several pastors as well who wholly took the laity’s side in this matter. Besides, it was in the votes that the strongest words were spoken, and it was these that showed the general sentiment among the people in the meeting.”
+
+So far as I was able to survey the situation at the annual meeting, two thirds of the meeting’s voting members cast their decisive votes on Birkeland’s side. The laity for a time thought of holding their own meeting and protesting against the dissatisfied pastors’ way of proceeding. But nothing came of it: they saw that it was unnecessary.
+
+The chairman cast some light on the situation when, in characteristic fashion, he explained that the writings in Folkebladet (B.’s and mine) had widened the gulf between the pastors and the laity.
+
+Unfortunately—there was indeed a gulf. It had come into being in former times. But a new element had been added: by these articles the people had, more than ever before, become conscious of this gulf. The gulf had been created long before—by the high-church doctrine of office, by the conception of the pastor’s special religious standing by virtue of call and ordination. For it was no secret that at a pastors’ meeting in Minneapolis it had been declared that a pastor stands in a nearer relation to God than a layman does. (To be continued.)

@@ -1,0 +1,249 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "menighet" can mean congregation/church, but in this polemical and ecclesiological context it must be rendered with close attention to whether the sense is the local congregation, the Church in principle, or the visible gathered body. Flattening all instances into one English equivalent would blur the argument.
+* "guddommelig indstiftet" carries institutional and theological force: not merely "divinely inspired" but "divinely instituted."
+* "slegtskap" here means affinity/kinship, not literal genealogy.
+* "forfatning" and "forfatningsprinciper" concern church polity/constitution, not political constitutions in the modern civic sense alone.
+* "eiendommelighet" means distinctiveness/peculiarity in the sense of what is characteristic, not oddness.
+* "opgave" means task/function/charge. The argument depends on distinguishing a body’s characteristic feature from its appointed task.
+* "rette stikkelse / rette skikkelse" means proper form, true shape, right constitution, not merely appearance.
+* "levendegjørelse" is spiritually charged: enlivening, vivification, being brought into living vigor. "Revitalization" would be too managerial.
+* "frigjørelse" means liberation/freeing, with ecclesial and spiritual implications.
+* "aandelig selvstændighet og frihet" carries the force of spiritual independence and liberty, not merely personal autonomy.
+* "emissærer" should remain "emissaries," not reduced to generic missionaries or speakers, because the institutional practice matters.
+* "sjæle kommer til liv i Gud" means souls come to life in God; this must not be softened into generic religious awakening.
+* "naadegaverne" are gifts of grace/spiritual gifts; consistency matters because the author is discussing ecclesial principle, not vague giftedness.
+* "utfoldelse" means unfolding/development/exercise; here "unfolding" or "full exercise" preserves organic imagery.
+* "væsen" versus "form" is doctrinally crucial: essence versus form.
+* "redskap i Herrens haand" is biblical and devotional: an instrument in the Lord’s hand.
+* "vækkelse" is revival/awakening, but Sverdrup uses it broadly; this semantic breadth must be noted in translation strategy.
+* "briske sig til" means presume/vaunt oneself into claiming, with polemical edge.
+* "bevarelse i livet" likely means preservation in the life, i.e. the life of faith/spiritual life, not mere biological life.
+* "stedmenighetens berettigelse" means the legitimacy/rightful validity of the local congregation.
+* "augsburgske menighetsopfattelse" points to the Augsburg Confession’s understanding of the church/congregation.
+* "prøve den i lyset av Guds ord" is doctrinal testing by Scripture, not casual evaluation.
+* "de to eller tre" directly evokes Matthew 18:20 and must retain scriptural recognizability.
+* "baand" in "frihetens baand" means bond/bonds, echoing spiritual union.
+* "utvortes" means external/outward.
+* "hedningeland" is mission field among the heathen/Gentiles; modern "non-Christian lands" would lose period and theological tone.
+* "avsluttet kreds" means a defined/completed circle, a bounded body.
+
+Syntactic Hazards
+
+* The prose proceeds by accumulation: assertion, citation, distinction, illustration, and doctrinal inference. Breaking this into brief modern sentences would erase the sermonic and polemical progression.
+* Semicolons and colons often introduce logical pivots rather than mere pauses. They should often be retained.
+* The repeated formula "Ja, siger..." / "Nei, siger..." is rhetorical structuring and must be preserved.
+* Parenthetical qualifications and source references are part of the argumentative rhythm and scholarly posture.
+* The text alternates between quoted matter, commentary on quoted matter, and restatement of thesis. The nesting must remain clear.
+* Some sentences hinge on contrastive particles such as "men," "dog," "allikevel," "tvertimot," and "foreløbig"; weakening these would flatten the reasoning.
+* The passage uses deliberate repetition of key terms (main thing, distinctive function, proper form, congregation). This repetition is constitutive of the argument and should not be stylistically varied away.
+
+Theological Hazards
+
+* The debate concerns ecclesiology: whether the congregation/church is simply divinely instituted, what constitutes its proper form, and how this relates to salvation, awakening, and organization.
+* "souls come to life in God" must retain the language of spiritual life/death.
+* The relation between individual salvation and the congregation is doctrinally precise: the former is included in the latter, but not vice versa without remainder.
+* The distinction between the church according to essence and according to form is central and must be rendered sharply.
+* The argument about spiritual gifts is not optional adornment but part of the definition of the free congregation.
+* References to the holy catholic church, communion of saints, Christ’s body, and the Holy Spirit are all confessional and must remain doctrinally exact.
+* The contrast between Luther and Sverdrup turns on visible/invisible church, organization, and the nature of the church as spiritual reality versus concrete local congregation.
+* The author’s handling of Matthew 18:20 must not be paraphrased in a way that pre-decides the theological issue.
+
+Voice Hazards
+
+* The tone is polemical but controlled, learned yet pastoral, and must not become colloquial.
+* Irony appears in measured form, as in the illustration about the black student; this should remain matter-of-fact rather than sharpened or softened.
+* The author’s self-positioning—"I will not say," "I do not set myself up as judge," "for the present"—is part of his ethos and must remain intact.
+* The passage repeatedly presses the reader toward doctrinal discrimination without theatricality. This moral-intellectual pressure must remain.
+* The diction should remain elevated, earnest, and exact, but not archaized into Jacobean English.
+
+STEP 2: IDIOM ANALYSIS
+
+* "to reveal and to realise the true idea of the church" is quoted English and should remain as quoted. It functions as the controlling comparative formula for Free Church distinctiveness.
+* "menigheten kommer frem i sin rette stikkelse" means that the congregation comes forth in its proper form/true shape. The image is one of emergence into visible right order, not simply self-understanding.
+* "sjæle kommer til liv i Gud" is a pietistic expression for spiritual quickening/conversion. It implies transition from spiritual death to life before God.
+* "naadegavernes utfoldelse og rette bruk" evokes Pauline language of gifts exercised in the body. "Unfolding and right use" preserves both organic development and ordered exercise.
+* "redskap i Herrens haand" is a standard devotional image for divinely used human agency; likely echoes biblical instrumentality language.
+* "det rette syn paa menigheten" means the right understanding/view of the congregation, not mere opinion.
+* "i lyset av Guds ord" is a classic Protestant idiom: by the norm and illumination of Scripture.
+* "hvor to eller tre er forsamlet i Jesu navn" is Matthew 18:20. A natural English equivalent is "where two or three are gathered in Jesus’ name." The phrase must remain recognizable.
+* "de helliges samfund" echoes the Apostles’ Creed, "the communion of saints."
+* "frihetens baand, Kristi aand" has biblical resonance in its pairing of bond and Spirit; literal rendering preserves the compressed theological contrast.
+* "ikke bundet sammen ved regel, ret eller lov" means not bound together by rule, legal right, or law; the triad should remain because it defines the contrast with spiritual unity.
+* "hedningeland" has missionary-era theological framing. "Heathen land" best preserves period force; "Gentile lands" could over-biblicize where the polemical modern mission setting matters.
+* "avsluttet kreds" implies a delimited, concrete fellowship. Literal "closed circle" sounds too pejorative in English; "defined circle" or "bounded body" better conveys the author’s point.
+* King James equivalents are useful chiefly for scriptural recognizability in Matthew 18:20 and ecclesial language like "body of Christ" and "communion of saints," but the prose itself should not be shifted into KJV diction.
+* Literal translation would obscure force in places such as "eiendommelighet" if rendered "peculiarity" too often, and "stikkelse/skikkelse" if rendered merely "appearance." The intended force is doctrinal form.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis under dispute: the Free Church is not chiefly to be understood merely as saying that the congregation is divinely instituted; its distinctive feature among Lutherans lies in church polity, and this gives it a distinctive function akin to that of Congregationalists.
+* First movement: rebuttal of an alleged correction. The author insists he did not define the Free Church’s task as constitutional advocacy; he said its distinctiveness lies in polity.
+* Second movement: distinction between "distinctiveness" and "task," illustrated by analogy. This safeguards the claim that what is characteristic need not be identical with what is consciously pursued.
+* Third movement: from shared polity principles with Congregationalists, the author infers a shared "distinctive function"—bringing the congregation forth in its proper form.
+* Fourth movement: citation of Free Church rules to show how this aim is pursued institutionally, including training workers, meetings, literature, committees, associations, emissaries.
+* Fifth movement: exposure of tension in the editorial line. The editors call the congregation’s proper form the main thing, yet also imply that the main thing is that souls come to life in God.
+* Sixth movement: appeal to Sverdrup’s principles to distinguish individual salvation from the question of the congregation; these are two questions, though related.
+* Seventh movement: clarification that awakening/conversion alone does not automatically produce the congregation in its proper form; the gifts must be unfolded and rightly used.
+* Eighth movement: historical examples—Hauge and Johnsen—as mighty in bringing souls to God but insufficient, in Sverdrup’s view, for producing New Testament congregation in proper form.
+* Ninth movement: reiteration that individual salvation is a main thing in all church work, but cannot be a body’s distinctive function if common to all.
+* Tenth movement: positive statement of the Free Church’s principal conviction, grounded especially in principle no. 1: the congregation is the proper divine order within the Christian religion.
+* Eleventh movement: critique of the editors’ vagueness about the local congregation, tending toward an invisible/general church conception and reducing congregational work to mission work.
+* Twelfth movement: methodological restraint. The author does not yet judge which conception is more biblical; first one must clarify what the Augsburg understanding is, then test it by Scripture.
+* Final movement: test case—Is there a congregation where two or three are gathered in Jesus’ name? Luther says yes from his invisible-church conception; Sverdrup and Oftedal say no insofar as congregation requires concrete local organization and ordered visible fellowship.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "where two or three are gathered in Jesus’ name" clearly echoes Matthew 18:20.
+* "souls come to life in God" echoes Johannine and Pauline life/death language applied in pietistic conversion discourse.
+* "gifts of grace" / "spiritual gifts" echoes Romans 12, 1 Corinthians 12, and related Pauline teaching on gifts in the body.
+* "Christ’s body" explicitly echoes Pauline ecclesiology, especially 1 Corinthians 12 and Ephesians.
+* "holy catholic church" and "communion of saints" echo the Apostles’ Creed, functioning as confessional-biblical language.
+* "the Holy Spirit’s work" and the invisibility/visibility discussion resonate with Reformation treatments of the church under Word and Spirit.
+* "for the cause of God’s kingdom at home and abroad" echoes biblical kingdom language in missionary and ecclesial application.
+* "instrument in the Lord’s hand" has biblical resonance with God’s use of servants as instruments.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The passage should sound firm, exact, and insistent, but not overheated.
+* Reproofs of the editors must remain direct.
+* Statements denying that awakening alone yields the congregation’s proper form must not be softened.
+* The repeated contrasts—yes/no, essence/form, salvation/congregation, invisible/organized—must retain sharp edges.
+* The author’s restraint about not yet judging the biblical issue must remain earnest and principled, not evasive.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa" will be rendered with full necessity: "must," not "should" where the original compels.
+* "skal" in declarative or normative force will generally remain "shall" or "is to," depending on English idiom and gravity.
+* "kunde" in historical or modal contexts will be preserved carefully so as not to weaken actual claims.
+* Negatives such as "kan ikke" and "vil ikke" will remain strong: "cannot," "will not."
+* Where the author says he "will not say" or "does not set himself up," the restraint remains deliberate and forceful.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet = congregation where the local/organized body is in view; church where the broader theological or comparative sense requires it
+* kirke = church
+* guddommelig indstiftet = divinely instituted
+* forfatning / forfatningsprinciper = polity / principles of polity
+* eiendommelighet = distinctiveness
+* opgave = task / function depending on context
+* rette skikkelse / rette stikkelse = proper form / true form
+* levendegjørelse = enlivening / vivification
+* frigjørelse = liberation / freeing
+* sjæle kommer til liv i Gud = souls come to life in God
+* naadegaver = gifts of grace / spiritual gifts
+* utfoldelse = unfolding
+* væsen = essence
+* form = form
+* vækkelse = awakening / revival depending on context
+* frelse = salvation
+* Guds rike = God’s kingdom
+* den hellige almindelige kirke = the holy catholic church
+* de helliges samfund = the communion of saints
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* The congregation "comes forth" in its proper form; this image of emergence should remain.
+* Souls "come to life in God" must remain metaphorically alive, not explained away.
+* Spiritual gifts "unfold" rather than merely function.
+* Hauge as "an instrument in the Lord’s hand" should remain figurative.
+* The church bound by "the bonds of freedom, Christ’s Spirit" must retain paradoxical vividness.
+* The contrast between essence and form is abstract but imagistic in ecclesial application and should remain.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The text moves between analytic distinction, pointed correction, confessional seriousness, historical illustration, and methodological restraint.
+* Polemical moments should not swallow the calmer explanatory ones.
+* The final Luther/Sverdrup/Oftedal sequence requires a solemn, almost courtroom weighing of testimony.
+* The shift from critique to "For the present the following may deserve our consideration" should remain measured and invitational.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Repetitions such as "Ja, siger Luther" / "Nei, siger Sverdrup" should be preserved for oral force.
+* Longer sentences should be retained where they accumulate doctrinal reasoning.
+* Colon-led developments and semicolon pivots should remain wherever English can bear them.
+* The prose should sound speakable from a lectern: controlled clauses, cumulative force, clear emphases.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Position.
+
+(Z. O. Evjen.)
+
+(Continued.)
+
+The Free Church says only this: the congregation is divinely instituted. No, say the others.
+
+It is precisely here that the Free Church’s kinship with the Congregationalists shows itself. The distinctive function of the Congregationalists is “to reveal and to realise the true idea of the church.” In an English author we read this:
+
+“Dr. R. W. Dale, in an essay written ..... years ago, closes with a statement of what he considered to be ‘the distinctive function’ of Congregationalists.
+
+“It was he thought, not the work of Evangelisation, for that is the work alike of all Christians; still less was it the work of testifying against the evils, real or supposed, of other churches—for example, the evil of ‘ecclesiastical establishment’; nor was it the work of reconstructing theological science, or taking a chief place in the controversy with unbelief. All such work may form a part of their duty, and sometimes an inevitable part. But their distinctive function is ‘to reveal and to realise the true idea of the Church.’”
+
+One must not misunderstand such an analogy (or one like it). Such a misunderstanding seems to be contained in the “Kristelig Folkekalender” for 1917, page 43, where it is said: “The mission of the Free Church, then, is not first and foremost to assert the congregational principle of polity among us Norwegian Lutherans, but rather to labor for the enlivening and liberation of the congregations.”
+
+This is no doubt meant as a correction addressed to me. But I have not ascribed that task to the Free Church. I have only said that the distinctiveness of the Free Church among Lutherans lies in the sphere of polity, and that its principles of polity resemble those of the Congregationalists very closely, which Professor J. O. Andersen at the University of Copenhagen also maintains in his article on Sverdrup in “Kirkeleksikon for Norden” (three columns in fascicle 66, year 1917): “The new C. (the Free Church) was ordered according to decidedly Congregationalist principles.” I ought to add that Andersen in this connection speaks of the Principles and Rules, and that he has “Collected Writings.” Further, that Andersen, as author of a larger work on church organization, understands tolerably well what Congregationalist principles are.
+
+Distinctiveness, I said; not task. There is a difference between these two things. There are, for example, one hundred students at a school. One of them is a Negro; the others are white. There is something distinctive about the one: he is black. But we will not say that it is first and foremost his task to be black.
+
+The distinctiveness of the Free Church among Lutherans lies in the sphere of polity. But since it has essentially the same principles of polity as the Congregationalists, it may also be said of it that it has the same “distinctive function.” For the Free Church is not a congregation, but an association of congregations which takes upon itself tasks that the individual congregation cannot well solve alone.
+
+The distinctive function of the Free Church is to bring the congregation forth in its proper form, or “to reveal and realise the true idea of the church.” Therefore it declares as its purpose “to labor for the enlivening and liberation of all Norwegian Lutheran congregations, so that according to their calling and ability they may work in spiritual independence and freedom for the cause of God’s kingdom at home and abroad .....” (Rule 2).
+
+And how is this purpose sought attained? Is it by constantly preaching awakening? Rule 3 says: “This purpose is sought attained chiefly by the training of men and women for spiritual labor in and for the congregation, by the holding of greater and smaller meetings, by the dissemination of suitable literature, by the organization of Free-Church committees and associations, by the sending out of emissaries, and by other means which from time to time may show themselves expedient.”
+
+Nota bene—emissaries as well. Paa.t. Nilsen is no doubt not altogether in agreement with Rule 3. For he says in the previous issue of this paper: the work of emissaries “will become a foreign plant in the Free-Church soil.”
+
+Now the editors will scarcely be among those who compare the distinctive function of the Free Church with that of the Congregationalists. And yet it seems that what the Congregationalists call their distinctive function, “to reveal and to realise the true idea of the church,” becomes a main matter, indeed the main matter, for the editors. “The main matter for us is that the congregation come forth in its proper form.” (Folkebladet no. 34.)
+
+And yet we read this: “We know, however, that according to God’s Word there is a congregation where two or three are gathered in Jesus’ name .... or where two or more believers are gathered around God’s Word and the sacraments. The fact that a group of people forms an association does not create any congregation, but the fact that souls come to life in God. For us in the Free Church, who have this view, the organization is of less importance.” (The Editors.)
+
+Here it is suggested that the main thing is that souls come to life in God, whereas just before it is said that the main thing is that the congregation receive its proper form. Presumably this is meant to signify the same thing. If it does not do so for the editors, then it does so for many in the Free Church.
+
+But this is not the view of the Principles. In his explanation of Principle No. 1, S. says: “And next to the question of the salvation of the individual soul, there is no more important question than that of the congregation.”
+
+Thus, two questions.
+
+Now we know that the first is included in the second; but the second is not without remainder included in the first. We know also that Sverdrup used the word awakening in a very comprehensive sense: the gifts of grace too were to be awakened. And therefore he could say: “That which is really the main thing in the free congregation, and which we cannot stress often enough, is the unfolding and right use of the gifts of grace” (C. W. II).
+
+That souls come to life in God does not without more ado mean that the gifts of grace are unfolded and taken into use, and that there is a congregation in the sense of the Principles.
+
+To be sure, the congregation may be present according to its essence, but Sverdrup also wants it to be present according to its form—its proper form.
+
+Hans Nielsen Hauge was a great instrument in the Lord’s hand for leading souls to God. But a congregation according to the demands of the New Testament he could not form, says Sverdrup (C. W. II, 207). The congregation did not receive its proper form in Norway—not through Hauge and not through Johnsen. For Sverdrup reproaches the Johansen revival for having too little sense for the congregation: “In this whole movement there was lacking the right view of the congregation .... or of Jesus Christ’s body” (C. W. I, 200).
+
+Thus: according to Sverdrup’s view, the congregation’s proper form does not come of itself from what we commonly understand by awakening and conversion.
+
+In all churchly and Free-Church work the salvation of the individual is surely a main matter. But no society would presume to claim that this is its distinctive function. A function that is common to many or to all is distinctive for none.
+
+The principles of the Free Church are distinctive; and the task of the Free Church, which is first mentioned in the Rules (not in the Principles), is distinctive as its function is.
+
+The most important thing for us all—and of this we are surely heartily agreed—is the salvation of the individual. But the Free Church believes that the work for the individual’s salvation and preservation in the life, and for spiritual activity, may be better promoted by means of the realization of the Principles, especially Principle No. 1, that principle of which S. said: “The Free Church’s proper main principle is this, that the congregation is the right divine order within the Christian religion” (Guide 143).
+
+I will not say that the editors deny the legitimacy of the local congregation. Quite the contrary. But they do not let the Augsburg understanding of the congregation come clearly forth. The congregation becomes something indefinite, nearest to the holy catholic church or the communion of saints. And congregational work becomes nearest to mission work, going out to bring souls to life in God.
+
+Now I will not in these observations express my opinion as to whether the line of thought the editors seem to represent is less or more biblical than that represented by Principle No. 1. I do not here set myself up as judge between right and wrong. But I do think that there is some difference in the line of thought.
+
+My position is this:
+First it is a matter of becoming clear on what the Augsburg understanding of the congregation is. And later there may be occasion to test it in the light of God’s Word. And in this testing by the Word, it is not persons that matter, but the Word alone.
+
+For the present, the following may deserve our consideration:
+Is there a congregation where two or three are gathered in Jesus’ name?
+
+Yes, says Luther, for whom the church was an organism of all believers on earth, but no organization.
+
+Yes, says Luther, who held that if all believers on earth died, and he were left alone, then he was the church.
+
+Yes, says Luther, who never spoke of the enlivening of the congregation and never spoke of dead members of the congregation. For his church was a religious, a spiritual magnitude, independent of the boundaries of time and space, independent of outward organization and form. The holy catholic church, he said, consisted only of believers: it is invisible to others; they cannot grasp that on earth there is a gathering of believing people who are bound together not by rule, right, or law, but by the bonds of freedom, Christ’s Spirit. This gathering or congregation is visible only to believers. They apprehend the unity, this unity of the Spirit; but they cannot point to anything concrete and say: Here is the church. For the church is the work of the Holy Spirit. Everything outward, whether it is called congregation or church, is not church in the biblical sense. Organizations are indeed psychologically necessary, but they are of a worldly (here not sinful) nature. The church, or God’s congregation, is not bound to time, place, organization. This, at any rate, is what the four-hundredth anniversary of the Reformation has sought to establish concerning Luther. I cannot develop this more fully now.
+
+But no, says Sverdrup: the word about “the two or three” is not really spoken concerning the congregation. “If one would apply the word about two or three to the congregation, then the result would be this: if in a place there were no more than two or three believers, then these were nevertheless many enough to be a congregation” (C. W. II, 196).
+
+No, says Sverdrup: Luther’s word in the Third Article concerning the “whole Christian congregation on earth” must also be true of each individual congregation, if this is really to answer to its name. “The congregation consists of the believers in each place, who there in that place have formed an organization in order to labor in God’s kingdom” (Guide 143).
+
+No, says Sverdrup: a believing missionary in a heathen land is no congregation. And he and an assembly of converted people are no congregation, but only a mission.
+
+And no, says Oftedal: “For Paul and the other New-Testament writers the congregation too does not stand as something loose and indefinite, something invisible and general—the believers, wherever they might be found, without regard to their outward visible union and assembly; but it stands as a defined circle consisting of men and women separated from the rest of the world by their ordering and by the word and the Spirit whereby they had been separated” (Guide 74). In another place we read that it belongs to the essence of the church to consist in the form of congregations, not as individual Christian persons (1875).
+
+(To be continued.)
