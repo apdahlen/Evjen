@@ -1,22 +1,24 @@
+% 25 Mar: Clean up.
+
 \subsection{Installment 5: “Folkebladet” April 10, 1918}
 
 % Page 348
 
 Stillingen.
 
-(3. D. Evjen.)
+(J. O. Evjen)
 
 (Fortsat.)
 
 Kongregationalisternes tilsvarende behandling av
 disse ting findes i den litteratur som de kalder church
-polity. Ogsaa Ditedal er tilfreds med dette ord: han
+polity. Ogsaa Oftedal er tilfreds med dette ord: han
 bruker det fire gange i sin korte affidavit om Aaben Er-
 klæring (Veiledning, 198 f.)
 
 Det er ikke jeg som har lagt dette uttryk i deres
-mund. Jeg istøtter ogsaa at tilføie, at det er ikke jeg som
-har forsynt bysterne i hin seks-fot-lange forfatningshylde,
+mund. Jeg skylder ogsaa at tilføie, at det er ikke jeg som
+har forsynt bøkerne i hin seks-fot-lange forfatningshylde,
 jeg skrev om, med navnet kirkeforfatning eller church
 polity. De har dette navn paa titelbladene. Det er nok
 naturlig for den almindelige kirkegjænger at tænke at
@@ -25,23 +27,23 @@ ser, lover og regler. Men en teolog, der ikke vet noget
 mere og bedre om „faget“ fortjener vor udelte sympati
 og et inderlig ønske om bedring.
 
-3. E. og D. er ogsaa blit paavirket av den biblicisti-
+3. S. og O. er ogsaa blit paavirket av den biblicisti-
    ske retning, hvis originale talsmand var J. T. Beck. Det
-   andet bind av hans fødelære vier ca. 50 sider til „Den
+   andet bind av hans sædelære vier ca. 50 sider til „Den
    fristelige menighets forfatning“ (overskriften). Paa 27.
    sider behandler Beck hvad han kalder „Principerne“ eller
    den „indre forfatning“. Under overskriften den „ydre
    forfatning“ behandler han naadegaverne. Becks opfat-
    ning av stedsmenigheten er mere lik de norske reform-
    venners end kongregationalisternes. Men hans utpræ-
-   gede biblicisme, sterke betouelse av naadegaverne (det er
-   fremstridtet oversfor reformvennerne og de ældre kongre-
+   gede biblicisme, sterke betonelse av naadegaverne (det er
+   fremskridtet overfor reformvennerne og de ældre kongre-
    gationalister) samt hans skarpe domme om menigheterne,
    at de ikke var kommet længere end misjonsmenigheter —
-   er momenter som har været bestemmende for Levende
+   er momenter som har været bestemmende for Ledende
    principer.
 
-4. E. og D. har ogsaa meget tilfælles med den frem-
+4. S. og O. har ogsaa meget tilfælles med den frem-
    ragende lutherske retslærer Rudolph Sohm, der, krafti-
    gere end Beck, lægger vegten paa den charismatiske or-
    ganisation (kirkens organisation ved naadegaverne) og
@@ -71,7 +73,7 @@ tagelse av medlemmer i menigheten og hans likesaa mil-
 de lære om kirketugten, saa er dette saa Sohmsk som det
 kan være for en, der, avvikende fra Sohm, lærte at „me-
 nigheten er den rette form,“ og at alle de herlige ting
-som (i Sohms brillante, aandfulde verk „Kirkeret“) si-
+som (i Sohms brilliante, aandfulde verk „Kirkeret“) si-
 ges om kirken, de helliges samfund, skal gjælde om sted-
 menigheten.
 
@@ -101,7 +103,7 @@ fordi han mener, at kirken ikke kan organiseres: Kristi
 legeme kan ikke paalægges retslige bestemmelser; det ydre
 kirkevæsen er overhovedet ikke kirkevæsen, derfor er dets
 retslige normer (al ret er formel, tvangsmæssig) en mot-
-sigelse av friens væsen. Hans bekjendte tese om kirke-
+sigelse av frigens væsen. Hans bekjendte tese om kirke-
 retten lyder saaledes: „Al kirkeret staar som en motsi-
 gelse av kirkens væsen.“ Menighet, lærer han, er ingen
 bestemt, empirisk størrelse, intet socialt begrep i almin-
@@ -119,11 +121,11 @@ gjøre) og forstaa Frikirkens hovedprincip.
 
 Imidlertid kan man ikke med en gang forandre nav-
 net paa den litteratur, som kaster det sterkeste lys over
-grundsætninger som Levende principer eller endog over
+grundsætninger som Ledende principer eller endog over
 Sohms egne kirkelige anskuelser. Det kommer jo ikke
 an paa navnet saa meget som paa gavnet — gavnet av
 at raadspørre sig med forfatningslitteraturen, for at se om
-Levende principer bærer eller brister. Ti i denne litte-
+Ledende principer bærer eller brister. Ti i denne litte-
 ratur er der en rigdom av indlæg for og imot de nor-
 mer og former, der er bestemmende for kirkens aaben-
 barelsesformer, dens indre og ydre liv. De fleste av
@@ -150,12 +152,12 @@ meget skarpere i at fremholde den efter 1892 end før.
 Og mange av hans dygtigste artikler vidner — ogsaa
 hvad det sproglige angaar — om paavirkning fra Sohm.
 
-Hos Ditedal spores der mindre av denne paavirkning.
-Men Ditedal var til gjengjeld sterkt paavirket fra tid-
+Hos Oftedal spores der mindre av denne paavirkning.
+Men Oftedal var til gjengjeld sterkt paavirket fra tid-
 ligere dage av prof. Michael Baumgarten, som — hvad
-prof. Kaunleiter gjør opmerksom paa (Herzog-Hauck’s
+prof. Hansleiter gjør opmerksom paa (Herzog-Hauck’s
 Encyclopædie II, 461) — var en slags forløper for Sohm.
-Baumgarten kunde sige: „Gud vi aldrig hadde faat en
+Baumgarten kunde sige: „Gid vi aldrig hadde faat en
 kirkeret. Vi vilde da for længe siden ha hat en (aande-
 lig) kirkeordning.“
 
@@ -171,7 +173,7 @@ ste som var aarsak til, at kirkehistorikeren, Kliefoth, fik ut-
 virket hos hertugen av Mecklenburg Baumgartens av-
 sættelse som theologisk professor ved universitetet i Ro-
 stock. I sin opfatning av Apostlernes gjerninger var
-Ditedal særdeles influeret av Baumgartens verk over
+Oftedal særdeles influeret av Baumgartens verk over
 apostelhistorien (1858) hvad der ikke er vanskeligt at paa-
 vise.
 
