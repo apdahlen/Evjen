@@ -1,4 +1,8 @@
 
+
+% 27 Mar Clean up 
+
+
 % Page 322
 
 Stillingen.
@@ -52,7 +56,7 @@ ger, siger det samme om Luther og forsikrer os, at Je-
 
 % Second column
 
-saa selv ikke kunde lære noget saadant som princip nr. 1
+sus selv ikke kunde lære noget saadant som princip nr. 1
 lærer: det er for eksklusivt. (Ev. Luth. Kirchenzeitung
 1913).
 
@@ -75,7 +79,7 @@ terne og baptisterne osv.“
 Vil man se, hvorledes den reformerte kirkes kirkefor-
 fatnings principer bedømmes av lutheranere, saa gjør
 man vel i at læse Sohms Kirchenrecht, side 634—657 og
-især retslærer Karl Riefers „Grundsätze reformierter
+især retslærer Karl Rieter „Grundsätze reformierter
 Kirchenverfassung“ (paa ca. 200 sider), et verk, der vil
 kaste et overraskende lys over Ledende principer og deres
 konsekvente fortolkning.
@@ -209,7 +213,7 @@ fire nærbeslegtede strømninger:
 
 1. Forfatterne var sterkt paabirket av Den kirkelige
    reformbevægelse paa Vestlandet i Norge. Den aner-
-   kjendte principielt lagmandsvirksomheten som noget der
+   kjendte principielt lægmandsvirksomheten som noget der
    normalt hører med i en evangelisk menighet. Den hæv-
    det en demokratisk betragtning av det geistlige embede.
    Den lærte, at al kirkelig ret har sin rot i menigheten.
@@ -246,7 +250,7 @@ den enkelte lokalmenighet. Saa meget Tonning.
    rike paa jorden. Ifølge S. og O. er stedmenigheten en
    de jure divino indstiftelse.
 
-Men dette er netop de ældre koigregationalisters
+Men dette er netop de ældre kongregationalisters
 lære (til ca. 1870), skjønt den nyere skole av kongrega-
 tionalister paastaar, at der ikke er nogen foreskreven kir-
 keform i det nye testamente. Den finder rigtig nok in-
