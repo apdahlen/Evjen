@@ -1,3 +1,5 @@
+% 28 Mat: clean up
+
 % Page 372
 
 \subsection{Installment 6: “Folkebladet” April 17, 1918}
@@ -19,7 +21,7 @@ Cairns (døde 1892). Cairns siger:
 to define and vindicate the idea of the church, I believe
 that we are as yet only on the surface of its depths.”
 
-Jeg tænker Cairn vilde ha glædet sig over Sohms
+Jeg tænker Cairns vilde ha glædet sig over Sohms
 fremstilling av kirken. Ja jeg tænker han vilde ogsaa
 ha glædet sig over „ledende principer“, skjønt de ikke
 gaar saa langt som Sohm.
@@ -38,7 +40,7 @@ hvor intet fremmed er importeret, og hvor det større og
 det lille har faat sin rette betydning og sin rette plads.
 
 Det er ikke alles sak at gjøre dette arbeide. Hvor
-fordommen har ankret sig fast, hvor sporansen er sløv,
+fordommen har ankret sig fast, hvor sporjansen er sløv,
 likegyldigheten stor, og paastanden ’Vi har Abraham til
 far’ kraftig — der er utsigterne til en frugtbringende ind-
 sættelse med principerne og forfatningslitteraturen in-
@@ -154,7 +156,7 @@ optages ikke mennesker i menigheten ved beslutning av
 
 % Page 373
 
-menighetsmaate — men ved ordet, daaben og troen.“
+menighedsmøte — men ved ordet, daaben og troen.“
 (S. og D. 1895).
 
 Men menigheten har ogsaa sin utvortes side, blan-
@@ -180,7 +182,7 @@ nighet.“ (Oftedal i Veiledning, 65).
 
 Og atter Sverdrup:
 
-„For alle menigheter og for enhver enkelt av dem er Jesus’
+„For alle menigheter og for enhver enkelt av dem er Jesus
 Kristus den levende grundvold, hvorpaa menigheten er bygget...
 ”Paulus mente ikke, at Jesus og hans liv, død og opstan-
 delse er engang for alle kirkens grundvold, og siden den en-
@@ -292,7 +294,7 @@ tidvis stor fare for deres sjæl (95)“.
 
 „Vor frikirkefolk stiller det sig saa, at naar Guds
 ord har sat menigheten som den rette form for Guds rike
-paa jorden indtil Kristi komme, saa er det baade nøven-
+paa jorden indtil Kristi komme, saa er det baade nødven-
 dig og mulig at ha menighet, koste hvad det vil“ (imot
 de fri-fri).
 
@@ -317,7 +319,6 @@ mens de ikke saa noget urigtig i, at en menighet stod i
 forbindelse med flere kirkesamfund, da disse (i motsæt-
 ningen til menigheten) ikke styres av Kristi legemes lov.
 Kirkesamfundene var bare organer, verdslige indretnin-
-
 ger, som kunde tjene menigheten, der var den egentlige
 organisation, den guddommelige indstiftelse, den hellige
 almindelige kirkes eneste aabenbarelsesform (jvfr. Pon-
