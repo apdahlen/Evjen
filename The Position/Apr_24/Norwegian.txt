@@ -1,10 +1,11 @@
+% 29 Mar: clean up
 
 \subsection{Installment 7: “Folkebladet” April 24, 1918}
 
 % Page 395
 
 Stillingen.
-(J. D. Evjen.)
+(J. O. Evjen.)
 
 (Fortsat.)
 
@@ -12,7 +13,7 @@ Striden om Augsburg i nittiaarene skrev sig fra
 uoverensstemmelser med hensyn til kirkebegrepet som og-
 saa var bestemmende for presteutdannelsen. S. og D.’s
 opfatning var meget avvikende især fra dr. Schmidts,
-som med sine kollegaer professorerne Bøckman og Lund
+som med sine kollegaer professorerne Bøctman og Lund
 i 1893 forlot Augsburg.
 
 For Schmidt var den utvortes menighet av mindre
@@ -25,10 +26,10 @@ Hans kirkebegrep finder vi i Luthersk Kirkeblad, nr. 41,
 „Kristi sande menighet er dog ikke først og fremst en ut-
 vortes sammenslutning om visse embedspersoner eller en vis
 synlig organisation, som falder i øinene, men den er de sande
-troendes samf und og forening i aanden som Jesu sande troen-
+troendes samfund og forening i aanden som Jesu sande troen-
 de disciple og hans aandelige legemes lemmer hver for sin del...
 
-„Saaledes er ogsaa nu fortiden Guds sande Israel ikke
+„Saaledes er ogsaa nufortiden Guds sande Israel ikke
 denne eller hin utvortes flok eller forening av personer en syn-
 
 % Page 396
@@ -155,7 +156,7 @@ ningsprincip: Det er ikke et dogmatisk princip. Som
 forfatningsprincip hører det til etiken, og som anvendt
 etik til forfatning. Vil man ha den dogmatiske side av
 menigheten, saa kan man finde den behandlet f. eks. i
-Sverdrups „Dogmatiske paragrafer om menigheten“ (S.
+Sverdrup's „Dogmatiske paragrafer om menigheten“ (S.
 S. VI.)
 
 Dogmatiken utvikler overveiende hvad Gud gjør,
@@ -176,7 +177,7 @@ blir vore opgaver, han gir kraften til at løse dem, bruker
 os til sine organer.
 
 Etiken behandler ogsaa kirkeforfatningen, men mere
-fra et abstrakt standpunkt. En paraleldisciplin til etiken
+fra et abstrakt standpunkt. En paraleldiciplin til etiken
 er den praktiske teologi; den anvender den teologiske vi-
 den paa det praktiske liv, saaledes som vi lever det i er-
 faringen. Kirkeforfatning er en av den praktiske teolo-
@@ -191,7 +192,7 @@ ikke opgave. De gaar ikke paa personligheten, men de
 gaar paa samfundet. De er ikke et ideal. De fremstiller
 ikke et ugjennemførbart krav.
 
-Schild siger jo: „Hvis de samme principer ikke kræ-
+Gynild siger jo: „Hvis de samme principer ikke kræ-
 vet mere end det vi kunde gjennemføre, da vilde de ikke
 være kristelige.“
 
@@ -322,7 +323,7 @@ vi kan gjennemføre: „Hvis de samme principer ikke kræ-
 vet mere end det vi kunde gjennemføre, da vilde de ikke
 være kristelige.”
 
-Om en ensøldig skulemester hadde opkonstrueret
+Om en ensoldig skulemester hadde opkonstrueret
 noget slikt, saa skulde jeg forholdt mig taus. Men naar
 en prest, der gang paa gang har været Frikirkens for-
 mand kommer med noget saadant paa prent, da er det
@@ -342,7 +343,7 @@ definition av filosofi er principernes videnskap.
 
 I religionsvidenskapen betyr princip: opfattelsen av
 den grunddrift eller grundkraft, der ligger bak de indi-
-viduelle psykologische livsytringer og kjendsgjerninger.
+viduelle psykologiske livsytringer og kjendsgjerninger.
 
 I den historiske psykologi anvendes „princip“ paa en
 totalitet, der bestemmes av visse interesser, f. eks. ved
