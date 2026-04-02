@@ -1,9 +1,11 @@
+% 01 Apr: Clean up
+
 \subsection{Installment 8: “Folkebladet” May 01, 1918}
 
 % Page 420
 
 Stillingen.
-(J. D. Evjen)
+(J. O. Evjen)
 
 (Fortsat.)
 
@@ -26,13 +28,13 @@ materielle, personlige og sociale liv.
 Et kristelig princip er ikke over evne Det er en grund-
 vold at staa paa, noget der støtter, bærer. — Derfor kun-
 de Sverdrup skrive — og det var noget av det sidste han
-strev (se faksimile i S. S. III.): „Et usandt princip er
+skrev (se faksimile i S. S. III.): „Et usandt princip er
 som en svigtende grundvold.“
 
 Dogmatiken har sine principer. De behandles i det,
 som kaldes dogmatikens principlære, eller fundamental-
 lære, der utgjør næsten en tredjedel av dette fag (f. eks.
-Kirms, v. Oettingens). Lønnings lille troeslære, som i
+Kirns, v. Oettingens). Lonnings lille troeslære, som i
 mine skoledage blev benyttet ved Augsburg, indeholdt
 ingen principlære, hvorfor der heller ikke blev sagt no-
 get videre om den i „klassen“.
@@ -48,7 +50,7 @@ videre om etikens principer.
 
 Ogsaa kirkeforfatningen har visse principer der er
 avledet av et grundprincip. Principerne for kirkeforfat-
-ning blev ikke drøftet noget videre i „klassen“. Underbis-
+ning blev ikke drøftet noget videre i „klassen“. Undervis-
 ningen paa dette omraade kom teoretisk helst gjennem
 bladene, og praktisk gjennem kirkestriden.
 
@@ -56,7 +58,7 @@ Altsaa: tre principgrupper.
 
 1. Hvad er de dogmatiske principer?
    Man taler om to store reformatoriske principer, der
-   tillike er hovedgrundsætningen for al protestantisk dog-
+   tillike er hovedgrundsætningerne for al protestantisk dog-
    matisk tænkning: det formale princip og det materiale
    princip, som først blev opstillet av Twesten i 1829.
 
@@ -91,20 +93,20 @@ bakevendende ord: i Kristus.“
    melige aabenbaring av sædelighetens høieste princip;“
    men kristendommen var nok i Goethes øine bare en
    aabenbarelse av den naturlige religion. Han vilde og-
-   saa tilb[e?] solen, „ti den er likeledes en aabenbaring av det
+   saa tilbe solen, „ti den er likeledes en aabenbaring av det
    høieste!“ De Wette gjorde troen til sædelærerens princip,
-   Harleß gjenfødelsen, Darwin evolutionen.
+   Harless gjenfødelsen, Darwin evolutionen.
 
 Ifølge J. T. Beck er etikens princip „Kristus levende
 og virkende i os ved ordet“. Gisle Johnson: „Den
-kristelige tro, saadan som den viser sig virksom gjen[nem]
+kristelige tro, saadan som den viser sig virksom gjennem
 kjærlighet.“ Luthardt: „Gudssamfundet i Kristus, som
 i troen blir til en personlig virkelighet, og i livet viser
 sig virksom i kjærlighet.“ N. Seeberg: „Menneskets
 livssamfund med Gud for at tjene Gud i det evige
 ideals øiemed.“ Grützmacher: „Kilden og principet for
 den teologiske etik er den kristelige karakter.“ Oftedal,
-Gunneren og Sverdrup: „Kristi frigjørende magt i et
+Gunnersen og Sverdrup: „Kristi frigjørende magt i et
 kristelig personlighetsliv.“
 
 3. Skulde vi søke et øverste princip for forfatning,
@@ -146,21 +148,21 @@ bidrog til forfatningen. Men i teologiens historie; paa
 kirkebegrepets omraade, vil deres belysning av kirkefor-
 fatningen staa som deres distinct contribution. Endog
 det lille, som er tat med i „Veiledning“, kan i sin betyd-
-ning likestilles med Höflings bekjendte verk, „Grundsæt-
+ning likestilles med Høflings bekjendte verk, „Grundsæt-
 ninger for evangelisk luthersk kirkeforfatning“ (aar 1850,
 225 sider, 3 oplag paa to aar, ogsaa oversat til norsk).
-Höflings bok blev tilkjendt prædikaterne „epokegjøren-
+Høflings bok blev tilkjendt prædikaterne „epokegjøren-
 de“, „av vedvarende betydning.“ Det er ikke for meget
 at sige, at S. og O.’s indlæg (endog i Veiledning) like-
 saa meget fortjener de samme prædikater. I flere hen-
 seender betyr S. og O.’s indlæg et stort fremskridt.
 
-Höflings bok burde kunne bidra litt til at sætte en
+Høflings bok burde kunne bidra litt til at sætte en
 eller anden „vantro Thomas“ iblandt os ind paa det
 rette spor, da den baade siger og beviser, at kirkeforfat-
 ning gaar dypere end til rent utvortes former og diverse
 smaatterier, som de, der mindst kjender til faget, aldrig
-blir træt av at fortælle om. I fortalen siger Höfling:
+blir træt av at fortælle om. I fortalen siger Høfling:
 
 % Begin quote
 
@@ -178,7 +180,7 @@ fald for det første som medberettiget, idet den mener at lægge
 en ganske særegen troskap mot kirken og dens bekjendelse for
 dagen. Jo mindre nu forfatteren kan anse vor bekjendelses
 vigtige mening eller vort kirkeprincips sande konsekvenser med
-hensyn til dette punkt for tvilsomme, desto mere maa ham i den
+hensyn til dette punkt for tvilsomme, desto mere maa han i den
 kirkes og den bekjendelses interesse, som han av sit ganske
 hjerte tilhører, føle sig opfordret til gjentagelse og motsigelse.
 Og hans høieste ønske er nu, at han maa være saa heldig at
@@ -190,25 +192,27 @@ opfattelse, utvikling, sammenstilling og begrundelse...“
 
 % End quote
 
-Saa meget Höfling.
+Saa meget Høfling.
 
-Höfling repræsenterer det lavkirkelige standpunkt i
+Høfling repræsenterer det lavkirkelige standpunkt i
 den kirkelige kontroversie i Tyskland ca. 1850. Lederne
 
 
 % Second column
 
 for det høikirkelige parti, som angrep ham var mænd som
-Stahl, Löhe, Lechler, Huschke, Kliefoth, Dieckhoff,
+Stahl, Løhe, Lechler, Huschke, Kliefoth, Dieckhoff,
 Münchmeyer — kjendte navne i kirkehistorien. Disse
 mænd la megen vekt paa kirkens retslige bestemmelser,
 betragtet embedet som en guddommelig indstiftelse, og
 hadde halvkatholske forestillinger om forvaltningen av
-sakramenterne, om ordinationen osv. (Lønning blev
+sakramenterne, om ordinationen osv. (Lonning blev
 deres trofaste discipel).
 
-Höflings skrift blev et forløsende ord. Den retning
-han bekjæmpet led et stort nederlag. Der er nu hyderi[?]
+% bekjæmpet → bekjæmpede?
+
+Høflings skrift blev et forløsende ord. Den retning
+han bekjæmpet led et stort nederlag. Der er nu yderst
 faa i de lutherske lande i Europa, som repræsenterer
 denne retning. Arvtakerne kom til Amerika. Her er
 retning blit til en stormagt.
