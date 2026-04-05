@@ -1,3 +1,5 @@
+% 04 Apr cleanup
+
 \subsection{Installment 10: “Folkebladet” May 15, 1918}
 
 % Page 467
@@ -46,6 +48,8 @@ de reaktionæres ærender, utaandet og fik den tvetydige
 
 % Column 2
 
+% FIXME is this gradskrift or gravskrift? 
+
 gradskrift: den hadde „gjort sin virkning.” Skade at
 den ikke fik staa i aarsberetningen som et værdig, varig
 salt.*)
@@ -91,7 +95,7 @@ eller ikke gjorde, skulde være bestemmende for den kirke-
 lige skik hos kommende slegter!
 
 Med hensyn til selve haandspaaleggelsen — saa blev
-den ikke mislydet i vore artikler. Vort syn paa den var
+den ikke mistydet i vore artikler. Vort syn paa den var
 ingenlunde fremmed for Augsburg. Allerede i 1875 føl-
 te Sverdrup sig opfordret til at skrive følgende, støttet
 av Richard Rothes verk, „Die Anfänge der chr. Kirche
@@ -104,7 +108,7 @@ dette verk vigtige steder om forfatningen):
 paalæggelsen i den apostoliske kirke, hvad der med klarhet frem-
 gaar av Ap. gj. 8, 17, hvor haandspaaleggelsen ledsager bøn-
 nen over alle de døpte, om at de maatte faa den Helligaand —
-av Ap. gj. 13, 3, hvor menigheten i Antiotia ber med haands-
+av Ap. gj. 13, 3, hvor menigheten i Antiokia ber med haands-
 paalæggelse for Paulus og Barnabas, som utsendes til mis-
 sionsgjerningen, efterat de allerede længe har præket ordet —
 og av 1 Tim. 4, 14 og 2 Tim. 1, 6, hvorefter det ialfald er
@@ -119,7 +123,7 @@ kelte.” (Samlede Skrifter I, 92).
 
 % Begin footnote
 *) Paa prof. Hellands forslag var det blit besluttet, at
-erklæringen skulde trykkes i aarsberetningen. Jeg undertegn-
+erklæringen skulde trykkes i aarsberetningen. Jeg understøt-
 tet forslaget (flere gjorde det). Det blev antat. Ved en se-
 nere session foreslog to prester „at denne beslutning rekonsi-
 dereres, og at det henstilles til underskriverne at tillate at saa
@@ -170,7 +174,7 @@ nationen, som B. og jeg hadde hævdet.
 
 Jeg har i mange aar kjendt til Jacobs kirkebegrep.
 Det er Generalconcilets, hvorom der i østen har været
-stridt mere end femti aar og om hvis princip Østedal
+stridt mere end femti aar og om hvis princip Oftedal
 skrev: det „er saare langt fra Augsburgs”. Jeg blev
 derfor smertelig overrasket, da jeg saa Folkebladets re-
 daktionsartikel „Kirke og kirkerne”, og allermest ved at
@@ -200,7 +204,7 @@ boken! Jeg har skrevet et par pamfletter paa engelsk om
 dette. Det skal megen indbildningskraft til for at faa
 Jacobs kirkebegrep til at harmonere med Frikirkens. Og
 allikevel — tilstemmer redaktionen „av ganske hjerte”
-„Lutheran”s uttog av Jacobs artikel. Jeg tænker redak-
+„Lutheran's uttog av Jacobs artikel. Jeg tænker redak-
 tionen vilde ved sin artikel „Kirken og kirkerne” betone
 den hele kristne menighet, — og det kan behøves. Men
 den hele kristne menighet bestaar jo ifølge Augsburg-
@@ -246,7 +250,7 @@ ten. Nogen lærer, at det har hensyn til den hellige al-
 mindelige kirke. Og nogen kanske gaar den gyldne mid-
 delvei og mener, det har hensyn til begge.
 
-Den samme meningsforskje[l] møter os ogsaa iblant
+Den samme meningsforskjel møter os ogsaa iblant
 presterne.
 
 Hvad der gjælder om de forskjellige fortolkninger av
@@ -324,7 +328,7 @@ der forlot sit professorat i Wittenberg, tok sin bibel til
 de ulærde bønder og bad dem fortolke den for ham, idet
 han mente at teologisk lærdom var en hindring for aan-
 den! Smigrende for bønderne, men det skjæreste sværmeri
-for Luther, som ikke var dualistisk i sin kristendomsopfæt-
+for Luther, som ikke var dualistisk i sin kristendomsopfat-
 telse.
 
 Det er netop for mænd som redaktøren at jeg gang

@@ -1,4 +1,4 @@
-
+% 04 Apr: cleanup
 
 \subsection{Installment 1: “Folkebladet” April 24, 1918}
 
@@ -16,7 +16,7 @@ alt det læsestof som sendes til bladet. Av og til kan dog
 redaktøren føle sig opfordret til at ha et ord med i laget,
 især naar det gjælder bladets redaktionelle standpunkt.
 
-Nu har dr. Eyen i en række artikler om „Stillin-
+Nu har dr. Evjen i en række artikler om „Stillin-
 gen“ indgaaende og klart paavist hvad, efter hans me-
 ning, Frikirkens lære om menigheten er, saaledes som
 fremstillet av professorerne Sverdrup og Oftedal, og som
@@ -49,7 +49,10 @@ i følgende punkter:
 
 4. Frikirkens hovedopgave er dog ikke at virke for
    forfatning, men for sjæles frelse, for aand og liv.
-   Saavidt vi forstaar dr. Eyen er dette ogsaa hans
+   Saavidt vi forstaar dr. Evjen er dette ogsaa hans
+
+
+% second column
 
 standpunkt. Hans artikler har imidlertid denne gang væ-
 ret hovedsagelig refererende; han har citeret andres ut-
@@ -70,7 +73,7 @@ ialfald til opstillingen av saadanne spørgsmål. Altsaa:
 spørgsmaal som venter paa svar, opgaver der venter paa
 løsning.“
 
-Vi forutsætter dog at dr. Eyen fremdeles tilstemmer
+Vi forutsætter dog at dr. Evjen fremdeles tilstemmer
 dette princip, og da er vi jo enige i hovedsaken. Og den
 tanke melder sig uvilkaarlig: Hvorfor ikke se mere paa
 de fundamentale grundsætninger som vi er enige om, og
@@ -79,7 +82,7 @@ der godt kan være rum for delte meninger? Vi træn-
 ger jo saa vel til at arbeide os sammen heller end at
 splitte.
 
-Ta f. eks. det brønsomme spørsmål om Frikirkens
+Ta f. eks. det brysomme spørsmaal om Frikirkens
 særstilling blandt de norske lutheranere. Nogen holder
 for at der bare er en forfatningsforskjel, andre at der er
 mere, nemlig ogsaa en forskjel i aandsretning. Nogen
@@ -172,15 +175,15 @@ med denne artikel at fremsætte den paastand, at vi i grun-
 den vil det samme, at de som betoner forfatningen, og-
 saa vil ha aand og liv, og at de som lægger vegten paa
 aand og liv, ogsaa vil ha en fri forfatning, de fleste i alle
-fald. Hvorfor da fortjærre hinanden?
+fald. Hvorfor da fortjætre hinanden?
 
-At der er nogen som helst udsket en anden forfat-
+At der er nogen som helst ønsket en anden forfat-
 ning, er vel saa. Men dersom vi i skrift, tale og færd
 viser kristelig fordragelighed og det rette brodersind, vil
 ikke basisrøverne faa stort følge. Vi maa gi rum for
 hverandre. Der maa være frihet i fritirken. Vi er ikke
 tjent med at nogen opkaster sig til diktator med krav paa
-eneret til at avgjøre hvad der er fritirketlig.
+eneret til at avgjøre hvad der er frikirkelig.
 
 Vi som taler saa meget om at ta naadegaverne i bruk
 i det praktiske menighetsarbeide, bør ogsaa være villige
