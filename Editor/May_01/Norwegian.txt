@@ -1,3 +1,5 @@
+% 04 Apr: clean up
+
 % Page 419
 
 \subsection{Installment 2: “Folkebladet” May 1, 1918}
@@ -58,9 +60,7 @@ kommer ikke paa den maate at man kan se det med sine
 Guds rike er inden i eder.“ Men han siger ogsaa at de
 troende skal være lys og salt i verden, at lyset ikke skal sæt-
 tes under skjæppen, men i staken, saa det kan skinne for
-alle i huset.
-
-„La saa eders lys skinne for menneskene,
+alle i huset. „La saa eders lys skinne for menneskene,
 for at de kan faa se eders gode gjerninger og prise eders
 fader i himmelen.“
 
@@ -139,7 +139,7 @@ Her er vor opgave. Det er et høit og herlig maal. Vi
 naar det vel ikke helt her paa jorden; men at komme saa
 nær op til det som mulig bør være vor stræben.
 
-At virke uavladelig for menighetens levendegjørelse
+At virke uafladelig for menighetens levendegjørelse
 og frigjørelse iblandt os er vor opgave. Vækkelse, aand
 og liv er hovedsaken. Det er ikke nok at forutsætte livet;
 vi maa gjøre vort til at der kan bli liv, mere og mere liv
@@ -153,7 +153,7 @@ tale om og rope paa vækkelse. Vore staaende uttryk om
 vækkelse, aand og liv kan, som saa meget andet, let bli
 vanlige talemaatter og tomme fraser uten den ringeste virk-
 ning. At faa istand en religiøs bevægelse med meget
-strik og stræd, rørende historier, mange taarer og appel
+strit og straal, rørende historier, mange taarer og appel
 til følelserne er heller ikke uten videre sand vækkelse. Alt
 dette kan være meget skadelig. Alene Guds aand kan
 vække til liv. Menneskelige foranstaltninger duer ikke.
