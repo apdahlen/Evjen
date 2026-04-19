@@ -3,6 +3,8 @@ John Evjen: Sinner and Witness
 An Uncomfortable Gift to the AFLC
 
 
+%The greatest risk is not simply that Sverdrup is canonized, but that Sverdrup is canonized in a way that prevents P1 from being clearly understood, historically situated, and honestly tested by Scripture.
+
 
 The j is silent
 
@@ -92,6 +94,122 @@ Show the reader what question to watch for as they enter the text.
 That is enough for a real book if the editorial hand is strong.
 
 The key is that the foreword must not try to do everything. It should not become a substitute for the unwritten big book. 
+
+
+
+
+*************************************
+
+Evjen’s roadmap for understanding P1 looks like this:
+
+First, do not assume you already understand it. He explicitly says P1 especially needs attention, asks whether everyone understands it, and says it is legitimate to ask whether the authors could have been mistaken. He also says you cannot evade the problem by redefining P1 as the unorganized holy catholic church, because “that is precisely what it does not do.”
+
+Second, read P1 together with the surrounding principles, not in isolation. He says objections from Principle 4 must be handled in connection with Principle 1. That means P1 has to be read as part of a structure, not as a slogan.
+
+Third, state positively what P1 is claiming. Evjen gives a very concrete paraphrase: the congregation is original, the church body derived; the local congregation has God’s Word over it, Christ as head, the Spirit as guide, and no other authority over it. He also says P1 is directed against both large ecclesiastical organizations and the dissolving of the church into isolated individuals.
+
+Fourth, distinguish carefully. This is one of his main interpretive tools. He distinguishes:
+the essence of the kingdom from the essence of the congregation,
+the outward form of the kingdom from the form of the congregation,
+the outward congregation from outward organization,
+and congregation according to essence from congregation according to form. He even says the editor’s failure is largely a failure to keep those distinctions straight.
+
+Fifth, interpret the authors by the authors. He says, “author interprets author,” and points to Sverdrup and Oftedal’s own statements as the first guide. He also says his aim has been fidelity to what they meant, not premature claims about final scriptural correctness.
+
+Sixth, use the wider literature on church polity and church history. This is a major part of his roadmap. He says one finds light not chiefly in dogmatics but in polity literature and church history, and goes so far as to say he cannot see how anyone can rightly assess Sverdrup without acquaintance with older Congregationalist polity and Sohm.
+
+Seventh, return from that broader reading to Scripture and test P1 fairly. Evjen does not stop at historical reconstruction. He says the principles must be studied, discussed, clarified, compared with related literature, and only then fairly tested as to whether they stand wholly on the ground of Scripture.
+
+
+
+
+
+***************
+
+Yes. If you want an AFLC apologetic chain for understanding P1, I think Evjen’s logic can be pulled into a fairly tight sequence.
+
+I would state it like this:
+
+1. Start with the claim that the church must not be reduced either to big ecclesiastical machinery or to isolated believers.
+Evjen says Sverdrup and Oftedal are arguing against both errors at once: against church-bodies as if they were the church in the biblical sense, and against pietism that dissolves the church into individuals. The church must exist in the form of congregations.
+
+2. Therefore the local congregation is not merely useful; it is the proper outward form of Christ’s church on earth.
+This is the core move. After 1876, Evjen says Sverdrup came to teach that the local congregation is itself “God’s house” and “Christ’s body,” while other ecclesiastical organizations are only useful organs or historical arrangements. That is the heart of P1.
+
+3. Therefore church-bodies, synods, and associations are derivative, not primary.
+They may serve the congregation, but they are not divine in the same sense. The congregation is “original”; the church body is “derived.” The congregation has Christ as head and the Spirit as guide, but “no other authority over it.”
+
+4. Therefore P1 is a church-polity principle, not a vague devotional slogan.
+Evjen is adamant here: P1 is not an “ideal,” not a free-floating demand, and not merely dogmatics. It is a constitutional principle belonging to ethics and practical theology, that is, to church polity.
+
+5. Therefore Scripture must be treated as normative for polity, not only for doctrine.
+This is one of the key apologetic moves. Against Schmidt and the broader Lutheran instinct, Sverdrup and Oftedal insist that the New Testament binds Christians in matters of congregation and church order no less than doctrine.
+
+6. Therefore the universal priesthood must be applied visibly, not merely invisibly.
+Evjen says the highest principle behind the Guiding Principles is the universal priesthood, but S. and O. applied it not just to the invisible church, but to the visible body of Christ, the congregation. In AFLC terms, this is where apologetics has to show that lay equality is not anti-church, but built into the church’s true form.
+
+7. Therefore salvation of souls and the congregation’s proper form are related but not identical.
+This is crucial. Evjen says the salvation of the individual is always central, but that alone does not automatically yield a congregation in the sense of P1. Awakening by itself does not produce the church in its proper form.
+
+8. Therefore the congregation must be understood as the arena where gifts of grace are actually exercised.
+For Sverdrup, the congregation is not just a container for believers. It is the place where gifts are unfolded and used. Evjen quotes him to the effect that “without the congregation, the gifts of grace have no attachment and no purpose.” This is one of the strongest practical arguments for P1.
+
+9. Therefore “two or three” language must be handled carefully.
+Evjen’s reading is not that any two believers automatically constitute the congregation in the full P1 sense. Rather, they become congregation according to essence when they gather around Word and Sacrament, and according to form when the outward organization follows. That distinction matters for AFLC apologetics because it prevents both hyper-spiritualism and empty formalism.
+
+10. Therefore the key distinctions must be preserved.
+This may be the most useful apologetic move of all. Evjen thinks confusion reigns because people blur:
+
+kingdom vs congregation
+essence vs form
+outward congregation vs outward organization
+mission situation vs constituted congregation
+If those distinctions collapse, P1 becomes mush.
+
+11. Therefore the AFLC claim is not merely “we like congregationalism.”
+The actual claim is stronger: the congregation is the right divine order within Christian religion, the proper form in which Christ’s body is manifested, and the church-body is justified only as an instrument serving that reality.
+
+12. Therefore P1 must first be understood historically and authorially before it is tested biblically.
+Evjen’s method is: first understand what Sverdrup and Oftedal meant; then test whether it fully stands on Scripture. He is explicit that he is defending the meaning of P1, not automatically declaring its absolute validity.
+
+If you want that compressed into a one-paragraph AFLC apologetic thesis, I would write it like this:
+
+P1 argues that Christ’s church on earth is not properly realized either as a mere invisible fellowship of believers or as a large governing church-body, but in the local congregation gathered around Word and Sacrament, where the universal priesthood becomes concrete, the gifts of grace are exercised, and Christ’s body takes its proper outward form; therefore synods and associations are secondary instruments, not the primary divine form of the church.
+
+And if you want the apologetic pressure points — the places critics will attack — they are these:
+
+Is the local congregation really called Christ’s body in this strong sense, rather than only the whole church?
+Does the New Testament truly provide binding polity, or only doctrine?
+Does applying the universal priesthood this way collapse into older Congregationalism?
+Is there tension or “dualism” inside the principles themselves?
+
+So yes: the causal chain is there. Evjen does not give it as a clean numbered primer, but the material is strong enough to reconstruct one.
+
+
+**********************
+
+That is a much more unstable and intellectually honest project than simple AFLC slogan-defense.
+
+The startling part is that Evjen is not saying, “Here is P1, therefore submit.” He is saying something closer to:
+
+Understand it exactly.
+Trace its logic.
+Locate its historical relatives.
+Then test it without fear.
+
+That is why he feels both deeply loyal to Sverdrup and strangely unprotective of him.
+
+The really explosive implication is this: if AFLC apologetics took Evjen seriously, it could not stop at “the congregation is the proper form.” It would also have to ask:
+
+ * what exactly does that mean?
+ * what does it exclude?
+ * what does it require?
+ * is it fully scriptural?
+ * did Sverdrup overstate it?
+ * would Sverdrup himself have revised it?
+
+That is not normal institutional memory. That is live theological work.
+
 
 
 
