@@ -1,0 +1,439 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Naar / vilde / bliver / foragtet blot / Tant / Nar / hengaa / førend / kjendtgjerdning / befatte sig / Sindighed / Troskab / Barnelovdommen / maalbevidst / hertillands / Syttiarene / sine qua non / indprentet / fællesanstalt / nedlagde sit Liv / Bogavl / Samfundsopstillinger / Lægedom / Brøst / læge / lærde / Kathederet / Veltalenhedens Alen / Frembringelser / fattigslig / myndige / for intet at agte / kristelig Indsigt / Tynd og Styrke / Forte / Gadens Visdom / Leilighedstale / slagfærdige / Disputator / Ordskifte / Geschæft / Vuggegave / Docering / gammelttestamentlig Indledning / Exegese / Færdsel / Redskaber / Lugtelse / paa Prent / Dogmatik.
+
+* Many of these are not difficult in isolation, but they carry older Dano-Norwegian register, church usage, or academic usage that must not be flattened into casual modern English.
+
+* Tant in the poem is not merely “nonsense” in a neutral sense; it suggests “trifling stuff,” “folly,” “a thing dismissed as worthless.”
+
+* Nar is stronger than “fool” in a neutral intellectual sense; it has a sneering moral coloration: a smug fool, a self-satisfied simpleton.
+
+* Barnelovdommen is doctrinally dense and historically specific. It is not merely “teaching children the law” in a generic sense, but the principle of child instruction/catechetical formation in the Law and faith. A rendering must preserve the institutional-doctrinal weight without over-explaining inside the translation.
+
+* Menighedens Autonomi is not modern individualist “independence,” but the congregation’s rightful self-governance or autonomy in churchly order.
+
+* maalbevidst Prestedannelse means deliberate, purposive, goal-conscious ministerial formation; “intentional pastoral training” is near the sense, but a more period-appropriate form is preferable.
+
+* Fællesanstalt literally suggests a joint institution or common establishment; here it opposes living congregation to impersonal machinery.
+
+* nedlagde sit Liv i dets Tjeneste means devoted, spent, laid down his life in its service; the idiom carries sacrificial weight and should not be weakened.
+
+* Samfundsopstillinger refers to existing ecclesial alignments/configurations among church bodies, not merely “social arrangements.”
+
+* Lægedom for visse kirkelige Brøst is metaphorical and diagnostic: remedy for certain church defects, ailments, or infirmities.
+
+* læge og lærde plays on “lay and learned,” and the contrast must remain visible.
+
+* Kathederet is the lecturer’s desk/chair, the academic platform. In context it points to the classroom lectern rather than a cathedral chair.
+
+* myndige and sterke about Paul’s letters must retain apostolic force: weighty, forceful, authoritative.
+
+* kristelig Indsigt means Christian insight in the strong doctrinal-spiritual sense, not mere “religious understanding.”
+
+* Tynd og Styrke appears to be a printing/OCR corruption for something like “Tyngde og Styrke.” Because the surrounding sense requires gravity and force, the translation should reflect that meaning while noting the probable textual irregularity.
+
+* Gadens Visdom means common street wisdom, vulgar received opinion, not actual wisdom.
+
+* Leilighedstale means occasional address, speech for an occasion.
+
+* Vuggegave is figurative: a gift received in the cradle, a native endowment.
+
+* Docering is lecturing/teaching, but with academic-professorial resonance.
+
+* Færdsel with Israel’s congregation means the Lord’s dealings/walk/history with Israel, not literal physical travel.
+
+* Lugtelse is almost certainly a corrupted/OCR form for “Tugtelse” (chastisement/discipline). The sense requires disciplinary divine judgment.
+
+Syntactic Hazards
+
+* The prose moves in long accumulative sentences, often balancing clauses with semicolons and rhythmic triads. Breaking them into short modern English units would reduce argument, cadence, and authority.
+
+* Repeated “hvorvidt … og hvorvidt …” and “jo mere … jo mere …” constructions must be preserved as parallel logic.
+
+* The author uses catalogues that build by accretion: “klart, logisk og folkeligt”; “frisk, original”; “dramfri, jævn, ukunstlet, tanketung.” These must remain cumulative rather than being collapsed.
+
+* Contrastive pivots are frequent: “Paa den anden Side …,” “Under dette er der dog …,” “Og dog …,” “Gjaldt det derimod …,” “Det var ikke … Og dog …” These are structural and rhetorical markers, not mere connective filler.
+
+* Quoted judgments and anecdotes are inserted to sharpen the larger evaluative argument. They should remain embedded and vivid, not summarized away.
+
+* The poem’s conditional chain culminates in the testing of love. Its rhythm depends on successive “naar” clauses followed by the repeated “da skal …” response.
+
+Theological Hazards
+
+* Alvor, Ærlighed og Kjærlighed are not merely character traits; together they signal moral earnestness, integrity, and Christian love as the motive force of ministry.
+
+* Barnelovdommen, Menighedens Autonomi, and Prestedannelse are ecclesial principles, not administrative preferences.
+
+* “Liv er mere end Lære, Menighed mere end Fællesanstalt, Præst mere end Lærer og Liturg” is programmatic and must retain its axiomatic force.
+
+* Guds Rige should be rendered “the Kingdom of God,” preserving biblical resonance.
+
+* “Thi han oplod Skrifterne” echoes Luke 24 and the act of opening the Scriptures. This must not become a flat “he explained the Bible.”
+
+* Biblical spirit, prophetic speech, edification, Christian insight, and references to Paul in 2 Corinthians all require scriptural gravity.
+
+* The contrast between Greek rhetoric and Christian insight is theological, not merely stylistic.
+
+Voice Hazards
+
+* The essay is laudatory but not hagiographic. It insists both on Sverdrup’s greatness and on his human frailty. The balance must remain.
+
+* The voice is solemn, assured, argumentative, and ecclesially invested. It is not neutral academic description.
+
+* The author writes with pastoral-ecclesial urgency, pressing readers to read Sverdrup for the health of the church. This exhortational pressure must remain.
+
+* Irony appears in controlled flashes: “Gadens Visdom vil aldrig dø.” This must remain dry and pointed, not jokey.
+
+* The prose honors oral force. Even when describing style, it performs style. Over-smoothing would erase that self-demonstrating rhetoric.
+
+STEP 2: IDIOM ANALYSIS
+
+* “blir holdt for Tant”
+  Meaning: is regarded as trifling nonsense, as a thing fit to be dismissed.
+  Implication: The line is not about simple disagreement, but about contemptuous trivialization.
+  Translation note: “held to be folly” or “dismissed as trifling nonsense” preserves force better than plain “thought silly.”
+
+* “da skal den øves, da skal den prøves, din Kjærlighed”
+  Meaning: then your love must be exercised and tested.
+  Biblical/theological context: love proved under contempt and opposition; close to New Testament moral testing language.
+  KJV-adjacent equivalent: “tried” is natural and scripturally resonant.
+
+* “hengaa en længere Tid”
+  Meaning: a considerable time must pass.
+  Translation note: slightly elevated phrasing suits the register better than “it will take a while.”
+
+* “befatte sig med dem”
+  Meaning: to concern oneself with them, seriously engage with them.
+  Translation note: “concern themselves with” fits the period and seriousness.
+
+* “lægge Hindringer i Veien”
+  Meaning: place obstacles in the way.
+  Implication: active resistance, not passive misunderstanding.
+
+* “rene Karikaturer”
+  Meaning: sheer caricatures.
+  Implication: distortion by bad practice, not mere imperfect application.
+
+* “demonstrative Principryttere”
+  Meaning: ostentatious riders of principles, showy doctrinaires or parade-ground principle-riders.
+  Translation note: a literal echo such as “demonstrative riders of principle” is possible, but “ostentatious doctrinaires” may read more naturally. Yet the equestrian image has bite; preserving it helps keep the polemical color.
+
+* “den vel fortjente Spot er ikke udeblevet”
+  Meaning: the well-deserved mockery has not failed to appear.
+  Implication: ridicule did come, and not without cause, though it fell wrongly.
+
+* “i Sindighed”
+  Meaning: with calmness, sobriety, steady composure.
+  Theological implication: disciplined faithfulness rather than activism or display.
+
+* “gjorde dem allerede i Syttiarene til sit sine qua non”
+  Meaning: made them already in the seventies into its indispensable condition.
+  Translation note: the Latin may remain; it contributes to learned ecclesial prose.
+
+* “nedlagde sit Liv i dets Tjeneste”
+  Meaning: devoted/spent/laid down his life in its service.
+  Biblical echo: sacrificial self-giving, though not necessarily martyrdom.
+
+* “gjøre sig fortroligt med”
+  Meaning: make oneself familiar with, become thoroughly acquainted with.
+  Implication: not casual reading but sustained familiarity.
+
+* “de læge ligesaameget som de ‘lærde’”
+  Meaning: the laity no less than the learned.
+  Cultural note: classic church contrast between non-scholars and scholars.
+
+* “maale med Veltalenhedens Alen”
+  Meaning: measure by the yardstick of eloquence.
+  Implication: a mistaken evaluative standard.
+
+* “for intet at agte”
+  Biblical source: 2 Corinthians 10:10 in older diction.
+  Meaning: to be counted as nothing, held in contempt.
+  KJV-adjacent equivalent: “his speech contemptible” is very close in force, but the translator should preserve the essay’s own phrasing while recognizing the scriptural source.
+
+* “han oplod Skrifterne”
+  Biblical source: Luke 24:32, 45.
+  Meaning: he opened the Scriptures.
+  This should remain nearly literal, because the allusion carries both pastoral and Christological resonance.
+
+* “gik aldrig de nøgne Landeveie”
+  Meaning: he never walked the bare country roads.
+  Function: metaphor for barren, unadorned, exhausted paths of preaching. It suggests that his preaching avoided stale commonplaces.
+  Literal translation is good here because the image is vivid and intelligible.
+
+* “opvarte med farverigt Fyrværkeri”
+  Meaning: entertain with colorful fireworks.
+  Implication: rhetorical display, verbal spectacle, crowd-pleasing ornament.
+
+* “bringe ham ud af Ligevægten”
+  Meaning: throw him off balance.
+  Implication: loss of composure under dispute.
+
+* “meiede ned den ene Række Argumenter efter den anden”
+  Meaning: mowed down one row of arguments after another.
+  Metaphor: martial/agricultural image of relentless destruction.
+  Should be preserved.
+
+* “noget i Vuggegave”
+  Meaning: something given him in the cradle, an inborn gift.
+  Implication: native endowment that discomfited others.
+
+* “tog Tingene med Storm”
+  Meaning: took things by storm.
+  Implication: forceful mastery, intellectual conquest.
+
+* “all eye, all ear” in the English quotation
+  This is already idiomatic English and should remain as quoted.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis through Bjørnson’s verse:
+  The poem supplies the governing interpretive frame: true love is tested when one’s work is mocked, one’s labor despised, and one’s intention dismissed.
+
+* Immediate application to Sverdrup:
+  The author claims the verse suits Sverdrup because his work was great and badly understood.
+
+* Historiographical caution:
+  A full and balanced evaluation cannot yet be given; current judgments are distorted in two opposite directions.
+
+* Central corrective claim:
+  Whatever disagreements remain about Sverdrup’s person, there should be no divided opinion about the rightness of his aim, the soundness of his principles, and the seriousness, honesty, and love that bore his work.
+
+* Diagnosis of misunderstanding:
+  The principles have been much discussed yet remain largely unknown or misunderstood. Causes include ill will, incapacity, obstruction, caricature, sloganizing, and misplaced ridicule.
+
+* Counterbalancing affirmation:
+  Despite distortion, many have worked quietly and faithfully for those principles.
+
+* Naming of the principles:
+  Child instruction/catechetical principle, congregational autonomy, and purposive ministerial formation.
+
+* Historical claim for Augsburg:
+  These principles existed before Augsburg, but Augsburg joined them and made them central in the Norwegian-American church.
+
+* Programmatic doctrinal summary:
+  Augsburg impressed upon the people that life is more than doctrine, congregation more than common institution, priest more than teacher and liturgist.
+
+* Sverdrup’s sacrifice:
+  Sverdrup gave 33 years of hard, self-denying, incomprehensible labor to Augsburg and to the Kingdom of God.
+
+* Present occasion and exhortation:
+  The publication of his collected writings provides a new occasion to learn what he intended, wrought, and meant.
+
+* Test of consistency:
+  Reading across 38 years will show whether there was rupture, groping, or self-contradiction.
+
+* Practical appeal to church readers:
+  For the understanding of present church configurations and the remedying of church defects, Norwegian-American church people ought and must make themselves familiar with Sverdrup’s major writings.
+
+* Accessibility claim:
+  These writings concern laypeople as much as the learned, and are intelligible to both, because Sverdrup wrote clearly, logically, and popularly.
+
+* Transition to oral/written evaluation:
+  The author warns against judging writings by impressions of spoken eloquence.
+
+* Comparative examples:
+  Bjørnson and Ibsen, Otto Funcke, and finally Paul show that rhetorical presence and literary or apostolic greatness do not coincide.
+
+* Theological climax of this section:
+  Paul’s greatness lay not in Greek oratory but in Christian insight; likewise Sverdrup’s greatness lay in deep Christian insight.
+
+* Rhetorical question and answer:
+  Where did his strength as a speaker lie?
+  Not chiefly in pulpit or platform, though he was strong in both.
+
+* Pulpit assessment:
+  He was a great preacher, biblical, prophetic, and edifying, though not theatrically impressive.
+
+* Platform assessment:
+  His occasional addresses were sober and weighty, not flashy.
+
+* Debate assessment:
+  In controversy he showed fearless, destructive force and perfect self-command.
+
+* Culminating answer:
+  His greatest strength was the lectern, especially systematic theology, and then Old Testament introduction and exegesis.
+
+* Final testimonial proof:
+  The inserted English quotation from 1907 serves as witness to the brilliance, force, rhythm, liberty, and calm power of his teaching.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Thi han oplod Skrifterne.”
+  Likely source: Luke 24:32, 45.
+  Function: casts Sverdrup’s preaching in the mold of scriptural opening and illumination.
+
+* “myndige og sterke, men hans legemlige Nærværelse magtesløs og hans Tale for intet at agte (2 Kor. 10, 10).”
+  Source explicitly given: 2 Corinthians 10:10.
+  Function: compares misjudgments of Sverdrup to misjudgments of Paul.
+
+* “Han imponerede ikke ved den græske Talekunst, men han var stor i kristelig Indsigt. (2 Kor. 11, 6).”
+  Source explicitly given: 2 Corinthians 11:6.
+  Function: contrasts rhetorical polish with spiritual-doctrinal insight.
+
+* “Guds Rige.”
+  Biblical stock phrase: the Kingdom of God.
+  Function: frames Sverdrup’s labor in eschatological and ecclesial terms.
+
+* The poem’s testing of love under contempt resonates with New Testament patterns of proving faith and love under trial, though not tied to a single explicit verse.
+
+* “opbygge” in reference to preaching carries Pauline-churchly language of edification.
+
+* “biblsk Aand” and comparison to “den gammeltestamentlige profetiske Tale” place Sverdrup’s preaching within prophetic-biblical typology.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Warnings, criticism, and satire must remain sharp. The author is not mildly noting misunderstandings; he is indicting bad will, caricature, sloganizing, and superficial judgment.
+
+* Praise must remain grave rather than inflated. The author reveres Sverdrup, but with controlled conviction.
+
+* The prose repeatedly places moral pressure on the reader: one ought and must read Sverdrup; one ought not judge by eloquence; one ought recognize what truly mattered in his work.
+
+* Consolation and admiration are real, but they never erase the essay’s polemical edge.
+
+* Where the original uses strong evaluative words such as “uforligneligt,” “ufatteligt,” “magtesløs,” “fattigslig,” “haardt, selvforsagende,” the translation should preserve full strength.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “da skal den øves, da skal den prøves” must remain “then it shall be exercised, then it shall be tried” or “must be exercised / must be tried,” depending on rhythmic needs. The force must not be softened to “may be tested.”
+
+* “Det vil hengaa en længere Tid” should retain certainty: “A long time will pass” or “It will be a long time.”
+
+* “det burde ikke være delte Meninger” preserves moral expectation: “there ought not to be divided opinions.”
+
+* “ingen tvile om” must remain “no one should doubt.”
+
+* “bør og maa gjøre sig fortroligt med” is doubly emphatic and must remain “ought and must make themselves familiar with,” not merely “should consider reading.”
+
+* “vil kunne læses med Udbytte” keeps future potential without weakness: “will be able to be read with profit” or “may be read profitably.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Alvor = earnestness
+* Ærlighed = honesty
+* Kjærlighed = love
+* Principer = principles
+* Menighed = congregation
+* Guds Rige = the Kingdom of God
+* kristelig Indsigt = Christian insight
+* opbygge = edify
+* Skrifterne = the Scriptures
+* Prædikestolen = the pulpit
+* Kathederet = the lectern / professor’s desk / lecture desk (kept consistent according to context)
+* systematisk Theologi = systematic theology
+* gammelttestamentlig Indledning = Old Testament introduction
+* Exegese = exegesis
+* Dogmatik = dogmatics
+* Barnelovdommen = the child-law principle / child catechesis in the Law
+
+Note on Barnelovdommen:
+
+* No completely frictionless English equivalent exists.
+* In the final translation, “child catechesis in the Law” would be too interpretive inside the sentence.
+* “the child-law principle” preserves compactness and historical strangeness, though it may need a translator’s note in a scholarly edition.
+* Since the user requested translation rather than apparatus, the main text will preserve compactness while choosing the least misleading form available.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “lægge Hindringer i Veien” remains “lay obstacles in the way.”
+
+* “rene Karikaturer” remains “mere caricatures.”
+
+* “nedlagde sit Liv” remains “laid down his life” or “spent his life,” with preference for “laid down” where the sacrificial overtone matters.
+
+* “Veltalenhedens Alen” remains “the yardstick of eloquence.”
+
+* “han oplod Skrifterne” remains “he opened the Scriptures.”
+
+* “gik aldrig de nøgne Landeveie” remains literal or near-literal: “he never walked the bare country roads.”
+
+* “opvarte med farverigt Fyrværkeri” remains “wait upon his hearers with colorful fireworks” or “serve up colorful fireworks.”
+
+* “bringe ham ud af Ligevægten” remains “throw him off balance.”
+
+* “meiede ned den ene Række Argumenter efter den anden” remains “mowed down one row of arguments after another.”
+
+* “faaet noget i Vuggegave” remains “had received something as a cradle-gift” or “been given something in the cradle.”
+
+* “tog Tingene med Storm” remains “took things by storm.”
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The translation must preserve the movement from poetic lament to historical reflection, from critique of misunderstanding to praise of principled labor, from exhortation to anecdote, from irony to admiration.
+
+* Tone shifts are frequent and meaningful:
+
+* severe: criticism of those who caricatured the principles
+
+* sober: caution about premature historical judgment
+
+* exhortational: readers ought and must read Sverdrup
+
+* ironic: common judgments about rhetoric and influence
+
+* admiring: Sverdrup’s preaching, debate, and teaching power
+
+* testimonial: the closing English commendation
+
+* The translation must not flatten these into one uniformly respectful academic tone.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The prose is meant to be heard. Clause length, triads, semicolons, and question-answer movement all contribute to public-speaking rhythm.
+
+* Repetition must be retained where it drives cadence: “da skal den øves, da skal den prøves”; “hvad Sverdrup vilde, virkede, mente”; “klart, logisk og folkeligt.”
+
+* Questions must remain as actual rhetorical questions, especially the sequence: “Men hvor? … Hvor laa hans Forte som Taler?”
+
+* Short emphatic judgments should remain short: “Men — tilbage til vort Spørgsmaal.”
+
+* The quoted English testimony should remain untouched except for normalization only if necessary. Since it is already English, it should be reproduced exactly as given, with only punctuation normalization if absolutely required.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+When all that you meant was met with mockery,
+and all that you wrought was only despised,
+when your whole intent, however good it was,
+is held to be trifling nonsense by a self-satisfied fool,
+then it shall be exercised,
+then it shall be tried,
+your love.
+Bjørnstjerne Bjørnson.
+
+The little verse above, by our great poet, is found unsigned in the Collin manuscript collection. It was printed for the first time in 1907, the year of Professor Sverdrup’s death. We do not know when the poem was composed, or whether the poet wrote it for any particular person. We do know that scarcely anything could be more fitting as an apostrophe to Sverdrup, if we wish to express how great his work was, and how little it was understood.
+
+A longer time must pass before history can give a many-sided assessment of Sverdrup’s life and work. As things now stand, there are far too many who have no understanding of what he accomplished among us. On the other side are those who seem to forget that Sverdrup too was subject to human frailties, and that now and then he was mistaken.
+
+But there ought not to be divided opinions as to whether the goal at which Sverdrup aimed was the right one, and whether the principles upon which he built were sound. Likewise, no one should doubt that his whole labor was borne by earnestness, honesty, and love.
+
+Although much has been said about the goal and about the principles, it is a fact that, to a great extent, they are both unknown and misunderstood. Among many of our people there has been a lack either of good will or of ability to concern themselves with them. Many have done what they could to lay obstacles in the way of the principles’ realization. Some have practiced them in such a manner that they have become mere caricatures. Others, demonstrative riders of principle, have degraded them into meaningless slogans. The well-deserved mockery has not failed to appear, though it has fallen more upon the innocent than upon the guilty.
+
+Yet amid all this there are many who have labored with sobriety for, and in faithfulness to, the principles upon which Sverdrup laid such great weight: the child-law principle, the autonomy of the congregation, purposive pastoral formation. These principles existed both in theory and in practice before Augsburg came to be; but for the Norwegian people here as well as in Norway they were unknown. Augsburg joined them together and made them, already in the seventies, its sine qua non; the question of originality and priority we may leave out of account. What is of consequence is that Augsburg has done incomparable pioneer work in the Norwegian-American Church, and that it has impressed upon the consciousness of our people these truths: that life is more than doctrine, congregation more than common institution, priest more than teacher and liturgist. And of consequence for Augsburg is this, that a theologian such as Sverdrup laid down his life in its service, thirty-three years of hard, self-denying, almost incomprehensible labor, which has borne and will bear blessed fruit for the Kingdom of God.
+
+In Sverdrup’s Collected Writings there is now given a new occasion to make oneself acquainted with what Sverdrup meant, wrought, and intended. By reading his contributions and treatises, which extend over a period of thirty-eight years, one will see whether there was any breach in his development, any groping in his work, any self-contradiction in his principles. The work is planned for five or six volumes; it is therefore the most considerable literary undertaking that our Norwegian-American book culture has to show.
+
+Sverdrup has made so great a contribution to our ecclesiastical development that our Norwegian-American church people, in order to understand the present alignments among our church bodies, and in order better to find a remedy for certain ecclesiastical defects, ought and must make themselves familiar with the most important treatises from Sverdrup’s pen. Difference in churchly view and theological direction ought not to keep anyone from concerning himself with his collected writings, which concern the laity no less than the learned, and are no less intelligible to the former than to the latter. For everything Sverdrup wrote was clear, logical, and popular.
+
+His writings may be read with profit by all. But with special profit they will be read by his students, who heard him at the lectern.
+
+In judging what a man has written, there are not a few who take as their standard the impression they have received of him as a speaker. Everything they must measure by the yardstick of eloquence. Such people, if for example they have heard Bjørnson and Ibsen speak, will naturally think more highly of Bjørnson’s literary productions than of Ibsen’s; for Bjørnson was indeed as mighty with the mouth as with the pen, whereas Ibsen, the greatest dramatist of our age, was a poor speaker. A mixed public will always come forth with rather differing judgments. Most who read Otto Funcke’s writings will probably think that Funcke was a mighty speaker, which is not at all the case. And many have the notion that it was an imposing bearing, a magnetic personality, and brilliant gifts of speech that proved decisive in Paul’s great work; for Paul was indeed one of the greatest organizers known to world history. But we learn that his critics in Corinth maintained that his letters were weighty and strong, but his bodily presence weak and his speech to be set at naught (2 Cor. 10:10). He did not impress by Greek rhetoric, but he was great in Christian insight (2 Cor. 11:6).
+
+Neither did Sverdrup impress by his outward appearance, or by “American Oratory”: there are those who find no trace of authority either in what he wrote or in what he spoke.
+
+What was great in Sverdrup was his deep Christian insight. But he also understood how to set it forth with gravity and strength in speech. But where? Was it in the pulpit, on the platform, or at the lectern? Where lay his forte as a speaker?
+
+Before we answer this, we may mention a couple of interesting things that have been said about him and will be said about him still; for the wisdom of the street will never die.
+
+A laboring man let me know that he had once heard Sverdrup in the pulpit. “It was a dry sermon,” he said. A merchant received a pamphlet which Sverdrup had written about Augsburg’s principles. In irritation he burst out: “They do not go deep.” A pastor told me that he thought it strange that Sverdrup had so many admirers; for everything he wrote was so poor as well. But—to return to our question.
+
+It was not in the pulpit that Sverdrup’s proper strength lay. And yet he was a great preacher. When he preached, one received a sermon that was penetrated by biblical spirit; it was a many-sided exposition and application of the text, fresh, original—Sverdrup never walked the bare country roads; it had not a little in common with Old Testament prophetic speech. He did not stand in the pulpit in order to entertain, but to edify. He therefore preached without a trace of declamation, priestly unction, theatrical pathos—those artificial additives which, for many, are the essential thing in a sermon. One had to become accustomed to Sverdrup’s preaching. The more one heard him, the more one wished to hear him. For he opened the Scriptures.
+
+Nor did his strong side appear upon the platform. His occasional address was without dramatic display, even, unforced, heavy with thought. It flowed easily, and the right word was never lacking; but it was too much marked by earnestness to serve up colored fireworks, sparkling witticisms, ingenious conceits.
+
+If, on the other hand, there was question of debating a matter where he had opposition, then one learned to know him from a new side. Here one saw him as the ready and fearless disputant, who struck his opponents quickly, hard, and surely. Nothing could throw him off balance. He mowed down one row of arguments after another, and that with such self-command and force of conviction that his opponents could stare at him in mute, helpless bitterness. The annual meeting of the United Church, which in the nineties went almost wholly into debate and business, was more than once a witness that Sverdrup had received something as a cradle-gift which worked disturbingly upon some of those who had been given the seats of honor in the assembly. Despite their effort, all constitutional right was set aside in order to put an end to the connection with Sverdrup.
+
+Sverdrup’s strongest side was the lectern, especially systematic theology. His other principal field was Old Testament introduction and exegesis. Characteristic of his teaching in the Old Testament was his pragmatic presentation of the Lord’s dealings with Israel’s congregation, the gripping psychological portrayals of the Lord’s chosen instruments, the people’s pride, unbelief, chastisement, deliverance. In the Old Testament he was at home as few were, for he had penetrated into its spirit. Much lies before us from his pen on the Old Testament which has never come into print. It would be a great loss if it were not included in the planned work. We mean especially his introduction and his commentary on the Psalms and the Prophets. Yet it was in systematic theology that Sverdrup, so to speak, took things by storm. For here he had use for his dialectic. It was especially with a view to his inspiring lectures in dogmatics that I wrote in an English paper in Philadelphia (1907) the following words—a small excerpt from a longer article:
+
+“His lectures captivated friend and foe alike by their brilliancy, force, and logic.... All was life, energy, enthusiasm when he was at the desk; his students were then all eye, all ear, exerting themselves to the utmost to get a verbatim report. Even the notes of his mediocre hearers are readable literature. His command of language was wonderful. He had the happy faculty of saying things in such a way that they were not to be forgotten. Every lecture was an oration, natural and unstudied, full of vim and vigor, with a most happy interplay of color and rhythm. Every sentence seemed to bristle with suggestions, every utterance breathed the spirit of liberty and convincing calmness.”

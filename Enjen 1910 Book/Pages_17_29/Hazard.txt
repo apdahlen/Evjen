@@ -1,0 +1,306 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* at beklage: not merely “regrettable” in a casual sense, but a formal evaluative judgment; best rendered with solemn critical force.
+* tilføie: older spelling of “tilføje”; “add” in an argumentative register.
+* Læresætninger: doctrinal propositions / articles of doctrine; not merely “teachings” in a loose sense.
+* dogmatiske Kuld: literally “dogmatic brood/litter”; polemical metaphor for a doctrinal faction or school. The insult-like force should not be flattened.
+* videnskabelig / Videnskab: “scientific” in older Scandinavian theological prose often means scholarly, disciplined, academically rigorous; not modern laboratory science.
+* Redegjørelse: account, exposition, explanation; in scholarly prose, often “systematic account.”
+* kirkelige Standpunkt: ecclesiastical/churchly position, not simply “opinion.”
+* Modsætninger: oppositions, tensions, antagonisms, historical conflicts.
+* kom tilsyne: came to light, appeared, emerged.
+* Leiligheden afskaaret: the opportunity was cut off / removed; stronger than merely “missed.”
+* Drøftelse: discussion, deliberation, critical treatment.
+* Symbo(l)ik / Kirkens Symboler: “symbolics,” the theological discipline dealing with confessional documents; “symbols” means creeds/confessions, not mere symbols in the modern sense.
+* hyldte sig til „Texten“: literally “held/kept to the Text”; likely an ironic reference to appeal to isolated proof texts. Must preserve the pointed tone.
+* Vexelvirkning: reciprocal interaction, mutual action.
+* Bærer: bearer, carrier, vehicle.
+* Menighed: congregation/church community; should be kept consistently and contextually.
+* Grundbetingelse: fundamental condition, basic prerequisite.
+* docerer: teaches/lectures in a professor’s capacity.
+* havde faaet i Arv: inherited; doctrinal/intellectual inheritance.
+* Forviklinger: complications, entanglements, confusions.
+* Discipel: disciple, follower, school-dependent pupil; stronger than “student.”
+* eklektiske Theologi: eclectic theology, with implied criticism.
+* intet tilovers for: had no use for / no esteem for.
+* fælder over: passes upon / renders upon, as in a judgment.
+* Medfart: rough handling, sharp treatment.
+* i Orden: in order, acceptable, sound.
+* pugges: crammed, memorized by rote.
+* gjentagende Gange: repeatedly.
+* reifefærdig: ready for departure; idiomatically “ripe and ready to leave” for Rome/Catholicism.
+* frisindede: broad-minded, liberal in the older ecclesial sense; not modern secular liberalism.
+* historisk berettigede: what is historically justified / warranted.
+* gaa paa Krigstog efter: go on crusade against.
+* afvigende Læresætninger: divergent doctrines, doctrinal deviations.
+* Snurrepiberier: trifles, pedantries, fiddling nonsense; dismissive and colloquial.
+* Sekterne: sects/denominations; context-sensitive.
+* tenderede: tended toward.
+* theologisk Skole: theological school/tradition.
+* Erlangerskolen / Erlangertheolog: Erlangen School / theologian of the Erlangen school.
+* Bekjendelsen: confession, confessional standard.
+* ypperligste Forgjængere: most excellent predecessors.
+* den gamle Pagt: the Old Covenant.
+* Stud: scion/offspring/representative product; metaphorical description of someone formed by a school.
+* Paa Læreftolen til det 20de Aarhundrede: title requiring careful handling; “From the Chair of Doctrine into the Twentieth Century” would be too literal; “From the Professor’s Chair into the Twentieth Century” or preserved title with light normalization.
+* Vranglærer: false teacher / heretic in polemical church usage.
+* Repristinations-Theologi: repristination theology; technical term for restorationist/confessional return to older orthodoxy.
+* skabende i Theologien: creatively/originally productive in theology.
+* for Videnskabens egen Skyld: for science/scholarship’s own sake; here “for scholarship’s own sake.”
+* afsat Frugter: borne/yielded fruits.
+* Prospectus: prospectus / publisher’s announcement.
+* optrykt: reprinted.
+* opbyggelige Udlegning: edifying exposition/interpretation.
+* aldeles blottet for Indsigt i det aandelige: utterly devoid of insight into spiritual things.
+* tøjtløst: undisciplined, lawless, disorderly.
+* Bebudelsen om Straf: announcement/foretelling of punishment.
+* tilsyneladende from Hengivenhed: apparently pious resignation.
+* hjælpeløs Indifferentisme: helpless indifferentism; must retain severity.
+* Gudsdyrkelsen: worship, divine service, cultus.
+* verdsliggjort: secularized, made worldly.
+* Helligholdelse: sanctification/keeping holy/observance.
+* Commonskolen / Commonschools: public common school(s), American context.
+* Hviledagen: the day of rest / Sabbath question.
+* nedsættende Dom: disparaging judgment.
+* Religionens frie Væsen: the free nature/essence of religion.
+* tilskamme: put to shame / brought to shame / disproved.
+* reformerte Anskuelse om Sabbaten: the Reformed view of the Sabbath.
+* praktisk-dogmatisk Art: practical-dogmatic character.
+* Rigtighed: importance/significance/relevance; here likely “importance.”
+* den „rene Lære“: “pure doctrine,” likely ironic or polemical quotation.
+* Retfærdiggjørelsen af Tro og Lærernes Retfærdiggjørelse: difficult title; likely contrast between justification by faith and “the justification of the teachers.” Must preserve ambiguity and polemical point.
+* betimeligt Ord: timely word.
+* Verdens Retfærdiggjørelse: the justification of the world; technical doctrinal term.
+* misvisende Lære: misleading doctrine.
+* tilbagefaldte den Lære: fell back into the doctrine.
+* bare Vantro(en), som fordømmer: only unbelief condemns; doctrinal shorthand needing precision.
+* kirkehistorisk Art: of a church-historical nature.
+* foreligget kun i Manuskript: existed only in manuscript.
+* Kritikken: “criticism” in the theological-historical sense, likely higher criticism / critical method; preserve quotation marks.
+* eiendommelig Interesse: peculiar/distinctive interest.
+* Brudstykke: fragment.
+* Vækkelsesiden: revival side / revival movement circles.
+* Kirkemænd: churchmen.
+* Klassen: the classroom / class.
+* Klad: rough draft, sketch.
+* ufærdigt: unfinished.
+* henledet Opmærksomheden paa: drawn attention to.
+* Foretagendet: undertaking, enterprise.
+* Kirkefolket: church people / churchfolk.
+
+Syntactic Hazards
+
+* Long periodic sentences with semicolons and chained subordinate clauses carry the author’s evaluative rhythm and must not be broken up unnecessarily.
+* Parenthetical insertions often qualify argument rather than merely add detail; these must remain integrated.
+* “Som det var …” constructions pivot from counterfactual speculation to actual historical consequence; the contrast must remain sharp.
+* Repeated “ikke … men …” structures organize polemic and theological judgment; this argumentative balance must be preserved.
+* Lists of names and theological schools function rhetorically as cumulative authority, not as incidental catalogues.
+* Quoted phrases such as “Texten,” “Vranglærer,” and “rene Lære” signal irony, distance, or polemical framing; these marks must remain.
+* Passages move between historical exposition and evaluative commentary without warning; transitions must remain natural and not be over-signposted.
+* The prose frequently uses nominal style (“en akademisk videnskabelig Drøftelse,” “en historisk Behandling”) that should remain weighty, not overly verbalized.
+
+Theological Hazards
+
+* Dogmatik and Symbolik are technical theological disciplines and must be rendered accordingly.
+* Bekjendelsen / Kirkens Symboler concerns Lutheran confessional identity; mistranslation would distort ecclesiology.
+* Menighed is central to church theology and must not be reduced to a vague “community” where “congregation” or “church” is required.
+* The contrast between church and scholarship is not anti-intellectual but concerns proper reciprocal relation; this balance must be preserved.
+* “pure doctrine,” “justification,” “justification of the world,” and “only unbelief condemns” are doctrinally charged expressions tied to controversies in Lutheran theology.
+* “Religionens frie Væsen” carries ecclesial and theological significance regarding freedom of religion/churchly non-coercion; avoid flattening.
+* The treatment of Eli, Samuel, temple worship, wine versus Spirit, prophecy, and punishment is explicitly spiritual and homiletic, not mere literary commentary.
+* The Sabbath/Sunday issue is confessional and ethical; “Helligholdelse” should preserve religious seriousness.
+
+Voice Hazards
+
+* The author writes with learned polemical force, mixing academic precision with ecclesiastical combativeness; both must remain.
+* Irony is dry rather than flamboyant; it should not be exaggerated or erased.
+* Phrases dismissing rival approaches (“dogmatiske Kuld,” “Snurrepiberier,” “reifefærdig”) require controlled sharpness.
+* Praise of Sverdrup is elevated but evidence-based; the tone should remain admiring without becoming hagiographic.
+* The prose assumes an informed church readership and speaks from within confessional struggle; modern neutralizing language would weaken the historical voice.
+* Where quotations from Norwegian reviewers are included, their commendatory warmth should remain, but without modern promotional gloss.
+
+STEP 2: IDIOM ANALYSIS
+
+* „Han hyldte sig til ‘Texten’“: literally “he kept/clung to the Text.” In context this appears slightly ironic, meaning that some people appealed narrowly to proof texts (Job and Daniel) as if the whole of Lutheran dogmatics could be found there. A literal rendering is possible, but the implication should be clear from context: he did not confuse isolated biblical texts with a full dogmatic system.
+* „dogmatiske Kuld“: literally “dogmatic brood.” This is a biting metaphor for a doctrinal faction or crop of theologians. A fully literal rendering may sound odd in English, but some metaphorical sharpness should remain, perhaps “our local dogmatic brood” or “our dogmatic set.”
+* „gaa paa Krigstog efter ‘afvigende Læresætninger’“: idiomatically “to go on crusade against divergent doctrines.” The crusading image carries polemical force and should be preserved rather than weakened into “look for errors.”
+* „reifefærdig til den katolske Kirke“: literally “ready for departure to the Catholic Church.” The expression implies that Tonning’s theology already showed that he was on the way to Rome. A natural rendering is “ready to depart for the Catholic Church” or “already ripe for the Catholic Church.”
+* „stemplede … som ‘Snurrepiberier’“: “branded/labeled as trifling pedantries/fuss.” The colloquial contempt matters.
+* „et Erlanger Stud“: figurative language for one bred by the Erlangen school. “A son of Erlangen” or “an Erlangen scion” preserves the school-formation metaphor.
+* „beslaglagde 40—50 Spalter“: literally “seized/occupied 40–50 columns”; idiomatically “filled/used up 40–50 columns.”
+* „ikke er blevet tilskamme“: idiomatically “has not been put to shame,” meaning has not been disproved by events. Biblical resonance is possible; “will vindicate” is more idiomatic, but “has not been put to shame” preserves stronger texture.
+* „et betimeligt Ord“: a timely word, often with sermonic force.
+* „bare Vantroen, som fordømmer“: doctrinal idiom meaning that only unbelief condemns. This may echo broader evangelical-Lutheran discussion around objective justification and the application of salvation.
+* „hans Testamente“: not literal last will only, but final testament / final statement of mind.
+* „paa hvert Blad“: on every page/leaf; natural English is “on every page.”
+
+Biblical allusions and pietistic expressions
+
+* Eli’s failure to distinguish “the effects of wine” from “the effects of the Spirit” echoes 1 Samuel 1, especially Eli’s accusation against Hannah and the implicit contrast between drunkenness and true spiritual prayer.
+* “Bebudelsen om Straf fra Herren” and Eli’s resigned response echo 1 Samuel 2–3 and the pietistic concern that passive resignation can mask spiritual deadness.
+* “Profeter maatte opreises” evokes God’s raising up prophets when priestly worship has become worldly.
+* “Religionens frie Væsen” reflects a churchly-pietistic insistence that true religion cannot be produced by compulsion or merely institutional schooling.
+
+King James-type equivalents where helpful
+
+* “put to shame” is a natural biblical-English equivalent for “tilskamme.”
+* “wordly”/“worldly” for “verdsliggjort” preserves biblical-moral coloring.
+* “raise up prophets” is a naturally scriptural English phrase for “opreises.”
+* “the day of rest” and “keep holy” can preserve biblical cadences in the Sunday/Sabbath discussion.
+
+Expressions where literal translation would obscure force
+
+* “scientific” for “videnskabelig” would mislead modern readers; “scholarly” or “academic” is often preferable, though “scientific” may occasionally be retained in quoted historical language only if context clarifies it.
+* “symbolics” may need brief contextual handling through translation as “symbolics” only if the learned readership is assumed; “confessional theology” is explanatory but less literal. Since the passage assumes specialized usage, “Symbolics” can be retained.
+* “common school” should remain in American historical context; not simply “public school” everywhere, though “common school” may need capitalization or brief naturalization.
+* “the old covenant’s history” should preserve theological register, not simply “Old Testament history” unless required by context.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: It is regrettable that Sverdrup did not teach Dogmatics and Symbolics during the key Augsburg years, because those subjects would have provided students with both his best material and an academically grounded account of doctrines and church position.
+* Counterfactual development: Had he taught those disciplines in 1890–93, the later historical oppositions revealed in the days of conflict might have appeared differently.
+* Historical consequence: Because he did not, the opportunity for scholarly discussion of systematic theology and historical treatment of the church’s confessions was cut off.
+* Clarifying assertion: Sverdrup was too much a man of scholarship to derive all Lutheran dogmatics from isolated biblical books.
+* Defense of scholarship: “Scientific/scholarly” should not be disparaged; true scholarship, like true Christianity, must be distinguished from its false imitations.
+* Positive definition: Sverdrup himself described the theological faculty as a bearer of scholarship and a mediating organ between congregation and scholarship.
+* Normative application: Especially in systematic theology, this reciprocal relation should bear fruit, but only if one understands both congregation and scholarship.
+* Contrastive criticism: Others in the faculty merely taught inherited notions from St. Louis and Mt. Airy, leading to confusion.
+* Biographical-theological clarification: Sverdrup should not simplistically be called Gisle Johnson’s disciple, nor Petersen’s, nor Krogh-Tonning’s, nor Caspari’s.
+* Polemical exclusions: Each supposed influence is dismissed with reasons and illustrative evidence.
+* Positive affiliation: If connected to any theological school, Sverdrup belongs essentially to the Erlangen school.
+* Support by authority: A list of eminent predecessors and contemporaries shows that his stance was far from isolated.
+* Local polemical application: The reception of Seeberg’s book reveals the narrowness of local conditions and the conflict between broader Lutheran scholarship and local anti-mission/anti-union critics.
+* Historical summary: Erlangen theology came to Augsburg in the 1870s; the 1890s attempt to replace it with seventeenth-century repristination theology failed.
+* Measured judgment: The author declines to decide how far Sverdrup was creatively original, but affirms that his theological scholarship bore honorable practical-churchly fruit.
+* Transition to collected writings: The collected works emphasize the practical side.
+* Volume I overview: The author does not list contents exhaustively, but notes the importance of the reprinted material and highlights representative essays.
+* Interpretive example: The essay “The Prophet Samuel” shows Sverdrup’s typical edifying treatment of Old Testament narratives, especially in his severe portrayal of Eli.
+* Ethical-pastoral example: Essays on Sunday observance and the common school demonstrate Sverdrup as both good American citizen and evangelical Christian.
+* Doctrinal example: The third section explains why he had little use for the Synod’s “pure doctrine,” particularly in matters of justification.
+* Church-historical example: A further section contains important lesser-known essays, including one on “criticism,” proving that Sverdrup’s engagement with criticism began much earlier than some claimed.
+* Closing appreciation: “Memories from Norway” is singled out with gratitude, followed by disagreement with a negative review and concluding endorsements from Norway.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Job og Daniel”: allusion to using biblical books as sources for dogmatic proof-texting rather than historically and systematically grounded theology.
+* “Vinens og Aandens Virkninger”: probable echo of 1 Samuel 1:12–15, where Eli mistakes Hannah’s prayerful state for drunkenness.
+* “Bebudelsen om Straf fra Herren”: echoes the judgment announced against Eli’s house in 1 Samuel 2:27–36 and 1 Samuel 3:11–14.
+* “Profeter maatte opreises”: broad biblical motif of God raising up prophets when priesthood and worship are corrupted; immediate Samuel context from 1 Samuel 3.
+* “Gudsdyrkelsen ved Templet var verdsliggjort”: echoes the corruption of worship associated with Eli’s sons in 1 Samuel 2.
+* “Helligholdelse” and “Hviledagen” evoke biblical Sabbath/Sunday theology, though the exact scriptural text is not cited.
+* “Retfærdiggjørelsen af Tro” stands within Pauline doctrinal language, especially Romans and Galatians, though the phrase here is likely adapted as an essay title.
+* “bare Vantroen, som fordømmer” likely echoes the Johannine idea that unbelief condemns (for example John 3:18), though deployed in Lutheran doctrinal controversy.
+* “tilskamme” carries biblical resonance of being “put to shame.”
+* “afsat Frugter” / “modne Frugt” uses fruit imagery familiar from Scripture for theological and ecclesial outcomes.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Critical judgments must remain sharp: the author is not detached but engaged in theological assessment.
+* Praise of Sverdrup must retain intellectual and moral seriousness, not become sentimental admiration.
+* When rival theologians or methods are described, the prose should keep its restrained severity.
+* The section on Eli must preserve its forceful spiritual diagnosis: “utterly devoid of insight into spiritual things,” “everything he did was wrong,” “helpless indifferentism.”
+* Defenses of scholarship and common schools must retain confident firmness and polemical edge.
+* The concluding Norwegian testimonials should preserve their warmth while sounding like dignified period commendation, not modern blurbs.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* vilde / vilde man have faaet: should often be rendered “would have received/gotten,” preserving counterfactual force.
+* maatte føre til: “had to lead to,” not merely “could lead to.”
+* Skal vi knytte … saa maa vort Valg falde paa: “If we are to attach … then our choice must fall on.” Strong inferential force is required.
+* Man bør gjøre sig kjendt med hans Arbeide: “one ought to make oneself acquainted with his work” or “should become acquainted with his work”; not weak casual suggestion.
+* bør læses: “ought to be read,” not merely “is worth reading.”
+* fortjener særlig Opmærksomhed: “deserves special attention,” not “is interesting.”
+* maa opreises: “had to be raised up.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Dogmatik: Dogmatics
+* Symbolik: Symbolics
+* videnskabelig / Videnskab: scholarly / scholarship, except in quotations where “science” may be retained if needed to preserve historical diction, though “scholarship” is preferable for clarity.
+* Menighed: congregation, unless context demands “church.”
+* kirkelig: ecclesiastical / churchly, depending on collocation.
+* Bekjendelsen: the Confession / confessional standard / confession, contextually.
+* Kirkens Symboler: the church’s symbols / confessional symbols.
+* Læresætninger: doctrinal propositions / doctrines.
+* Kirken: the church.
+* den gamle Pagt: the Old Covenant.
+* Helligholdelse: observance / keeping holy.
+* Retfærdiggjørelse: justification.
+* Vranglærer: false teacher.
+* Vækkelse / Vækkelsesiden: revival / revival circles.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “dogmatiske Kuld” should retain its metaphorical disparagement.
+* “Vexelvirkning” as “reciprocal interaction” preserves organic imagery of mutual action.
+* “Videnskabens Bærer” should remain “bearer of scholarship,” preserving the carrying image.
+* “modne Frugt” and “afsat Frugter” should remain fruit imagery.
+* “gaa paa Krigstog” should preserve crusading/warfare metaphor.
+* “et Erlanger Stud” should preserve image of someone bred from a school.
+* “tilskamme” should preserve shame-honor imagery.
+* “hans Testamente” should preserve testament/final bequest force.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The prose moves from regret, to historical analysis, to defense of scholarship, to polemic, to appreciative literary review.
+* Within the review, tone shifts from analytic summary to sharp theological criticism to warm gratitude.
+* The Eli passage is severe and condemnatory; the common school passage is firm but constructive; the concluding notices are warmly commendatory.
+* These tonal distinctions must remain visible and not be leveled into a uniform academic narrative.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences should be preserved where the argument accumulates by clauses.
+* Semicolon pivots should often be retained to keep the sense of spoken, deliberate unfolding.
+* Quoted judgments and appraisals should sound readable aloud.
+* Lists of theologians and examples should retain measured rhetorical build.
+* The Eli paragraph in particular benefits from cumulative oral force through short linked judgments.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+It is to be regretted that, during the three years when the theological professors of the United Church were at Augsburg, Prof. Sverdrup did not teach Dogmatics—and, we may add, Symbolics. In Dogmatics one would have received the best that Sverdrup had to offer, together with a scholarly grounding of the many doctrinal propositions that both he and the leading conservative-liberal Lutheran theologians in Europe accepted, but of which our local dogmatic brood here partly knew little, and partly did not wish to know anything. In Symbolics one would have received a scholarly account of the ecclesiastical position he occupied.
+
+If Sverdrup had taught Dogmatics and Symbolics in the years 1890–93, which he did both before and afterward, the historical oppositions that came to light in the days of strife might perhaps have looked somewhat different. As matters stood, the opportunity for an academic scholarly discussion of systematic theology and for a historical treatment of the church’s confessional symbols was cut off. And Sverdrup was too much a man of scholarship to find the whole of Lutheran Dogmatics in Job and Daniel. He kept to “the Text.”
+
+Owing to the unhappy church conflict in Norway, the word “scholarly” has acquired a bad sound in certain of our church circles. But just as there is much that passes itself off as Christianity which is not Christianity, so there is much that is called scholarship which is nothing of the kind. We have used the word in its proper sense. As secretary of the theological faculty at Augsburg in 1875, Sverdrup calls the faculty “the bearer of scholarship.” “We strive to make ourselves organs of a reciprocal interaction between the congregation and scholarship, which we regard as a fundamental condition for an ecclesiastical development, and which only the free church gives occasion for in full measure.” (Conf. Annual Report 1875, 63f.)
+
+It is especially in systematic theology that this reciprocal interaction will bear ripe fruit. But the one who teaches this subject ought to know what congregation is, and what scholarship is. Sverdrup knew the one as well as the other; but in the faculty there were those who taught what they had inherited from St. Louis and from Mt. Airy: the seventeenth century’s elementary conception of congregation, and the eighteenth century’s conception of scholarship, which had to lead to confusions.
+
+Sverdrup has been called a disciple of Gisle Johnson. But surely not with justice. For the fact that a man hears a professor for some years does not of itself make him that professor’s disciple. Sverdrup studied as long abroad as he did in Christiania, and his writings, so far as theology is concerned, bear witness far more to German influence than to Norwegian. Nor did he owe anything to Fr. Petersen, a man for whose eclectic theology Sverdrup had no esteem. The judgment that Bishop Bang passes on Petersen in his Reminiscences Sverdrup would no doubt have been able to sign as well. Neither did Sverdrup owe anything to Krogh-Tonning. Sverdrup’s students know well enough what sort of rough handling Krogh-Tonning repeatedly received in the old theological classroom at Augsburg. When others found Tonning’s doctrine of the church in order—indeed, so good that it had to be crammed—Sverdrup repeatedly let his students understand that Tonning was ready for departure to the Catholic Church, where he too at last came to harbor.
+
+In Symbolics Sverdrup was the same broad-minded man as in Dogmatics. For him the point was to find what was historically warranted in the different branches of the church, not to go on crusade after “deviating doctrines.” It is characteristic that he branded chapters 4–13 in Graul’s Symbolics as “trifling pedantries,” and referred the students, for a correspondingly concise but factual treatment of the sects, to Prof. Gumlich’s (d. 1902, Berlin) Symbolics.
+
+Nor can it be said that Sverdrup was a disciple of Caspari. He tended rather toward the psychological direction represented by Delitzsch and inherited by Buhl.
+
+If we are to connect Sverdrup’s name with any theological school, then our choice must fall upon the Erlangen school. In his view of history, Scripture, the Confession, theological method, and the church, Sverdrup was essentially an Erlangen theologian. So far from standing isolated in his ecclesiastical-theological position, he had the most excellent predecessors to support him: eminent theologians such as Harless, Höfling, Hofmann, Schöberlein, Thomasius, Delitzsch, Luthardt, Theodosius Harnack, Frank, Plitt, Beischwitz. Among his contemporaries, in whom the Erlangen school entered a new period of splendor, may be named an authority in the history of the Old Covenant such as Köhler, a patristic scholar and New Testament exegete such as Zahn, church historians such as Hauck and Kolde, dogmaticians such as Seeberg and Ihmels.
+
+It is characteristic of our circumstances that an Erlangen scion such as Seeberg’s well-known book, At the Professor’s Chair into the Twentieth Century, received a very laudatory review from Prof. Sverdrup (in Folkebladet), while it became the object of wholly different treatment in Lutheraneren, where a union man such as Pastor Ole Nilsen and an anti-missionary such as Pastor Gjære occupied 40–50 columns in order to show that Prof. Seeberg was a false teacher—despite the fact that Norwegian orthodox theologians such as Prof. Odland and Provost Gustav Jensen had also given the book the best recommendations.
+
+Erlangen theology came to Augsburg in the seventies. The attempt that was made in the nineties to exchange it for the seventeenth century’s repristination theology failed.
+
+Whether, or to what degree, Sverdrup worked creatively in theology shall not be decided here. We may concur with Bishop Bang when he says: “Over there [among us] one has not been able to cultivate theological scholarship for scholarship’s own sake.” And it is at any rate not too much to say when he adds: “One has indeed shown theological scholarship a serious labor in practical-ecclesiastical interest, and this has deposited fruits in the literature that are worthy of all honor.”
+
+In the Collected Writings the weight has been laid upon the practical. This will become evident from what follows.
+
+(Volume I. Sketches and Essays)
+
+The first volume is by now so well known, at least by prospectus, that we need not communicate the titles of the various essays or treat the separate contents. About 300 pages in this volume are reprinted from Kvartal-Skrift, which is now very difficult to obtain except at great cost. The reprinting is something many will welcome.
+
+As typical of Sverdrup’s treatment of the Old Testament narratives, where the point was edifying exposition, the piece “The Prophet Samuel” deserves special attention. Eli is presented as a priest utterly devoid of insight into spiritual things. Everything he did was wrong. The pious praying Hannah he accused of being drunk, since he did not know the difference between the effects of wine and the effects of the Spirit. His house was undisciplined. The announcement of punishment from the Lord he listened to in an apparently pious resignation which in reality was helpless indifferentism. Prophets had to be raised up; the worship at the temple had been made worldly.
+
+The ethical essays on the sanctification of Sunday and on the common school also deserve attention, essays occasioned by the Synod’s radical understanding of the day of rest and by its disparaging judgment upon the common school because it does not teach religion. Here too Sverdrup shows himself, as we knew him, a good American citizen, who defends a democratic institution—and an evangelical Christian, who upholds the free nature of religion. No doubt the German Missourians have their own elementary schools, but these schools stand far behind our common schools. Experience will show that Sverdrup’s contribution in the matter has not been put to shame. The essay on Sunday ought to be read by the many among us who share the Reformed view of the Sabbath.
+
+Of a practical-dogmatic kind, and important for understanding why Sverdrup had so little use for the Synod’s “pure doctrine,” is the third section of the book. The essay on “Justification by Faith and the Justification of the Teachers” is as instructive and as necessary for us now as it was thirty years ago. That Sverdrup in these essays spoke a timely word will appear from what Prof. Madsen at the University of Copenhagen writes (in Nielsen’s Church Lexicon for the North) about the Bornholmers, and from Prof. Fr. Nielsen’s article on the same subject in Herzog-Hauck’s Protestant Realencyclopedia. From these articles one will also understand why the justification of the world is still preached in various places among us. Those especially who preach this misleading doctrine are those who have inherited from Missouri, or who read Rosenius without criticism, unaware that he fell back into the doctrine that it is only unbelief that condemns.
+
+The third section is of a church-historical character. It contains, among other things, four essays still little known. One of them, “Criticism in History,” has until now existed only in manuscript. Prof. Helland states that, to judge from the handwriting, it belongs to the very earliest years after Sverdrup’s arrival in America. The title as well as the content is characteristic. Those who think that Sverdrup’s speech about criticism began in the nineties will here, if not elsewhere, see that they are mistaken.
+
+Also rather unknown in our circles is the essay “The Norwegian Lutheran Church in America,” which Sverdrup had written in French for the Lutheran church paper Le Temoignage, and which from there, in translation, was taken up in Vestlandsposten (1897).
+
+Of distinctive interest is the sketch “The Lutheran Free Church.” It was written in 1907 at the request of the Census Bureau in Washington, D.C. I join myself to Prof. Helland’s words: “It will have an increased interest from the fact that it is Prof. Sverdrup’s last word on what, according to his understanding, ‘criticism’ is and is to be. In that respect this little sketch may be said to form his testament.”
+
+What we are most grateful for is “Memories from Norway,” a fragment of a manuscript composed during a stay in Norway in the summer of 1886. Here Sverdrup sketches a whole series of Norwegian churchmen from the side of revival. We set great value upon this, since Sverdrup seldom wrote characterizations of more recent men or told anything about them in class.
+
+I cannot understand why the review in Lutheraneren says that “Memories from Norway” “is very unfinished, more nearly a rough draft, and could therefore best have been omitted from a book such as this.” In Norway it is precisely this piece to which attention has especially been drawn as interesting. Thus Luthersk Kirketidende, Vor Kirke og Kultur (Jens Gleditsch), Morgenbladet (Bishop Bang).
+
+Let me be allowed to conclude these remarks on the first volume by citing a couple of statements from Norway. Pastor Lars Dahle says in Norsk Missionstidende: “Everything (in the first volume) bears the stamp of the author’s powerful, earnest, and logical personality.” Bishop Bang says: “On every page one will find more vivid and strong traces of the author’s warm personality and strong-willed energy.” Of the whole undertaking Luthersk Kirketidende says: “The Norwegian church people ought to support this. Prof. Sverdrup was both so considerable a churchman and theologian that one ought to make oneself acquainted with his work.” Bishop Bang recommends the work in the best terms.
