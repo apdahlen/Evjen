@@ -1,0 +1,241 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menigheden: not merely “congregation” in a narrow local sense, but often “the Church/congregation” as a theological body; must be rendered contextually, sometimes as “the congregation,” sometimes as “the Church,” but with consistency where the author is treating ecclesiology.
+* Hellighed: “holiness,” not vague moral goodness; doctrinally charged.
+* Frigjørelse: “liberation” or “setting free,” not merely administrative independence.
+* Umyndiggjørelse: literally “rendering immature/without majority,” here “tutelage,” “disempowerment,” or “keeping in dependency”; must preserve the force of ecclesial infantilization.
+* Lægmandsvirksomheden: “lay activity” or “the work of the laity”; not secular volunteerism, but theologically significant lay ministry.
+* Embede / Presteembedet: “office / pastoral office,” not merely “job” or “profession.”
+* Prestestanden: “clerical estate/order,” distinct from office itself; crucial doctrinal distinction.
+* Menighedens Renhed: “the purity of the congregation,” with ecclesiological and disciplinary force.
+* Kirketugt: “church discipline,” a technical theological term.
+* Udstødelse: “exclusion” or “excommunication,” depending on context; here broader than simple social rejection.
+* Omvendt: “converted,” in a spiritually decisive sense.
+* Troens Fred med Gud: “the peace of faith with God,” not generic inner peace.
+* Partisind: “party spirit,” factionalism in an ecclesial sense.
+* kjødelige Bevæggrunde: “carnal motives,” not merely “human motives.”
+* Prestedømme: “priesthood,” here “the universal spiritual priesthood.”
+* Samfundsvælde: roughly “corporate/denominational domination”; must retain institutional tyranny sense.
+* Majoritetsherredømmet: “the rule of the majority,” with critical ecclesial-political force.
+* Frimenighed / fri Menighed: “free congregation,” not simply “independent church” unless context demands.
+* Forfatning: “polity” or “constitution,” depending on context.
+* Statskirken: “the State Church,” historically specific.
+* optagne i Guds Kirke ved Daa-ben: sacramental/ecclesial incorporation by baptism, not merely social enrollment.
+* nøde dem til at gaa ind: biblical phrase requiring careful rendering because of scriptural resonance.
+* Humbugens Land: literally “the land of humbug”; polemical, ironic phrase requiring preservation.
+
+Syntactic Hazards
+
+* Long periodic sentences accumulate argument through subordinate clauses; these should not be split into short modern sentences unless clarity absolutely demands it.
+* Semicolon logic often marks doctrinal distinction or argumentative turn; this must be preserved.
+* Quoted matter is embedded within exposition; quotations must remain clearly distinguished without disrupting flow.
+* Enumeration is structural, not decorative; the numbered progression must remain visible.
+* Parenthetical scriptural and historical references carry argumentative weight and should remain in place.
+* The prose often pivots from summary to evaluation to quotation within one sentence; flattening would weaken both logic and voice.
+
+Theological Hazards
+
+* Distinction between the Church/congregation in idea/essence and in empirical historical manifestation must remain doctrinally exact.
+* Distinction between pastoral office and clerical class is decisive and must not be blurred.
+* Baptismal incorporation into God’s Church must not be weakened into mere membership language.
+* The contrast between true spiritual strengthening and outward numerical enlargement is central.
+* References to sleepers, hypocrites, unbelievers, and the ungodly inside the congregation are spiritual diagnostics, not rhetorical exaggerations.
+* Church discipline and purity are treated as necessary ecclesial realities, not optional institutional concerns.
+* Freedom of the congregation is a theological principle, not mere democracy.
+
+Voice Hazards
+
+* The tone is grave, polemical, analytic, and pastorally urgent; excessive smoothing would destroy its force.
+* The author’s approval and disapproval are often conveyed through understated but firm judgments; these must remain sharp.
+* Irony appears occasionally (“Humbugens Land”) and should not be neutralized.
+* The prose assumes the reader’s moral and doctrinal accountability; translation must preserve that implicating pressure.
+* The register is learned but not ornamental; over-literary English would misrepresent it.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Den som har, han skal gives”: biblical allusion to the saying “to the one who has, more will be given” (cf. Matt. 13:12; 25:29; Mark 4:25; Luke 8:18; 19:26). Best rendered in a form recognizable from English Bible tradition, but with modern pronouns only where directly addressed.
+* “nøde dem til at gaa ind”: echoes Luke 14:23, “compel them to come in.” Because the passage itself asks what it means, the translation should preserve the biblical wording while allowing the context to show that Sverdrup interprets this as the compulsion of the Word, not outward force.
+* “staar udenfor”: spiritually and ecclesially “stand outside,” not mere physical absence.
+* “i Menighed”: not just “in church” as attendance, but within the congregation as an incorporated member.
+* “sover den dybeste Søvn”: spiritual sleep; likely resonant with biblical warnings about slumber and deadness.
+* “høste, hvad de har saaet”: echoes Gal. 6:7; should be rendered with scriptural familiarity: “reap what they have sown.”
+* “holde igjen”: “hold back” or “restrain,” here with institutional force.
+* “Bundsforvandte”: “allies” or “confederates”; retains sense of entrenched coalition.
+* “af al Magt”: “with all their might,” not merely “strongly.”
+* “Frihedssag”: “a matter of liberty/freedom”; more principled than a practical preference.
+* “Humbugens Land”: culturally pointed criticism of America as a place of fraud, show, or charlatanry; the sarcasm should remain visible.
+
+King James-style natural equivalents, when useful but without archaic pronouns
+
+* “He that has, to him shall be given” is the recognizable cadence, though the surrounding prose should remain non-KJV in general tone.
+* “Compel them to come in” is the most natural biblical equivalent.
+* “Reap what they have sown” preserves biblical resonance.
+
+Expressions where literal translation would obscure force
+
+* Umyndiggjørelse literally suggests making minors of people; “disempowerment” is understandable, but “keeping the congregation in tutelage” may sometimes better preserve the ecclesial paternalism implied.
+* Prestestanden cannot be merely “the clergy” if the office/order distinction is at stake; “clerical estate” better preserves the theological nuance.
+* Samfundsvælde is more than “organization”; it is domination by the larger ecclesial body.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Introductory frame: Volume II concerns the congregation and contains several unsigned editorial articles by Sverdrup, mostly written in popular form because of local circumstances.
+* Hermeneutical invitation: the book rewards a questioning reader.
+* First Section:
+* * Article 1 establishes the centrality of the congregation in the Synod-Conference conflict.
+* * Article 2 identifies the holiness of the congregation and the question “What is congregation?” as the chief issue in the Free Church, while locating Sverdrup against unhealthy Reformed views.
+* * The author then clarifies Sverdrup’s doctrine: congregation may exist without formal organization; the empirical congregation remains congregation even with hypocrites and unbelievers among it; this is aligned with Augsburg Confession Articles 7 and 8.
+* * Article 3 argues that the new direction in the Conference restrained the process of congregational disempowerment, while later alliances produced domination and tyranny in the United Church; this is partly blamed on State Church habits. Lay activity is strongly defended.
+* * Article 4 notes material on Luther’s view of polity.
+* Second Section:
+* * Article 1 treats church polity and shows the young Sverdrup influenced by Rudelbach, favoring consistories and synods while rejecting independency; the commentator then contrasts this with Sverdrup’s later and lasting defense of independent/free congregations in America.
+* * Article 2, “The Free Church Society,” is presented as the most important essay, and its six-part structure is summarized.
+* * Core doctrinal-ecclesial thesis: the congregation must be gathered by the Word alone, not by coercion, inducements, or party spirit.
+* * This yields practical conclusions about membership, conversion, discipline, and the dangers of external motives.
+* * Further doctrinal distinction: the pastoral office versus the universal spiritual priesthood; institutional confusion here causes grave congregational harm.
+* * A dissent follows: the commentator disagrees with Sverdrup regarding the origin of the diaconate, arguing exegetically that Acts 6 does not clearly describe deacons.
+* * The discussion broadens into a principle: polity in the apostolic age was shaped by local conditions and practical needs; it was, then as now, a matter of freedom.
+* * Article 3 rebuts Norwegian theologians who mocked free congregational liberty as “humbug.”
+* * Article 4 links the new direction to “The Open Declaration” of 1874.
+* * Article 5 attacks majority rule in the United Church and gives an institutional example.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Den som har, han skal gives” — Matt. 13:12; 25:29; Mark 4:25; Luke 8:18; 19:26.
+* “nøde dem til at gaa ind” — Luke 14:23.
+* “optagne i Guds Kirke ved Daa-ben” — baptismal incorporation; resonates with New Testament baptismal ecclesiology.
+* “sover den dybeste Søvn” — broad biblical motif of spiritual sleep; possible resonance with Eph. 5:14; Rom. 13:11; 1 Thess. 5:6.
+* “høste, hvad de har saaet” — Gal. 6:7.
+* Acts 6 — the seven chosen men.
+* Acts 21:8 — Philip “one of the seven.”
+* 1 Tim. 3:8 — qualifications for deacons.
+* Phil. 1:1 — bishops/overseers and deacons.
+* Augsburg Confession Articles 7 and 8 are confessional rather than biblical, but function as doctrinal authorities within the argument.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Preserve the firmness of judgment in phrases condemning tyranny, unhealthy views, factionalism, and carnal motives.
+* Do not soften the spiritual seriousness of sleepers, hypocrites, unbelievers, and the ungodly within the congregation.
+* Retain the author’s ecclesial urgency: polity is never merely procedural but bound up with the truth and purity of the congregation.
+* Preserve the measured severity of the commentator’s disagreement with Sverdrup on the diaconate; it is scholarly, but definite.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa bort” must remain strong: “must go,” not “should perhaps disappear.”
+* “skal samle” must remain normative: “shall gather” or “is to gather.”
+* “skal bruges” must remain exclusive and prescriptive.
+* “Bør en Mand optages” should remain “Should a man be admitted,” not softened into vague advisability.
+* “vil høste” should remain a firm future consequence: “will reap.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed / Menigheden: “congregation” throughout, except where broader ecclesiological context strongly requires “Church.”
+* Hellighed: “holiness.”
+* Embede: “office.”
+* Presteembedet: “pastoral office.”
+* Prestestanden: “clerical estate.”
+* Lægmandsvirksomheden: “lay activity” or “lay work,” consistently as a ministry concept.
+* Frimenighed / fri Menighed: “free congregation.”
+* Kirketugt: “church discipline.”
+* Renhed: “purity.”
+* Omvendt: “converted.”
+* Troens Fred med Gud: “the peace of faith with God.”
+* Samfund: “association/body/fellowship,” selected by context.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Preserve “sleep” as spiritual metaphor.
+* Preserve “reap what they have sown.”
+* Preserve being “inside” and “outside” the congregation as ecclesial-spiritual spatial imagery.
+* Preserve the image of old habits continuing after legal compulsion has ceased.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Preserve contrasts between commendation and criticism.
+* Preserve shifts from historical description to doctrinal analysis to polemical warning.
+* Preserve the difference between appreciative summary of Sverdrup and pointed dissent on Acts 6.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Keep long sentences where they carry cumulative reasoning.
+* Preserve semicolons and colon structures where they articulate thought.
+* Keep quoted material prominent and rhythmically intact.
+* Avoid colloquial compression; this prose should still sound fit for public reading.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+(Page 30)
+
+(Volume II. The Congregation.)
+
+The second volume deals with the congregation. It contains 6 sections, or 25 pieces, 9 of which are unsigned editorial articles from Sverdrup’s pen. For local reasons, almost all these treatises and contributions were composed in a popular form; the presentation is always clear and transparent; but it lies in the nature of the matter that not a little requires labor on the reader’s part. Here too the rule applies: “The one who has, to him shall be given.” The one who comes to the book with questions will receive answers.
+
+It is not our intention to enter into the individual articles. We shall mention most of them and attach remarks to such as seem to us to have a particular significance for the understanding of the ecclesiastical development among us.
+
+(Page 31)
+
+First Section.
+
+1. “What Is at Stake?”, written as early as 1877, with reference to the controversy carried on between the Synod and the Conference, shows that even a whole generation before Sverdrup laid down his work, it was the congregation that was at issue: “Our definite conviction is this, that in this controversy it is the congregation that is at stake.”
+
+2. “The Holiness of the Congregation” states clearly that the holiness of the congregation, and the question bound up with it, “What is congregation?”, constitutes “the true chief question in the Free Church.” It should be noted, first, that the article was written in 1889, the year before the union, and many years before the Lutheran Free Church was formed; second, that Sverdrup was opposed to the “unsound views” for which Pastor Trandberg and his Reformed compatriots were spokesmen.
+
+It is emphasized that there may be congregation without organization and constitution; for the congregation in Jerusalem was not organized; further, that the empirical congregation is congregation, even though many of its members are hypocrites, dead, sleeping, unbelieving, and ungodly. Sverdrup’s position here—as it always was—is in agreement with Article 7 of the Augsburg Confession, which depicts the congregation according to its idea, true essence, its invisible-visible form—and with Article 8, which depicts the congregation according to its historical-empirical appearance, a mixture of hypocrites and evil men with the believers, who constitute the proper substance of the congregation.
+
+(Page 32)
+
+3. “The Liberation of the Congregation,” 1896, points out that it was the new direction in the Conference that “held back,” so that “the congregation’s disempowerment” did not proceed so rapidly, and that the old direction found staunch allies in the union, so that the United Church in the course of a few years left “all the other bodies far behind in denominational domination and tyranny over the congregations.” The author lays the blame for this partly upon the State Church upbringing. “Many times that which in the State Church was done by compulsion is here among us imitated by habit and custom. Popular custom is a stronger power than the law for compelling men, and the old habits reign long after legal compulsion has ceased, especially when many zealous pastors labor with all their might to maintain the old habit and custom, that all shall belong to the congregation” (p. 19). Among other things, S. emphasizes the necessity of lay activity and points out that in the Norwegian State Church there is quite great freedom for lay activity because the law protects it, and that there was far greater freedom for lay activity there than in most “majority congregations.”
+
+Rank and class distinctions, official grandeur, must go.
+
+(Page 34)
+
+4. “The Vivification of the Congregation,” 1898, contains, among other things, not a little on Luther’s view of polity.
+
+Second Section.
+
+1. “Which Church Polity Is Most Fitting for the Evangelical Lutheran Church?”, 1869. This is perhaps the oldest literary contribution from Sverdrup’s hand that we now possess. It is interesting because it gives us an insight into what a theological student, 20 years old, could say about church polity. One will be astonished that Sverdrup at so young an age could embrace an ecclesiastical constitutional question with such deep interest as this treatise bears witness to, and still more at the ability with which it is handled. As far as I can see, S. is here the spokesman for Rudelbach’s ideas, in that he pleads for consistories and synods, but disapproves of independent congregations.
+
+(Page 35)
+
+In our country Sverdrup was, from first to last, the defender of the independent congregations. For the free land he found that the episcopal, the presbyterial, the consistorial polity that one had in the Lutheran lands of Europe stood far behind the congregational. The Free Church was therefore built upon a congregationalist basis. That was something new—at any rate in the history of the Lutheran Church. In Europe too eyes have been opened to the superiority of a free-congregation polity. None less than the clear-sighted and learned church historian Loofs at the University of Halle says: “Who knows whether the congregationalist church polity does not also have its future among us, when one day the State Churches in the old world collapse.”
+
+2. “The Free Church Association,” 1877–78. This treatise, of 46 pages, I regard as the most important in the whole book. It falls into six subdivisions: The Congregation, The Local Congregation, The Office in the Free Congregation, The Pastoral Office and Lay Activity, The Diaconal Office in the Congregation, The Fellowship of the Congregations. Here we receive answers to questions such as: how shall we establish congregations? what does it mean “to compel them to come in”?
+
+It is the Word, says S.—not outward compulsion or means of enticement or party spirit—that shall gather a congregation. “Even among the Norwegian emigrants, who indeed had all once been received into God’s Church through Baptism, it would have been far better if one had never organized any congregation or gathered members of a congregation in any other way or by any other means than by the preaching of God’s Word, publicly and privately. For even baptized persons are many a time, alas, in such a condition that it is better both for themselves and for the congregation that they ‘stand outside’ and are the object of the congregation’s influence in that way, than that they should be inside and perhaps there sleep the deepest sleep, precisely because they are ‘in the congregation.’”
+
+(Page 37)
+
+After dwelling somewhat upon the all too hasty admissions into the congregation, and the dangers bound up with church discipline and exclusion, Sverdrup lays the weight upon this: that the congregation must be gathered by God’s Word, and that the constraining and drawing and calling of the Word is the only thing that is to be used in order to bring people into the congregation.
+
+One will ask: “Should a man be admitted into the congregation if he is not converted?” To this S. replies: “If God’s Spirit is permitted to work this resolve in a man, that he desires admission into the congregation, then he is a real increase of the congregation, even if he has not come to the peace of faith with God; without this he is only a diminishment of the congregation’s true strength.”
+
+(Page 38)
+
+“There are even within the little circle where we are acquainted congregations whose existence we fear is due to party spirit and hatred and purely carnal motives. And there are many members of the congregation entered in the rolls who would never have been there, if openly outward, purely carnal advantages had not been used as bait to get them in. There has not everywhere been the proper respect for the people’s freedom, nor either the proper reverence for the congregation’s purity. It is therefore natural that such congregations will reap what they have sown.”
+
+Very important, viewed from the dogmatic-ethical standpoint as well as from the practical-theological, are also the statements about “The Office in the Free Congregation” and “The Pastoral Office and Lay Activity.” Here an account is given of the difference between the pastoral office and the universal spiritual priesthood. How much confusion would not our congregations be spared if they made themselves familiar with what Sverdrup writes about the office. We are afraid that there are also among the pastors those who are not clear on the fact that the office is instituted by God, but not the clerical estate. How often can a pastor not become a tyrannizing hireling of the congregation, or the dictator of an immature congregation.
+
+(Page 39)
+
+There is, however, one small section in which I do not agree with Sverdrup. It is concerning the origin of the diaconal office. He takes the point of departure for this in Acts, chapter 6. The congregation in Jerusalem is supposed to have chosen deacons. Alongside the deacons the presbyters are supposed to have labored. The other apostolic congregations are supposed to have arranged themselves after the congregation in Jerusalem.
+
+(Page 40)
+
+The seven chosen men (Acts 6:3) are never called deacons in the New Testament. Philip (Acts 21:8) is called simply one of the seven. Their work is not called diakonia either. The task of the seven men was different from that which the deacons in the other congregations had. The work of the deacons was to care for the poor; the seven merely determined who should receive support; the deacons made no such determination. The requirements set for the seven (Acts 6:3) are stricter than those made of the deacons (1 Tim. 3:6). Stephen, one of the seven, was chiefly a preacher; and Philip, another of the seven, was an evangelist. The seven stood chiefly in relation to the apostles, and their work had much in common with that which we later learn was performed by the presbyters. Much speaks for the view that the seven were presbyters.
+
+(Page 41)
+
+The first time deacons are mentioned in the New Testament is in the Epistle to the Philippians 1:1 (about the year 63) and 1 Tim. 3:8 (a couple of years later). The new translation calls them servants of the congregation.
+
+That the congregation in Jerusalem was a pattern for the congregations in Judea is likely. That its polity was imitated in the Pauline congregations is not demonstrable. Neither the synagogue, nor the temple, nor the Greek associations determined the polity, but local conditions and practical demands. Then as now polity was a matter of freedom.
+
+3. “Is It Possible for Norwegian Lutherans to Build a Free Christian Church in America?”, 1880–81, is a reckoning with some theologians in Norway who said that the Conference reminded them all too often that it belonged in the Land of Humbug. Sverdrup draws out the consequence of their statements: the spirit that presses for the freedom of the congregation is the mark of humbug. He does not leave the answer owing.
+
+(Page 42)
+
+4. “Free Congregation in a Free Church,” 1882, is an answer to the declaration of the Thirty, which was submitted by 30 members at the Conference’s annual meeting in 1882. Here we learn from what is cited from the declaration of the Thirty that it was “The Open Declaration,” composed in 1874 by Professors Oftedal and Weenaas, that was the point of departure for the new direction.
+
+5. “Denominational Power and the Free Congregation,” 1897–98, is directed against “the rule of the majority” in the United Church. Pastor J. A. Kildahl receives considerable attention in this piece. Among other things, it is stated that when Augsburg split, and the United Church transferred three professors away, it let the other seven remain behind without even asking whether they wished to move with it.

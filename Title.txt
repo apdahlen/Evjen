@@ -9,25 +9,137 @@ An Uncomfortable Gift to the AFLC
 The j is silent
 
 
+If P1 may not be tested, then it may not truly be believed either—only repeated.
+
 
 Evjen was an engineer at heart. I see many of my engineering instincts in his writings. He was fastidious to a fault. A man who latched onto a single idea and worked on it for years. The source texts were consulted at length; dog-eared pages, notes in the margins, piles of notes. The idea is placed under a microscope, twisted, pulled, broken, and reassembled until there is clarity.  
 
-He was infected by Georg Sverdrup chasing the same singular idea. Specifically, to define the proper for of the congregation, the kingdom of God, on earth. He was a systematist attempting to define the terms, place the idea within a greater structure, document the consequences, and place clear warning labels on the load bearing beams.
+Without question Evjen admired and respected Georg Sverdrup. He dedicated a significant portion of his life Defending Sverdrup's work. The contents of this book document his work from 1910 to 1918. 
+
+Sverdrup, and later Evjen are struggling to define the boundaries between faithful adherence to the Word, dogmatics, and polity. All of this is done at the level of congregation which is define as the proper form of the congregation, the kingdom of God, on earth.
+
+With that said, why is Evjen such a controversial figure in the AFLC history?
+
+Evjen was a systematist attempting to define the terms, place the idea within a greater structure, document the consequences, and place clear warning labels on the load bearing beams.
 
 Make no mistake: you and I as faithful members of the AFLC are standing on those same load-bearing beams today.
 
+We asks the same question we should ask ourselves today.
+
 Can we identify the beams and do we understand how much weight they carry today? What happens if one fails or if we start to move the load-bearing walls? As a test case, many of you have read Veith's work, in practice, we think and act in Luther's mask of God. Suppose we ammend the Fundamental Principles to our stated principles closer to our actions. It's a dangerous polity question unless we fully understand the structure.  
 
-This is the uncomfortable gift that John Evjen has given the AFLC. With an engineers mind he stress tests the fundamental principles starting with the first:
+This is the uncomfortable gift that John Evjen has given the AFLC. With an engineer's mind he stress-tests the fundamental principles starting with the first:
  
 \begin{quote}
 According to the Word of God, the congregation is the right form of the Kingdom of God on earth. 
 \end{quote}
 
-Before we continue, you must understand the Evjen is a flawed witness for the AFLC principles. In this book you will see his academic tenacity, his unbalance that many found disturbing, and his failure. He is no hero anymore than Sverdrup or Oftedal. Yet, these flawed men speak to us today. We stand on their shoulders.
+Before we continue, you must understand that Evjen is a flawed witness to the AFLC principles. In this book you will see his academic tenacity, his imbalance that many found disturbing, and his unwillingness to yield. He is no hero, any more than Sverdrup or Oftedal were heroes. Yet, these flawed men speak to us today. We stand in wonder at the boundaries they establish for our congregations.
 
+But like a fence in the woods, we forget why it is there. 
 
+Do not remove Chesterton's fence!
+
+P1 is too strong a claim to survive on sentiment. Without a living apologetic, it will either be rejected by wider Lutheran instincts or reduced within the AFLC to the vague language of “spirit and life” that Evjen opposed again and again.
+
+\subsection{Contents}
+
+This book contains four section:
+
+* "A Contribution to the Understanding of Professor Georg Sverdrup and His Selected Writings": The text originally appeared in Folkebladet, May 4, 11, and 18, 1910. It was later bound into a small pamphlet by the Free Church Book Concern or Minneapolis, Minn.
+
+* "Guidance: The Principles of the Lutheran Free Church": This is a collection of writings by Sverdrup and Oftedal compiled by Evjen. It was published in book form in 1914. 
+
+* "The Position": This is a an 11-part argument written by Evjen. It appears in Folkebladet March 13 to May 22 1918.
+
+* "The Editors": This includes materials written by the Folkebladet editors. There is important to understand the back and forth arguments Evjen makes with the Editors in "The Position."  
   
+
+Note that "Guidance" does not contain any comments by Evjen. It is a mystery as there is not even a foreward explaining why these particular Sverdrup and Oftdal writings were selected. The inclusion of Oftedal's Hennepin Country affidavit was odd. From "The Position," we learn that Evjen used this material as a textbook while he was teaching at seminary.
+
+
+
+
+\subsection{Definitions}
+
+If I say that the congregation is the body of Christ here on earth, I am no longer speaking only in terms of polity. I am making a dogmatic claim about the nature of the church.
+
+* Dogmatics: What we believe.
+
+* Ecclesiology: The true nature of the congregation.
+
+* Polity: How the congregation is ordered and operates. 
+
+These three terms are tightly coupled as polity depends on Ecclesiological, which depends on dogmatics. 
+
+As we read Sverdrup, Oftedal, and Evjen we need to very careful with these terms. This may sound silly but I recommend you make three notecards, one for each terms. As you read this material, select and hold the appropriate card in your hand. Do this for each point. Even better read that passage again with one of the wrong cards and see how it changes you point of view.
+
+Let's try a few examples:
+
+Example 1: The bible is the inerrant word of God. We may not understand everything and there are section we may not like. But we accept the Word as it is written.
+
+This is a dogmatic claim. 
+
+
+Example 2: Confessional Lutheran FIXME
+
+Example 3: Silent Night and Amazing Grace should be sung Capella.
+
+Let's call this an opiniated and local polity consideration that recognizes that the congregation sings together in such a way as to hear each other. 
+
+Example 4: Congregation as body of Christ. 
+
+This is pure dogmatics.
+
+Example 5: All member of the congregation are called (have a vocation) to use their gifts to help each other. 
+
+Ecclesiology
+
+ 
+
+ 
+Example 5: 
+
+According to the Word of God, the congregation is the right form of the Kingdom of God on earth.
+
+This is complex...
+
+
+\subsection{P1 Crosses Boundary}
+
+
+
+
+****
+
+dogmatics vs polity
+essence vs form
+visible vs invisible
+slogan vs argument
+principle vs apologetic
+inheritance vs understanding
+
+
+****
+I suspect the modern reader has a hard time as they don't swim in ths same water as Sverdrup. Making clear dogmatic definitions (Sverdrup statement) up front should help orient the reader. Hell, I'm not the sharpest cyaron in the box and it took many work weeks to reach this point.
+
+****
+
+The modern reader does not naturally inhabit Sverdrup’s theological world. For that reason, I have chosen to state several dogmatic definitions at the outset. Without them, the argument that follows is too easily misheard in modern categories.
+
+
+
+
+It is an ecclesiological constitution.
+
+because the church is this, therefore the congregation must be ordered this way.
+
+
+define terms and set boundaries specifically for Dogmatics, polity, and maybe even call out the christian trendance tyo be nice.
+
+
+ecclesiology
+
 
 
 
