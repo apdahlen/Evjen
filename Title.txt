@@ -3,20 +3,14 @@ John Evjen: Sinner and Witness
 An Uncomfortable Gift to the AFLC
 
 
-%The greatest risk is not simply that Sverdrup is canonized, but that Sverdrup is canonized in a way that prevents P1 from being clearly understood, historically situated, and honestly tested by Scripture.
-
-
-The j is silent
-
-
-If P1 may not be tested, then it may not truly be believed either—only repeated.
+If a principal may not be tested, then it may not truly be believed either—only repeated.
 
 
 Evjen was an engineer at heart. I see many of my engineering instincts in his writings. He was fastidious to a fault. A man who latched onto a single idea and worked on it for years. The source texts were consulted at length; dog-eared pages, notes in the margins, piles of notes. The idea is placed under a microscope, twisted, pulled, broken, and reassembled until there is clarity.  
 
-Without question Evjen admired and respected Georg Sverdrup. He dedicated a significant portion of his life Defending Sverdrup's work. The contents of this book document his work from 1910 to 1918. 
+Without question Evjen admired and respected Georg Sverdrup. He dedicated a significant portion of his life Defending Sverdrup's work. The contents of this book document his work starting in 1910 leading to 1918. I would argue that significant work was done before 1910 as Evjen's 1910 polemic piece is fully.
 
-Sverdrup, and later Evjen are struggling to define the boundaries between faithful adherence to the Word, dogmatics, and polity. All of this is done at the level of congregation which is define as the proper form of the congregation, the kingdom of God, on earth.
+Sverdrup, and later Evjen are struggling to define the boundaries between faithful adherence to the Word, dogmatics, and polity. All of this is done at the level of congregation which is defined as the proper form of the congregation, the kingdom of God, on earth.
 
 With that said, why is Evjen such a controversial figure in the AFLC history?
 
@@ -26,7 +20,7 @@ Make no mistake: you and I as faithful members of the AFLC are standing on those
 
 We asks the same question we should ask ourselves today.
 
-Can we identify the beams and do we understand how much weight they carry today? What happens if one fails or if we start to move the load-bearing walls? As a test case, many of you have read Veith's work, in practice, we think and act in Luther's mask of God. Suppose we ammend the Fundamental Principles to our stated principles closer to our actions. It's a dangerous polity question unless we fully understand the structure.  
+Can we identify the beams and do we understand how much weight they carry today? What happens if one fails or if we start to move the load-bearing walls? As a test case, many of you have read Veith's work, in practice, we think and act in Luther's mask of God. Suppose we amend the Fundamental Principles to our stated principles closer to our actions. It's a dangerous polity question unless we fully understand the structure.  
 
 This is the uncomfortable gift that John Evjen has given the AFLC. With an engineer's mind he stress-tests the fundamental principles starting with the first:
  
@@ -41,6 +35,8 @@ But like a fence in the woods, we forget why it is there.
 Do not remove Chesterton's fence!
 
 P1 is too strong a claim to survive on sentiment. Without a living apologetic, it will either be rejected by wider Lutheran instincts or reduced within the AFLC to the vague language of “spirit and life” that Evjen opposed again and again.
+
+This is the uncomfortable gift, that Evjen has given the AFLC. 
 
 \subsection{Contents}
 
@@ -72,7 +68,7 @@ If I say that the congregation is the body of Christ here on earth, I am no long
 
 These three terms are tightly coupled as polity depends on Ecclesiological, which depends on dogmatics. 
 
-As we read Sverdrup, Oftedal, and Evjen we need to very careful with these terms. This may sound silly but I recommend you make three notecards, one for each terms. As you read this material, select and hold the appropriate card in your hand. Do this for each point. Even better read that passage again with one of the wrong cards and see how it changes you point of view.
+As we read Sverdrup, Oftedal, and Evjen we need to be very careful with these terms. This may sound silly but I recommend you make three notecards, one for each terms. As you read this material, select and hold the appropriate card in your hand. Do this for each point. Even better read that passage again with one of the wrong cards and see how it changes you point of view.
 
 Let's try a few examples:
 
@@ -83,7 +79,7 @@ This is a dogmatic claim.
 
 Example 2: Confessional Lutheran FIXME
 
-Example 3: Silent Night and Amazing Grace should be sung Capella.
+Example 3: Silent Night and Amazing Grace should be sung a capella.
 
 Let's call this an opiniated and local polity consideration that recognizes that the congregation sings together in such a way as to hear each other. 
 
@@ -323,8 +319,42 @@ The really explosive implication is this: if AFLC apologetics took Evjen serious
 That is not normal institutional memory. That is live theological work.
 
 
+****
+
+%The greatest risk is not simply that Sverdrup is canonized, but that Sverdrup is canonized in a way that prevents P1 from being clearly understood, historically situated, and honestly tested by Scripture.
 
 
 
+“The local congregation is the first court of diagnosis, because it lives nearest the facts
 
+******
 
+It reads less like a cult once the pieces are laid out, and more like a very tightly wound chain of reasoning:
+
+Scripture has authority.
+That authority shapes what the church is.
+What the church is shapes how it must live.
+Therefore the congregation cannot be treated as just one useful arrangement among many.
+
+That is not necessarily cultic. It is just high-pressure theology.
+
+The “windy” part comes from the fact that the argument keeps changing levels without announcing it. It moves from:
+
+doctrine
+to church nature
+to church order
+to practical consequences
+
+That makes the reader feel like the conclusion appeared by magic, when really it arrived by a staircase hidden in the wall.
+
+That is probably your real editorial task: not to prove every graduate-level step, but to show the staircase clearly enough that normal readers can see how the conclusion is reached.
+
+A good plain sentence for that would be:
+
+Taken one step at a time, the claim sounds less strange. The difficulty is that the argument moves through several levels at once—doctrine, the nature of the church, and church order—so the conclusion can seem stronger than the reader is prepared for.
+
+Or even simpler:
+
+The claim sounds extreme when stated all at once. It sounds less extreme when the steps leading to it are laid out clearly.
+
+That may be the exact bridge your section needs.
