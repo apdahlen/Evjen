@@ -2,15 +2,22 @@ Title: John Evjen: Sinner and Witness
 
 An Uncomfortable Gift to the AFLC
 
-\section{Forward}
+\section{Foreword}
 
-If a principal may not be tested, then it may not truly be believed either—only repeated.
+\textif{If a principle may not be tested, then it may not truly be believed.}
 
 Evjen was an engineer at heart. I see many of my engineering instincts in his writings. He was fastidious to a fault. A man who latched onto a single idea and worked on it for years. The source texts were consulted at length; dog-eared pages, notes in the margins, piles of notes. The idea is placed under a microscope, twisted, pulled, broken, and reassembled until there is clarity.  
 
-Without question Evjen admired and respected Georg Sverdrup. He dedicated a significant portion of his life Defending Sverdrup's work. The contents of this book document his work starting in 1910 leading to 1918. I would argue that significant work was done before 1910 as Evjen's 1910 polemic piece is fully.
+Without question Evjen admired and respected Georg Sverdrup. He dedicated a significant portion of his life defending Sverdrup's work. The contents of this book document his work starting in 1910 leading to 1918. I would argue that significant work was done before 1910, since Evjen's 1910 polemic piece understood the Sverdrup P1 controversy from the very first line. It is also somewhat prophetic. 
 
-Sverdrup, and later Evjen are struggling to define the boundaries between faithful adherence to the Word, dogmatics, and polity. All of this is done at the level of congregation which is defined as the proper form of the congregation, the kingdom of God, on earth.
+\begin{quote}
+When all that you meant was met with mockery,\\
+and all that you wrought was only despised,\\
+when your whole intent, however good it was,\\
+is dismissed as nonsense by a self-satisfied fool,
+\end{quote}
+
+Sverdrup, and later Evjen are struggling to define the boundaries between faithful adherence to the Word, dogmatics, ecclesiology, and polity. All of this is done at the level of congregation which is defined as the proper form of the congregation, the kingdom of God, on earth.
 
 With that said, why is Evjen such a controversial figure in the AFLC history?
 
@@ -18,9 +25,9 @@ Evjen was a systematist attempting to define the terms, place the idea within a 
 
 Make no mistake: you and I as faithful members of the AFLC are standing on those same load-bearing beams today.
 
-We asks the same question we should ask ourselves today.
+Evjen asks the same question we should ask ourselves today. Can we identify the beams and do we understand how much weight they carry today? What happens if one fails or if we start to move the load-bearing walls? 
 
-Can we identify the beams and do we understand how much weight they carry today? What happens if one fails or if we start to move the load-bearing walls? As a test case, many of you have read Veith's work, in practice, we think and act in Luther's mask of God. Suppose we amend the Fundamental Principles to our stated principles closer to our actions. It's a dangerous polity question unless we fully understand the structure.  
+As a test case, many of you have read Veith's work, in practice, we think and act in Luther's mask of God. Suppose we amend the Fundamental Principles to our stated principles closer to our actions. It's a dangerous polity question unless we fully understand the structure.  
 
 This is the uncomfortable gift that John Evjen has given the AFLC. With an engineer's mind he stress-tests the fundamental principles starting with the first:
  
@@ -32,13 +39,11 @@ Before we continue, you must understand that Evjen is a flawed witness to the AF
 
 But like a fence in the woods, we forget why it is there. 
 
-Do not remove Chesterton's fence!
+Do not remove Chesterton's fence.
 
-P1 is too strong a claim to survive on sentiment. Without a living apologetic, it will either be rejected by wider Lutheran instincts or reduced within the AFLC to the vague language of “spirit and life” that Evjen opposed again and again.
+P1 is too strong a claim to survive on sentiment. Without a living apologetic, it will either be rejected by wider Lutheran instincts or reduced within the AFLC to the vague language of “spirit and life” that Sverdrup and Evjen opposed again and again.
 
 This is the uncomfortable gift, that Evjen has given the AFLC. 
-
-
 
 
 \section{Contents}
@@ -138,6 +143,124 @@ This is why those notecards are so important as we need to be very careful with 
    \item Authority shapes the visible congregation.
    \item The congregation has a mission and acts with spirit and life.
 \end{itemize} 
+
+
+
+\section{How can we Hear Sverdrup and Evjen}
+
+Evjen was writing about Sverdrup in the decade following his untimely death. We are reading Evjen and Sverdrup a century later. I suspect Evjen was too close to the fire and we are so far away that we cannot distinguish the smoke through the fog. 
+
+In the previous section I was very careful to define terms of dogmatics, ecclesiology, and polity. We also smuggled in a few Sverdrup terms including principle 1 and Christ's free gift of spirit and life.
+
+To better understand the world of Sverdrup and Evjen I will offer the model of the visible congregation manning a ship.
+
+This is not Sverdrup or Evjen language. It's not doctrine. It's a model. And like all models is useful but imperfect. 
+
+However, the model provides a conceptual framework that make it easier to visualize the congregation. Conversations are easier, and operational failures are easier to describe and impossible to deny.
+  
+I was a sailor who sailed on icebreakers. I've been far north of Alaska and south to Antarctica. There is an only saying that a "ship is safe in port, but that's not what a ship is for."
+
+That is important as we are going to describe the congregation the congregation as ship on a mission with a calling from Christ. Instead of using "congregation as the body of Christ with each of us a members," we describe members of the congregation as member of the ship's crew. In this case, the ship is the visible structure in which Christ's work is carried out. 
+
+This is not a safe ship. It's not some sentimental ark to weather the storm. It's an operation ship dependent on the shared responsibility of the crew to perform the ship business while taking care of all members.
+
+This is not a healthy ship. We are all sinners, Satan is whispering to the crew, and the real world presses in with political, societal, and economic constraints. There are also self professed enemies to Christianity. 
+
+A congregation is safe when it avoids mission, repair, conflict, responsibility, and pays the pastor until it closes its doors. But that's not what a congregation is for. Or as Sverdrup once stated a congregation may appear to have all of it's members, but it may be missing the most important things, and that is life.  
+
+A ship can float but be adrift.
+A congregation can look like a "church" lose life. 
+
+FIXME: Bear one another’s burdens — and also, each shall bear his own load.
+
+FIXME: No crew member is sovereign, but no faithful crew member is disposable.
+
+
+From the start this is the way I frame Sverdrups argument. It's     
+
+
+
+
+
+And then we conclude this section with a pressure test in the spirit of Evjen the engineer:
+
+What happen when the crew is unfaithful?
+
+What happen when member grow up from child to elder?
+
+What happens when critical members are lost?
+
+What happens when the congregation becomes lukewarm and places excessive burden on the pastor? 
+
+
+
+The individual is not sovereign. It's likely the most important thing to the modern reader (the nons), yet it is not generally called out by Sverdrup, at least not in that language. Instead, we see spirit andf life as an operational call to th congregation which implied, but does not call out, the individual.
+
+* the framing of the ship where each individual is valued is critical and should emphasize "individual" 
+
+* There is also a time component where the individual matters not just today, but cradle to grave.
+
+* No one aboard may privately redefine the mission, ignore the order of the ship, abandon the crew, or treat shared risk as someone else’s problem.
+
+* This must not be heard first as a political claim. It is a congregational claim. The member is not sovereign because Christ is sovereign. The member is not disposable because Christ gives each member to the body.
+
+
+
+Problems are easy to see as i can argue that loss of a plumber (seemingly non critical) is a serious life threatening probblem as opposed to loss of a leg which would be interpreted as simple a "flesh wound"
+
+
+
+
+
+ship = visible form
+crew = congregation
+order = polity
+life = Christ’s gift of spirit and life
+mission field = Kingdom of God on earth
+
+
+
+You are needed.
+You must be trained.
+Your absence matters.
+Your return matters.
+The pastor is not the whole crew.
+The congregation is not a religious service provider.
+Get aboard; learn the ship; take your watch.
+
+
+
+
+The individual is not sovereign.
+The congregation is not autonomous whim.
+The congregation stands under the Word.
+The congregation confesses together.
+The congregation bears responsibility together.
+Freedom is not isolation; freedom is ordered life under Christ.
+
+
+
+A wounded member may need to be carried.
+A child must be trained.
+An elder may no longer stand the same watch.
+A grieving member may need mercy.
+A poor member may need support.
+
+
+
+\begin{itemize}
+    \item \textbf{Dogmatics:} Christ gives the congregation spirit and life according to the Word.
+    \item \textbf{Ecclesiology:} The congregation is the visible crew, gathered as a living body with shared responsibility.
+    \item \textbf{Polity:} The congregation orders its life so the crew can act faithfully.
+\end{itemize}
+
+
+
+
+
+
+
+FIXME: ship model...
 
 
 
