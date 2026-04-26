@@ -1,10 +1,10 @@
-John Evjen: Sinner and Witness
+Title: John Evjen: Sinner and Witness
 
 An Uncomfortable Gift to the AFLC
 
+\section{Forward}
 
 If a principal may not be tested, then it may not truly be believed either—only repeated.
-
 
 Evjen was an engineer at heart. I see many of my engineering instincts in his writings. He was fastidious to a fault. A man who latched onto a single idea and worked on it for years. The source texts were consulted at length; dog-eared pages, notes in the margins, piles of notes. The idea is placed under a microscope, twisted, pulled, broken, and reassembled until there is clarity.  
 
@@ -38,70 +38,136 @@ P1 is too strong a claim to survive on sentiment. Without a living apologetic, i
 
 This is the uncomfortable gift, that Evjen has given the AFLC. 
 
-\subsection{Contents}
 
-This book contains four section:
 
-* "A Contribution to the Understanding of Professor Georg Sverdrup and His Selected Writings": The text originally appeared in Folkebladet, May 4, 11, and 18, 1910. It was later bound into a small pamphlet by the Free Church Book Concern or Minneapolis, Minn.
 
-* "Guidance: The Principles of the Lutheran Free Church": This is a collection of writings by Sverdrup and Oftedal compiled by Evjen. It was published in book form in 1914. 
+\section{Contents}
+
+This book contains four sections:
+
+* "A Contribution to the Understanding of Professor Georg Sverdrup and His Selected Writings": The text originally appeared in Folkebladet, May 4, 11, and 18, 1910. It was later bound into a small pamphlet by the Free Church Book Concern or Minneapolis, Minnesota.
+
+* "Guidance: The Principles of the Lutheran Free Church": This is a collection of writings by Sverdrup and Oftedal compiled by Evjen. It was published in book form in 1914 by the Free Church Book Concern or Minneapolis, Minnesota. 
 
 * "The Position": This is a an 11-part argument written by Evjen. It appears in Folkebladet March 13 to May 22 1918.
 
 * "The Editors": This includes materials written by the Folkebladet editors. There is important to understand the back and forth arguments Evjen makes with the Editors in "The Position."  
   
 
-Note that "Guidance" does not contain any comments by Evjen. It is a mystery as there is not even a foreward explaining why these particular Sverdrup and Oftdal writings were selected. The inclusion of Oftedal's Hennepin Country affidavit was odd. From "The Position," we learn that Evjen used this material as a textbook while he was teaching at seminary.
+Note that "Guidance" does not contain any comments by Evjen. It is a mystery as there is not even a foreword explaining why these particular Sverdrup and Oftdal writings were selected. The inclusion of Oftedal's Hennepin Country affidavit was odd. From "The Position," we learn that Evjen used this material as a textbook while he was teaching at seminary.
 
 
 
 
 \subsection{Definitions}
 
-If I say that the congregation is the body of Christ here on earth, I am no longer speaking only in terms of polity. I am making a dogmatic claim about the nature of the church.
+When we say that the congregation is the body of Christ here on earth, we are no longer speaking in terms of polity. Instead, we are making a dogmatic claim about the nature of the church.
 
-* Dogmatics: What we believe.
+For our purposes we will use the following definitions:
 
-* Ecclesiology: The true nature of the congregation.
+\begin{itemize}
+    \item \textbf{Dogmatics:} What we confess because Scripture teaches it.
 
-* Polity: How the congregation is ordered and operates. 
+    \item \textbf{Ecclesiology:} What we believe Scripture teaches about the nature of the congregation.
 
-These three terms are tightly coupled as polity depends on Ecclesiological, which depends on dogmatics. 
+    \item \textbf{Polity:} How we organize and operate the congregation. 
+\end{itemize}
 
-As we read Sverdrup, Oftedal, and Evjen we need to be very careful with these terms. This may sound silly but I recommend you make three notecards, one for each terms. As you read this material, select and hold the appropriate card in your hand. Do this for each point. Even better read that passage again with one of the wrong cards and see how it changes you point of view.
+These three terms are tightly coupled as polity depends on ecclesiology and ecclesiology depends on dogmatics. 
+
+As we read Sverdrup, Oftedal, and Evjen we need to be very careful with these terms. This may sound silly but I recommend you make three notecards, one for each term. As you read this material, select and hold the appropriate card in your hand. Do this for each point. Even better, read that passage again with one of the wrong cards and see how it changes your point of view.
 
 Let's try a few examples:
 
-Example 1: The bible is the inerrant word of God. We may not understand everything and there are section we may not like. But we accept the Word as it is written.
+Example 1: The Bible is the inerrant word of God. 
 
-This is a dogmatic claim. 
+This is a dogmatic claim describing how we stand under scripture. We may not understand everything, and there are section we may not like. Yet we receive the Word as it is written and struggle together to find meaning and application in our lives.
+ 
+
+Example 2: We are all sinners. 
+
+This is a dogmatic claim that points the way to Jesus, from Genesis to the Cross. Even our best works appears as filthy rags. Yet Jesus nailed our sins to the cross.
 
 
-Example 2: Confessional Lutheran FIXME
-
-Example 3: Silent Night and Amazing Grace should be sung a capella.
+Example 3: Silent Night and Amazing Grace should be sung a cappella.
 
 Let's call this an opiniated and local polity consideration that recognizes that the congregation sings together in such a way as to hear each other. 
 
-Example 4: Congregation as body of Christ. 
+Example 4: All member of the congregation are called (have a vocation) to use their gifts to help each other. 
 
-This is pure dogmatics.
+This ecclesiology is encoded into the latter half of the AFLC's principles.
 
-Example 5: All member of the congregation are called (have a vocation) to use their gifts to help each other. 
 
-Ecclesiology
+Example 5: The Congregation is the body of Christ. 
+
+This starts out as dogmatics but refuses to stay there. Jesus is not stationary. Instead, he gives spirit and life to the congregation. Polity follows as necessary order to guide the body's members.
+
+% Example 6: Lutherans are confessional.
+
+% This statement is hard to categorize. It is operational statement (dogmatics), but refused to let go of the nature of the church (ecclesiology) because that is what the Luther an believes (dogmatics). Lutherans confess the creeds and the unaltered Augsburg confession. Also, our best hymns point to our sinful nature nature and the promise of the cross.    
 
  
+Example 7: 
 
- 
-Example 5: 
+Principle 1: "According to the Word of God, right form of the Kingdom of God on earth of the Kingdom of God on earth."
 
-According to the Word of God, the congregation is the right form of the Kingdom of God on earth.
-
-This is complex...
+This synthetic statement is complex...
 
 
-\subsection{P1 Crosses Boundary}
+\subsection{Crossing Boundaries with P1}
+
+The first principle is the load bearing beam for the entire AFLC. Unfortunately, it refuses to categorically fit within our definitions. Instead it has elements of all three:
+
+
+\begin{itemize}
+    \item \textbf{According to the Word of God:} This is a dogmatic biblical claim.
+
+    \item \textbf{the congregation is the right form:} This is a dogmatic leading to ecclesiological claim about the nature of the congregation.
+
+    \item \textbf{of the Kingdom of God on earth:} This is ecclesiological description of the visible congregation.  
+\end{itemize} 
+
+
+Finally, we must recognize that P1 does not stand by itself. It carries the weight of the 11 other principles which cast it as a unifying polity statement. Taken together, P1 is a dogmatic authority statement describing the ecclesiological nature of the congregation, with a polity call to duty. 
+
+The bottom line is that P1 is not reducible. We are not going to solve this with a pure biblical claim, nor a clear ecclesiological, nor a clear polity statement. Instead, using today's terminology, the principles are a holistic statement describing the foundations upon which the AFLC is built. 
+
+This is why those notecards are so important as we need to be very careful with our AFLC apologetics. The principles are like a stair stepped claim with lived consequences. It goes something like this:
+\begin{itemize}
+   \item Authority is given in the Word.
+   \item Authority shapes the visible congregation.
+   \item The congregation has a mission and acts with spirit and life.
+\end{itemize} 
+
+
+
+
+
+* The congregation is central and cannot be 
+
+
+
+
+Scripture has authority.
+That authority shapes what the church is.
+What the church is shapes how it must live.
+Therefore the congregation cannot be treated as just one useful arrangement among many.
+
+That is not necessarily cultic. It is just high-pressure theology.
+
+The “windy” part comes from the fact that the argument keeps changing levels without announcing it. It moves from:
+
+doctrine
+to church nature
+to church order
+to practical consequences
+
+
+
+
+
+
+ (organization)    
 
 
 
@@ -117,7 +183,7 @@ inheritance vs understanding
 
 
 ****
-I suspect the modern reader has a hard time as they don't swim in ths same water as Sverdrup. Making clear dogmatic definitions (Sverdrup statement) up front should help orient the reader. Hell, I'm not the sharpest cyaron in the box and it took many work weeks to reach this point.
+I suspect the modern reader has a hard time as they don't swim in the same water as Sverdrup. Making clear dogmatic definitions (Sverdrup statement) up front should help orient the reader. Hell, I'm not the sharpest crayon in the box and it took many work weeks to reach this point.
 
 ****
 
