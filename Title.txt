@@ -146,13 +146,38 @@ This is why those notecards are so important as we need to be very careful with 
 
 
 
+
+
+
+
 \section{How can we Hear Sverdrup and Evjen}
+
+We cannot under Sverdrup by reading Sverdrup, as we no longer have the common frame of reference. As evidence, consider this clause from P1, "Kingdom of God on earth." I ask you to take it seriously with all the implications at both the level of congregation and sovereign individual operating within that congregation. 
+
+This is a good time to stop and find an old hymnal. Take you time and immerse yourself into the Kingdom described in these three hymns:
+
+\begin{itemize}
+    \item \emph{Onward, Christian Soldiers}
+    \item \emph{Battle Hymn of the Republic}
+    \item \emph{Work, for the Night Is Coming}
+\end{itemize}
+
+There is an incredible optimism weaved into these hymns. A supreme confidence that the Kingdom will come and that we, the congregation, and the empowered members within that congregation, the very Body of Christ will bring it into existence.
+
+You can read more about this moment in American church history under the category of postmillennialism. Focus on the divine providence, the call to congregation as well as individual duty, urgency, and frankly, the unquestioned march driving the church's mission forward. Understand that this is the empowering water that surrounds Sverdrup, Oftdahl, Evjan, and the Congregationalists in the mid to late 1800's.  
+
+Like a fish, I'm not convinced they could see it. To better understand this world I will offer the model of the visible congregation as a ship on a mission at sea. Keep in mind that the ship is my metaphor and, to the best of my knowledge, not used by either Sverdrup or Evjan. 
+
+We must be able to see that water in which the visiable congregation is sailing. 
+
+
+manning a ship.
 
 Evjen was writing about Sverdrup in the decade following his untimely death. We are reading Evjen and Sverdrup a century later. I suspect Evjen was too close to the fire and we are so far away that we cannot distinguish the smoke through the fog. 
 
 In the previous section I was very careful to define terms of dogmatics, ecclesiology, and polity. We also smuggled in a few Sverdrup terms including principle 1 and Christ's free gift of spirit and life.
 
-To better understand the world of Sverdrup and Evjen I will offer the model of the visible congregation manning a ship.
+
 
 This is not Sverdrup or Evjen language. It's not doctrine. It's a model. And like all models is useful but imperfect. 
 
@@ -178,6 +203,8 @@ FIXME: Bear one another’s burdens — and also, each shall bear his own load.
 
 FIXME: No crew member is sovereign, but no faithful crew member is disposable.
 
+FIXME: Freedom under God, local responsibility, suspicion of imposed hierarchy, moral seriousness, educated ministry, and confidence that ordered liberty can carry real spiritual and social weight.
+
 
 From the start this is the way I frame Sverdrups argument. It's     
 
@@ -191,8 +218,11 @@ Let's frame this ship:
 * Gifts are developed by all 
 * Member serve each other (vocation)
 
+FIXME: Christ’s reign becoming visible among a gathered people through the Word, faith, forgiveness, mutual responsibility, vocation, discipline, mercy, witness, and ordered congregational life.
 
 
+
+FIXME: Sverdrup sounds almost impossibly American: no imposed hierarchy, no distant machinery, no majority rule over conscience, and deep confidence that ordinary people can bear real responsibility. But he is not grounding this in the sovereignty of the people. He is grounding it in the sovereignty of Christ, the authority of the Word, and the life of the congregation given by the Spirit.
 
 
 And then we conclude this section with a pressure test in the spirit of Evjen the engineer:
@@ -261,14 +291,58 @@ A poor member may need support.
 
 
 
+In my opinion, P1 is not an academic problem as framed by Evjen, but an existential vocational problem. At it's core it demands something from every member of the crew. If they are unwilling or unable to develop and use their gifts the congregation fails. "Spirit and life" is not a revival statement about "Jesus Loves me," but a life and death question about the duty performed by the individual members of the congregation. In biblical terms, P1 is a declaration of works follow faith. A serious acceptance of "Kingdom of God on earth" demands no less.  
+
+And finally we arrive at Sverdrup's core message, a living and visible congregation acts. This demands internal as well as external acts. A serious         
+
+
+
 \begin{itemize}
     \item \textbf{Dogmatics:} Christ gives the congregation spirit and life according to the Word.
     \item \textbf{Ecclesiology:} The congregation is the visible crew, gathered as a living body with shared responsibility.
     \item \textbf{Polity:} The congregation orders its life so the crew can act faithfully.
 \end{itemize}
 
+FIXME:
+Existential — the church’s identity and survival are at stake.
+Vocational — the congregation must understand its calling.
+Ecclesial — the problem concerns the church’s actual life.
+Civilizational — bigger, but probably too hot unless carefully earned.
+Pastoral — it affects pastors, members, responsibility, wounds, and repair.
+Apologetic — it asks whether the AFLC can truthfully explain itself.
+Constitutive — it concerns what makes the congregation what it is.
 
 
+
+FIXME: P1 stands or falls on whether ordinary believers can bear real responsibility under the Word.
+
+FIXME: Ordinary believers are morally accountable agents under the Word, entrusted with real responsibility for the visible life of the congregation. This is where the ship model becomes sharp. The language of the body of Christ can become sentimental if we forget that members are morally accountable agents under the Word. The ship does not allow that forgetfulness. A crew member is not sovereign, but neither is he decorative. He has duties, limits, training, responsibility, and neighbors whose lives may depend on his faithfulness. In the same way, the congregation does not live by pastor, building, budget, and sentiment alone. Its ordinary members must bear real responsibility for the visible life entrusted to them.
+
+
+FIXME: This may explain why Sverdrup returns again and again to lay responsibility. If the congregation is the right form of the Kingdom of God on earth, then the pastor cannot be the congregation's only officer, worker, or responsible adult. The life of the congregation must be borne by ordinary believers under the Word.
+
+FIXME: 
+
+* freedom under the Word
+* responsibility before God
+* local self-government
+* suspicion of imposed hierarchy
+* ordinary believers as morally accountable agents
+* the pastor as servant of the Word, not substitute for the congregation
+
+
+FIXME: This may be the make-or-break point in P1: confidence that ordinary believers can carry real responsibility. If we do not believe that, then the first principle becomes either dangerous or unbelievable. We will inevitably look for some higher machinery to carry the weight: synod, clergy, board, bureaucracy, or pastor. But Sverdrup’s claim assumes that Christ gives spirit and life to the congregation, and that ordinary members, gathered under the Word, may bear real responsibility for the visible life of the church.
+
+
+
+
+FIXME: That requires confidence on several levels:
+
+* confidence that Scripture can speak clearly to church order
+* confidence that the visible congregation can bear divine significance
+* confidence that freedom under the Word will not collapse into chaos
+* confidence that ordinary believers can carry real responsibility
+* confidence that the congregation can stand against state church, synod, hierarchy, and cultural pressure
 
 
 
