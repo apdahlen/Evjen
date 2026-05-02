@@ -1,0 +1,22 @@
+
+\subsection{Contents}
+
+This book includes select works from John Evjen as related to the works of Georg Sverdrup and Sven Oftedal. Evjen is a witness to what is not the Fundamental Principles of the Association of Free Lutheran Congregations (AFLC) with an emphasis on Principle #1 upon which all other principles rest.
+
+This is not a biograph for Evjen, Sverdrup, or Oftedal. Nor is it a history of the AFLC. However, Evjen's work in the 1910 to 1918 timeframe are still with us today. The five section asks if the AFLC principles still serve as the foundation for living congregations or if spirit and life has become a slogan.   
+
+This book contains five sections:
+
+* An introduction written by layman Aaron Dahlen,.
+
+* "A Contribution to the Understanding of Professor Georg Sverdrup and His Selected Writings": The text originally appeared in Folkebladet, May 4, 11, and 18, 1910. It was later bound into a small pamphlet by the Free Church Book Concern or Minneapolis, Minnesota.
+
+* "Guidance: The Principles of the Lutheran Free Church": This is a collection of writings by Sverdrup and Oftedal compiled by Evjen. It was published in book form in 1914 by the Free Church Book Concern or Minneapolis, Minnesota. 
+
+* "The Position": This is an 11-part argument written by Evjen. It appears in Folkebladet March 13 to May 22 1918.
+
+* "The Editors": This includes materials written by the Folkebladet editors. There writings are important to understand the back and forth arguments Evjen makes with the Editors in "The Position."  
+  
+
+Note that "Guidance" does not contain any comments by Evjen. It is a mystery as there is not even a foreword explaining why these particular Sverdrup and Oftedal writings were selected. The inclusion of Oftedal's Hennepin County affidavit was odd. From "The Position," we learn that Evjen used this material as a textbook while he was teaching at seminary.
+
