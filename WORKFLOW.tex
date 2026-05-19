@@ -28,7 +28,7 @@
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0.2pt}
-\fancyhead[L]{\small Sverdrup and Oftedal — Working Translation}
+\fancyhead[L]{\small Evjen — Working Translation}
 %\fancyhead[R]{\small \leftmark}
 %\fancyfoot[C]{\small \thepage}
 
@@ -47,7 +47,7 @@
 
     \vspace{0.75in}
 
-    {\large Woith Historical Texts by\par}
+    {\large With Historical Texts by\par}
     \vspace{0.10in}
 
     {\large Professors John Evjen, Georg Sverdrup, and Sven Oftedal\par}
@@ -74,35 +74,38 @@
 \newpage
 
 
-\input{Dahlen/Foreward.tex}\pagebreak
-\input{Dahlen/Content.tex}\pagebreak
-\input{Dahlen/Definitions.tex}\pagebreak
-\input{Dahlen/Hearing.tex}\pagebreak
-\input{Dahlen/Epilog.tex}\pagebreak
-
-
 \pagenumbering{roman}
+\pagestyle{plain}
 \tableofcontents
 \newpage
 
 
+\input{Dahlen/Foreward.tex}
+\input{Dahlen/Content.tex}
+\input{Dahlen/Motivation.tex}
+\input{Dahlen/Definitions.tex}
+\input{Dahlen/Hearing.tex}
+\input{Dahlen/Epilog.tex}
 
+\input{ProjectDisclaimer.tex}\pagebreak
 
+\pagenumbering{arabic}
+
+\includegraphics[width=\textwidth]{Evjen_1910/Cover.png}
+\input{Evjen_1910/Pages_5_16/Pages_5_16.tex}
+\input{Evjen_1910/Pages_17_29/Pages_17_29.tex}
+\input{Evjen_1910/Pages_30_42/Pages_30_42.tex}
+\input{Evjen_1910/Pages_43_46/Pages_43_46.tex}
 
 \section{Guidance}
 \input{Guidance/Guidance.tex}
 
 
+
 \input{ThePosition/ThePosition.tex}
 
-
+\input{Editor/Apr_24/Editor.tex}
+\input{Editor/May_01/Editor.tex}
 
 \end{document}
-
-
-
-
-
-
-
 
