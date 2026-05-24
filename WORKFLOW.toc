@@ -3,7 +3,7 @@
 \contentsline {subsection}{\numberline {1.2}Evjen}{viii}{subsection.1.2}%
 \contentsline {subsection}{\numberline {1.3}Definitions}{ix}{subsection.1.3}%
 \contentsline {subsubsection}{\numberline {1.3.1}Example 1: The Bible is the inerrant word of God}{ix}{subsubsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {1.3.2}Example 2: We are all sinners}{ix}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.2}Example 2: We are all sinners}{x}{subsubsection.1.3.2}%
 \contentsline {subsubsection}{\numberline {1.3.3}Example 3: Silent Night and Amazing Grace should be sung a cappella}{x}{subsubsection.1.3.3}%
 \contentsline {subsubsection}{\numberline {1.3.4}Example 4: All member of the congregation are called (have a vocation) to use their gifts to help each other}{x}{subsubsection.1.3.4}%
 \contentsline {subsubsection}{\numberline {1.3.5}Example 5: The Congregation is the body of Christ}{x}{subsubsection.1.3.5}%
@@ -11,15 +11,16 @@
 \contentsline {subsubsection}{\numberline {1.3.7}Example 7: Principle 1: "According to the Word of God, the congregation is the right form of the Kingdom of God on earth."}{x}{subsubsection.1.3.7}%
 \contentsline {subsection}{\numberline {1.4}Crossing Boundaries with P1}{x}{subsection.1.4}%
 \contentsline {subsection}{\numberline {1.5}How can we Hear Sverdrup, Evjen, and the Editors?}{xi}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}A Model of the Congregation}{xii}{subsubsection.1.5.1}%
-\contentsline {paragraph}{The Ship is Given by Christ}{xiii}{section*.3}%
-\contentsline {paragraph}{The Ship’s Power and True Center}{xiii}{section*.4}%
-\contentsline {paragraph}{The Crew as a Living Congregation}{xiv}{section*.5}%
-\contentsline {paragraph}{Order, Watchstanding, and Lay Responsibility}{xiv}{section*.6}%
-\contentsline {paragraph}{Mission Beyond Sentiment}{xiv}{section*.7}%
-\contentsline {paragraph}{Danger, Failure, and the Anti-Sentimental Guardrail}{xv}{section*.8}%
-\contentsline {subsubsection}{\numberline {1.5.2}A Broken Model of the Congregation}{xv}{subsubsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.6}Epilogue}{xvii}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.5.1}A Model of the Congregation}{xiv}{subsubsection.1.5.1}%
+\contentsline {paragraph}{The Ship is Given by Christ}{xiv}{section*.3}%
+\contentsline {paragraph}{The Ship’s Power and True Center}{xv}{section*.4}%
+\contentsline {paragraph}{The Crew as a Living Congregation}{xv}{section*.5}%
+\contentsline {paragraph}{Order, Watchstanding, and Lay Responsibility}{xv}{section*.6}%
+\contentsline {paragraph}{Mission Beyond Sentiment}{xvi}{section*.7}%
+\contentsline {paragraph}{Danger, Failure, and the Anti-Sentimental Guardrail}{xvi}{section*.8}%
+\contentsline {subsubsection}{\numberline {1.5.2}A Broken Model of the Congregation}{xvi}{subsubsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.6}Epilogue}{xix}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Disclaimer}{xxi}{subsection.1.7}%
 \contentsline {section}{\numberline {2}A Contribution to Understanding Prof. Georg Sverdrup and His Selected Writings}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Volume I. Sketches and Essays}{6}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Volume II. The Congregation}{8}{subsection.2.2}%
@@ -31,77 +32,77 @@
 \contentsline {subsubsection}{\numberline {2.2.6}Sixth Section}{11}{subsubsection.2.2.6}%
 \contentsline {subsection}{\numberline {2.3}Advertisements included in the book}{11}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Guidance}{12}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Concepts of Church Fellowship and the Union in 1890}{3}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}On Inner Mission}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Are the Pastors the "Society’s" Servants?}{7}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Open Letter to Augsburg’s Friends}{9}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}The Program of the Minority}{11}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Augsburg and the Minority}{13}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Ordination Refusal and the Constitution of the United Church}{14}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}The Congregations’ Right to Call and the Refusals of Ordination}{16}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Lutherdom and Church Polity}{18}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}The Free Church and the Congregation}{20}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Visible Congregation}{23}{subsection.3.11}%
-\contentsline {subsection}{\numberline {3.12}The Lutheran Free Church}{25}{subsection.3.12}%
-\contentsline {subsection}{\numberline {3.13}From the Report to the Annual Meeting of the Lutheran Free Church, 1897}{28}{subsection.3.13}%
-\contentsline {subsection}{\numberline {3.14}Guiding Principles and Revised Rules for the Lutheran Free Church}{31}{subsection.3.14}%
-\contentsline {subsubsection}{\numberline {3.14.1}Guiding Principles}{31}{subsubsection.3.14.1}%
-\contentsline {subsubsection}{\numberline {3.14.2}The Revised Rules for Work}{33}{subsubsection.3.14.2}%
-\contentsline {subsection}{\numberline {3.15}Free Connection among Free Congregations}{36}{subsection.3.15}%
-\contentsline {subsection}{\numberline {3.16}The New Testament Congregation}{39}{subsection.3.16}%
-\contentsline {subsection}{\numberline {3.17}The First Congregation of God}{41}{subsection.3.17}%
-\contentsline {subsection}{\numberline {3.18}The Congregations’ Free Connection}{46}{subsection.3.18}%
-\contentsline {subsection}{\numberline {3.19}Free Fellowship between Free Congregations}{50}{subsection.3.19}%
-\contentsline {subsection}{\numberline {3.20}On the Free Church’s “Leading Principles”}{55}{subsection.3.20}%
-\contentsline {subsubsection}{\numberline {3.20.1}According to God’s Word, the congregation is the proper form of the Kingdom of God on earth}{55}{subsubsection.3.20.1}%
-\contentsline {subsubsection}{\numberline {3.20.2}The congregation consists of believing human beings, who by the use of the means of grace and the gifts of grace according to the direction of God’s Word seek their own salvation and eternal blessedness, and that of all their fellow human beings.}{57}{subsubsection.3.20.2}%
-\contentsline {subsubsection}{\numberline {3.20.3}According to the New Testament, the congregation needs an outward organization, with a register of its members, election of officers, fixed times and places for its assemblies, etc.}{60}{subsubsection.3.20.3}%
-\contentsline {subsubsection}{\numberline {3.20.4}Since not all members of the congregation’s outward organization are always believing people, and since such hypocrites often take false comfort from their outward connection with the congregation, it is the congregation’s holy calling to cleanse itself both by awakening proclamation of the Word of God, by earnest admonition and reminder, and by exclusion of open and obstinate sinners.}{63}{subsubsection.3.20.4}%
-\contentsline {subsubsection}{\numberline {3.20.5}The congregation governs its own affairs under the authority of God’s Word and Spirit, and acknowledges no other ecclesiastical authority or tutelage over itself.}{66}{subsubsection.3.20.5}%
-\contentsline {subsubsection}{\numberline {3.20.6}The free congregation esteems and loves all the spiritual gifts which the Lord bestows for its edification, and seeks to quicken the gifts and promote their use.}{66}{subsubsection.3.20.6}%
-\contentsline {subsubsection}{\numberline {3.20.7}The free congregation receives with joy the mutual help which congregations can render one another in the work of advancing God’s kingdom.}{69}{subsubsection.3.20.7}%
-\contentsline {subsubsection}{\numberline {3.20.8}Such mutual help consists partly in this, that the spiritual forces of the one congregation come to the benefit of the other by free meetings, mutual visits, lay activity, etc.; partly in this, that the congregations voluntarily and at the prompting of God’s Spirit cooperate for the solving of such tasks as may surpass the strength of a single congregation.}{69}{subsubsection.3.20.8}%
-\contentsline {subsubsection}{\numberline {3.20.9}Among such purposes are named in particular a pastors’ school, the spreading of Bibles and other writings and periodicals, home mission, heathen mission, deaconess homes, children’s homes, and other works of mercy.}{69}{subsubsection.3.20.9}%
-\contentsline {subsubsection}{\numberline {3.20.10}Free Congregations have no Right to demand that other Congregations submit to their Opinion, Will, Judgment, or Determination; therefore every dominion of a majority of Congregations over a minority is to be rejected.}{71}{subsubsection.3.20.10}%
-\contentsline {subsubsection}{\numberline {3.20.11}The common organs that may be found desirable for the Congregations’ cooperation, such as greater or smaller meetings, committees, officers, etc., cannot in a Lutheran Free Church impose upon the single Congregation any duty, bond, compulsion, or burden, but are only entitled to come forward with proposals and exhortations to Congregations and persons.}{71}{subsubsection.3.20.11}%
-\contentsline {subsubsection}{\numberline {3.20.12}Every free Congregation has, like each individual believer, through the prompting of God’s Spirit and by the right of love, the right to do good and to labor for the salvation of souls and the awakening of spiritual life as far as its ability and strength reach; in such free, spiritual activity it is restricted neither by parish ties nor by the boundaries of societies.}{73}{subsubsection.3.20.12}%
-\contentsline {subsection}{\numberline {3.21}On the Congregations’ Responsibility for Synodical Acts}{76}{subsection.3.21}%
-\contentsline {subsection}{\numberline {3.22}The Free Church Came}{78}{subsection.3.22}%
-\contentsline {subsection}{\numberline {3.23}Is There a Difference?}{80}{subsection.3.23}%
-\contentsline {subsection}{\numberline {3.24}Is It Progress?}{82}{subsection.3.24}%
-\contentsline {subsection}{\numberline {3.25}Compulsion or Freedom}{84}{subsection.3.25}%
-\contentsline {subsection}{\numberline {3.26}The Free Church’s Mode of Working}{86}{subsection.3.26}%
-\contentsline {subsection}{\numberline {3.27}Freedom and Equality}{88}{subsection.3.27}%
-\contentsline {subsection}{\numberline {3.28}The Federation of Free Congregations}{89}{subsection.3.28}%
-\contentsline {subsection}{\numberline {3.29}On Withdrawal from a Synod}{90}{subsection.3.29}%
-\contentsline {subsection}{\numberline {3.30}Free Church Meetings}{93}{subsection.3.30}%
-\contentsline {subsection}{\numberline {3.31}Try Again}{95}{subsection.3.31}%
-\contentsline {subsection}{\numberline {3.32}The Majority’s Dominion in the Church}{97}{subsection.3.32}%
-\contentsline {subsection}{\numberline {3.33}Clergy-Body or Congregational Freedom}{100}{subsection.3.33}%
-\contentsline {subsection}{\numberline {3.34}Simony}{104}{subsection.3.34}%
-\contentsline {subsection}{\numberline {3.35}The Free Church Is Not a "Church Body"}{106}{subsection.3.35}%
-\contentsline {subsection}{\numberline {3.36}Trust in the Congregations}{108}{subsection.3.36}%
-\contentsline {subsection}{\numberline {3.37}The Ecclesiastical Discussion}{110}{subsection.3.37}%
-\contentsline {subsection}{\numberline {3.38}No Difference}{111}{subsection.3.38}%
-\contentsline {subsection}{\numberline {3.39}A Curious Piece of News}{113}{subsection.3.39}%
-\contentsline {subsection}{\numberline {3.40}Concerning Lay Activity}{114}{subsection.3.40}%
-\contentsline {subsection}{\numberline {3.41}The Congregation and Lay Activity}{117}{subsection.3.41}%
-\contentsline {subsection}{\numberline {3.42}Appendix}{120}{subsection.3.42}%
-\contentsline {subsubsection}{\numberline {3.42.1}On Admission to the Congregation}{120}{subsubsection.3.42.1}%
-\contentsline {subsubsection}{\numberline {3.42.2}Dogmatic Paragraphs on the Church}{122}{subsubsection.3.42.2}%
-\contentsline {subsubsection}{\numberline {3.42.3}About Open Declaration}{126}{subsubsection.3.42.3}%
-\contentsline {section}{\numberline {4}The Position}{128}{section.4}%
-\contentsline {subsection}{\numberline {4.1}The Congregation as the Church’s Proper Form}{128}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}The Guiding Principles as Church Polity}{132}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Sverdrup on the Congregation’s Proper Form}{137}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Sverdrup Between Lutheranism and Congregationalism}{141}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Reading Sverdrup with Sohm}{146}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Sverdrup and the Necessity of the Local Congregation}{151}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Why the Congregation Is Not Optional}{156}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Principle, Not Impossible Demand}{161}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}The Principles Must First Be Understood}{164}{subsection.4.9}%
-\contentsline {subsection}{\numberline {4.10}Vocation and the Right to Interpret}{168}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}Daring to Raise the Question}{173}{subsection.4.11}%
-\contentsline {section}{\numberline {5}The Editors}{177}{section.5}%
-\contentsline {subsection}{\numberline {5.1}The Congregation}{177}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}A little further concerning our statements regarding the congregation}{180}{subsection.5.2}%
+\contentsline {subsection}{\numberline {3.1}Concepts of Church Fellowship and the Union in 1890}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}On Inner Mission}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Are the Pastors the "Society’s" Servants?}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Open Letter to Augsburg’s Friends}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}The Program of the Minority}{10}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Augsburg and the Minority}{12}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Ordination Refusal and the Constitution of the United Church}{13}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}The Congregations’ Right to Call and the Refusals of Ordination}{15}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Lutherdom and Church Polity}{17}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}The Free Church and the Congregation}{19}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Visible Congregation}{22}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}The Lutheran Free Church}{24}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}From the Report to the Annual Meeting of the Lutheran Free Church, 1897}{27}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14}Guiding Principles and Revised Rules for the Lutheran Free Church}{30}{subsection.3.14}%
+\contentsline {subsubsection}{\numberline {3.14.1}Guiding Principles}{30}{subsubsection.3.14.1}%
+\contentsline {subsubsection}{\numberline {3.14.2}The Revised Rules for Work}{32}{subsubsection.3.14.2}%
+\contentsline {subsection}{\numberline {3.15}Free Connection among Free Congregations}{35}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16}The New Testament Congregation}{38}{subsection.3.16}%
+\contentsline {subsection}{\numberline {3.17}The First Congregation of God}{40}{subsection.3.17}%
+\contentsline {subsection}{\numberline {3.18}The Congregations’ Free Connection}{45}{subsection.3.18}%
+\contentsline {subsection}{\numberline {3.19}Free Fellowship between Free Congregations}{49}{subsection.3.19}%
+\contentsline {subsection}{\numberline {3.20}On the Free Church’s “Leading Principles”}{54}{subsection.3.20}%
+\contentsline {subsubsection}{\numberline {3.20.1}According to God’s Word, the congregation is the proper form of the Kingdom of God on earth}{54}{subsubsection.3.20.1}%
+\contentsline {subsubsection}{\numberline {3.20.2}The congregation consists of believing human beings, who by the use of the means of grace and the gifts of grace according to the direction of God’s Word seek their own salvation and eternal blessedness, and that of all their fellow human beings.}{56}{subsubsection.3.20.2}%
+\contentsline {subsubsection}{\numberline {3.20.3}According to the New Testament, the congregation needs an outward organization, with a register of its members, election of officers, fixed times and places for its assemblies, etc.}{59}{subsubsection.3.20.3}%
+\contentsline {subsubsection}{\numberline {3.20.4}Since not all members of the congregation’s outward organization are always believing people, and since such hypocrites often take false comfort from their outward connection with the congregation, it is the congregation’s holy calling to cleanse itself both by awakening proclamation of the Word of God, by earnest admonition and reminder, and by exclusion of open and obstinate sinners.}{62}{subsubsection.3.20.4}%
+\contentsline {subsubsection}{\numberline {3.20.5}The congregation governs its own affairs under the authority of God’s Word and Spirit, and acknowledges no other ecclesiastical authority or tutelage over itself.}{65}{subsubsection.3.20.5}%
+\contentsline {subsubsection}{\numberline {3.20.6}The free congregation esteems and loves all the spiritual gifts which the Lord bestows for its edification, and seeks to quicken the gifts and promote their use.}{65}{subsubsection.3.20.6}%
+\contentsline {subsubsection}{\numberline {3.20.7}The free congregation receives with joy the mutual help which congregations can render one another in the work of advancing God’s kingdom.}{68}{subsubsection.3.20.7}%
+\contentsline {subsubsection}{\numberline {3.20.8}Such mutual help consists partly in this, that the spiritual forces of the one congregation come to the benefit of the other by free meetings, mutual visits, lay activity, etc.; partly in this, that the congregations voluntarily and at the prompting of God’s Spirit cooperate for the solving of such tasks as may surpass the strength of a single congregation.}{68}{subsubsection.3.20.8}%
+\contentsline {subsubsection}{\numberline {3.20.9}Among such purposes are named in particular a pastors’ school, the spreading of Bibles and other writings and periodicals, home mission, heathen mission, deaconess homes, children’s homes, and other works of mercy.}{68}{subsubsection.3.20.9}%
+\contentsline {subsubsection}{\numberline {3.20.10}Free Congregations have no Right to demand that other Congregations submit to their Opinion, Will, Judgment, or Determination; therefore every dominion of a majority of Congregations over a minority is to be rejected.}{70}{subsubsection.3.20.10}%
+\contentsline {subsubsection}{\numberline {3.20.11}The common organs that may be found desirable for the Congregations’ cooperation, such as greater or smaller meetings, committees, officers, etc., cannot in a Lutheran Free Church impose upon the single Congregation any duty, bond, compulsion, or burden, but are only entitled to come forward with proposals and exhortations to Congregations and persons.}{70}{subsubsection.3.20.11}%
+\contentsline {subsubsection}{\numberline {3.20.12}Every free Congregation has, like each individual believer, through the prompting of God’s Spirit and by the right of love, the right to do good and to labor for the salvation of souls and the awakening of spiritual life as far as its ability and strength reach; in such free, spiritual activity it is restricted neither by parish ties nor by the boundaries of societies.}{72}{subsubsection.3.20.12}%
+\contentsline {subsection}{\numberline {3.21}On the Congregations’ Responsibility for Synodical Acts}{75}{subsection.3.21}%
+\contentsline {subsection}{\numberline {3.22}The Free Church Came}{77}{subsection.3.22}%
+\contentsline {subsection}{\numberline {3.23}Is There a Difference?}{79}{subsection.3.23}%
+\contentsline {subsection}{\numberline {3.24}Is It Progress?}{81}{subsection.3.24}%
+\contentsline {subsection}{\numberline {3.25}Compulsion or Freedom}{83}{subsection.3.25}%
+\contentsline {subsection}{\numberline {3.26}The Free Church’s Mode of Working}{85}{subsection.3.26}%
+\contentsline {subsection}{\numberline {3.27}Freedom and Equality}{87}{subsection.3.27}%
+\contentsline {subsection}{\numberline {3.28}The Federation of Free Congregations}{88}{subsection.3.28}%
+\contentsline {subsection}{\numberline {3.29}On Withdrawal from a Synod}{89}{subsection.3.29}%
+\contentsline {subsection}{\numberline {3.30}Free Church Meetings}{92}{subsection.3.30}%
+\contentsline {subsection}{\numberline {3.31}Try Again}{94}{subsection.3.31}%
+\contentsline {subsection}{\numberline {3.32}The Majority’s Dominion in the Church}{96}{subsection.3.32}%
+\contentsline {subsection}{\numberline {3.33}Clergy-Body or Congregational Freedom}{99}{subsection.3.33}%
+\contentsline {subsection}{\numberline {3.34}Simony}{103}{subsection.3.34}%
+\contentsline {subsection}{\numberline {3.35}The Free Church Is Not a "Church Body"}{105}{subsection.3.35}%
+\contentsline {subsection}{\numberline {3.36}Trust in the Congregations}{107}{subsection.3.36}%
+\contentsline {subsection}{\numberline {3.37}The Ecclesiastical Discussion}{109}{subsection.3.37}%
+\contentsline {subsection}{\numberline {3.38}No Difference}{110}{subsection.3.38}%
+\contentsline {subsection}{\numberline {3.39}A Curious Piece of News}{112}{subsection.3.39}%
+\contentsline {subsection}{\numberline {3.40}Concerning Lay Activity}{113}{subsection.3.40}%
+\contentsline {subsection}{\numberline {3.41}The Congregation and Lay Activity}{116}{subsection.3.41}%
+\contentsline {subsection}{\numberline {3.42}Appendix}{119}{subsection.3.42}%
+\contentsline {subsubsection}{\numberline {3.42.1}On Admission to the Congregation}{119}{subsubsection.3.42.1}%
+\contentsline {subsubsection}{\numberline {3.42.2}Dogmatic Paragraphs on the Church}{121}{subsubsection.3.42.2}%
+\contentsline {subsubsection}{\numberline {3.42.3}About Open Declaration}{125}{subsubsection.3.42.3}%
+\contentsline {section}{\numberline {4}The Position}{127}{section.4}%
+\contentsline {subsection}{\numberline {4.1}The Congregation as the Church’s Proper Form}{127}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The Guiding Principles as Church Polity}{131}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Sverdrup on the Congregation’s Proper Form}{136}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Sverdrup Between Lutheranism and Congregationalism}{140}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Reading Sverdrup with Sohm}{145}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Sverdrup and the Necessity of the Local Congregation}{150}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Why the Congregation Is Not Optional}{155}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Principle, Not Impossible Demand}{160}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}The Principles Must First Be Understood}{163}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Vocation and the Right to Interpret}{167}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Daring to Raise the Question}{172}{subsection.4.11}%
+\contentsline {section}{\numberline {5}The Editors}{176}{section.5}%
+\contentsline {subsection}{\numberline {5.1}The Congregation}{176}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}A little further concerning our statements regarding the congregation}{179}{subsection.5.2}%
