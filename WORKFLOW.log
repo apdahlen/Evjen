@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  23 MAY 2026 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  25 MAY 2026 23:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -606,21 +606,46 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 2.
- [1]
-[2] [3])
+
+Overfull \hbox (3.98273pt too wide) detected at line 20
+ []\T1/lmr/m/n/12 xviii
+ []
+
+
+Overfull \hbox (0.71873pt too wide) detected at line 23
+ []\T1/lmr/m/n/12 xxii
+ []
+
+[1] [2] [3])
 \tf@toc=\write4
 \openout4 = `WORKFLOW.toc'.
 
- [4] (Dahlen/Foreward.tex [5]) (Dahlen/Content.tex
+ [4] (Dahlen/Foreward.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 5.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--21
+
+ []
+
+[5]) (Dahlen/Content.tex [6]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 2.
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [6{C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc
-}])
-(Dahlen/Motivation.tex [7] [8]) (Dahlen/Definitions.tex [9] [10])
-(Dahlen/Hearing.tex [11] [12]
+))
+(Dahlen/Definitions.tex [7{C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/e
+nc/dvips/lm/lm-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
+
+ []
+
+[8]) (Dahlen/Hearing.tex [9] [10] [11]
 Underfull \hbox (badness 10000) in paragraph at lines 60--67
 
  []
@@ -645,15 +670,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--100
 
  []
 
-[13] [14] [15] [16]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 243.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 243.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 243.
- [17]) (Dahlen/Epilog.tex [18] [19] [20])
-(ProjectDisclaimer.tex
+[12] [13] [14] [15] [16]) (Dahlen/Epilog.tex [17] [18]) (Dahlen/Motivation.tex
+[19] [20]) (ProjectDisclaimer.tex
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 1.
 
@@ -665,10 +683,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ) [21]
-<Evjen_1910/Cover.png, id=719, 316.93407pt x 560.0925pt>
+<Evjen_1910/Cover.png, id=722, 316.93407pt x 560.0925pt>
 File: Evjen_1910/Cover.png Graphic file (type png)
 <use Evjen_1910/Cover.png>
-Package pdftex.def Info: Evjen_1910/Cover.png  used on input line 94.
+Package pdftex.def Info: Evjen_1910/Cover.png  used on input line 93.
 (pdftex.def)             Requested size: 469.75502pt x 830.2315pt.
 
 (Evjen_1910/Pages_5_16/Pages_5_16.tex
@@ -694,7 +712,7 @@ been already used, duplicate ignored
                    \relax 
 l.44 \end{titlepage}
                      [1]
-<Guidance/Front.jpg, id=776, 4015.0pt x 3011.25pt>
+<Guidance/Front.jpg, id=779, 4015.0pt x 3011.25pt>
 File: Guidance/Front.jpg Graphic file (type jpg)
 <use Guidance/Front.jpg>
 Package pdftex.def Info: Guidance/Front.jpg  used on input line 65.
@@ -830,14 +848,14 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: 90A855DB7F15A08BC34587F51967E7AD;39162.
+(rerunfilecheck)             Checksum: 6C5635D452F08A79069C828E7A1CA4B6;39359.
  ) 
 Here is how much of TeX's memory you used:
- 14595 strings out of 474486
- 243597 string characters out of 5743754
- 1945542 words of memory out of 5000000
- 35705 multiletter control sequences out of 15000+600000
- 639484 words of font info for 230 fonts, out of 8000000 for 9000
+ 14605 strings out of 474486
+ 243735 string characters out of 5743754
+ 1944542 words of memory out of 5000000
+ 35707 multiletter control sequences out of 15000+600000
+ 644137 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,17n,79p,2246b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -848,11 +866,12 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 ><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C
 :/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/
+Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (217 pages, 4290363 bytes).
+Output written on WORKFLOW.pdf (217 pages, 4310033 bytes).
 PDF statistics:
- 1696 PDF objects out of 1728 (max. 8388607)
- 339 named destinations out of 1000 (max. 500000)
- 44410 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1703 PDF objects out of 1728 (max. 8388607)
+ 340 named destinations out of 1000 (max. 500000)
+ 46458 words of extra memory for PDF output out of 51595 (max. 10000000)
 
