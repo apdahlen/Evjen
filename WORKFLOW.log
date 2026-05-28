@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  25 MAY 2026 23:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  27 MAY 2026 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -611,11 +611,6 @@ Overfull \hbox (3.98273pt too wide) detected at line 20
  []\T1/lmr/m/n/12 xviii
  []
 
-
-Overfull \hbox (0.71873pt too wide) detected at line 23
- []\T1/lmr/m/n/12 xxii
- []
-
 [1] [2] [3])
 \tf@toc=\write4
 \openout4 = `WORKFLOW.toc'.
@@ -646,11 +641,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--52
  []
 
 [8]) (Dahlen/Hearing.tex [9] [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 60--67
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 69--76
 
  []
@@ -670,7 +660,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--100
 
  []
 
-[12] [13] [14] [15] [16]) (Dahlen/Epilog.tex [17] [18]) (Dahlen/Motivation.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--108
+
+ []
+
+[12]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 128.
+
+[13] [14] [15] [16]) (Dahlen/Epilog.tex [17] [18]) (Dahlen/Motivation.tex
 [19] [20]) (ProjectDisclaimer.tex
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 1.
@@ -848,14 +848,14 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: 6C5635D452F08A79069C828E7A1CA4B6;39359.
+(rerunfilecheck)             Checksum: BC2A8DB28780E0A7DB6C33D41874EE80;39289.
  ) 
 Here is how much of TeX's memory you used:
- 14605 strings out of 474486
- 243735 string characters out of 5743754
+ 14603 strings out of 474486
+ 243691 string characters out of 5743754
  1944542 words of memory out of 5000000
  35707 multiletter control sequences out of 15000+600000
- 644137 words of font info for 234 fonts, out of 8000000 for 9000
+ 644008 words of font info for 233 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,17n,79p,2246b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -869,7 +869,7 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (217 pages, 4310033 bytes).
+Output written on WORKFLOW.pdf (217 pages, 4310642 bytes).
 PDF statistics:
  1703 PDF objects out of 1728 (max. 8388607)
  340 named destinations out of 1000 (max. 500000)
