@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  29 MAY 2026 22:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  29 MAY 2026 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -646,34 +646,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--52
  []
 
 ) (Dahlen/Hearing.tex [9] [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 73--80
+Underfull \hbox (badness 10000) in paragraph at lines 75--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--88
+Underfull \hbox (badness 10000) in paragraph at lines 83--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--96
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--104
+Underfull \hbox (badness 10000) in paragraph at lines 99--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
 
  []
 
 [12]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 132.
+(hyperref)                than one, level fixed on input line 134.
 
 [13] [14] [15] [16]) (Dahlen/Epilog.tex [17] [18]) (Dahlen/Motivation.tex
 [19] [20]) (ProjectDisclaimer.tex
@@ -776,11 +776,11 @@ Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
 (rerunfilecheck)             Checksum: 14D23ED44CD7A5B7E7170A9628195747;39580.
  ) 
 Here is how much of TeX's memory you used:
- 14597 strings out of 474486
- 243529 string characters out of 5743754
+ 14599 strings out of 474486
+ 243553 string characters out of 5743754
  1945542 words of memory out of 5000000
  35706 multiletter control sequences out of 15000+600000
- 641046 words of font info for 232 fonts, out of 8000000 for 9000
+ 641175 words of font info for 233 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,17n,79p,2246b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -794,7 +794,7 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (196 pages, 4296689 bytes).
+Output written on WORKFLOW.pdf (196 pages, 4296721 bytes).
 PDF statistics:
  1634 PDF objects out of 1728 (max. 8388607)
  335 named destinations out of 1000 (max. 500000)
