@@ -1,0 +1,415 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "Samfund" is a major hazard. In this polemical ecclesiastical context it does not simply mean "society" in the modern social sense. It refers to a church body, synodical association, or denominational organization claiming authority over congregations. Its rendering must preserve the institutional and contested character of the word. Because Sverdrup himself marks it with quotation marks, the English should also preserve that marked, polemical distance, usually as "Synod" or "church body" in quotation marks depending on context.
+
+* "Menighed" is not interchangeable with "Samfund." It means congregation, parish, or local church. The distinction is central to the whole argument. If both are flattened into "church," the argument collapses.
+
+* "gaa ud" / "Udtrædelse" must retain ecclesiastical and disciplinary force: "go out" / "withdrawal" / "leave." In Wright’s phrasing it is nearly technical, not casual departure.
+
+* "ydre" and "indre" in "Kirkens indre og ydre Enhed" are doctrinally weighted. They are not merely "internal/external" in a casual sense, but concern spiritual and visible unity.
+
+* "lovlig Maade" means lawfully, legitimately, in an orderly or rightful way; not merely "legally" in a civil sense.
+
+* "herskende Kirkesamfund" carries the sense of ruling, dominant, governing church organizations. "Dominating" or "governing" preserves the critique better than a bland "existing denominations."
+
+* "Samfundsbaandet" is metaphorical and institutional at once: the bond, tie, or binding tie of the synod/church body. This must not be flattened.
+
+* "Samvittighedssag" means a matter of conscience, with strong religious seriousness; not merely a personal preference.
+
+* "hvor Skoen trykker" is idiomatic: where the shoe pinches. It indicates the actual point of grievance or pressure.
+
+* "den rent udvortes Side af Sagen" means the merely outward/external side of the matter. The phrase is important because Sverdrup relativizes organizational externals.
+
+* "ophæver ikke denne Guds Vilje" means does not annul, cancel, or set aside this will of God. "Do not remove" would be too weak.
+
+* "for lavt" / "for høit" is evaluative but theological and ecclesiological in context: to rank the congregation too low or the synod too high.
+
+* In Wright’s footnoted piece, terms such as "Kirketugt," "falsk Lære," "falsk Praktis," "Vidnesbyrd," "Vildfarelse," and "Hedning eller Tolder" are all doctrinally charged and must keep their confessional sharpness.
+
+Syntactic Hazards
+
+* Sverdrup’s prose moves through long argumentative sentences with layered conditions and rhetorical turns. These must not be broken into clipped modern English sentences, or the cumulative pressure of the reasoning will be lost.
+
+* Several key sentences hinge on conditional buildup: "Men dersom ..." followed by an inference. These structures must remain visibly conditional and inferential.
+
+* Rhetorical questions are not ornamental. They drive the argument and expose the weakness in the opposing view. They must remain questions, not be recast as assertions.
+
+* Semicolon logic and comma-driven accumulation are central to the cadence. The sentence about congregational freedom and independence especially depends on a prolonged chain of reasoning.
+
+* Quoted material from Wright is embedded and then contested. The translation must preserve the shift between quotation, summary, and rebuttal with clear boundaries.
+
+* The footnote contains numbered propositions and subpoints. Their argumentative hierarchy must remain intact.
+
+Theological Hazards
+
+* The distinction between the Church’s spiritual unity and visible organizational unity is the doctrinal center of the passage. Any translation that suggests Sverdrup is denying visible unity altogether would distort him; he is challenging one particular institutional understanding of it.
+
+* John 17 and 1 Corinthians are invoked as scriptural warrants in a debate about ecclesiology. The translation must preserve the possibility that Scripture is being interpreted differently by the disputants.
+
+* "the one true Church" language in paraphrase is polemically important. It signals the sectarian danger Sverdrup sees in rival church bodies.
+
+* Freedom and independence of congregations are not individualist notions here. They concern church order, authority, and the relation between local congregation and supra-congregational structures.
+
+* Conscience language is serious and confessional. "cannot with good conscience" must not be weakened to "do not feel comfortable."
+
+* In Wright’s letter, church discipline, false doctrine, false practice, and the treatment of scriptural testimony are all framed as grounds for separation. These are not rhetorical flourishes but criteria in an ecclesial dispute.
+
+Voice Hazards
+
+* Sverdrup’s tone is editorial yet pastoral, polemical yet restrained. He is not ranting. The force comes from calm severity, pointed questions, and confidence in the hearer’s conscience.
+
+* The quotation marks around "Samfund" are rhetorically significant. They indicate critical distance from the term or from the absolutizing use of it. They should be preserved.
+
+* The style is earnest and churchly, not colloquial. Modern smoothing would erase the solemn Lutheran argumentative texture.
+
+* The closing lines are deliberately understated. "they know well enough what they are to do" is firm and weighty precisely because it is not dramatized.
+
+* Wright’s voice in the footnote differs from Sverdrup’s: more direct exhortation, more personal testimony, more practical admonition. The translation must preserve this contrast.
+
+STEP 2: IDIOM ANALYSIS
+
+* "gaa ud" / "gaa ud igjen"
+  Meaning: to withdraw, depart, separate oneself ecclesiastically.
+  Theological implication: not mere relocation, but a serious act of separation involving church fellowship, discipline, and conscience.
+  Literal risk: "go out" in plain modern English can sound spatial and trivial. In this controversy, "withdraw" or "leave" is often clearer, though the quoted slogan-like wording may sometimes be preserved as "go out."
+
+* "hvor Skoen trykker"
+  Meaning: where the real difficulty lies; where the pressure is actually felt.
+  Implication: local congregations know the practical and conscientious point of pain better than editors need to specify.
+  Natural English equivalent: "where the shoe pinches."
+  Literal value: this idiom survives well in English and preserves the proverbial feel.
+
+* "strammer Samfundsbaandet"
+  Meaning: tighten the bond/tie of the synod or church body.
+  Theological implication: intensifying supra-congregational control and making it morally binding.
+  Literal risk: without the metaphor, the sentence loses its vivid institutional force.
+
+* "gjør det til en saadan Samvittighedssag"
+  Meaning: make it into such a matter of conscience.
+  Theological implication: elevate adherence to the church body into an obligation binding conscience before God.
+  Literal translation works, but the religious seriousness must be preserved.
+
+* "den ene rette Kirke"
+  Meaning: the one true/correct Church.
+  Scriptural and ecclesial context: touches the confession of the one holy catholic Church, but here with polemical warning against organizational exclusivism.
+  Literal translation should be preserved because the sting lies in the claim itself.
+
+* "ypperstepræstelige Bøn"
+  Meaning: the High-Priestly Prayer, referring to John 17.
+  Scriptural context: Christ’s prayer for His disciples’ unity.
+  A natural established English equivalent is "the so-called High-Priestly Prayer."
+
+* "Hedning eller Tolder"
+  Meaning: "a heathen or a publican/tax collector," echoing Matthew 18:17.
+  Scriptural context: church discipline.
+  Best English equivalent in this register: "a Gentile or a tax collector," unless one wishes to preserve older ecclesiastical diction. Since the translation is to use modern pronouns but preserve gravity, "a Gentile or a tax collector" is apt.
+
+* "Volder sjelden en af to Trette"
+  Meaning: rarely does only one of two parties cause a quarrel.
+  Implication: self-examination in conflict.
+  Literal risk: a wooden rendering obscures the proverb-like quality. A natural equivalent is needed while retaining the aphoristic force.
+
+* "rømme Huset, naar der er Fare"
+  Meaning: flee the house when there is danger.
+  Implication: abandoning one’s post in a time of ecclesial peril.
+  Rhetorical force: vivid image of faithless retreat.
+
+* "Vægtere"
+  Meaning: watchmen.
+  Scriptural resonance: prophetic and pastoral watchman imagery, especially Ezekiel and Isaianic resonances, though here used more generally.
+  The term should remain "watchmen," not "guards," to preserve biblical echo.
+
+* "for Guds Aasyn"
+  Meaning: before God’s face / in God’s sight.
+  A natural doctrinal English equivalent is "before God" or "in God’s sight." "Before God" preserves solemnity without archaism.
+
+* "Guds Bygning" and "Samfundsbygningen"
+  Meaning: God’s building and the building of the synod/church body.
+  Scriptural context: 1 Corinthians 3 imagery of building.
+  The metaphor should remain a building metaphor; not be paraphrased into "institutional development."
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Main article by Sverdrup
+
+* Thesis
+  Wright’s article contains much that is good if applied to withdrawal from a congregation, but it is exceedingly weak when applied to withdrawal from a "Synod" or church body.
+
+* Opening move
+  Sverdrup commends rereading Wright’s piece, which establishes fairness and restraint before critique.
+
+* Clarifying purpose
+  He will offer a few remarks intended to set Christians on the right track in the matter.
+
+* First major rebuttal
+  Wright claims God wills His Church to be one not only in spirit but also in body. Sverdrup argues that Wright appears to interpret John 17 as referring to an outward church organization, perhaps fulfilled by all congregations joining one external body, presumably the United Church.
+
+* Central question introduced
+  Does the formation of the so-called "Synods" advance or hinder the Church’s inward and outward unity?
+
+* Scriptural premise
+  The New Testament shows that the Church’s unity is not hindered by the existence of many congregations. Christ and the apostles did not oppose the lawful multiplication of congregations.
+
+* Polemical inference
+  But if synod after synod is formed, and synod against synod, each claiming to be the one true Church, does this not hinder unity?
+
+* Historical-theological challenge
+  Is it certain that the formation of these governing church bodies was really part of the plan of Jesus and the apostles?
+
+* Conditional climax
+  If congregational freedom and independence without a governing synod over them is original and best suited to the Church’s unity, then those who tighten the synodical bond most and make it a matter of conscience may actually be the ones serving unity least.
+
+* Empirical appeal
+  Everyone knows congregations are split and torn apart on account of these so-called synods. Can that be called an advancement of unity?
+
+* Second rebuttal
+  Wright places congregation and synod side by side as equivalent terms in discussing the right to leave. Sverdrup replies that this either sets the congregation too low or the synod too high.
+
+* Closing posture
+  The paper will not enumerate all reasons for withdrawal from the United Church. Local congregations know where the pressure lies. If any cannot in good conscience remain with the synod, they know what to do. The editorial has no anxiety about the merely outward side of the matter.
+
+Footnoted letter by Wright
+
+* Personal ethos
+  Wright begins with autobiographical context to establish his credibility as one who has been critical and cautious.
+
+* Practical question
+  Given his disagreements with developments in the synod, should he not leave it and take his friends with him?
+
+* Seven reasons against leaving
+
+1. God wills the Church’s unity in spirit and body.
+2. Sins and faults among fellow Christians must be disciplined, not abandoned.
+3. One must often endure and labor for improvement throughout life.
+4. One may leave congregation or synod only under specific grave conditions.
+5. Leaving is the highest degree of church discipline.
+6. One’s own sin in the disciplinary process weakens one’s case.
+7. Withdrawals without biblical grounds end badly.
+
+* Concluding exhortation
+  Therefore, let us not go out. We should work openly against what we believe wrong, but not flee. We ourselves may be mistaken.
+
+* Final personal resolution
+  He entered late and will leave late; the current grounds are insufficient.
+
+Preservation requirement
+
+* The translation must preserve that Sverdrup’s article is not a general anti-unity manifesto, but a targeted argument against equating Church unity with submission to a supra-congregational body.
+
+* It must also preserve that Wright’s footnoted letter is included as the position being scrutinized, not as the translator’s own voice.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+Main article by Sverdrup
+
+* "Joh. 17"
+  Likely source: John 17, especially Christ’s prayer "that they may all be one."
+  Function: Wright uses it to support visible unity; Sverdrup contests that organizational application.
+
+* "1 Kor."
+  Likely source: 1 Corinthians, probably church unity/body imagery, especially 1 Corinthians 1, 3, or 12.
+  Function: shorthand appeal to Pauline teaching on ecclesial unity.
+
+* "Kirkens indre og ydre Enhed"
+  Not a direct quotation, but resonates with confessional and biblical categories of spiritual and visible unity.
+
+Footnoted letter by Wright
+
+* "Joh. 17"
+  John 17, prayer for unity.
+
+* "1 Kor."
+  Likely 1 Corinthians, perhaps body/building motifs.
+
+* "Matt. 18"
+  Matthew 18, especially fraternal correction and church discipline.
+
+* "Guds Bygning"
+  Likely 1 Corinthians 3:9 and surrounding context: "you are God’s building."
+
+* "falsk Lære" / "falsk Praktis"
+  Broad scriptural and confessional categories rather than a single text.
+
+* "Skriftens Vidnesbyrd"
+  General appeal to Scriptural testimony as authoritative witness.
+
+* "Hedning eller Tolder"
+  Matthew 18:17.
+
+* "Vægtere"
+  Likely echo of biblical watchmen imagery, especially Ezekiel 3, Ezekiel 33, and Isaiah 62.
+
+* "prøves"
+  General biblical language of testing and proving, though not necessarily a direct quotation.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Sverdrup’s force lies in disciplined interrogation. The rhetorical questions must sound searching, not casual.
+
+* The phrase "sandelig" in the long conditional sentence strengthens the earnestness. It should be rendered with something like "indeed" or "truly," not omitted.
+
+* "sønderslides" is stronger than simply "divided." It suggests being torn apart. That force should remain.
+
+* "ingen Bekymring for den rent udvortes Side" must not be softened into indifference. It is a principled refusal to prioritize externals over conscience and truth.
+
+* Wright’s exhortational sections must retain their directness: "let us not go out," "what sort of watchmen are we then?" These are appeals to conscience and vocation.
+
+* Neither author should sound sentimental. Gravity must come from argument, not embellishment.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "bør" = ought / should. Preserve obligation, not mere suggestion.
+
+* "vil" in theological assertions often means wills, not merely future tense. "God wills" is necessary in Wright’s first point.
+
+* "skal" in argumentative or moral contexts often indicates necessity or obligation. It must not be weakened to "might" or "would prefer to."
+
+* "maa" = must / have to. This is especially important in Wright’s points 5 and 6.
+
+* "kan" / "kan ikke" in conscience claims should remain can / cannot, not be softened into "may not feel able to."
+
+* "har jeg Ret til kun" means "I have the right only" or "I have a right to ... only." This restriction must remain restrictive.
+
+* "førend jeg kan gribe til dette Middel, maa jeg ... være vis" contains a double modal structure: before I can resort to this means, I must be certain. Both elements must remain strong.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+Preferred renderings for consistency
+
+* Menighed = congregation
+* Samfund = "Synod" when referring to the contested denominational body; occasionally "church body" where needed for clarity
+* Kirke = Church
+* Enhed = unity
+* indre / ydre = inward / outward, or inner / outward where cadence demands
+* Samvittighed = conscience
+* Samvittighedssag = matter of conscience
+* falsk Lære = false doctrine
+* falsk Praktis = false practice
+* Vidnesbyrd = testimony / witness; in "Skriftens Vidnesbyrd," the testimony of Scripture
+* Kirketugt = church discipline
+* Guds Vilje = God’s will
+* Guds Bygning = God’s building
+* Vægtere = watchmen
+* Hedning eller Tolder = Gentile or tax collector
+
+Consistency note
+
+* Because Sverdrup marks "Samfund" with quotation marks, the English will preserve quotation marks around "Synod" in the main editorial where the polemical pressure is strongest.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "Samfundsbaandet" must remain a bond or tie, not a generic structure.
+
+* "hvor Skoen trykker" should remain "where the shoe pinches," preserving proverbial vividness.
+
+* "splittes og sønderslides" should remain an image of tearing apart.
+
+* Wright’s building imagery must remain concrete: material, workmen, fellow workers, building on God’s building.
+
+* Wright’s image of buttoning a vest wrongly the first time must remain intact, because the point is delayed disorder from a small initial error.
+
+* "rømme Huset" and "Vægtere" should remain house and watchmen imagery.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Sverdrup moves from measured commendation to pointed criticism, then to restrained but firm pastoral conclusion. These shifts must remain visible.
+
+* Wright moves from autobiographical explanation to doctrinal reasoning, then to exhortation and self-application. The translation must not flatten all of this into one tone.
+
+* The contrast between outward organizational concern and inward conscientious necessity is one of the passage’s deepest tonal tensions and must remain clear.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many sentences are suited for public reading. The English should preserve long-breathed argument where the original accumulates thought.
+
+* Repeated openings such as "Men dersom" and "Mon" should be preserved as recurring rhetorical pulses: "But if" and "Can it be" / "Is it".
+
+* The editorial rhythm depends on pause and resumption. Colons, semicolons, and paragraph breaks should assist oral force rather than modernize it away.
+
+* Wright’s enumerated points should sound declamatory and pastoral, not technical.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+On Withdrawal from a "Synod."
+
+[Editorial article in "Folkebladet" for February 23, 1898.]
+
+───
+
+We included Pastor A. Wright’s piece on "Going out"
+in the last issue of "Folkebladet."
+
+And we should very much like to ask many to read it again aloud. It contains a good deal that is sound, if it is applied to withdrawal from a congregation; at the same time, it is extraordinarily weak when it is applied to withdrawal from a "Synod."
+
+We also wish to make a few remarks on the piece, which we hope will bring Christian people onto the right track in this matter.
+
+Concerning the reasons why one ought not to go out of "our Synod," Pastor Wright says among other things:
+
+"1. God wills that His Church should be one, not only in the Spirit but also in the body. John 17. 1 Cor. Frailties among persons in the Synod do not annul this will of God."
+
+It appears that Pastor Wright means that Jesus in John 17, the so-called High-Priestly Prayer, prayed about and for an outward organization of the Church, so that this prayer is fulfilled by all congregations joining themselves to one and the same outward organization, and then no doubt preferably the United Church.
+
+Here, then, the question arises:
+Is the Church’s inward and outward unity advanced or hindered by the formation of the so-called "Synods"?
+
+We know from the New Testament that the Church’s unity is not hindered by the many congregations. Jesus and His apostles were not opposed to the number of congregations increasing in a lawful manner.
+
+But if synod after synod is formed, and synod against synod, and each of them claims to be the one true Church, does not this hinder the Church’s unity?
+
+Is it absolutely certain that the formation of these governing church bodies really belonged to the plan of Jesus and the apostles?
+
+But if it should be so that the freedom and independence of the congregations, without any governing "Synod" over them, is the original order, the one best fitted for the Church’s unity, then it is indeed asked whether those who tighten the synodical bond the most and make it into such a matter of conscience also serve the Church’s unity best.
+
+For we all know that congregations are divided and torn apart on account of the so-called synods; is this then also an advancement of the Church’s unity?
+
+And Pastor Wright further says:
+"4. To go out of the congregation or the Synod I have a right only" etc.
+
+To this we would only remark that this view, according to which congregation or synod is placed absolutely side by side, seems to us either to place the congregation too low or the synod too high.
+
+"Folkebladet" does not wish to pronounce itself on the many reasons that speak for withdrawal from the United Church. We are certain that the congregations will find out where the shoe pinches. If there are any among them who feel that they cannot with good conscience remain with the "Synod," then they know well enough what they are to do. "Folkebladet" has no anxiety about the merely outward side of the matter.
+
+[Georg Sverdrup.]
+
+---
+
+Footnote:
+
+Pastor Wright’s piece reads as follows:
+
+Should we not "go out" again?
+A Letter to My Friends.
+
+[Reprinted in Folkebladet for February 16, 1898.]
+
+Among those who first went from Augsburg Seminary to Gjertsen’s Church at the Union meeting in 1890 was the undersigned. The reasons for this hesitation were several, which shall not be mentioned here; at any rate not this time. Since that time, the development in our Synod has [also] shown that something of what I foresaw would happen has in fact taken place. Among those of you who have looked critically at one thing and another, I am one; and because of that, some radicals have lost confidence in me, insofar as they ever had any, perhaps chiefly because I have defended the Augsburg people in one thing and another (never in one and all things), when they themselves were not present, and some of them count themselves among my personal friends. I have sought not to do them harm, but [to show] good.
+
+So then, when I have found in our Synod things with which I was not in agreement, and have spoken to some of the leaders about this, without their having, so far as I can see, followed all my suggestions, would it not then have been more right to leave the Synod and seek to bring my friends with me, so that we could be free and work freely? It is about this that I now, as I "request the floor" in "Lutheraneren," should like to be allowed to include something in this letter.
+
+1. God wills that His Church should be one, not only in the Spirit, but also in the body. John 17. 1 Cor. "Frailties" among persons in the Synod do not annul this will of God. That this will should be done, toward that end and upon that the Christian works as well as he can, when he understands his task and is obedient.
+
+2. Sins and faults among fellow Christians are to be punished and disciplined. Matt. 18. There is much good material in the Synod for the building of the Synod. If I am worth anything as a workman, I understand how to value and work it in company with "fellow workers," so that we may build upon God’s building; but this we cannot do by rejecting and being impatient.
+
+3. How many years we are to "forbear" and labor before we give up hope of improvement is not prescribed in God’s Word; in the vast majority of cases it is the whole lifetime.
+
+4. I have the right to go out of the congregation or the Synod only:
+   a) When false doctrine is taught and defended.
+   b) When, on that account, false practice (ungodly conduct) develops.
+   c) When testimony against these things (the testimony of Scripture) is stamped as error and is thus forbi[?]dden from being preached.
+
+5. To go out is the very highest degree of church discipline. Before I can resort to this means, I must in my conscience before God be certain that the one or those from whom I separate myself are as "a Gentile or a tax collector."
+
+6. If I myself sin (commit wrong) while I am to discipline, I become a partaker in the guilt and therefore have one support less for my case.
+   "Rarely does only one of two cause a quarrel."
+
+7. By taking note of the withdrawals that have not taken place on the basis described in God’s Word (mentioned above), I have, in the years I have been here in this country, seen that such withdrawal ends badly. There is danger when you button your vest and make a mistake the first time; it goes well for quite a long while. But in the end you make the discovery that you have either one buttonhole too many or one button too many. And in any case, something essential is either too much or too little after a fair lapse of time, where withdrawals have been undertaken for invalid reasons.
+
+Therefore, dear friends, let us not go out! Shall we flee the house when there is danger? What sort of watchmen are we then? No. Let us labor honestly and openly against that which, according to our conviction, is wrong, but not run away. We also need to be tested. There are, after all, two possibilities: what we think is wrong may be wrong, but we ourselves might also be mistaken. Perhaps we do not see it until we have come a good way farther on.
+
+As for me, I may say: late I went in; late I go out. So before that, entirely different grounds than those now on the agenda will be required before I can entertain such thoughts.
+
+Brotherly greeting from yours, bound together in the Lord,
+
+A. Wright.
