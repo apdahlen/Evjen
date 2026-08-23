@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  21 AUG 2026 20:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  22 AUG 2026 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -607,8 +607,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 2.
 
-Overfull \hbox (0.71873pt too wide) detected at line 23
+Overfull \hbox (0.71873pt too wide) detected at line 21
  []\T1/lmr/m/n/12 xvii
+ []
+
+
+Overfull \hbox (0.71873pt too wide) detected at line 24
+ []\T1/lmr/m/n/12 xxii
+ []
+
+
+Overfull \hbox (3.98273pt too wide) detected at line 25
+ []\T1/lmr/m/n/12 xxiii
  []
 
 [1] [2] [3])
@@ -794,7 +804,7 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Evjen_Book.pdf (198 pages, 4303743 bytes).
+Output written on Evjen_Book.pdf (198 pages, 4303793 bytes).
 PDF statistics:
  1656 PDF objects out of 1728 (max. 8388607)
  343 named destinations out of 1000 (max. 500000)

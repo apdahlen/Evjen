@@ -1,0 +1,409 @@
+SOURCE
+
+The following analysis and translation are based solely on the supplied Folkebladet text for June 15, 1898. I preserve apparent textual defects where the supplied text itself is incomplete or corrupt rather than silently reconstructing them. 
+
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Menigheden” means more than a modern administrative “congregation.” In this debate it denotes the gathered Christian congregation as a theological reality, in distinction from “Kirken” as a larger ecclesiastical institution. “Congregation” is therefore preferable to “church” in most occurrences.
+* “Guds Rige” must remain “the Kingdom of God,” not the more generalized “God’s work.”
+* “Naademidlerne” is the Lutheran doctrinal term “the means of grace,” not merely “religious practices.”
+* “Naadegaverne” means “gifts of grace” or “spiritual gifts,” with Pauline and ecclesiological implications.
+* “Vækkelse” is pietistic “awakening,” denoting the bringing of the spiritually sleeping or dead to repentance and living faith.
+* “Omvendelse” is “conversion” in the strong pietistic sense of turning to God in repentance and faith.
+* “troende” is best rendered “believers” or “believing people,” not merely “religious people.”
+* “verdslige” means “worldly” or “unspiritual” persons in a religious contrast, not simply “secular.”
+* “Opbyggelse” carries the biblical sense of “edification,” especially the spiritual building up of believers.
+* “Sværmeriet” is a historically charged Lutheran term for religious enthusiasm or spiritualistic fanaticism detached from ordered Word and congregation. “Enthusiasm” is appropriate if understood in this older theological sense.
+* “aandelig Opblæsthed” is spiritual conceit or spiritual puffing-up, recalling Pauline language.
+* “Dømme- og Herskesyge” denotes an appetite for judging and domineering.
+* “symboliske Princip” does not mean “symbolic” in a loose modern sense; it concerns a confessional or doctrinal principle associated with inherited church assumptions.
+* “Sognebaand” denotes territorial parish restrictions or bonds.
+* “Samfundsgrænser” means denominational or church-body boundaries.
+* “Frimodighed” is Christian boldness or freedom of speech/action, with biblical resonance.
+* “sat i Ban” means placed under the ban, i.e. excommunicated.
+* “Presteskole” is literally “school for pastors,” naturally “seminary” in context.
+* “Hedningemission” is the historical missionary term “mission to the heathen” or “foreign mission.” Because the document is historical, its conceptual force should not be modernized away.
+* “Indremission” is “home mission” or “inner mission,” meaning evangelistic and revival work among an already nominally Christian population.
+* “Raad” in “Vækkelsens Raad” carries the sense of spiritual counsel or means directed toward awakening.
+
+Syntactic Hazards
+
+* Sverdrup and several pastors speak in long accumulative sentences whose logic proceeds through contrast, consequence, and warning. These should not be broken excessively.
+* Semicolons frequently mark genuine argumentative pivots.
+* Reported proceedings alternate abruptly between formal resolutions and almost verbatim speeches.
+* Several sentences depend on parallel structures: believers / congregation; outward organization / living Christianity; awakening / purification; freedom / domination.
+* Some syntax reflects Danish-Norwegian newspaper prose and must be clarified only enough to remain intelligible.
+* The supplied text contains probable transmission or OCR defects, especially in Point 7 and the ending of Point 11. These cannot responsibly be reconstructed without another witness.
+* The Aas paragraph contains an apparent repeated clause. This is probably a transmission duplication and must be noted rather than silently treated as intentional rhetoric.
+
+Theological Hazards
+
+* The central theological distinction is between the congregation according to its divine nature and vocation and the empirical outward organization that may contain unbelieving or spiritually dead members.
+* The text rejects the notion that formal membership or clerical office itself guarantees Christian faith.
+* Awakening and preaching of conversion must remain directed even toward people already within the visible congregation.
+* “dead,” “sleeping,” “living,” “awake,” “light,” “salt,” “spot,” and “wrinkle” are biblical-theological categories, not merely descriptive metaphors.
+* Congregational autonomy is explicitly qualified by the authority of God’s Word and Spirit.
+* Spiritual gifts are not presented as autonomous charismatic manifestations, but as gifts given by the Lord for the congregation’s edification.
+* Freedom of Christian activity must not be transformed into modern individualism. It is grounded in the impulse of God’s Spirit and the right or claim of love.
+* Sverdrup’s argument regarding Luther is deliberately subordinational: Luther is respected but is not an authority above Scripture.
+
+Voice Hazards
+
+* Sverdrup’s tone is sober but forceful. His warnings must not be softened into detached ecclesiastical commentary.
+* Pastoral speakers repeatedly address consequences: false comfort, spiritual sleep, domination, sectarianism, hell, and the loss of biblical congregational life.
+* The report includes colloquial spoken turns alongside formal theological propositions. The translation should retain that difference.
+* Expressions such as “we must,” “we cannot,” “it is necessary,” and “it is God’s children’s duty” carry moral pressure and must remain strong.
+* Humor or dry irony occurs occasionally, especially in Brøns and Sverdrup, and should not be flattened.
+
+STEP 2: IDIOM ANALYSIS
+
+* “af Hjertet erkjender” means sincerely or inwardly acknowledges, not merely intellectually accepts.
+* “gaa tilbage til Apostlernes Tid og Guds Ord” means to return normatively to apostolic Christianity and Scripture.
+* “lagt sig til” describes having acquired a bad habit.
+* “prædike frit, som det heder” is mildly distancing: “to preach freely, as it is called.”
+* “holde sig udenfor” means remain outside formal congregational belonging.
+* “noget løst noget, som man ikke kan faa rigtig Tag i” is colloquial: something loose and indefinite that cannot be properly grasped or given stable form.
+* “uden Plet eller Rynke” echoes Ephesians 5:27 and must retain the biblical image “without spot or wrinkle.”
+* “Kristi Aand og Kjærlighed faar bo” invokes indwelling: where Christ’s Spirit and love are allowed to dwell.
+* “naar det kneb” means when the principle is actually tested or becomes costly: “when it came to the point.”
+* “arbeider os fast” means work ourselves into a position from which we cannot move; in context, become trapped by our own ecclesiology.
+* “gamle ubibelske Spor” is literally “old unbiblical tracks,” a vivid metaphor that should remain something like “the old unbiblical tracks.”
+* “tage falsk Trøst” is a pietistic phrase: derive a false assurance or false consolation.
+* “en hel Hob døde” is deliberately blunt language for a substantial number of spiritually dead persons.
+* “lette Snakkere” denotes facile or glib talkers whose verbal confession may exceed spiritual substance.
+* “glæde os med Bæven” echoes Psalm 2:11: “rejoice with trembling.”
+* “hænge os fast i disse Paragrafer” means become bound or caught in the articles themselves rather than Scripture.
+* “Bibelens enfoldige Sandheder” means the Bible’s simple, plain truths; “simple” here is commendatory, not naïve.
+* “gjøre Alvor af dette” means treat the matter in earnest and act accordingly.
+* “Partiarbeide” means factional activity or party-building within church life.
+* “staar stængende iveien” is vivid: stands barring the way.
+* “Fortrædelighed” means trouble, vexation, or harm.
+* “det faar ikke hjælpe” means such difficulties cannot be allowed to decide the matter.
+* “trænge ind i andre Menigheder” means intrude into the sphere of another congregation.
+* “kjødelige Bevæggrunde” means fleshly motives, retaining Pauline ethical vocabulary.
+* “lade uomvendte gaa til Helvede” is intentionally stark: “let the unconverted go to hell.” It should not be euphemized.
+* “fri og aaben Vei” is “a free and open way,” suggesting unhindered Christian service.
+* “staar for sin Dommer og ikke for vor Domstol” establishes God, not the assembly, as Luther’s judge.
+* “saa vil det ikke mangle paa Frimodighed” is understated irony: then boldness will certainly not be lacking.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* The proceedings move from organizational business into a point-by-point debate over principles for a Lutheran Free Church.
+* Point 1 establishes the congregation, rather than a supra-congregational institution, as the proper earthly form of the Kingdom of God.
+* Point 2 defines the congregation positively as believing people gathered around the means and gifts of grace for salvation.
+* Point 3 argues that this spiritual congregation nevertheless requires outward, visible organization.
+* The discussion of Point 3 opposes a spiritualism that rejects organization and leaves congregational administration to worldly persons.
+* Point 4 introduces the chief tension: the outward organization may contain persons who are not actually believers.
+* The debate wrestles with whether acknowledging such persons contradicts the ideal definition in Point 2.
+* Sverdrup resolves the tension by distinguishing the congregation’s true character and goal from the empirical condition of its outward membership.
+* His substitute for Point 4 therefore makes continual awakening, admonition, and church discipline essential.
+* Points 5–8 define congregational self-government, cultivation of spiritual gifts, and voluntary mutual aid.
+* Nilsen warns against turning principles themselves into a substitute for Scripture, but nevertheless argues that clear biblical teaching on the congregation is urgently necessary.
+* Points 9–11 apply voluntary cooperation to seminaries, missions, publication, charitable work, and common bodies while denying coercive jurisdiction over individual congregations.
+* Point 12 extends Christian freedom of witness beyond parish and denominational boundaries.
+* Its opponents fear intrusion and fleshly factional motives.
+* Its defenders argue that concern for the salvation of souls cannot be terminated by denominational boundaries.
+* Sverdrup concludes by making Scripture the norm even over Luther and by invoking Luther’s own historical boldness against inherited ecclesiastical boundaries.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Acts 1:13–15: the names and identifiable gathering of the earliest disciples.
+* Acts 2:41: those who received the word were counted and added.
+* Acts 4:4: the number of believing men is counted.
+* Acts 6:2: the Twelve summon “the whole multitude” of the disciples.
+* Matthew 5:13–16: believers as “salt” and “light.”
+* Ephesians 5:27: the Church/congregation “without spot or wrinkle.”
+* Revelation 2:4: “you have left your first love.”
+* Revelation 3:1–3 and related passages: the language of being dead, sleeping, and being called to wakefulness.
+* Numerous New Testament exhortations to watchfulness stand behind Sverdrup’s claim that congregational members are repeatedly admonished to remain awake.
+* Psalm 2:11: “rejoice with trembling.”
+* 1 Corinthians 12–14 and related Pauline passages underlie the language of spiritual gifts given for edification.
+* Pauline language underlies “puffed up,” “fleshly,” and the concern for judging and domineering.
+* The Great Commission and broader New Testament mission pattern stand behind Point 12’s insistence that Christian witness cannot be confined by parish or denominational borders.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation retains direct statements such as “let the unconverted go to hell.”
+* Warnings against false assurance remain warnings, not neutral observations.
+* Sverdrup’s concern that the Free Church may retreat into “old unbiblical tracks” remains sharp.
+* Calls to awakening, repentance, admonition, self-examination, humility, and discipline retain their imperative force.
+* Consolation appears principally in the Augsburg legal victory, but even there the joy remains qualified by “trembling” and thanksgiving.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” is normally rendered “must.”
+* “skal” is rendered according to context as “shall,” “is to,” or “must,” without weakening an obligation into mere preference.
+* “bør” is rendered “should” where it expresses moral or practical duty.
+* “kan ikke” remains “cannot.”
+* “vil” in declarations of intent remains “will” or “would,” according to reported-speech tense.
+* “Guds Børns Pligt” remains “the duty of God’s children,” not “something Christians may wish to do.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = congregation
+* troende = believers / believing people
+* Guds Rige = Kingdom of God
+* Guds Ord = God’s Word
+* Naademidler = means of grace
+* Naadegaver = gifts of grace / spiritual gifts
+* Vækkelse = awakening
+* Omvendelse = conversion
+* Frelse = salvation
+* evig Salighed = eternal blessedness
+* Opbyggelse = edification
+* Guds Aand = God’s Spirit
+* Kristi Aand = Spirit of Christ
+* aandeligt Liv = spiritual life
+* døde = dead
+* sovende = sleeping
+* Hyklere = hypocrites
+* verdslige = worldly
+* Kjærlighed = love
+* Ydmyghed = humility
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “spot or wrinkle” is retained.
+* “light and salt” is retained.
+* “sleep,” “wake,” “dead,” and “living” remain spiritual metaphors rather than being paraphrased as degrees of commitment.
+* “old unbiblical tracks” is retained as an image.
+* “stand barring the way” preserves the physical image of obstruction.
+* “build up” and “tear down” are preserved in the congregational discussion.
+* “free and open way” is retained.
+* “boundaries” and “bonds” remain concrete images for ecclesiastical limitation.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Formal constitutional language remains restrained and juridical.
+* Debate speeches retain their personal, sometimes colloquial character.
+* Severe warnings concerning hypocrisy and damnation remain severe.
+* Brønø’s call for self-knowledge and humility shifts the tone from judgment of others to penitential self-examination.
+* The announcement of the Augsburg judgment becomes openly joyful, yet immediately returns to trembling, thanksgiving, responsibility, and support for the seminary.
+* Sverdrup’s final remarks combine theological firmness, historical irony, and encouragement toward Christian boldness.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Accumulative argument is allowed to unfold in long sentences.
+* Semicolons are retained where a speaker develops one continuous line of reasoning.
+* Repetitions such as “we must” and “it is necessary” are retained when they provide sermonic pressure.
+* Spoken transitions such as “As for this point,” “For my part,” “I understand it this way,” and “Incidentally” are retained rather than converted into impersonal academic prose.
+* Rhetorical questions remain questions.
+* The translation avoids deliberately archaic English pronouns and KJV imitation; gravity arises from syntax, consequence, and theological terminology.
+
+STEP 11: ACADEMIC TRANSLATION
+
+Folkebladet, June 15, 1898
+
+The Free Church’s Second Annual Meeting
+
+—
+
+(Continued from page 3.)
+
+Thursday Morning
+
+Prayer meeting from 9:00 to 9:30, led by Pastor P. Winther.
+
+Yesterday’s minutes were read and adopted.
+
+The Credentials Committee reported through Pastor A. J. Løgeland that 52 pastors and professors, together with 80 voting delegates, had submitted their names.
+
+A letter from Pastor S. Romsdahl, Calumet, Michigan, was read.
+
+Pastor A. Helland maintained his resignation as secretary.
+
+Pastor H. A. Urseth was then elected secretary.
+
+The meeting thereupon took up for consideration the proposal for “Rules for a Lutheran Free Church.” It was resolved to consider and vote upon the draft point by point.
+
+“1. According to God’s Word, the congregation is the proper form of the Kingdom of God on earth.”
+
+Prof. G. Sverdrup: It is of great importance that we express ourselves on these matters; for the question here is not merely that we adopt certain points, but that we also acknowledge from the heart what we confess in these rules. It is something new when in Point 1 we declare the congregation to be the proper form of the Kingdom of God on earth; for through hundreds of years people have called the Church the proper form.
+
+If we adopt this point, however, we go back to the time of the Apostles and to God’s Word.
+
+According to God’s Word, the congregation is not an association founded by pope, king, council, or any other governing authority; rather, the congregation is the gathering of believing people around God’s Word and the means of grace. There is not a single indication in God’s Word that any governing body is to be placed over the congregation in order to rule over it.
+
+Point 1 was adopted.
+
+“2. The congregation consists of believing people who, through the use of the means of grace and the gifts of grace according to the direction of God’s Word, seek their own salvation and eternal blessedness and that of all their fellow human beings.”
+
+Adopted.
+
+“3. According to the New Testament, the congregation needs an outward organization, with a record of its members, election of officers, fixed times and places for its gatherings, etc.”
+
+Pastor E. Hansen wished that the points might be discussed so that more light could be shed upon the matter.
+
+Pastor M. Midthun thought the same; in particular, he wished the committee to express itself.
+
+Sverdrup maintained that it was a bad habit people had acquired when they continually waited for the committee to express itself.
+
+As for the point itself, he would say that it was a very disputed point among believers. Not all had come to the conviction that the congregation needs an outward organization, and so forth. Many believe that such an organization is harmful to the congregation. And this misunderstanding certainly has its basis in the lamentable conditions among our church people. It is a great misunderstanding when some believers will not belong to the outward congregational organization, but leave the work of the congregation to worldly people—in order themselves to “preach freely,” as it is called.
+
+The first Christians had good command of the affairs of their congregations and did not leave them to worldly people. We even have the names of the first members of the congregation recorded (Acts 1:13–15)—a testimony for all ages that believers were not found outside the congregation. The first Christians counted their people (Acts 2:41; 4:4). In Acts 6:2 it says that the Twelve called together the entire multitude of the disciples. They therefore knew who they were.
+
+Many remain outside the congregation because they believe it to be a dangerous organization. They feel more burden than support from the congregation; and therefore they step out. And there is reason enough to feel this way and to speak ill of the congregation, such as it all too often appears among us. Nevertheless, it is both necessary and biblical for believers to join together for common edification and common work for the cause of the Kingdom of God. We must therefore hold fast to the congregation and ourselves stand within it.
+
+Pastor Brøns: I am heartily in agreement with this paragraph. We must have a congregation, and a visible congregation, an outward organization. That there are people who are so spiritual that they will not be in any outward congregation, we know; but we cannot work in a proper manner by standing outside. It becomes only something loose and indefinite, something one cannot properly get hold of.
+
+There is much that is visible about us human beings, and the congregation ought in this respect also to resemble us a little—not merely to resemble God.
+
+Pastor Thomasberg feared that it would not be so easy to realize these principles under our conditions, for not many congregations correspond to Point 2.
+
+Pastor Midthun: Many questions arise when one is to begin organizing a congregation. Some want believers alone and no others included; but this view leads to spiritual puffing-up, which in turn leads to a passion for judging and ruling, and finally results in complete dissolution. And then there is enthusiasm. We must have a congregation according to God’s Word, with organization in a definite place.
+
+Pastor Hansen thought that the point made a distinction between the congregation and the outward organization. He would like to have the words “for the sake of the work” added.
+
+Point 3 adopted.
+
+“4. The outward organization of the congregation ordinarily also includes people who in God’s Word are called dead and sleeping, and therefore within the congregation there is also need for the counsels of awakening and the preaching of conversion, just as it is the holy calling of believers also within the congregation to be light and salt, so that outward connection with the congregation may not become a false comfort and a hindrance to true and living Christianity.”
+
+Pastor Midthun: God’s Word would present a congregation without spot or wrinkle; nevertheless, we find that all the congregations of which we read had spot and wrinkle. This is not God’s fault, but the fault and frailty of human beings. Our goal should be to attain the ideal that God’s Word sets forth. The speaker could not assent to the point as it stood, but wished to propose certain changes.
+
+Pastor Broen proposed that the point be omitted.
+
+Jonas Hetland proposed that the word “hypocrites” be substituted for the word “dead.”
+
+Pastor Aas supported the proposal that the point be omitted. In any case he wished it to be redrafted. His understanding was that it is believers who are to gather themselves into a congregation, and he could not see that there is anything dissolving in this. [The supplied source repeats part of the preceding sentence here.] The love that draws believers together cannot be dissolving or lead to dissolution and pride. Christ’s life was not like that. It was humility. Where the Spirit of Christ and love are allowed to dwell, there is no dissolution or pride.
+
+The first Christians, however, were not afraid to confess themselves to be believers. If the congregation is to become visible, it must happen by believers coming together.
+
+Prof. Sverdrup: We must take care that we do not come to contradict ourselves and our own principles. We want awakening; but if this point, which speaks of awakening, were to be omitted, it would appear that after all we did not mean it, or did not dare establish it when it came to the point. If we want a living, pure, believing congregation, then we must do something to preserve it living and pure.
+
+Before we know it, we can easily enter upon the confessional principle that in the congregation all are believers, and all believers are in the congregation, and that for them the preaching of conversion is unnecessary. We must try to work in such a way that we do not work ourselves fast into a position from which we cannot move.
+
+In the New Testament we find that members of the congregation are continually admonished to keep themselves awake and not fall asleep. If it is to be established that a person is a Christian because he belongs to a congregation, or that a person is a Christian because he is a pastor, then we enter once more upon the old unbiblical tracks.
+
+The speaker was, incidentally, also of the opinion that the point was unfortunately worded, and therefore proposed the following substitute:
+
+“Since not all members of the congregation’s outward organization are always believing people, and since such hypocrites often derive false comfort from their outward connection with the congregation, it is the congregation’s holy calling to cleanse itself both through awakening proclamation of God’s Word, through earnest admonition and reminder, and through the exclusion of manifest and obstinate sinners.”
+
+Thursday Afternoon
+
+Devotion by Pastor E. Broen.
+
+The chairman then called the meeting to order. He announced that the Augsburg Seminary Board of Trustees had received notice that the Supreme Court of Minnesota had decided the Augsburg case in favor of Augsburg’s friends. This would surely bring joy to the hearts of the Augsburg people. That we had the moral right to the school none of us doubted, and we could therefore now rejoice that truth and right had prevailed. Let us rejoice with trembling and thank God for his grace. Let the outcome become an encouragement to us to support Augsburg Seminary, so that it may become a seminary for pastors in accordance with the requirements of the Free Church.
+
+At the proposal of Pastor O. Paulson, the assembly rose and sang the hymn “Now Thank We All Our God.”
+
+The chairman led in prayer.
+
+The Credentials Committee then reported 20 new members as entitled to vote at the meeting. A number of advisory members were admitted, among them Brothers Holter, Pastors Oftby, Gaardsmoe, Winkler, and other eligible members of the Hauge Synod who were present.
+
+The Nominating Committee proposed the following committee on the report of the Seminary Board: Prof. Oftedal, Pastor E. Berlien, Pastor P. Winther, E. Nilsen, and Jonas Hetland. All elected.
+
+For the standing Foreign Mission Committee: Prof. Sverdrup, Prof. Blegen, Pastor M. A. Pedersen, J. Berge, and Pastor E. Aas. All elected.
+
+For the standing Home Mission Committee the following were elected: Pastor Harbo, Pastor A. Helland, H. Rasmussen, J. H. Egeland, and Pastor E. M. Broen.
+
+Ordination Committee for this meeting: Pastor Harbo, Pastor Midthun, Pastor Kjelaas, Pastor Løgeland, and Pastor P. Nilsen.
+
+Standing ordinator: Prof. Oftedal.
+
+Organization Committee: Prof. Oftedal, Prof. W. Pettersen, and Pastor N. Halvorsen.
+
+Auditing Committee: P. D. Olsen and O. A. Hain.
+
+After these elections, discussion of Point 4 was resumed.
+
+Pastor Quanbeck: It is true, as has been said, that it is dreadful for people to take the fact that they belong to a congregation as a sure sign that they are Christians, whether they are or not. It is therefore not strange that many become apprehensive and remain outside the congregation. Here there are two extremes against which one must guard; but one must not be so afraid of one extreme that one falls into another.
+
+The speaker favored Sverdrup’s substitute, since it expressed his position more clearly.
+
+Pastor Arewik had always found a contradiction between Points 2 and 4. In any case the expressions were misleading. He could not, however, support the proposal to substitute “hypocrites” for “dead.”
+
+He had found it more difficult to convince hypocrites than openly ungodly people of the necessity of being converted. He found from the expressions “a whole heap of dead” and “has left his first love” that even in the apostolic congregation there were those who did not belong to the Lord. Nevertheless, the goal is that the congregation should consist of believers.
+
+Pastor Broen would vote for Sverdrup’s substitute. He would not have proposed that the point be omitted if he had known the substitute.
+
+It had caused misunderstanding when in Point 2 one said that the congregation consists of believers and then again in Point 4 that others too may be included.
+
+We must express ourselves in such a way that we are not misunderstood.
+
+He had of course not made his proposal because he was opposed to awakening, but because the earlier point was misleading.
+
+Pastor Brønø: There are differences even among hypocrites. Many find it easy to confess with the mouth, others more difficult. I am not prepared simply to acknowledge a man as a Christian merely because he smiles at me. Those who cannot confess so easily are often more earnest Christians than certain facile talkers.
+
+We can so easily be mistaken. I therefore would not take part in casting out of the congregation people who live an honorable life, even though I might not dare believe that they are living Christians. One has opportunity to cleanse the congregation through the proclamation of God’s Word and the preaching of conversion. Many believers are so fleshly that when there is someone whom they do not like, they immediately want to have him put out of the congregation. We speak of the congregation being without spot and wrinkle; but that is difficult to achieve as long as sinful human beings are alive.
+
+We have spoken much about the ungodliness of our congregations; but let each one examine himself, and we shall find that we ourselves are no better, but that we are among the most miserable.
+
+Let there be more self-knowledge and humility.
+
+Sverdrup’s substitute was adopted unanimously.
+
+Points 5, 6, and 7 adopted. They read as follows:
+
+“5. The congregation itself governs its own affairs under the authority of God’s Word and Spirit and acknowledges no other ecclesiastical authority or governing power over itself.
+
+6. The free congregation esteems and loves all the spiritual gifts that the Lord bestows for its edification and seeks to stir up the gifts and promote their use.
+
+7. The free congregation receives [the supplied text is defective here] the congregations can render one another in the work for the advancement of the Kingdom of God.”
+
+“8. Such mutual help consists partly in this, that the spiritual powers of one congregation benefit another through free meetings, mutual visits, lay activity, etc.;
+
+partly in this, that the congregations voluntarily and at the prompting of God’s Spirit cooperate in the accomplishment of such tasks as may exceed the powers of a single congregation.”
+
+Pastor P. Nilsen: I had not intended to speak in this matter, but only to hear what the other brothers had to say; nevertheless, I would ask leave to say a little in connection with this point. I have been in serious doubt whether we ought to adopt these principles at all; I feared that we might become caught in these paragraphs and depart from God’s Word.
+
+In the course of my work in the congregations, one thing has become clear to me, and that is that it is in the highest degree necessary that the Bible’s simple truths concerning the congregation be brought forward again.
+
+All who proclaim the Word in the congregations must take this matter seriously and help our people to greater light in this matter by again and again setting forth the truth of God’s Word concerning the congregation.
+
+If the Free Church is to advance toward a sound development, it is necessary that there be a free interaction among the congregations. But this has its particular difficulties. There has been so much factional activity among us that the fear of something similar among ourselves stands barring the way. It must be clearly understood that nothing of that sort is intended by this; rather, when a visit is made to a congregation, it is to build up, not to tear down or divide.
+
+Many excuse themselves and would prefer to avoid working; they would rather see others, preferably pastors, do it. The fact that one meets with unwillingness also holds many back.
+
+When the congregations discover that making use of the gifts of grace brings blessing and not trouble, they will become more willing to use them.
+
+These many discussion meetings that are now being held here and there will surely, little by little, prepare the way for the use of the gifts of grace. It is of great importance that these principles be realized.
+
+Point 8 adopted.
+
+Points 9, 10, and 11 adopted.
+
+“9. Among such purposes are mentioned in particular a seminary for pastors, distribution of Bibles and other writings and periodicals, Home Mission, Foreign Mission, Jewish Mission, deaconess homes, orphanages, and other works of mercy.
+
+10. Free congregations have no right to demand that other congregations submit to their opinion, will, judgment, or decision; therefore every domination of a minority by a majority of congregations is to be rejected.
+
+11. The common organs that may be found desirable for the cooperation of the congregations, such as larger or smaller meetings, committees, officers, etc., cannot in a Lutheran Free Church impose upon the individual congregation any duty, bond, compulsion, or burden, but are entitled only to put forward proposals and appeals and [the supplied text appears defective: ‘persons’].”
+
+“12. Every free congregation has, like every individual believer, the prompting of God’s Spirit and the right of love to do good and to labor for the salvation of souls and the awakening of spiritual life, as far as its ability and strength extend; in such free spiritual activity it is restricted neither by parish bonds nor denominational boundaries.”
+
+Pastor Yberstab thought that this point could use a more exact explanation; he could not assent to the final part. If it were adopted, one would thereby establish as a principle that a person may without more ado intrude into other congregations and use it as an excuse for fleshly motives. The speaker then cited a series of statements by Luther against intrusion into the affairs of others [the wording of the supplied text at this point is uncertain].
+
+Pastor Telle proposed that the final part of the point be omitted.
+
+Pastor M. A. Pedersen was especially glad for the point; he did not want anything omitted. That such free and unrestricted activity would bring its difficulties is true enough; but that cannot be allowed to decide the matter. As for Luther’s statements, he would only say that if they went against Jesus’ statements, then it was best to hold to Jesus.
+
+I understand it this way: Jesus wills that we should bear witness concerning him to everyone without exception. Wherever there is an unconverted person, it is the duty of God’s children to lead such a person to God, even if he should belong to another congregation than our own.
+
+Pastor E. Hansen wished to ask where it stood in God’s Word that we are to let the unconverted go to hell because they belong to another congregation or another church body than our own.
+
+Delegate Rørvik had the same question to ask.
+
+Pastor Broen would likewise remind them that it does not stand in God’s Word that one is to let people go to hell if they belong to another church body. He believed, however, that the same result would be attained even if the last part of the point were omitted; it would then not be quite so provocative. One ought to seek to avoid offense. But he favored free activity. It may sound strange; but in this matter he would be un-Lutheran.
+
+Prof. Sverdrup: The point is both biblical and Lutheran. If someone sends out a missionary or an emissary, we would surely not call that wrong. The New Testament knows nothing of parish bonds or denominational boundaries.
+
+We would therefore not be acting against God’s Word if, for example, we sent someone to bear witness to our dear ones in the Fatherland, of whom we knew that they were living without fellowship with the Lord. That they might possibly shut him out would be another matter. But, incidentally, they do not do that in Norway. It is only here in America that people do such things.
+
+Would it be wrong if we admitted a sick person from another church body into a hospital, if we had one of our own? Let there be a free and open way. These parish bonds and denominational boundaries are something human beings have erected.
+
+Luther, who has been cited here, stands before his Judge and not before our tribunal. If his statements are pleasing to God, then it is well; but we are not bound by everything Luther has said.
+
+Besides, we know from church history that Luther certainly did not adhere so strictly to the old church order or keep himself within the old denominational boundaries. He was quite bold in that respect—indeed, bold to such a degree that he was placed under the ban. If we become as bold as Luther, then boldness will certainly not be lacking in the Free Church.
+
+Point 12 was adopted in its entirety.
+
+It was resolved to take up for consideration Friday morning the draft of the Congregational Order, and also to print a sufficient number of copies of it for distribution among the members of the meeting.
+
+The Credentials Committee then reported the following committee on the mission reports: Pastor O. Paulson, Pastor E. O. Larsen, Pastor H. Quanbeck, Mr. Fingal Fosliën, and Baard Andersen.
+
+In the evening there was a service in Trinity Church by Pastor P. Nilsen, and an offering was taken for the Home Mission.
+
+Pastor O. L. Torvik and Carl Amundsen in St. Luke’s Church, Pastor Risløv in St. Olaf’s Church, Pastor E. Hansen and M. Midtbøun in St. Petri Church.
+
+(Continued.)
