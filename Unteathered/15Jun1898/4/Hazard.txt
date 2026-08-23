@@ -1,0 +1,600 @@
+The following analysis and translation are based entirely on the uploaded historical Norwegian text. I retain period ecclesiastical terminology, including expressions that sound unfamiliar or severe in modern English, where that is necessary for semantic and historical fidelity. 
+
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Frikirken” is not merely “a free church” generically, but the Lutheran Free Church as an organized ecclesial body. I therefore render it “the Free Church” where institutional reference is clear.
+* “Menighed” carries both “congregation” and the theological sense of the gathered Church. Context determines whether “congregation” or “Church” is preferable.
+* “Liv og Vækkelse” is pietistic language. “Life and awakening” preserves the connection between spiritual life and revival better than a generalized “renewal.”
+* “Vederkvægel­sens Tider,” from Acts 3:19, has a fixed biblical resonance: “times of refreshing.”
+* “Bodfærdighed / Ubodfærdighed” belongs to the vocabulary of repentance. “Impenitence” preserves the doctrinal force of “Ubodfærdighed.”
+* “Syndserkjendelse” is not merely awareness of wrongdoing, but recognition or conviction of sin before God.
+* “Aandens Fylde” means “the fullness of the Spirit,” with a particular revivalist and sanctification-related resonance.
+* “Raaderum” means scope, room, or governing freedom. When the Spirit “faar Raaderum,” the meaning is that the Spirit is permitted to rule or have free course in the heart.
+* “Lovtrælle” is forceful Lutheran terminology: literally a slave under the Law. It must not be softened into “legalistic person.”
+* “Egenretfærdighed” is “one’s own righteousness” or “self-righteousness,” with Pauline and Lutheran doctrinal resonance.
+* “Hjertets Sønderknuselse” means contrition or the breaking of the heart, not merely sadness.
+* “Aandens Fattigdom” echoes “poverty of spirit.”
+* “Frimodighed” is more than confidence; in biblical and pietistic usage it often means spiritual boldness or freedom in witness.
+* “Hedningemission” is the historical missionary term “heathen mission.” Because this is an academic historical translation, its period character should not be silently modernized.
+* “de vilde” is similarly a period ethnographic expression. The source’s historical language should be preserved rather than sanitized, though its dated character is evident to a modern reader.
+* “Presteskolen” refers specifically to the theological or ministerial training institution at Augsburg Seminary.
+* “Kald” and “Kaldsbrev” have ecclesiastical force: “call” and “letter of call,” not ordinary employment terminology.
+* “indstilledes til Ordination” means formally recommended or presented for ordination.
+* “intimerede” in the ordination notice is an older ecclesiastical usage connected with formally announcing or introducing the rite.
+
+Syntactic Hazards
+
+* The prose frequently accumulates argument through long coordinate and subordinate clauses.
+* Semicolons often mark theological or logical pivots rather than simple sentence divisions.
+* Proceedings alternate abruptly between formal resolutions, reported speech, direct discourse, and sermonic exposition.
+* Speakers often reason by repetition: statement, expansion, example, consequence.
+* Biblical clauses are woven into ordinary prose without quotation markers in every instance.
+* Rhetorical questions frequently carry argumentative force and should not be flattened into declarative paraphrase.
+* Several sentences depend on cumulative causal logic introduced by “thi,” “da,” “naar,” “dersom,” and “om.”
+* The sermon discussion especially requires preservation of oral pacing rather than conversion into short contemporary English sentences.
+
+Theological Hazards
+
+* The distinction between receiving Christ, receiving the Spirit, and the “fullness of the Spirit” is explicitly debated and therefore must not be harmonized.
+* Sverdrup rejects an overly schematic “second coming” of the Spirit after conversion; his precise qualification must remain intact.
+* Forgiveness, conscience, contrition, grace, and joy form a doctrinal sequence that should not be reduced to psychological well-being.
+* The opposition between Law and grace is explicitly Lutheran and must remain doctrinally sharp.
+* The repudiation of serving God “for reward” is a critique of works-righteousness and self-love, not of obedience itself.
+* “God dwelling in you” is presented as the substance of blessedness and must retain its indwelling imagery.
+* The “times of refreshing” are interpreted at several levels: conversion, revival, sanctifying renewal, eschatological rest, and communal awakening.
+* The text strongly links impenitence and an accusing conscience with resistance to the Holy Spirit.
+* Mission is conceived not only as preaching but also as bodily service, explicitly modeled on Jesus.
+
+Voice Hazards
+
+* The speakers address the conscience directly and repeatedly.
+* Rebukes are intentionally sharp: spiritual laziness, bitterness, pride, ambition, hypocrisy, unwillingness to witness, and enslavement under the Law are named without euphemism.
+* The movement between severe diagnosis and evangelical consolation is central to the pastoral voice.
+* Sverdrup’s rhetoric often intensifies by logical inevitability rather than emotional ornament.
+* Expressions such as “An awful thing, to kill God!” must retain their shocking sermonic compression.
+* The text frequently shifts from institutional procedure to spiritually urgent exhortation; this contrast should remain visible.
+
+STEP 2: IDIOM ANALYSIS
+
+* “holde sin beskyttende Haand over” means to keep one’s protecting hand over someone or something. This is biblical devotional language and should remain figurative.
+* “bære rig Frugt” means to bear abundant fruit, a familiar biblical image for spiritual results.
+* “alt ske sømmeligt og med Orden” echoes 1 Corinthians 14:40: “let all things be done decently and in order.” A literal yet natural biblical rendering is appropriate.
+* “Livsens Fyrste” echoes Acts 3:15, traditionally “the Prince/Author of life.” “Prince of Life” preserves the historical wording and theological title.
+* “fatte et andet Sind” literally means to take on another mind and functions as a circumlocution for repentance: a change of mind resulting in turning.
+* “aaben Sag med Gud” means to deal openly and honestly with God, especially through confession and repentance.
+* “Sæk og Aske” is the biblical “sackcloth and ashes,” a sign of penitence.
+* “Søskendelag” literally evokes a fellowship of siblings, here a brother-and-sister fellowship among believers.
+* “Enhedsfanen” is literally the “banner of unity.” The military-banner metaphor should remain.
+* “et alvorligt Storslag” is a major or decisive battle. It is revivalist battle imagery.
+* “Aanden kommer ikke over Vantro” means the Spirit does not come upon unbelief; the sentence is theological, not merely experiential.
+* “Talsmanden” is the biblical “Advocate/Comforter” vocabulary associated with the Holy Spirit in John’s Gospel. Because the prose speaks of the Spirit as the believer’s spokesman and helper in struggle, “Advocate” is possible, but “spokesman” better preserves the immediate argument in this passage.
+* “bære som troende” appears to mean where believers are to carry or direct themselves/their burdens. The phrase is somewhat compressed and must not be over-explained.
+* “banker paa, men springer igjen” describes someone knocking at a door but running away before it is opened: a vivid image of prayer without persevering expectation.
+* “strække sig op efter en ukjendt Kraft” means stretching upward after an unknown power, contrasted with “stige ned,” descending into repentance and contrition.
+* “indre, indædt Nag” is inward, deep-seated rancor.
+* “min Del evindelig” echoes biblical language of God as one’s everlasting portion, especially Psalms 73:26.
+* “kaste sig i Frelserens Arme” is evangelical devotional imagery: casting oneself into the Savior’s arms.
+* “snue op ned paa alt” means to turn everything upside down.
+* “Lovtrælle” strongly echoes Pauline opposition between bondage under Law and life under grace.
+* “som for Guds Ansigt” means “as before the face of God,” a traditional devotional expression meaning in conscious accountability to God.
+
+Where a King James Bible equivalent is especially recognizable:
+
+* Acts 3:19: “times of refreshing.”
+* Acts 3:15: “the Prince of life.”
+* 1 Corinthians 14:40: “decently and in order.”
+* John 14:17: “the world cannot receive” the Spirit.
+* Acts 1:8 and related texts stand behind “you shall bear witness.”
+* 1 John 4:4 lies behind “he who is in the believers is stronger than he who is in the world.”
+* Romans 8:16 lies behind the Spirit bearing witness with our spirit that we are children of God.
+* Hebrews 4:9 lies behind the Sabbath-rest remaining for the people of God.
+* Galatians 3:2 lies behind receiving the Spirit not by the Law but through the hearing/preaching of faith.
+* 2 Corinthians 5:14 lies behind “the love of Christ constrains us.”
+* John 1:12 lies behind receiving power/right to become children of God.
+
+In the translation I retain the biblical structures but use modern pronouns, in accordance with the requested profile.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+The document has two major modes.
+
+First: institutional proceedings
+
+* Approval of minutes and communications.
+* Adoption of the Free Church seal and explanation of its symbolism.
+* Resolutions concerning unity, conduct toward ecclesiastical opponents, Augsburg Seminary, revival work, temperance, mission, missionary appointments, funding, medical mission, incorporation, and ministerial education.
+* Deliberation over the validity of O. J. Edwards’s ordination.
+* Consideration of foreign mission policy, especially Madagascar.
+* Reports concerning Augsburg Seminary and its Board of Trustees.
+* Ordination recommendations and final ecclesiastical actions.
+
+Second: theological conversation on “Times of Refreshing”
+
+The discussion moves through several distinct claims:
+
+* Peter’s sermon in Acts 3 identifies guilt yet opens hope through repentance.
+* “Times of refreshing” first means forgiveness and reception of the Holy Spirit.
+* It also means revival and spiritual renewal.
+* It ultimately points toward eschatological Sabbath rest.
+* Impenitence, a condemned conscience, family disorder, spiritual disunity, and unwillingness to submit to the Spirit obstruct such refreshing.
+* The first Christians are presented as a model of united faith, prayer, love, and labor.
+* Tollefson stresses the believers’ vocation as witnesses and instruments through whom the Spirit reaches unbelievers.
+* Brethus stresses conscious dependence upon and longing for the Holy Spirit.
+* Sverdrup redirects the discussion from seeking an additional mysterious spiritual power toward repentance from actual sin, a good conscience, humility, forgiveness, love, and abandonment of self-righteousness.
+* He then makes a decisive theological pivot: true refreshing does not abolish suffering.
+* Full blessedness consists in God dwelling in the believer, not in worldly freedom from affliction.
+* Paulson illustrates the principle through pastoral counsel to a woman preoccupied with others’ faults.
+* Wold stresses obedience to the Spirit.
+* Tollefson returns to humility, grace, and the Spirit’s work through faith.
+* Andersen concludes with an attack upon spiritual ambition and calls believers to serve faithfully in the place God has assigned them, beginning in the home.
+
+The translation must preserve this cumulative movement rather than treating the individual speeches as disconnected devotional remarks.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+Likely or explicit biblical sources include:
+
+* Exodus 3:2–3 — the burning thornbush/bush that was not consumed.
+* 1 Corinthians 14:40 — “decently and in order.”
+* Matthew 25:21, 23 — entering into the joy of one’s Lord.
+* Acts 3:13–26 — Peter’s sermon, the killing of the Prince of Life, ignorance, repentance, times of refreshing, restoration, and Christ sent first to Israel.
+* Acts 4:4 — the number of believing men reaching about five thousand.
+* Hebrews 4:9 — Sabbath-rest remaining for the people of God.
+* Jonah 3:5–10 — Nineveh in sackcloth and repentance.
+* 1 Samuel 7 — Israel’s repentance under Samuel.
+* Acts 2 — Pentecost, unity, reception of the Spirit, conviction of sin, and the life of the first congregation.
+* John 14:17 — the world cannot receive the Spirit.
+* Acts 1:8 — believers as witnesses.
+* John 14–16 — the Holy Spirit as Advocate/Comforter.
+* Acts 19:2 — disciples at Ephesus who had not heard that there was a Holy Spirit.
+* 1 John 4:4 — “he who is in you is greater than he who is in the world.”
+* Romans 8:16 — the Spirit bearing witness with our spirit that we are children of God.
+* Galatians 3:2, 5 — receiving the Spirit by the hearing of faith rather than works of the Law.
+* Mark 16:20 — the Lord working with them and confirming the word.
+* Psalm 73:26 — God as the heart’s portion forever.
+* Matthew 5:3 — poverty of spirit.
+* 2 Corinthians 5:14 — the love of Christ constraining believers.
+* Romans/Galatians broadly — Law, grace, bondage, righteousness by faith.
+* John 1:12 — power/right to become children of God.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+The translation preserves the full severity of statements such as:
+
+* sin is the chief hindrance to the Spirit;
+* an unforgiven sin torments a person;
+* bitterness makes true joy impossible;
+* serving God for reward is the height of self-love;
+* believers may hypocritically deceive themselves and the world concerning suffering;
+* spiritual ambition prevents humble service;
+* believers themselves can hinder the times of refreshing.
+
+The evangelical consolations are preserved with equal force:
+
+* forgiveness is with Jesus;
+* there is room and shelter with him even for the guilty;
+* peace, joy, and blessedness come when self-righteousness is relinquished;
+* God may become the believer’s unassailable portion;
+* the Spirit’s testimony establishes the believer as a child of God.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+I render the principal modal forms with their original strength:
+
+* “maa” → “must”
+* “skal” in commands or divinely grounded assertions → “shall” or “must,” according to force
+* “bør” → “ought to” / “should”
+* “kan ikke” → “cannot”
+* “vil” in consequence or resolve → “will”
+* “anbefales / anmodes / opfordres” → “is urged,” “is requested,” or “is strongly encouraged,” preserving the institutional level of obligation
+* “bemyndiges” → “is authorized”
+
+I avoid weakening such expressions to “may wish to,” “might consider,” or similar modern bureaucratic language.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+Principal equivalents used consistently:
+
+* Gud → God
+* Kristus → Christ
+* Herren → the Lord
+* den Helligaand / Aanden → the Holy Spirit / the Spirit
+* Synd → sin
+* Syndernes Forladelse → forgiveness of sins
+* Tro → faith
+* Naade → grace
+* Frelse → salvation
+* Vækkelse → awakening / revival, according to context
+* Vederkvægel­sens Tider → times of refreshing
+* Menighed → congregation / Church according to ecclesiological context
+* Guds Rige → the Kingdom of God
+* Lov → Law
+* Retfærdighed → righteousness
+* Samvittighed → conscience
+* Kjærlighed → love
+* Salighed → blessedness
+* Omvendelse / vende om → conversion / turn
+* Ubodfærdighed → impenitence
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+The following images are retained rather than explained away:
+
+* Christ as a red rose amid thorns.
+* The congregation as a rose among thorns.
+* The burning thornbush that is not consumed.
+* Bearing fruit.
+* God’s protecting hand.
+* The banner of unity.
+* Spiritual battle.
+* The Spirit’s fire burning away opposition.
+* Knocking at a door and leaving before it opens.
+* Stretching upward after an unknown power versus descending in humility.
+* God as refuge and eternal portion.
+* Casting oneself into the Savior’s arms.
+* God dwelling within the believer.
+* Being too “large” to dwell with Jesus.
+* Soldiers who all want to be officers.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+The text repeatedly moves between:
+
+* ecclesiastical formality and revivalist urgency;
+* condemnation and hope;
+* repentance and consolation;
+* missionary optimism and recognition of suffering;
+* joy over grace and warning against self-deception;
+* corporate unity and individual examination of conscience.
+
+These contrasts are preserved rather than stylistically equalized.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+The speeches have been translated as spoken theological discourse rather than compressed academic prose. Long accumulative sentences are retained where they carry the speaker’s reasoning; short emphatic lines are retained where they function rhetorically. Questions remain questions. Repetitions remain where they build sermonic force.
+
+STEP 11: ACADEMIC TRANSLATION
+
+THE FREE CHURCH’S SECOND ANNUAL MEETING
+
+(Continued from the previous No.)
+
+Saturday Morning
+
+Began from 9:00–9:30, led by Pastor H. Quambøl.
+
+The minutes of the preceding meeting were read and adopted.
+
+A telegram from N. C. Stubberud, Canton, S. Dak., was read.
+
+Prof. Sverdrup reported for the committee on the Free Church’s seal that the committee had chosen as its seal a Bible rose with many thorns. The significance of the rose in the Church has been Christ with his red blood in the thorn-filled world. The congregation shall also be a rose, and the thorns likewise belong to the fellowship of Christ. The Lord once revealed himself in a burning thornbush, and yet the bush was not consumed. Neither do we believe that the congregation of God shall be consumed.
+
+The committee proposes that the seal be entrusted to the secretary of the Free Church for safekeeping. The proposal was adopted.
+
+It was resolved to take up a collection at the close of the session to cover various expenses connected with the Annual Meeting.
+
+It was resolved to proceed to the consideration of reports.
+
+The committee on the president’s report reported through Pastor Chr. Nyrehus.
+
+Points 1, 2, 3, and 4 were adopted without debate and read as follows:
+
+“1. The Annual Meeting of the Free Church hereby urges friends of the Free Church in all Lutheran congregations to come to our aid in our work for life and awakening in the congregations, so that through united, vigorous labor it may by the grace of God be possible for us to build up a true Lutheran Free Church in this country.
+
+2. In order not to place hindrances in the way of brotherly cooperation, all friends of the Free Church are especially requested not, either publicly or privately, to use unnecessarily hurtful or offensive forms of expression toward ecclesiastical opponents.
+
+3. We urge all friends of Augsburg to thank God that he continues to keep his protecting hand over Augsburg Seminary. And since the school is now secured for the purpose for which it was established, all friends of the school are urged to support its work in such a manner that it may bear rich fruit for the salvation of our people.
+
+4. Pastor B. Nilsen is requested, as an emissary of the Free Church, to continue his activity for awakening and life in the congregations. He is to be paid as before, and Prof. Mohn is chosen to arrange his itinerary.”
+
+Point 5 required a measure of explanation.
+
+“5. Candidate O. J. Edwards’s ordination as pastor of Ebenezer Congregation, Greegs Co., N. Dak., performed by the deacons of that congregation, is recognized by the Free Church.
+
+His certificate of ordination shall be signed by the ordinator and furnished with the seal of the Free Church.”
+
+Pastor Midthun desired information concerning this matter.
+
+Pastor Nyestad desired the same, and further wished to know whether it was to become the practice in the future to recognize any ordination whatever performed out in the congregations. The speaker recalled the admonition: “let all things be done decently and in order.” He was in doubt whether it was right simply to recognize this ordination without further consideration; for such things are not always done from the best motives.
+
+Prof. Sverdrup gave the requested information in a lengthy account of the circumstances of the case. He also read a number of letters concerning the matter, among them letters from the president of Hauge’s Synod and the head of Red Wing Seminary. Both gave Pastor Edwards the best testimony.
+
+Pastor Quambøl stated that he was personally acquainted with Pastor Edwards and knew him to be a good man; he also knew the deacons who had laid their hands upon him, and they were, so far as he could understand, good men.
+
+Pastor Edwards had good reason to break with Hauge’s Synod, and the Free Church ought to recognize his ordination; otherwise it would not be true to its principles.
+
+Pastor Nyestad believed, after the information that had been given, that it was right for the Free Church to recognize this ordination.
+
+The point was adopted.
+
+“6. Since the liquor traffic is a curse upon our country and people, and consequently an enemy of the congregation of God and of true, living Christianity, all friends of the Free Church are urged with all their strength and by all Christian means to oppose this institution and its corrupting influence. In particular, the attention of congregations and pastors is directed to the necessity that the cause of temperance be given more room in the public preaching of the congregation.”
+
+Adopted.
+
+The committee on the mission reports reported through Pastor C. C. Larsen.
+
+“1. The Annual Meeting of the Free Church for 1898 hereby expresses its satisfaction with the steadily increasing interest with which the congregations and friends of missions have embraced the holy cause of mission during the past year.
+
+2. The friends of missions and the congregations of the Free Church are most earnestly requested also in the coming year to remember the work of missions with intercession and generous contributions.
+
+3. Since much blessing has been discerned from the meetings for conversation and edification, it is with joy and thanksgiving to the Lord that the congregations are requested to continue holding similar meetings also in the coming year.”
+
+These points were adopted without debate.
+
+“4. The budget proposal of the standing mission committees concerning appropriations for both home and foreign mission, amounting to $10,000, is hereby approved by the Annual Meeting.”
+
+Prof. Sverdrup: We can hardly appropriate anything; but we can nevertheless set ourselves the goal of collecting a certain amount, and 10,000 dollars is not much. We ought, and could, collect still more. I would like this side of our work to be held forward. If that is done, more will also be given; for our people are not so unwilling in this matter. When they see that a thing is good and necessary, they will also take part in furthering it.
+
+It is now that it is to be tested whether we can make voluntary work succeed. And for this, instruction is needed.
+
+Point 4 was adopted.
+
+“5. It is left to the standing mission committees, according to their best judgment, to arrange the work both at home and abroad, and to determine how the contributions may best be used.
+
+6. In accordance with the proposal of the Home Mission Committee, it is left to the new Mission Committee to call and appoint missionary pastors in the following places:
+
+1) The district between Fosston and Bermidji.
+
+2) Hawley and Detroit, Minn., together with the district around Wahpeton, N. Dak.; and, in addition—if the funds permit—two missionary pastors are to be appointed on the Pacific Coast, and mission support is to be granted to the Bella Coola Colony.
+
+7. The Canadian Pacific R. R. and the Soo Line are thanked for the goodwill they have shown by granting free travel on their respective lines to Pastor E. Hage and family on their way to their future home in the Bella Coola Colony.
+
+8. The friends of missions are most warmly encouraged to continue the good work already begun of supporting native teachers in the Madagascar mission field, just as the Annual Meeting rejoices with thanksgiving to God that last year’s recommendation has borne such blessed fruit.
+
+9. The unexpected death and sudden passing of Deaconess Pernille Pedersen is received with sorrow by all friends of missions, because with her rich gifts for the work she seemed so indispensable to the young mission; but what seemed to be our loss was her gain, since it is our full assurance that she was permitted to enter into the joy of her Lord.
+
+10. The Annual Meeting of the Free Church approves with thanks the Mission Committee’s sending forth of Sister Karoline Olsen.
+
+11. The standing Mission Committee is authorized to issue a letter of call to Candidate Jørstad as missionary to Madagascar and to arrange everything concerning his departure as soon as possible.
+
+12. The standing Mission Committee is authorized to pay whatever deficit there may be in Lou’s and Hogstad’s accounts on the mission field.
+
+13. The Mission Committee’s proposal that Pastor Hogstad’s station be granted support of $1,500 for 1898 is approved. In addition, the committee is authorized to provide Missionary Høigaard’s station with the necessary support this year and to pay Missionaries Lou and Hogstad their salaries.
+
+14. Missionary Lou is among us after several years of foundational missionary work in Madagascar. The Annual Meeting bids him welcome among us.
+
+The friends of missions and the congregations of the Free Church are requested to invite Pastor Lou to speak among them on the cause of missions, since it is our conviction that the visit will bear blessed fruit for the mission.”
+
+Points 5–14 were adopted without debate.
+
+“15. The Mission Committee is authorized—provided the funds permit—to call Dr. John Dyrnes as mission physician and missionary in Madagascar, and to make arrangements concerning his journey abroad and his stay in France.”
+
+Pastor D. Paulson: We ought to rejoice that Dr. Dyrnes has offered himself to go out to the mission field as physician and missionary pastor. We would gladly send him, if only there is enough money.
+
+Prof. Sverdrup explained that the French government prohibited anyone from practicing as a physician in Madagascar without a French diploma. The question therefore becomes whether it is possible for Dr. Dyrnes to obtain a French diploma. We believed that in any case it was necessary to send him to France for about a year to study medicine and French there. Others have succeeded in this way; possibly he too will succeed.
+
+The expense of sending him to France and of one year’s stay there will probably amount to around 600 dollars. We have good friends there who will certainly help him make the necessary arrangements.
+
+If he receives a French diploma, he can practice among natives and Europeans and thereby possibly receive some income.
+
+Medical mission is now regarded as absolutely necessary. The mission fields are for the most part unhealthy places, and sickness among the mission personnel is therefore common. Let us help in the manner of Jesus by not merely preaching the Word, but also bringing bodily help.
+
+There are dreadful conditions of health among the natives. Alongside their own afflictions, European vices and diseases have been introduced among them, and these imported diseases cause a dreadful devastation among the savages. We have many examples of how savage nations simply waste away and die when they come into contact with civilization, which most often means coming into contact with vices in a peculiar manner.
+
+If it is possible, so far as funds are concerned, to send Dr. Dyrnes, then it ought to be done. It appears to be a call from God.
+
+The point was adopted.
+
+“16. At this meeting a committee of three members shall be appointed to investigate whether our Heathen Mission Committee can be incorporated so that it may hold mission property in Madagascar, and in that case to present proposed articles of incorporation at next year’s Annual Meeting.
+
+17. The sisters at the Deaconess Home are thanked for the assistance they gave Sister Karoline Olsen upon her departure for the mission field.
+
+18. The Paris Committee, with its secretary Pastor G. Büchfenschütz, and Pastor Sanders at St. Augustin are thanked for the help they have given our missionaries.”
+
+Points 16–18 were adopted.
+
+“19. It is left to the Mission Committee to call and send Candidate Haflem to the mission field, provided the funds permit.”
+
+Prof. Sverdrup explained that Haflem from his very childhood had felt a drawing toward becoming a missionary to the heathen. He had also applied for admission to the Mission School in Stavanger, but did not obtain it, because it was feared that he was not strong enough. God nevertheless gave Haflem strength enough to travel to America and to work his way through school here. I believe it would be good to send him to France, to a school some distance from Paris, a kind of normal school, where he could study French and acquaint himself with the French school system. It would cost no more than about 12 dollars per month.
+
+From there he could be sent to Madagascar and ordained by the missionaries there. It would then become the first ordination at the Augsburg Station.
+
+The whole matter would cost around 300 dollars.
+
+The point was adopted.
+
+Prof. Sverdrup reminded the meeting that the committee had also recommended sending one more deaconess, which was sorely needed and did not cost so much.
+
+The meeting resolved to leave it to the committee to act according to its best judgment in this matter.
+
+The committee on the superintendent’s report reported through Pastor C. Berlie.
+
+“1. The Lutheran Free Church, assembled for meeting in Minneapolis, Minn., June 8–12, 1898, expresses its satisfaction with the outcome of the lawsuit and its joy that God also during the school year just concluded, amid the many tribulations and difficulties, has kept his gracious hand over Augsburg Seminary.
+
+2. The Free Church rejoices over the rich fruit borne by the work at the theological school and hereby expresses its full satisfaction with the school’s activity and its heartfelt thanks to the school’s teachers and students because they have faithfully persevered in the work.
+
+3. The members and friends of the Free Church are urged with love and willingness to sacrifice to gather around the theological school, being reminded of the great significance Augsburg Seminary has in the work toward the goal the Free Church has set for itself: living, free congregations.
+
+4. The Free Church recommends that religious instruction in English be extended to additional classes in the preparatory departments and, as far as possible, to the theological department.
+
+5. The Free Church thanks the superintendent of the Seminary because, alongside his other work, he has also conducted a class in French.”
+
+All these points were adopted.
+
+As Point 6 the committee proposed that French be introduced as a regular subject in the College. In response, it was asked whether students could not then be permitted to choose between French and German. The general opinion appeared to be that German should continue to be a regular subject but French optional, and the following was therefore adopted as Point 6:
+
+“6. Because of the Free Church’s mission in Madagascar, it is left to the faculty to arrange instruction in French in the College Department.
+
+7. The Free Church recommends an early repair and enlargement of the buildings of Augsburg Seminary.”
+
+Adopted.
+
+Saturday Afternoon
+
+Devotion by Emissary O. M. Andersen.
+
+The committee on the report of the Board of Trustees reported through Pastor G. Nilsen.
+
+The report was adopted point by point without discussion:
+
+“1. The Norwegian Lutheran Free Church, assembled in Annual Meeting, hereby expresses its thanks to the Board of Trustees of Augsburg Seminary for the faithfulness and ability with which it has guarded the school and attended to its interests also in the school year now concluded. Likewise, we express our special thanks to Prof. Sven Oftedal for the persevering and self-sacrificing labor he has performed during the lawsuit now so happily concluded, in order to secure the theological school for our Norwegian Lutheran people in America.
+
+2. In view of the influence which the lawsuit just concluded has had upon the friends of the Free Church, we rejoice all the more over the willingness to sacrifice with which the congregations have met the demands necessarily involved in operating the school, so that our debt to the school’s teachers amounts to only about $3,000.
+
+3. We express our thanks to Professors Hove, Rydahl, and Pettersen for the work they have performed in collecting money in the congregations for teachers’ salaries, and request Rydahl and Pettersen to continue this work throughout the summer, if possible, so that the aforementioned debt may be eliminated before the beginning of the next school year.
+
+(Continued on Page 4)
+
+THE FREE CHURCH’S SECOND ANNUAL MEETING
+
+(Continued from Page 3)
+
+4. This meeting requests the treasurer, Prof. Hove, to place himself at the head of a collection of $1,000, to be used for the necessary repairs and taxes indicated by the chairman of the Board in his report.
+
+This collection ought to be completed before the fall term begins.”
+
+Pastor O. L. Torvik reported from the committee that had been appointed to deal with the question of an equal distribution of traveling expenses among the pastors of the Free Church, that the committee had not been able to bring the matter to realization for this Annual Meeting.
+
+A committee of three members was appointed to arrange the matter during the course of the year.
+
+The meeting then took up for consideration the edifying topic of conversation, “Times of Refreshing,” Acts 3:17–26.
+
+Pastor C. Broen introduced the subject:
+
+This is the conclusion of the second sermon Peter delivered after the outpouring of the Spirit. The occasion was the healing of the lame man. The people crowded together in amazement at the miracle that had taken place, and Peter used the opportunity to speak a word of truth to them. The Jesus whom you killed—he is the one who has done this miracle.
+
+You killed the Prince of Life, whom God raised from the dead, of which we are witnesses. An awful thing, to kill God!
+
+But I know that you did it in ignorance. This does not, however, remove the responsibility; but it gives hope of amendment. When a person does wrong in ignorance, there is hope that he will correct the wrong when he receives better light concerning the matter.
+
+You must take on another mind, turn around. If you do so, then the times of refreshing shall come.
+
+The times of refreshing embrace a great deal here. These persons, who have acted so hostilely toward God, shall receive forgiveness of sins and the gift of the Holy Spirit. They shall come into the same relation to God as the others who have become believers.
+
+And then they will rejoice in the Lord’s coming. A glorious thought, this thought of the Savior’s return. Peter returns to it again and again in his preaching, in his letters.
+
+It must have done them good to hear these things after the Apostle had laid their guilt so heavily upon them. The Lord has thought first of you. Make use of the opportunity now.
+
+Did this sermon have any effect? That is told later. Many of those who had heard the Word believed, and the number of the men became nearly five thousand. Yes, this preaching had effect.
+
+What are the times of refreshing? That individual persons turn from their sin to God, come to Christ, and become believers. It means more: times of spiritual renewal, times of awakening. There seem to be signs of something of that kind among us just now. There is considerable spiritual need here and there.
+
+In order that the times of refreshing may truly come among us, we must receive the fullness of the Holy Spirit and the mind that makes us willing to sacrifice, to suffer—to live wholly for God. The Spirit must receive more complete and full control over our life. What wonders might not the Spirit accomplish with us and through us!
+
+The times of refreshing mean still more: the spiritual deliverance, the Sabbath-rest that remains for the people of God. The pressure of the world, sin, and misery shall then have been taken away. One is free forever.
+
+What prevents the times of refreshing from coming? It is impenitence. When people are humble and willing to deal openly with God, then the times of refreshing come. But when a person goes about with a condemned conscience and will not allow the light of God’s Word to penetrate the soul, then the refreshing cannot come.
+
+Wrong relations within the family hinder the Spirit of God from entering.
+
+The city of Nineveh had to clothe itself in sackcloth and ashes before the times of refreshing came; likewise Israel in Samuel’s time, and the Norwegian people in Hauge’s time.
+
+How shall the times of refreshing come? How did they come upon the first congregation?
+
+By their following of Jesus, the first disciples had been separated from the world, chosen by Jesus. They stood together as a fellowship of brothers and sisters. They were one in faith, hope, love, vision, longing, prayer. When people see alike, they also pray alike.
+
+The banner of unity must take root among us—this gathering of God’s children into one. There is much improvement in true fellowship of the Spirit among us. When God’s children become united in common vision, common prayer, common labor, and so forth, then the Holy Spirit can come, and with him the times of refreshing. A great and serious battle is being prepared among us, and over this we rejoice.
+
+What, then, accompanies the times of refreshing? Yes, what accompanied them among the first Christians? They received more life, greater power for labor, and so forth.
+
+It was not burdensome to them to labor for Jesus—as it is for sluggish deacons and pampered officeholders among us. Opposition and persecution came for the first Christians; so also for us.
+
+Pastor J. Tollefson: This is a very profitable subject. The Spirit does not come upon unbelief; for the world cannot receive him, but you shall receive him.
+
+The believers are, as it were, to be mediators between Jesus and the unbelieving.
+
+The great hindrance to the coming of the times of refreshing is this, that believers do not understand their position and task. They are to be the Lord’s spokesmen and prophets, to speak of the love of God. When believers do not do this, they hinder the times of refreshing from coming.
+
+Why are God’s children thus in darkness? They have not searched the Scriptures. It is with them as with the disciples at Ephesus; they had not even heard tell of the Holy Spirit. It has not been clearly understood that one needs not only to receive Jesus, but also the Spirit in faith. The Holy Spirit is to be the spokesman in them, the guiding grace and power in the struggle and in the work.
+
+Believers must begin to see what God’s purpose and will are. It is upon the believers that the matter depends. They must receive the fullness of the Spirit in rich measure before the times of refreshing can come in truth. No work of mission to the heathen was done before the times of awakening came through Pietism, Methodism, and so forth.
+
+It must become known that he who is in the believers is stronger than he who is in the world. When believers succeed in bringing others to Christ, then greater joy also comes over them, and thereby they receive new encouragement, strength, and boldness. The times of refreshing shall come over the unconverted in that they are led to Christ, and over the believers in that they receive greater grace and power to testify concerning the Savior.
+
+It is a corrupting doctrine, this teaching that one is to be so cautious about bearing witness. That there is much hypocrisy is true. But still it stands written in God’s Word: You shall bear witness. What kind of Christianity is this that keeps silent about the great thing Jesus has done? Where one has been set free, there bold testimony arises.
+
+Believers must learn to know their own foolishness; they must know where they are to carry themselves as believers.
+
+Edvard Brethus: Many things hinder the Holy Spirit from coming to us. I will mention one thing: there is too little recognition of the Holy Spirit in believers’ hearts. We do not love the Spirit; we do not long to receive him. We would not have been saved if the Holy Spirit had not been. If we understood the value of the Spirit, we would not merely pray for him, but truly wait to receive him. We pray like a man who knocks at the door but runs away again before it is opened.
+
+The Holy Spirit is the most important thing for a Christian; we cannot live without the Spirit. This, I believe, is the times of refreshing: that one is refreshed by the Spirit from day to day.
+
+Prof. Sverdrup: There is surely nothing people long for more than times of refreshing, or good times. Some think to obtain them by the way of the world, some by the way of the flesh, some by the way of God. To find the right way—that is the matter.
+
+Many in this assembly need times of refreshing. We need joy, peace, power, faith, hope. What is lacking is not that the Spirit has not been poured out both once and twice. I have reservations about that manner of speaking according to which the Spirit comes twice—first the Spirit and then the fullness of the Spirit. God can give the Spirit in full measure at once; he can also cause the Spirit to increase. That former manner of speaking about the coming of the Spirit is misleading and can serve many as an excuse. For if it is true, then one may easily begin to reason in this way: “Well, I have received enough of the Spirit to be saved myself; but I have not received any special gift of the Spirit to labor for the salvation of others, therefore it is best that I keep quiet.” See, in this way it can become an excuse for spiritual laziness.
+
+The great hindrance to the coming of the Spirit is sin. A person does not have joy in the heart because he carries great sin. One is not refreshed by stretching oneself upward after an unknown power, but by descending.
+
+Nothing torments a human being more than an unforgiven sin. Unhappy is the one who goes about with bitterness in the heart and sin upon the conscience. If we do not attain a good conscience, it is impossible to become happy. The intolerable relations between one person and another are a hindrance to the times of refreshing.
+
+We all have an evil disposition, are sensitive to rebuke and to everything that goes against us. We are filled with bitterness, will not bow, but seek revenge. As long as we go about in that condition we cannot become glad. We cannot become glad as long as we carry inward, deep-seated rancor. How can the person become glad who is so situated that other people can take his gladness from him?
+
+It is otherwise with the one who has his joy in God; he has a fountain of joy that no one can take from him. When God is my refuge and my portion forever, then people may chastise and strike me as much as they will; in God my soul is nevertheless still, he is my rest, my peace, my joy.
+
+If people are unloving toward me, then I feel that I have deserved it; but at the same time I also know that with Jesus there is forgiveness of sin, and that with him there is room and shelter also for me. The one who in contrition of heart and poverty of spirit takes refuge in the Lord shall experience what a time of refreshing is.
+
+There is one word that expresses the greatest joy and blessedness, and that word is love. If we learn rightly to love, then we are blessed; for love is God. We must love in such a way that the love of Christ constrains us to offer ourselves for Christ by serving the brothers.
+
+If faith takes the form that we are to believe in order that things may go well for us, then everything has been turned upside down; for to wish to serve God for reward is the very height of self-love.
+
+If we try to obtain joy, peace, and blessedness by fulfilling God’s commandments, we shall only become slaves under the Law and shall never attain any blessedness. No, one must let go of one’s own righteousness and cast oneself into the Savior’s arms; then peace, joy, and blessedness come. Then one will learn to love. Then one will be refreshed. Then one will also receive power to accomplish something for the Savior, for the Kingdom of God.
+
+This love must be given to us; we cannot merit it or force it forth within ourselves.
+
+But it is true that the times of refreshing are also times of suffering. We must make ourselves familiar with that. They are therefore not a millennial kingdom in this world. The times of refreshing among the first Christians lasted until the time when the congregation entered into alliance with the world; so also among us.
+
+We are mistaken if we believe that the times of refreshing are to mean deliverance from suffering in this world. If we assert that, we act the hypocrite toward ourselves and toward the world, are dishonest, do shoddy work, and for that very reason cannot receive the times of refreshing.
+
+If you would have happiness whole, blessedness full, then remember that it consists in this: that God dwells in you, that you become so small in yourself that God receives room within you and is permitted to be everything for you. The heart’s peace and rest are in truth and in reality to be found with Jesus and nowhere else. But we are often too large to dwell with Jesus, and we are too proud to endure our Father’s chastisement. That we have received power to become children of God—in this are the times of refreshing.
+
+Pastor D. Paulson: When the Spirit of God bears witness with our spirit that we are children of God, then we are refreshed. Many in this assembly have experienced it. We cannot receive the times of refreshing unless the Spirit of God is permitted to do his work in our hearts. There are surely also those among us who have not experienced the times of refreshing, but who long for them and yet do not seem to attain them.
+
+There are many hindrances; for example, that a person can see the faults of his fellow human beings so well, but not his own. I had occasion to see this in a woman not long ago. She was one of those who always found so many faults in others and constantly spoke about them. She herself was without peace and once called me to her in order to receive comfort.
+
+When I came to her, she met me with a rebuke because I had spoken too favorably of someone recently deceased. I answered that perhaps this was true; for my fault has always been to think too well of people, and I have often come into difficulty and distress on that account. But then there are others who have the opposite fault, in that they always think too badly of people—and might you not be one of these? Perhaps this is also the reason that you receive no peace? You see the faults and sins of others, but not your own. You must come down to the place where you see yourself as a sinner before God and seek his forgiveness; only then will you find peace and become glad.
+
+The poor woman acknowledged the truth of these words, and a new light dawned upon her; she became a different person from that day.
+
+Pastor O. O. Wold: The more a person becomes obedient to the Spirit, so that the Spirit receives free rule in the heart, the more testimony there is. The fire of the Holy Spirit must burn away everything that is contrary to the Spirit of God. And God’s children love this; but the unbelieving flee from it and become frightened. So they did on the Day of Pentecost.
+
+We must be obedient to the Spirit by serving one another. We ought to be content with the lesser place, if only we may live for Christ and be together with brothers and sisters who love him.
+
+J. Tollefson: I will only try to explain a little of what I said before. Humbling is necessary; so it was on the Day of Pentecost. There was deep conviction of sin among those who then received the Spirit.
+
+A hindrance for many is that they slave under the Law instead of being under grace. The Spirit is not received through the Law, but through the preaching of faith.
+
+The world must be won through the believers. It stands written that the Spirit works with them and confirms the Word. The Holy Spirit must do it; of ourselves we can do nothing.
+
+O. Andersen: There are many things in us that we ourselves do not understand. I once read in a paper that so few believers are willing to be soldiers; they all want to be officers. They themselves want honor and do not give God the honor. Some become offended because God does not come to them in the way they themselves desire.
+
+Spiritual ambition drives many to pass over what they are able to do in order to take hold of what they cannot manage. Let us begin where we have been placed, and let us not allow pride to stand as a hindrance to the times of refreshing. We must become willing to receive the Spirit as God wills, and to work where God places us.
+
+Let us, for example, begin in the home among the little ones. We must not wait until we can hire a pastor or a teacher to raise the little ones. Let us ourselves raise them as before the face of God.
+
+It was resolved to hear the report of the Ordination Committee.
+
+The following candidates were recommended for ordination:
+
+Candidate O. M. Batte, called as assistant pastor to Pastor Arne Berg in the Sverdrup, Stavanger, Tønseth, and Rindal congregations, Minn., for a period of at least six months.
+
+Candidate John Mattson, called to the Madelia, Lincoln, and Rice Lake congregations, Minn.
+
+Candidate Ole Swenson, called from Our Savior’s Congregation, Chippewa Falls, Wis.
+
+Candidate Knud J. Wang, called by the Scandinavian Norwegian-Danish Evangelical Lutheran Congregation, Windom, Minn.
+
+Candidate Andreas Klaudius Lockrem, called by the Mission Committee to labor in the district between Fosston and Bermidje, Minn.
+
+Candidate J. B. Jerstad, called as missionary to Madagascar.
+
+Candidate A. J. Bartdal, called by Zion Congregation, Churchs Ferry, and affiliated congregations in N. Dak.
+
+It was resolved that all the candidates recommended should be ordained.
+
+The minutes were read and adopted.
+
+The meeting concluded with hymn singing and prayer.
+
+Saturday evening, sermon in Trinity Church by Pastor C. Hansen and Edv. Brethus.
+
+Sunday morning, sermon at the principal service in Trinity Church by Missionary C. H. Tou. A mission offering of $137.72 was collected.
+
+Pastor N. Halvorsen preached in St. Luke’s Church in the morning, and Pastors Kjelaas and Brønø on Sunday evening.
+
+Pastor C. Berli preached in St. Petri Church on the East Side Sunday morning, and Pastor Chr. Næthus in St. Olaf’s Church in North Minneapolis.
+
+At 3 o’clock Sunday afternoon an ordination was held in Trinity Church, on which occasion Pastor H. A. Unseth announced the service and read the rite for the ordinands; Prof. Oftedal delivered the ordination address and performed the act of ordination.
+
+In the evening, at the closing festival in Trinity Church, Pastor C. Aas, Prof. Sverdrup, Pastor Harbo, and Prof. Oftedal spoke.
