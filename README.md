@@ -2,7 +2,7 @@
 
 ## An Uncomfortable Gift to the AFLC and a Living Apologetic for the First Principle
 
-This repository presents a working English edition of historical writings by **John Oluf Evjen, Georg Sverdrup, and Sven Oftedal** concerning the congregation, church polity, lay activity, Christian freedom, and the principles that became the **Fundamental Principles of the Association of Free Lutheran Congregations (AFLC)**.
+This repository presents a working English edition of historical writings by **John Oluf Evjen, Georg Sverdrup, and Sven Oftedal** centered on Evjen’s examination of the Lutheran Free Church’s Fundamental Principles and Georg Sverdrup’s doctrine of the congregation.
 
 At the center is Principle One:
 
