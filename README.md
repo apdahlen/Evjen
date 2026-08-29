@@ -124,7 +124,6 @@ Translation methodology and hazard-analysis prompts are included in the reposito
 
 ## Related Projects
 
-* [Georg Sverdrup: On the Congregation](LINK)
 * [Sven Oftedal and Georg Sverdrup: Spirit and Life (*Aand og Liv*)](https://apdahlen.github.io/Spirit-and-Life/)
 
 ---
