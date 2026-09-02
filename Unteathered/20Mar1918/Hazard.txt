@@ -1,0 +1,632 @@
+PRINCIPLES
+E. E. Gynild
+
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Principer” — “principles,” but in this essay the word carries more than the modern sense of general convictions. It denotes governing Christian and ecclesiological principles that demand concrete obedience and may place a person in conflict with institutional majorities.
+
+* “livsretning” — literally “direction of life.” It means an inwardly given orientation or governing course of life, not merely a lifestyle.
+
+* “livsprincip” — literally “life-principle.” This is a strong nineteenth-century theological-philosophical expression: an operative spiritual principle governing the renewed life. It should not be diluted to “value” or “guiding idea.”
+
+* “besiglet av Guds aand” — “sealed by the Spirit of God.” The wording is biblical and should retain the theological image of sealing.
+
+* “verdslig sind” — “worldly mind” or “worldly disposition.” “Mind” here means spiritual disposition rather than intellect alone.
+
+* “Herrens vidner” — “the Lord’s witnesses.” A biblical and martyrial category, not merely people who speak about Christianity.
+
+* “retlinjede vei” — literally a straight-lined or unswerving path. The expression emphasizes refusal to deviate under coercion.
+
+* “Forløperen” — “the Forerunner,” a traditional designation for John the Baptist in relation to Christ.
+
+* “sandhet er livets høieste maal” — “truth is life’s highest goal.” “Maal” carries the sense of governing end or aim.
+
+* “Det jesuitiske” — literally “the Jesuitical.” In this polemical Protestant context it signifies expediency, casuistry, or manipulation of truth for institutional ends. It should not be generalized away.
+
+* “kirkeavdelinger” — church divisions, branches, or bodies. In the context of American Lutheranism, “church bodies” is often the most natural ecclesiastical English.
+
+* “høikirkelig” / “lavkirkelig” — “high-church” / “low-church.” These are ecclesiological categories rather than assessments of spiritual quality.
+
+* “statskirkelig” — “state-church-oriented” or “state-church.” It denotes an ecclesiology patterned by the established church.
+
+* “menighedsmæssig” — difficult to reproduce in one English word. It means oriented toward the congregation as the fundamental ecclesial unit, in contrast with centralized or state-church structures. “Congregational” risks suggesting the Congregationalist denomination, but remains the closest concise rendering when context makes the distinction clear.
+
+* “principforskjell” — “difference of principle,” not merely disagreement in practice.
+
+* “samfundet” — in Norwegian Lutheran usage, often “the church body,” “fellowship,” or “communion,” not simply “society.” Here it denotes the larger ecclesiastical organization.
+
+* “Guds rikes arbeide” — “the work of the kingdom of God.”
+
+* “samfundsmajoriteten” — “the majority of the church body” or “the institutional majority.” The author argues that majority preservation has displaced substantive principle.
+
+* “menighetsmæssig” — pertaining to the congregation and its freedom or life as congregation.
+
+* “friheten” — “freedom,” especially ecclesial and Christian freedom, not political liberty in a general sense.
+
+* “det gamle katolske princip” — “the old Catholic principle.” In this polemical Lutheran usage it means submission of individual and congregational liberty to an overriding institutional church authority.
+
+* “breddkirkelige” / “bredkirkelige retning” — “broad-church tendency” or “broad-church party.” It refers to a church ideal that seeks comprehensive institutional inclusion at the expense of sharp doctrinal or ecclesiological distinctions.
+
+* “Ledende principer” — apparently a formal title or recognized designation: “Guiding Principles.”
+
+* “gjennemføre principerne” — not merely to “implement” principles administratively, but to carry them through consistently in ecclesial life.
+
+* “fremstille os som aandens redskaper” — “present ourselves as instruments of the Spirit,” with probable biblical resonance in “present yourselves.”
+
+* “gjernings utførelse” — “the accomplishment of the work.”
+
+* “fri og levende menighet” — “free and living congregation.” This is a programmatic phrase and should be rendered consistently throughout.
+
+* “levendegjørelse” — “making alive,” “quickening,” or “vivification.” Because the theological context concerns the work of the Holy Spirit, “quickening” has older theological precision, but “making alive” is clearer and avoids inherited KJV diction. “Giving life to” is somewhat weaker. I will use “making the congregations alive” where the verbal force is needed and “life” where the noun is contrasted with liberation.
+
+* “frigjørelse” — “liberation” or “setting free.” In this ecclesiological context it means freeing the congregation for spiritual agency and responsibility, not political emancipation.
+
+* “kjødelig grund” — “carnal reason” or “reason of the flesh.” This is Pauline terminology and should remain theological.
+
+* “kirkepolitikens briller” — literally “the spectacles of church politics.” The metaphor should be retained.
+
+* “fører ilde med sig selv” — an older idiom meaning that such a person deals badly with himself, harms himself, or brings evil upon himself.
+
+* “alt Guds raad” — “the whole counsel of God,” a direct biblical expression from Acts 20:27.
+
+* “lyder av os” — probably “sounds like us,” i.e. agrees with our inclination or preferences.
+
+* “formaalstjenlig” — expedient, serviceable for a particular purpose.
+
+* “døde ortodoksis talsmand” — “advocate of dead orthodoxy.” This is a pietistic critique of doctrinal correctness that presupposes spiritual life rather than producing or accompanying it.
+
+* “døden i gryten” — “death in the pot,” a direct biblical image from 2 Kings 4:40.
+
+* “ubetinget autoritet” — unconditional or absolute authority.
+
+* “kue” — subdue, suppress, cow, crush into submission.
+
+* “aandløs” — literally “spiritless.” In this setting it means devoid of spiritual vitality, not merely unimaginative.
+
+* “livskald” — “life-calling,” the vocation governing one’s life.
+
+* “gjennembrud” — breakthrough, fuller realization, or effective manifestation.
+
+* “fostret dem” — literally “nurtured/reared them”; Augsburg Seminary is portrayed as the institution that formed and propagated these principles.
+
+Syntactic Hazards
+
+* The essay repeatedly builds arguments through long cumulative sentences joined by commas, semicolons, and causal connectors. Breaking these into short modern sentences would weaken both logic and pressure.
+
+* Several rhetorical questions function as assertions rather than requests for information: “At gaa i Jesu fotspor, er vel at ha et princip?” and “Hvor blir da retningerne av?” Their interrogative form must remain.
+
+* “Selvfølgelig har heller ikke verden kunnet hindre kristendommens fremgang. Endda var de kristnes liv, et liv i frihet.” The second sentence contrasts Christian freedom with worldly instability. “Endda” here is closer to “and yet” than “still.”
+
+* The John the Baptist paragraph moves rapidly from Matthew’s reed-in-the-wind image to John’s steadfastness before king and execution. Its compactness should be retained.
+
+* “Men naar de laa i sin grav, var de mange med og kranset deres grave.” The construction is slightly rough. Its sense is that many who opposed principled Christians later joined in honoring their graves.
+
+* The paragraph beginning “Inden den norsk lutherske kirke…” is an extended historical and ecclesiological argument. Its progression from two church tendencies, to attempted erasure of distinctions, to institutional comprehensiveness, to suppression of freedom must remain unbroken.
+
+* “Ti om principer og retninger skal faa lov og leve…” contains the older causal conjunction “Ti,” meaning “For.” It introduces the reason institutional comprehensiveness is impossible.
+
+* “dersom de ikke har sandhetskraft nok i sig til at brytes” literally says “if they do not have enough truth-power in themselves to clash.” The idea is that genuine principles necessarily come into conflict with contrary principles.
+
+* “Kirken, dette alt opslukende…” is a compressed appositional construction: the Church as an all-devouring institutional entity has changed from means into end.
+
+* “Denne røst, at alt er likt…” is syntactically awkward but forceful: the voice declaring all distinctions to be equivalent comes from the abyss.
+
+* “Men hvis de samme principer ikke krævet mere end det vi kunde gjennemføre…” means that Christian principles necessarily transcend the degree of obedience their adherents presently attain. The apparent grammatical irregularity should not be “corrected” into a different claim.
+
+* “Men dersom man mener os som menighetsfolk…” is compressed. The likely meaning is: if the criticism concerns us as congregational people and workers who ought willingly to present ourselves as instruments of the Spirit, then we are not blameless.
+
+* “En ‘fri og levende’ menighet naaes ikke i den forstand…” uses “reached” for attaining an ecclesial goal.
+
+* “da skal vi ikke overleve vort livskald” is rhetorically unusual. The likely force is that the work is large enough to occupy the whole of one’s calling in life; one will not outlive or exhaust that calling.
+
+* “I første tilfælde” in the paragraph about extracting suitable persons from existing organizations appears to mean “in the first place.”
+
+* “Men kanske vi gjør vi som den døde ortodoksis talsmand” contains an apparent duplicated “vi” in the source. This should be silently reduced to one “we” in English, while noting the textual irregularity here.
+
+* “Ikke uten ham. Kan sige, som profeterne: ‘Saa siger Herren’.” This is almost certainly textually damaged. The intended syntax is probably something like: “No one [has such authority] except he who can say, like the prophets, ‘Thus says the Lord.’” Since the surrounding sentences concern authority in the free congregation, that reading is contextually strong, but the printed text as supplied is defective. The translation below preserves the likely sense while marking the sentence with a textual note.
+
+Theological Hazards
+
+* Conversion is described as an objective divine act that gives the person a new “direction of life,” effected through the gift of the Holy Spirit and the love of Christ poured into the heart. This causal order should be preserved.
+
+* Christian freedom is not autonomy. It is the steadfastness produced by a governing spiritual principle, contrasted with the worldly person’s being turned by prevailing winds.
+
+* Martyrdom is presented as the historical fruit of Christian principle. The “martyr’s crown” carries New Testament and early Christian resonance.
+
+* Truth is treated as an unconditional Christian obligation. Institutional unity cannot excuse playing lightly with truth.
+
+* The critique of broad-church institutionalism is theological, not merely organizational. The author argues that “church” becomes idolatrous when it changes from a means for the kingdom of God into the governing end.
+
+* The analogy with Roman Catholic principle concerns ecclesial authority and suppression of Christian/congregational freedom. It should not be generalized to an attack on Catholic persons.
+
+* The “free and living congregation” is not a humanly completed construct. Its life is the work of the Holy Spirit, while human workers are obligated to labor toward it.
+
+* The author distinguishes visible ecclesiastical liberation from spiritual life: life is prior to freedom. This is a central theological assertion and must not be reversed.
+
+* 1 Peter’s “living stones” image grounds congregational freedom in union with Christ, the living Stone.
+
+* “The whole counsel of God” prevents selective ecclesiology based on convenience.
+
+* The warning against “dead orthodoxy” reflects a pietistic-Lutheran insistence that correct doctrine must not merely presuppose spiritual life.
+
+* Authority in the free congregation is ministerial and scriptural, not absolute or personal. “Our authority is our Bible” is the controlling assertion.
+
+* Domination extinguishes spiritual agency; enforced resignation produces weakness of will and a spiritually lifeless condition.
+
+Voice Hazards
+
+* The prose is polemical but not ornamental. It presses the conscience chiefly through consequence and logical inevitability.
+
+* The author repeatedly speaks in categorical statements: “We must will truth”; “this is something that cannot possibly work”; “when one will not fight, it always goes wrong.” These must not be softened with “perhaps,” “may,” or “tends to.”
+
+* The first-person plural implicates both author and readers. It should remain “we,” not be converted into impersonal language.
+
+* The movement between criticism of opponents and confession of the Free Church’s own failures is essential. The author does not merely defend his party; he subjects it to the same principles.
+
+* The fundraising appeals to Augsburg are intentionally integrated into the theological argument rather than appended as neutral institutional notices.
+
+* The tone moves from solemn affirmation, to historical witness, to sharp ecclesiastical polemic, to self-accusation, to theological instruction, and finally to urgent appeal. These contrasts should remain evident.
+
+STEP 2: IDIOM ANALYSIS
+
+* “som et skib uten ror” — “like a ship without a rudder.” A traditional moral image for lack of governing direction. Literal English is natural and preserves the force.
+
+* “gaa i Jesu fotspor” — “walk in Jesus’ footsteps.” Biblical-Christian idiom, especially resonant with 1 Peter 2:21, where Christ leaves an example that believers should follow in his steps.
+
+* “Kristi kjærlighet utøst i hans hjerte” — “the love of Christ poured out in his heart.” This echoes Romans 5:5, “God’s love has been poured into our hearts through the Holy Spirit.” The author’s wording may also allow the subjective/objective ambiguity of “Christ’s love.”
+
+* “staat ansigt til ansigt med” — literally “stood face to face with.” Means encountered directly. The image is strong and should remain.
+
+* “veirhane, der snur med vinden” — “weather vane that turns with the wind.” An image of moral instability and dependence upon prevailing opinion.
+
+* “Et rør, som bevæges hit og dit av vinden?” — “A reed shaken back and forth by the wind?” Directly echoes Jesus’ question concerning John the Baptist in Matthew 11:7 and Luke 7:24.
+
+* “skafot” — scaffold, specifically the scaffold of execution.
+
+* “ham banet vei for” — “the one for whom he prepared the way.” Biblical language concerning John the Baptist as the forerunner of Christ.
+
+* “latt sit liv for sit vidnesbyrd” — literally “laid down/gave their life for their testimony.” Martyrial language with Revelation resonance.
+
+* “martyrkronen” — “the martyr’s crown.” Evokes the crown of life in Revelation 2:10 and James 1:12.
+
+* “leker med sandheten” — “play lightly with the truth” / “play with the truth.” Means to treat truth irresponsibly for expedient ends.
+
+* “Vi maa ville sandhet” — literally “We must will truth.” The expression is stronger than “we must want truth.” It means truth must be the deliberate governing object of the will.
+
+* “Da først blir vort liv helt” — “Only then does our life become whole.” “Whole” carries ethical integrity and undividedness.
+
+* “Det jesuitiske vil da fortrænges” — the author uses “Jesuitical” as shorthand for casuistic expediency. A literal rendering preserves the historical polemical register; explanatory replacement would blunt the source.
+
+* “lede alle retninger ind i en samlet stor strøm” — “lead all tendencies into one great united stream.” The stream metaphor must remain.
+
+* “alt skal finde rum” — “everything is to find room.” Means every tendency is to be accommodated.
+
+* “sandhetskraft” — literally “truth-power.” This compact theological-moral compound denotes the inherent force belonging to a conviction because it is true. “Power of truth” is more natural English.
+
+* “det kvalende kommer ind” — literally “the suffocating thing enters.” The idea is that institutional demand for peace begins to choke freedom. “The stifling element enters” preserves the image.
+
+* “dette alt opslukende” — “this all-devouring thing.” The Church conceived institutionally consumes differences and liberties.
+
+* “nedlægger vaabnene” — “lays down his weapons.” Spiritual/confessional conflict is figured as warfare.
+
+* “dele Ruslands skjebne, som vi ser den idag” — an immediate historical allusion to Russia in March 1918, after revolution, military collapse, and the Treaty of Brest-Litovsk. The comparison assumes surrender produces subjection and disaster. The translation should preserve the contemporary reference without adding historical explanation to the prose itself.
+
+* “kommer fra den samme avgrund” — “comes from the same abyss.” Strong apocalyptic/moral language; must not become merely “has the same harmful source.”
+
+* “gjelden kan løftes av” — literally “the debt can be lifted off.” Means remove the burden of debt. The burden image should remain.
+
+* “lastet” — “blamed,” “censured,” or “reproached.” “Censured” retains seriousness without implying formal discipline.
+
+* “orket at gjennemføre” — not “dared,” but “had the strength/capacity to carry through.” “Have not been equal to carrying the principles through” captures the confession.
+
+* “til vor ydmygelse” — “for our humiliation” or “to humble us.” The former is stronger but can sound punitive in modern English; the intended spiritual meaning is that the blame should humble them.
+
+* “gaar efter os” — “comes after us,” i.e. criticizes or attacks us.
+
+* “tar det sig litt anderledes ut” — literally “then it looks somewhat different.” Means the matter stands differently when the Free Church as such is being judged.
+
+* “git beviset” — “given the proof.”
+
+* “naaet maalet” — “reached the goal.” A recurring teleological image.
+
+* “rive ut av” — “tear out of.” Deliberately forceful language for extracting suitable believers from existing congregations.
+
+* “utsondring” — selection/separation out from a larger body.
+
+* “ligger for os” — “lies before us,” meaning is the task appointed to us.
+
+* “svigter” — fails, deserts, proves unfaithful to. It carries moral weight.
+
+* “kirkepolitikens briller” — “the spectacles of church politics.” Literal translation effectively preserves the polemical image.
+
+* “fører ilde med sig selv” — likely “does himself harm” / “fares badly with himself.” The core thought is inward injury caused by betrayal of one’s ideals.
+
+* “Kommer til ham den levende sten” — the older Bible wording of 1 Peter 2:4. A modern-pronoun but structurally elevated English equivalent is: “Come to him, the living Stone.”
+
+* “levende stene opbygget til et aandeligt hus” — “as living stones be built up into a spiritual house.” 1 Peter 2:5.
+
+* “to meier” — the two runners of a sled. The ecclesial argument requires both “life” and “liberation,” just as a sled requires both runners.
+
+* “døden i gryten” — from 2 Kings 4:40. The literal biblical phrase is fully intelligible and should remain.
+
+* “Saa siger Herren” — “Thus says the Lord.” This is the characteristic prophetic messenger formula. It need not be rendered in KJV form “Thus saith the LORD.”
+
+* “bror iblandt brødre” — “a brother among brothers.” Emphasizes equality within Christian fellowship.
+
+* “tie for overmagten” — “be silent before superior power” or “yield into silence before superior force.”
+
+* “stille os paa … principer” — literally “taken our stand upon … principles.” This idiom is rhetorically important and should be preserved.
+
+* “bære dem frem” — carry them forward, advance them publicly and effectively.
+
+* “klarere gjennembrud” — “clearer breakthrough,” meaning fuller realization and recognition among the people.
+
+* “et tak” — a concerted pull or effort, as when people lift together. “One more concerted effort” preserves the communal image better than simply “more money.”
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Installment of March 20, 1918
+
+* Thesis: Principles are indispensable. A person without principles is like a rudderless ship, and a Christian without principle is virtually inconceivable.
+
+* Christian grounding: Following Jesus itself constitutes a governing principle. When Christian discipleship becomes indifferent, Christian power is broken and loses influence upon others.
+
+* Soteriological foundation: Salvation gives a person a new direction of life through the Holy Spirit and the love of Christ poured into the heart.
+
+* Historical assertion: No stronger life-principle has confronted the world than that displayed by people sealed by God’s Spirit.
+
+* Paradox of freedom: Christian steadfastness is true freedom; worldly-minded instability is slavery to changing winds.
+
+* Biblical exemplum: John the Baptist is not a reed shaken by the wind. Neither king nor scaffold turns him from his course.
+
+* Martyrial confirmation: The world has never liked people of Christian principle, and many have died for their testimony, only to be honored afterward.
+
+* Contemporary need: The age especially needs people for whom truth is life’s highest goal, in both life and work.
+
+* Ethical demand: Differences of ecclesiastical opinion do not excuse frivolity with truth. Christians must will truth; only then is life integrated rather than Jesuitically expedient.
+
+* Polemical assertion: Claims that no real difference exists between the various Lutheran bodies are either ignorant or deceitful.
+
+* Historical ecclesiological distinction: Norwegian Lutheranism has contained two tendencies: high-church/state-church and low-church/congregational.
+
+* Contemporary conflict: There is a movement to erase differences of principle by merging all tendencies into a broad institutional “church.”
+
+* Refutation of comprehensive institutionalism: Genuine principles necessarily clash. If they possess no power of truth sufficient to enter conflict, they do not deserve to be called principles.
+
+* Diagnosis: The church body desires peace and demands that everything be sacrificed for institutional unity.
+
+* Ecclesiological reversal: The Church, which should be a means for the work of God’s kingdom, becomes the end itself.
+
+* Warning concerning freedom: The demand to sacrifice everything for the church body poisons both individual and congregational freedom and reproduces, in diluted form, an old Catholic principle.
+
+* Warfare argument: Desire for a church without conflict is spiritually dangerous. One who refuses to fight loses.
+
+* Contemporary political analogy: Russia’s condition in 1918 illustrates the consequence of laying down one’s weapons.
+
+* Spiritual judgment: The claim that all differences are equivalent comes “from the same abyss” and aims to destroy genuine tendencies and render principles worthless.
+
+* Immediate appeal: Those who believe in the free congregation should support Augsburg financially and help remove its debt.
+
+Installment of March 27, 1918
+
+* Opening defense: No one, so far as the author knows, has proved that the Lutheran Free Church’s Guiding Principles contradict New Testament teaching on the congregation.
+
+* Self-critical qualification: Criticism of the Free Church may nevertheless be justified insofar as its members have failed to carry those principles through.
+
+* Theological standard: If Christian principles demanded no more than believers were capable of realizing, they would not truly be Christian principles.
+
+* Confession: Both laypeople and pastors are blameworthy as workers who ought to offer themselves as instruments of the Spirit.
+
+* Divine-human relation: The Lord chooses to use his people in accomplishing his work in and through the congregation; their sluggishness therefore deserves humbling rebuke.
+
+* Reply to broad-church critics: If critics say individual Free Church members resemble them, the author has no answer. But if they say the Free Church itself has the same principles, they can prove it by adopting its Guiding Principles and constitution.
+
+* Reply to the opposite criticism: Others accuse the Free Church of failing to use its congregations according to its own principles. The author maintains that it is in harmony with the principles, though far from their goal.
+
+* Eschatological/perfection qualification: A “free and living congregation” is never attained as a finished human possession. If it were completed, it would be human work and only decline would remain.
+
+* Vocation: The longing for a living and liberated congregation rightly occupies the whole life-calling of believers.
+
+* Rejection of separatist elitism: The Free Church should not construct a “living congregation” by extracting supposedly superior material from existing church organizations.
+
+* Reasons: Human beings are not infallible judges of spiritual worth, and Free Church principles themselves forbid such a method.
+
+* Positive program: The Lutheran Free Church’s task is the making alive and setting free of congregations.
+
+* Pneumatological foundation: This is the work of the Holy Spirit; human workers are commanded simply to labor faithfully and not grow weary.
+
+* Pastoral treatment of defections: Those who fail for carnal reasons should be viewed in Christian light, not through church-political spectacles. The deepest cause is spiritual and personal, not merely organizational.
+
+* Priority of life over liberation: Recent discussion has emphasized liberation but neglected life. Yet life is the first condition of liberation.
+
+* Scriptural basis: 1 Peter joins Christ the living Stone with believers becoming living stones in a spiritual house.
+
+* Demand for comprehensiveness: Work for the free congregation must heed the whole counsel of God, not select only what suits preferences or practical purposes.
+
+* Sled metaphor: Life and freedom are like the two runners of a sled; both are necessary to carry the load forward.
+
+* Warning from dead orthodoxy: If life is merely presupposed, the result is “death in the pot.”
+
+* Authority principle: No person in the free congregation may claim unconditional authority. The only legitimate prophetic authority is a true “Thus says the Lord.” The Bible is the church’s authority.
+
+* Anti-domination argument: Whether domination comes from a pastor or a gifted brother, it suppresses and kills too much around it.
+
+* Consequence of coercion: External submission creates weak will and a dangerous spiritless condition, unfit for a free and living congregation.
+
+* Final examination of conscience: Those who stand on the Free Church’s principles must ask whether they have labored to give them clearer realization among the people or have become lukewarm.
+
+* Final institutional appeal: If the principles still possess their love, they should gather around Augsburg, which nurtured and advanced them.
+
+* Practical conclusion: The work for the congregation is already difficult enough without the avoidable burden of old debt; a concerted effort must be made during the present year.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “walk in Jesus’ footsteps” — probable echo of 1 Peter 2:21: Christ left an example so that believers should follow in his steps.
+
+* “the Holy Spirit” and love “poured out in his heart” — Romans 5:5 is the clearest source: God’s love poured into believers’ hearts through the Holy Spirit.
+
+* “sealed by God’s Spirit” — Ephesians 1:13; 4:30; compare 2 Corinthians 1:22.
+
+* “What did you go out into the wilderness to see? A reed shaken … by the wind?” — Matthew 11:7 and Luke 7:24.
+
+* John as “the Forerunner” who prepared the way for Christ — Isaiah 40:3; Malachi 3:1; Matthew 3:3; 11:10; Mark 1:2–3; Luke 3:4; John 1:23.
+
+* Martyrs who gave their lives for their testimony — broad resonance with Revelation 6:9; 12:11; 20:4.
+
+* “martyr’s crown” — Revelation 2:10, “crown of life”; compare James 1:12.
+
+* “instruments of the Spirit” — probable resonance with Romans 6:13, where believers are to present themselves to God and their members as instruments of righteousness, though the phrase is not a direct quotation.
+
+* “not grow weary” — Galatians 6:9; 2 Thessalonians 3:13; perhaps broader apostolic exhortational language.
+
+* “Come to him, the living Stone … as living stones … built into a spiritual house, a holy priesthood” — direct quotation/paraphrase of 1 Peter 2:4–5.
+
+* “the whole counsel of God” — Acts 20:27.
+
+* “death in the pot” — 2 Kings 4:40.
+
+* “Thus says the Lord” — the standard prophetic formula throughout the Old Testament, e.g. Exodus 4:22; Isaiah; Jeremiah; Ezekiel and many others.
+
+* “lukewarm” — likely deliberate echo of Revelation 3:16 and the Laodicean warning.
+
+* The general distinction between spiritual life and death, the work of the Spirit, living stones, and a holy priesthood reflects broader New Testament ecclesiology, particularly Pauline and Petrine language.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* “We must will truth” will remain categorical. It will not be softened to “we should seek truth.”
+
+* “either ignorant, or … full of deceit” will remain a direct moral accusation.
+
+* “cannot possibly be done” will retain the impossibility expressed by “umulig.”
+
+* “comes from the same abyss” will remain intact rather than being rationalized into milder institutional criticism.
+
+* The author’s admission that Free Church members are “not blameless” will remain equally strong.
+
+* “carnal reason,” “betrays his ideals,” “dead orthodoxy,” and “death in the pot” will retain their spiritual severity.
+
+* The rebuke of domination will retain “subdue and kill,” rather than modernizing it to “discourage participation.”
+
+* “lukewarm” will remain because its biblical moral pressure is intentional.
+
+* The closing demand “we must make it now, in this year!” will preserve its immediate imperative force.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” will normally be rendered “must,” especially in “Vi maa ville sandhet” and where moral or theological necessity is intended.
+
+* “skal” will be retained as “shall,” “must,” or an unweakened future according to context. Where it describes an institutional demand (“alt skal ofres”), “everything is to be sacrificed” or “everything must be sacrificed” preserves the coercive force.
+
+* “umulig gaar an” will be “cannot possibly be done.”
+
+* “maa de med nødvendighet brytes” will be “they must of necessity come into conflict.”
+
+* “maa dele Ruslands skjebne” will be “must share Russia’s fate.”
+
+* “skulde fremstille os” carries obligation: “ought willingly to present ourselves.”
+
+* “hører det os til at arbeide” means “it belongs to us to work,” i.e. it is our assigned duty. I will render “our part is to work.”
+
+* “faar agte paa” in this context carries obligation: “must heed.”
+
+* “har ingen ret til at kræve” is categorical: “no one has the right to claim.”
+
+* “maa kue og dræpe” means domination necessarily requires suppression: “must subdue and kill much around him.”
+
+* “det maa vi ta nu” will remain “we must make it now.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* princip / principer = principle / principles
+
+* kristelige principer = Christian principles
+
+* livsprincip = life-principle
+
+* sandhet = truth
+
+* frelst = saved
+
+* Helligaand / Guds aand / aandens = Holy Spirit / Spirit of God / Spirit
+
+* menighet = congregation
+
+* fri menighet = free congregation
+
+* fri og levende menighet = free and living congregation
+
+* levendegjørelse = making alive / giving life, according to syntax
+
+* frigjørelse = liberation / setting free
+
+* samfund = church body, where the institutional church body is clearly intended
+
+* retning = tendency, ecclesiastical tendency, or direction according to context
+
+* høikirkelig = high-church
+
+* lavkirkelig = low-church
+
+* statskirkelig = state-church
+
+* menighedsmæssig = congregational
+
+* kjødelig = carnal
+
+* Guds raad = counsel of God
+
+* autoritet = authority
+
+* liv = life
+
+* død = death
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Ship without a rudder — retained.
+
+* Following in Jesus’ footsteps — retained.
+
+* Love poured into the heart — retained.
+
+* Face to face — retained.
+
+* Weather vane turning with the wind — retained.
+
+* Reed shaken by the wind — retained.
+
+* Straight path / course before king and scaffold — retained.
+
+* Crowning martyrs / wreathing graves — retained.
+
+* Church tendencies flowing into one great stream — retained.
+
+* Stifling or suffocating institutional pressure — retained.
+
+* The all-devouring Church — retained.
+
+* Poison against freedom — retained.
+
+* Laying down weapons — retained.
+
+* The abyss — retained.
+
+* Removing/lifting the burden of debt — retained.
+
+* Living Stone / living stones / spiritual house — retained.
+
+* Sled with two runners — retained.
+
+* Death in the pot — retained.
+
+* Church-political spectacles — retained.
+
+* Standing upon principles — retained.
+
+* Carrying principles forward — retained.
+
+* Nurturing principles at Augsburg — retained.
+
+* Bearing the burden of debt — retained.
+
+* Taking a concerted pull together — retained.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening: affirmative and didactic.
+
+* John the Baptist passage: heroic and biblical.
+
+* Martyr passage: solemn and historically accusatory.
+
+* Truth passage: morally stringent.
+
+* Broad-church discussion: polemical and increasingly severe.
+
+* First Augsburg appeal: direct and practical.
+
+* Second installment opening: defensive but immediately self-critical.
+
+* Confession of failure: penitential.
+
+* “Free and living congregation” discussion: aspirational but anti-utopian.
+
+* Defection paragraph: severe yet pastorally restrained; the author deliberately stops himself from saying more.
+
+* Life-versus-liberation section: doctrinally corrective.
+
+* Authority section: sharp warning against personal domination.
+
+* Final section: examination of conscience leading into urgent communal appeal.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long accumulative sentences will generally be preserved where the author builds pressure clause upon clause.
+
+* Short categorical sentences such as “We must will truth” will remain short because their abruptness is part of their force.
+
+* Rhetorical questions will remain questions.
+
+* Repeated adversative transitions — “But,” “And yet,” “For,” “But here” — will remain explicit rather than being smoothed away.
+
+* Semicolon logic will be retained where the original pivots from premise to consequence.
+
+* Biblical quotations will use modern pronouns while retaining parallel structure.
+
+* The prose will avoid KJV archaisms such as “thou,” “thee,” “hath,” and “saith.”
+
+* Elevated diction will come from syntax, theological vocabulary, and cumulative reasoning rather than ornamental archaism.
+
+STEP 11: ACADEMIC TRANSLATION
+
+PRINCIPLES
+(E. E. G.)
+
+Installment 1: “Folkebladet,” March 20, 1918
+
+Principles are an excellent thing to possess. A man without principle is like a ship without a rudder. To imagine a Christian without principle is surely an impossibility. To walk in Jesus’ footsteps is surely to have a principle? Wherever a Christian becomes indifferent in his following of his Savior, there the Christian power is broken and has lost the ability to influence others in a Christian direction.
+
+From the moment a person is saved, that same person is given a new direction of life. The imparting of the Holy Spirit and the love of Christ poured out in his heart effects this. The world has never stood face to face with a stronger life-principle than that which it met in people sealed by the Spirit of God. Naturally, neither has the world been able to prevent the progress of Christianity. And yet the life of the Christians was a life in freedom. Yes, the only life that is free. The person of worldly mind becomes nothing but a weather vane that turns with the wind. Such was not the way of the Lord’s witnesses. “What did you go out into the wilderness to see? A reed moved back and forth by the wind?” No, they will not find that in John. Neither king nor scaffold forces him away from his straight course. The Forerunner goes to death, even as did he for whom he prepared the way.
+
+And yet people venture to speak scornfully of principles. But the world has never liked people with Christian principles. All of them have been, more or less, intolerable to it, and hosts of them have laid down their lives for their testimony and received the martyr’s crown. But when they lay in their graves, many joined in wreathing those graves.
+
+If there is anything our age needs, it is people with Christian principles, people for whom “truth is life’s highest goal,” truth in life and in work.
+
+That not everyone shares the same view, either in state or church, is of course a well-known fact. But though others may hold another view concerning Christian matters, and still more concerning ecclesiastical matters, that will give us no excuse if we frivolously play with the truth. We must will truth. Only then does our life become whole. The Jesuitical will then be driven out.
+
+When church people today maintain that among the various Lutheran church bodies there is no difference in viewpoint and manner of work, those people are either ignorant, or they are full of deceit.
+
+Within the Norwegian Lutheran Church there have, during the last century, been two ecclesiastical tendencies: a high-church and a low-church tendency, a state-church and a congregational tendency, even though the latter has not always been conscious of what it was striving toward. The same tendencies are still present in the Norwegian Lutheran Church on both sides of the ocean. As time has advanced, there have been strong tendencies and a more intense striving to erase every difference of principle and to lead all tendencies into one united great stream called the Church. It is to be made great and broad so that everything may find room. The church body is to make room for everything. But this is something that cannot possibly be done. For if principles and tendencies are to be allowed to live, they must of necessity come into conflict; and if they do not possess within themselves enough power of truth to enter into conflict, then they do not deserve the name of tendencies or Christian principles. But here the stifling element enters. The Church, the church body, wants peace. Everything is to be sacrificed for the church body; and what then becomes of the tendencies? The Church, this all-devouring thing, which was to be a means for advancing the work of the kingdom of God, has become the goal; the majority of the church body has become the whole direction. The demand that everything be sacrificed for the church body is a very strong poison against freedom, both individually and congregationally. It is the old Catholic principle in a somewhat diluted degree. This kind of weapon has proved by no means ineffective. For people so dearly want a church without conflict. But when one will not fight, it always goes badly. He who lays down his weapons must share Russia’s fate, as we see it today. This voice, saying that everything is alike, comes from the same abyss and has the same purpose: to kill the various tendencies and render principles worthless.
+
+You who now believe that the free congregation is worth our labor and sacrifices, and that in this we serve the Lord’s cause, give now to Augsburg what you are able to sacrifice, so that the debt may be lifted off!
+
+(To be continued.)
+
+PRINCIPLES
+(E. E. Gynild.)
+
+Installment 2: “Folkebladet,” March 27, 1918
+
+(Conclusion.)
+
+It is not known to me that anyone has yet attempted to prove that the Guiding Principles of the Lutheran Free Church are not in full agreement with the New Testament revelation concerning the congregation. In spite of this, there have been enough who have censured the Lutheran Free Church. But then the censure must chiefly fall upon us who constitute it and labor within it, because we have not been equal to carrying the principles through.
+
+But if those same principles demanded no more than what we were able to carry through, then they would not be Christian principles. But if the charge concerns us as congregational people, as workers who ought willingly to present ourselves as instruments of the Spirit, then we are not blameless, neither laypeople nor pastors.
+
+It has pleased the Lord to use his people for the accomplishment of the work in and through his congregation. Here we are sluggish. That rebuke we must receive to our humbling.
+
+When the broad-church tendency comes after us, it is chiefly because, they say, we are like them. And to that we have nothing to say when they look upon us as individuals. But when one says that we seek the same thing and speaks of us as the Free Church, then the matter looks somewhat different. Yet here is an opportunity for them to prove that it is so. They can simply adopt the Guiding Principles of the Lutheran Free Church and, if they wish, the constitution that has sprung from them, and then they have given the proof.
+
+The other tendency accuses us because we do not use our congregations in harmony with our principles. To them we answer that we believe we are in harmony with the principles. They must surely mean that we have not reached the goal, and in that they are entirely right. A “free and living” congregation is not attained in the sense that we can say, Now we have it. That would then have to be a human work. The longing to see a living and liberated congregation surely lives in every believing heart, but the goal is so high that it will occupy all our time and all our powers and gifts, and even then the goal lies far ahead. If we were at the goal, there would surely be nothing left to expect but decline. But when we take up the work for the “free and living congregation,” then we shall not outlive our calling in life.
+
+Some have thought that one should attempt to tear out of the existing congregational organizations what, in our judgment, constitutes suitable material for a “living congregation.” In the first place, we human beings are not altogether infallible judges, so that we would be fit for such a separating-out; and in the second place, our principles forbid us this kind of procedure.
+
+“The making alive and setting free of the congregations” is what lies before us in the Lutheran Free Church. It is the work of the Holy Spirit. As workers, our part is to labor and not grow weary. That there will continually be some who grow weary, who for one or another carnal reason fail, will unfortunately no doubt continue to be the case. But such falls also we must try to see in Christian light and not through the spectacles of church politics. The cause lies deeper than an outward connection with this or that. He who betrays his ideals fares badly and deals ill with himself. Yes, it is best not to say more about so unpleasant a subject.
+
+Much has lately been written about liberation, but little about life. Yet life is the first condition of liberation. The Apostle Peter joins the two in this way: “Come to him, the living Stone”—and yourselves, as living stones, “be built into a spiritual house, a holy priesthood,” and so forth. He who would labor for the liberated congregation must heed the whole counsel of God. It will not do to take only that which sounds like us, or which for the sake of one purpose or another is expedient. A sled has two runners, and the load is carried forward when both runners bear the load. But perhaps we do as the advocate of dead orthodoxy does: we presuppose the life? Then we shall also obtain the same result: “death in the pot.”
+
+In the free congregation no one has the right to claim unconditional authority. No one, unless he can say, as the prophets did: “Thus says the Lord.” [The wording of the supplied source is textually defective at this point; this sentence renders its apparent contextual sense.] Our authority is our Bible. He who wishes to rule, and has gifts and powers for doing so, must subdue and kill too much around him, whether the ruler is the pastor in “his” congregation or a brother among brothers. Many will indeed remain silent before superior force, but that kind of resignation bears as its fruit a weak will, a dangerous spiritless condition, which is of little use in the work for a “free and living congregation.”
+
+Now, a word to all of us who have taken our stand upon the principles of the Lutheran Free Church. Have we done what we could to carry them forward toward a clearer breakthrough among our people? Perhaps we have become lukewarm, so that they no longer have the place in our life and work that they once had? If they still possess our love, then let us gather around Augsburg, the school that has nurtured them and continually carried them forward among our people. The work for the congregation is heavy enough without our also bearing an unnecessary burden, an oppressive debt, which is already too old to be tolerated any longer. One more concerted effort is needed, and we must make it now, in this year!
