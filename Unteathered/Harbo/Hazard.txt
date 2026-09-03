@@ -1,0 +1,443 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “menighet” can mean congregation, church, or Christian community. In this controversy it frequently bears a theological sense beyond mere local organization. “Congregation” is generally preferable when local organization is in view; “Church” or “Christian congregation” is sometimes required in confessional quotations.
+* “menighetsarbeide” is not merely “church work” in a generic modern sense. It concerns the principles and practice governing congregational formation, admission, discipline, and spiritual life.
+* “Ledende principper” is the official title of the Lutheran Free Church document. It should be rendered consistently as “Guiding Principles.”
+* “samfund” refers to church bodies or denominational organizations, not simply “communities.” In the polemic, “de store samfund” means “the large church bodies.”
+* “barnelærdommen” refers to the traditional catechetical instruction, especially Pontoppidan, rather than childish or elementary learning in a dismissive sense. “The catechetical instruction” or “the catechism” is contextually appropriate.
+* “hyklere” carries its direct theological meaning, “hypocrites,” particularly in relation to Augsburg Confession VIII and the visible Church.
+* “verdslige folk” means worldly or unspiritual people, not merely secular persons in the modern sociological sense.
+* “bekjendelse” means confession in the doctrinal/confessional sense and must not be weakened to “belief.”
+* “naademidlerne” means “the means of grace,” a technical Lutheran term.
+* “naadegaverne” means “gifts of grace” or “spiritual gifts.”
+* “vækkende forkynnelse” denotes preaching intended to awaken the spiritually indifferent or unconverted; “awakening preaching” preserves the historical pietistic-Lutheran meaning.
+* “gjenstridige syndere” means obstinate or impenitent sinners.
+* “menighetsdannelse” means formation or constitution of congregations.
+* “frivillighet” is central to Sverdrup’s ecclesiology. It is not autonomous individualism, but voluntary response produced by the Holy Spirit through the Word.
+* “selvbestemmelse” similarly means self-determination, but Sverdrup immediately qualifies it as grounded in divine determination.
+* “gudsbestemmelse” is an unusual compound emphasizing that genuine Christian willing rests in God’s determining work.
+* “kjødelige grunde” means fleshly motives, in the Pauline theological sense, rather than merely bodily or material motives.
+* “folkeskik” means national or customary social Christianity, Christianity functioning as inherited folk custom.
+* “statskirkevæsen” denotes the state-church system as a whole.
+* “frihetens sak” means a matter belonging to spiritual freedom, not political libertarianism.
+* “forkvaklet” is strong: distorted, stunted, deformed.
+* “forflakking” suggests drifting, dispersion, or loss of fixed spiritual orientation.
+* “vrængbillede” means distorted image or caricature.
+* “uadkortet fylde” means undiminished, unreduced fullness.
+* “sønlige utkaarelse” refers to filial adoption/election as children of God; the phrase requires theological care.
+* “klenodie” is an archaic word for a precious treasure or jewel.
+* “sprukken brønd som ikke holder vand” echoes Jeremiah and should retain the biblical image of a broken cistern.
+* “dobbeltforholdet” means the untenable attempt to occupy two incompatible ecclesiastical positions at once.
+* “Synodalbegrepet” means the synodical conception or principle, contrasted with congregational freedom.
+
+Syntactic Hazards
+
+* Harbo frequently builds arguments through long interrogative sequences. These must remain questions rather than being converted into declarative prose.
+* Repetition such as “en betydelig forskjel, en væsentlig forskjel” is deliberate argumentative intensification and should remain.
+* “Ti” is the older form of “for/because” and repeatedly marks causal logic. The translation must retain these explicit causal transitions.
+* Sverdrup’s prose relies on long chains joined by semicolons, “and,” “for,” and “therefore.” Excessive sentence splitting would erase his didactic logic.
+* Several sentences move from doctrine to biblical citation to practical application without modern paragraph-level signposting.
+* Rhetorical questions are used polemically by Harbo and pedagogically by Sverdrup. Their force must not be neutralized.
+* Parallel imperative sequences, especially “Kom til hvile, kom til arbeide ...,” are climactic and must retain their cumulative rhythm.
+* Embedded citations from confessional documents and Scripture require a distinction between quoted language and surrounding prose without making the quoted language artificially archaic.
+* Some typographical breaks in the source arise from columns and page transitions and are not syntactic breaks.
+
+Theological Hazards
+
+* The distinction between the Church properly speaking as the assembly of saints and believers, and the visible ecclesiastical body containing hypocrites and wicked persons, is fundamental to the argument.
+* Harbo’s charge depends upon the claimed agreement between the Free Church’s Guiding Principles and Augsburg Confession VII–VIII.
+* The Holy Spirit, not clerical judgment, is presented by Sverdrup as the agent who calls, gathers, enlightens, sanctifies, and constitutes the congregation.
+* Human judgment must not replace the Lord’s judgment concerning inward faith.
+* At the same time, the congregation has a duty to exercise discipline and to test the character of professed voluntariness.
+* “Voluntariness” must therefore not be rendered as religious consumer choice. It is the Spirit-created willingness of faith.
+* Baptism, the Word, the Lord’s Supper, fellowship, prayer, and confession of Christ all function as ecclesiological markers.
+* The critique of the state church distinguishes spiritual freedom from “fleshly freedom.”
+* “Means of grace” must remain technically Lutheran.
+* The metaphor of Christ’s body and the Church as God’s temple must retain doctrinal rather than merely figurative force.
+* The concluding conflict between “synodical” organization and congregational freedom is ecclesiological, not merely administrative.
+
+Voice Hazards
+
+* Harbo’s voice is combative, ironic, and accusatory, but not casual. His sarcasm must remain restrained and formal.
+* Expressions such as “Hvor vil saa han gaa hen? Hvor hører han saa hjemme?” deliberately expose what Harbo sees as Anderson’s inconsistency.
+* “Naa ja” and “Aa nei” should retain their dismissive rhetorical turn without becoming conversational slang.
+* Sverdrup’s voice is more expansive, theological, fraternal, and exhortational.
+* “Vi er jo lutheranere, brødre” carries oral warmth and doctrinal insistence at once.
+* The sermon-like urgency in Sverdrup must not be replaced by academic abstraction.
+* The closing invitation must rise rhythmically without becoming sentimental.
+* The article’s severity toward Anderson must not be softened into neutral historical reporting.
+
+STEP 2: IDIOM ANALYSIS
+
+* “seile under falsk flag” = “sail under false colors.” The metaphor signifies publicly professing principles one does not actually practice.
+* “smutte ind i ‘de store samfund’” = slip or sneak into the large church bodies. The verb has mildly contemptuous force.
+* “sætte sig i døren til Guds rike” = set oneself in the doorway of the kingdom of God. It pictures a minister presumptuously deciding who may enter.
+* “efter vort hode” = according to our own notions or as we see fit. A literal “after our head” would be opaque.
+* “kaste sig i armene paa fyrster og politikere” = be cast into the arms of princes and politicians; an image of the Reformation becoming dependent upon secular power.
+* “sliter ... baand ... og ... rep” = tears apart the bonds and cords. This prepares for the Psalm 2 allusion.
+* “Herrens faste grundvold” = the firm foundation of the Lord; a direct echo of 2 Timothy 2:19.
+* “søke Herren, mens han findes” = seek the Lord while he may be found; Isaiah 55:6.
+* “betale Herren sine løfter” = pay/render one’s vows to the Lord; frequent Psalms language.
+* “fra mørket til sit underfulde lys” = from darkness into his marvelous light; 1 Peter 2:9.
+* “mellemvæggen” = the dividing wall; Ephesians 2:14.
+* “ta livsens vand uforskyldt” = take the water of life freely/without cost; Revelation 22:17.
+* “bryllupsklædningen” = wedding garment; Matthew 22.
+* “ind dem til at komme” is almost certainly an allusive or typographically damaged form related to the command to compel/urge them to come in from Luke 14:23. The translation should express invitation with strong urgency without introducing coercive ecclesiology contrary to Sverdrup’s argument.
+* “nøklerne ... lukker op og lukker til” evokes the biblical keys and divine authority to open and shut.
+* “i tide og utide” = in season and out of season; 2 Timothy 4:2.
+* “Guds tempel, som ingen maa driste sig til at fordærve” = God’s temple, which no one may dare destroy; 1 Corinthians 3:16–17.
+* “Kom til korset og kom til kronen!” juxtaposes suffering and final glory in a traditional Christian image.
+* “plaster læger ikke saaret fra bunden av” = such a plaster does not heal the wound at its root. The meaning is superficial treatment of a fundamental contradiction.
+* “sprukken brønd som ikke holder vand” = a broken cistern that holds no water; Jeremiah 2:13.
+* “menighetsfrihetens herlige klenodie” = the glorious treasure/jewel of congregational freedom.
+* “samfulde tre aar” = three whole/full years, with ironic emphasis.
+
+King James Bible equivalents would often be historically recognizable, but the requested profile explicitly avoids inherited KJV diction. Accordingly, biblical allusions should retain their structure and gravity with modern pronouns and without “thee/thou/thy.”
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Part I: Harbo’s critique of Anderson
+
+* Anderson has stated that his practice of congregational work is incompatible with the Lutheran Free Church’s Guiding Principles and more compatible with the large church bodies.
+* Harbo previously asked Anderson to define the alleged difference.
+* Anderson refuses further explanation but reiterates that the difference is substantial and essential.
+* Harbo agrees that a real difference exists, but argues that the disagreement concerns what is genuinely Lutheran and biblical.
+* Harbo asks whether Anderson’s position can agree with Scripture and the Lutheran Confessions if it conflicts with principles Harbo regards as both Lutheran and biblical.
+* Harbo cites Guiding Principles 2 and 4 alongside Augsburg Confession VII and VIII.
+* He argues that both distinguish the true congregation of believers from the visible organization in which hypocrites and wicked persons may also be present.
+* He therefore accuses Anderson of confusion in imagining that repudiating the Guiding Principles frees him to follow the practice of the larger Lutheran bodies.
+* Harbo claims that Anderson has mistaken the Guiding Principles as requiring a minister to decide infallibly who is inwardly regenerate.
+* Harbo rejects that reading and introduces the Lutheran position: the formation of the congregation is fundamentally the work of the Holy Spirit.
+
+Part II: Sverdrup’s lecture as evidence
+
+* Harbo introduces Sverdrup as a member of the committee that drafted the Guiding Principles and therefore as an authoritative interpreter of them.
+* Sverdrup asks when a congregation should be organized and whom one should seek to include.
+* He rejects mechanical universal rules and instead establishes general principles.
+* The nature of the congregation must be derived from New Testament revelation because this is a doctrinal matter governed by Scripture alone.
+* The New Testament presents the congregation as the work of the Holy Spirit.
+* Luther’s Small Catechism summarizes this: the Holy Spirit calls, gathers, enlightens, sanctifies, and keeps the Christian Church.
+* Acts demonstrates that the Lord adds to the congregation those who receive the Word.
+* Congregational formation is therefore the work of God through Word, Spirit, baptism, faith, and confession.
+* Sverdrup names the outward human form of this divine action “voluntariness.”
+* This voluntariness is not autonomous self-determination but willingness created by the Holy Spirit.
+* Responsibility rests upon those who respond to the call and confess Christ.
+* As congregations grow, they must guard against fleshly motives for membership and exercise proper ecclesiastical discipline.
+* Such discipline does not abolish voluntariness but tests its character.
+* Sverdrup then gives a historical critique of state-church coercion, which distorted Lutheran ecclesiology.
+* Some immigrants react by rejecting Christianity into fleshly freedom; others cling excessively to inherited state-church custom.
+* The Free Church’s task is to recover spiritual voluntariness without departing from Lutheran truth.
+* Ministers must proclaim the Gospel freely and fully, leaving the Holy Spirit to draw people while making clear the solemn responsibility of membership.
+* Human judgment cannot replace the Lord’s judgment.
+* Congregations should not wait until ministers imagine themselves certain who is inwardly believing; baptized confessors of Christ may be gathered, while growth is entrusted to God.
+* The decisive realities are the Spirit and the Lord’s judgment, not numbers and human judgment.
+* The lecture ends with an escalating invitation to rest, labor, sacrament, feast, vineyard, harvest, cross, and crown.
+
+Part III: Harbo’s conclusion
+
+* Harbo adds Sverdrup’s criticism of G. A. Lammers, who sought a congregation holy through the holiness of its members rather than through the Holy Spirit’s work in the means of grace.
+* Harbo concludes that Sverdrup plainly opposed human selection as the source of a believing congregation.
+* He returns to Anderson’s claim that he remains a Free Church man “rightly understood” and mocks the inconsistency.
+* Harbo argues that Anderson has exchanged congregational freedom for membership in a large church body.
+* He cites Anderson’s recent signature affirming the Free Church’s Guiding Principles immediately before Anderson joined another Lutheran church body.
+* Harbo therefore presents Anderson’s call for consistency as self-condemning.
+* The final doctrinal thesis is categorical: the synodical conception and the conception of congregational freedom cannot be reconciled.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “the Holy Spirit ... calls, gathers, enlightens, sanctifies” — Luther’s Small Catechism, Third Article explanation, itself summarizing New Testament ecclesiology.
+* “purchased/acquired a congregation with his own blood” — Acts 20:28.
+* Pentecost, “the power of the storm” and “fire” — Acts 2:1–4.
+* “his body, which is the congregation” — Ephesians 1:22–23; Colossians 1:18, 24.
+* “those who gladly received Peter’s word were baptized” — Acts 2:41.
+* “the Lord added daily ... those who were being saved” — Acts 2:47.
+* “Samaria received the word of God” — Acts 8:14.
+* Antioch and the disciples first being called Christians — Acts 11:19–26.
+* “middle wall” broken down — Ephesians 2:14.
+* “became believers” — repeated Acts terminology.
+* “received the Holy Spirit” — Acts, especially Acts 8, 10, 19.
+* “baptized into Christ’s death” — Romans 6:3.
+* “The Spirit and the bride say, Come ... take the water of life freely” — Revelation 22:17.
+* “pay his vows to the Lord” — Psalms 22:25; 50:14; 66:13; 116:14, 18.
+* “called us out of darkness into his marvelous light” — 1 Peter 2:9.
+* “Let us break their bonds ... cast away their cords” — Psalm 2:3.
+* “The Lord knows those who are his” and “Let everyone who names the name of Christ depart from unrighteousness” — 2 Timothy 2:19.
+* Jesus as “the door” — John 10:7, 9.
+* invitation that the house may be filled — Luke 14:23.
+* wedding garment — Matthew 22:11–14.
+* God’s house/temple not to be destroyed — 1 Corinthians 3:16–17.
+* keys and opening/shutting — Matthew 16:19; Revelation 3:7.
+* “in season and out of season” — 2 Timothy 4:2.
+* “seek the Lord while he may be found” — Isaiah 55:6.
+* love poured into hearts — Romans 5:5.
+* sonship/adoption — Romans 8:15–17; Galatians 4:4–7.
+* God gives growth — 1 Corinthians 3:6–7.
+* rest — Matthew 11:28.
+* vineyard and labor — Matthew 20; related Synoptic vineyard imagery.
+* harvest labor — Matthew 9:37–38; John 4:35–38.
+* cross and crown — broad New Testament pattern, especially 2 Timothy 4:8; James 1:12; Revelation 2:10.
+* broken cistern that holds no water — Jeremiah 2:13.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Harbo’s polemic will retain its direct accusations of inconsistency, confusion, and doctrinal error.
+* His rhetorical questions will remain pointed.
+* His ironic phrases will not be neutralized.
+* Sverdrup’s treatment of state-church Christianity will retain words such as “coercion,” “bitter hatred,” “fleshly freedom,” and “distorted image.”
+* The solemn warnings concerning false membership, hypocrisy, destruction of God’s temple, and accountability before God will not be softened.
+* The concluding invitation will preserve its cumulative urgency without adopting revivalist sentimentality foreign to the prose.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” will normally be rendered “must.”
+* “skal” will be rendered “shall,” “must,” or a firm future according to context; it will not be weakened into “may.”
+* “bør” will retain normative force as “ought.”
+* “kan ikke” and “umulig” will remain “cannot” and “impossible.”
+* Commands such as “La ...” will remain imperatives: “Let ...”
+* “skyldig” and “skylder sig” will preserve obligation: “is bound,” “owes it,” or “is obligated.”
+* Sverdrup’s repeated insistence that one “must go back” to Scripture will remain categorical.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet = congregation, except where established confessional wording clearly requires Church
+* menighetsdannelse = formation of congregations / congregational formation
+* menighetsorganisation = congregational organization
+* Ledende principper = Guiding Principles
+* bekjendelse = Confession / confession according to context
+* den lutherske bekjendelse = the Lutheran Confession
+* den hellige skrift / skriften = Holy Scripture / Scripture
+* naademidler = means of grace
+* naadegaver = gifts of grace
+* troende = believers / believing
+* hyklere = hypocrites
+* Aanden / den Helligaand = the Spirit / the Holy Spirit
+* frivillighet = voluntariness
+* kjødet / kjødelig = the flesh / fleshly
+* frelse = salvation
+* salighet = eternal blessedness where the distinction from “salvation” matters
+* syndernes forladelse = forgiveness of sins
+* Guds ord = God’s Word
+* Guds rike = kingdom of God
+* Kristi legeme = body of Christ
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Door/doorway imagery will remain literal.
+* Body-of-Christ imagery will not be reduced to “community.”
+* The state church’s “bonds” and “cords” will remain.
+* The “firm foundation” and its inscription will remain.
+* The “wedding garment,” “vineyard,” “harvest,” “cross,” and “crown” will remain intact.
+* “Broken cistern” will remain rather than being explained away.
+* “Sailing under false colors” will remain.
+* “Glorious treasure” of congregational freedom will remain elevated.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Harbo’s opening is analytic and disputational.
+* His tone becomes sharper as he questions Anderson’s confessional consistency.
+* Sverdrup’s lecture begins methodically, becomes doctrinal, then historical and admonitory, and finally strongly pastoral and exhortational.
+* His critique of the state church is followed by hope concerning the restoration of the congregation.
+* His warning against human control is balanced by a positive summons to Gospel proclamation.
+* Harbo’s return after Sverdrup is deliberately harsher and more ironic.
+* The final sentence has the force of a doctrinal verdict and will remain terse.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long accumulating sentences will be retained where their clauses advance one theological argument.
+* Semicolons will be used where Sverdrup pivots without completing the rhetorical movement.
+* Repeated “and” constructions will generally remain.
+* The sequence “Come ... come ...” will retain every imperative.
+* Direct address such as “brothers” will remain.
+* Harbo’s paired rhetorical questions will remain paired.
+* Quotations will retain their parallel structures rather than being recast into idiomatic contemporary English.
+
+STEP 11: ACADEMIC TRANSLATION
+
+Pastor L. O. Anderson and the Guiding Principles
+of the Lutheran Free Church
+
+Elias B. Harbo
+
+——
+
+“Folkebladet,” August 14, 1918
+
+Pastor L. O. Anderson explained in Folkebladet of June 26 of this year why he left the Lutheran Free Church. And the reason he gave was that the manner in which he carries on congregational work “is not in harmony with the view of congregational work maintained by the Guiding Principles of the Lutheran Free Church, but rather in harmony with the view of congregational work maintained by the large church bodies.”
+
+In connection with this statement of Pastor Anderson, we then called attention in Folkebladet of June 17 to the fact that he maintained that two entirely different views of congregational work exist in “the large church bodies” and in the Lutheran Free Church, inasmuch as “the large church bodies” maintain one view and the Lutheran Free Church another. And at the same time we addressed a friendly request to Anderson to explain more fully wherein the difference between the two views consists.
+
+In Folkebladet of August 7 Anderson answers our request. And the answer is: “It would be an absolute waste of time for me to attempt it. In my former article I pointed out the difference, and I shall not enter further into the matter at hand.”
+
+Pastor Anderson will therefore not enter upon any fuller explanation of the view of congregational work maintained in “the large church bodies” and the view maintained in the Lutheran Free Church.
+
+Well, there is of course nothing to say against his unwillingness to give a fuller explanation. For when the question concerns the congregation and the work for it and in it, then it is naturally a question of voluntariness, a question of what a man can and will voluntarily contribute to shed light upon the matter. And the matter is the congregation, its life and freedom. And when we write about this, it is the matter that concerns us, not persons. We therefore did not ask for a fuller explanation of wherein the two different views consist merely for our own sake, but requested a fuller explanation for all the readers of the paper. For we thought it would be profitable for us all to learn more clearly wherein the difference between the two views of congregational work consists.
+
+But although we did not receive the fuller explanation for which we asked, our request was not entirely without fruit. For in his answer Anderson repeats that there is a difference in the view of congregational work. He says in his answer that “that there is a difference—a considerable difference—between the view of congregational work maintained in the Guiding Principles and that maintained in the church bodies’ rules for congregational work is something Free Church people least of all will dispute. If there is no difference—and an essential difference—then the Free Church congregations have no valid excuse for having refrained from joining the union last year.”
+
+As one sees, Anderson maintains with great emphasis that there is a different view, that there is “a considerable difference, an essential difference.” That he repeats this declaration concerning the different view in his answer is all the more significant, for it shows that his declaration has been well considered; it is not the fruit of thoughtlessness or haste.
+
+Very well, we agree with Pastor Anderson in his understanding that two entirely different views of congregational work exist in “the large church bodies” and in the Lutheran Free Church. There is no disagreement between us so far as that matter is concerned. But that is undoubtedly also as far as the agreement extends in the matter here under debate. His last two articles in this paper have thoroughly convinced us that when the question concerns the Lutheran and biblical view of work for and in the congregation, we are fundamentally at variance.
+
+Anderson says that he left the Free Church because the manner in which he carries on congregational work “is not in harmony with the view of congregational work maintained by the Guiding Principles of the Lutheran Free Church.” But is he then in harmony with the Confession of the Lutheran Church and with Holy Scripture? We shall not ask whether he is in harmony with the catechetical instruction, for in this matter he has declared it, quite without reservation and with great boldness, to be unbiblical. For he says: “But is it also biblical to brand people as hypocrites when they join the congregation’s outward organization and are not believing people? It is, according to Pontoppidan. But is it biblical? I have found nothing in the Bible that prompts me to brand as a hypocrite the person who, without being a believer, requests admission into the congregation’s outward organization.” After such treatment of the catechetical instruction, we cannot expect much respect for it from the person concerned. Anderson therefore left the Lutheran Free Church because in his congregational work he was not in harmony with the view of this work maintained by the Guiding Principles of the Lutheran Free Church.
+
+Now the question naturally presents itself to us: Are the Guiding Principles Lutheran and biblical? Anderson has supplied no proof in either his explanation or his answer that the Guiding Principles are un-Lutheran and unbiblical. And until he supplies such proof, we shall continue to regard the Guiding Principles as both Lutheran and biblical.
+
+When Anderson now declares that his view of congregational work does not harmonize with the view of this work maintained in the Guiding Principles, how then can his view harmonize with the Lutheran Confession and Holy Scripture when the Guiding Principles are both Lutheran and biblical?
+
+Therefore, when Anderson says in his answer: “Is it not time that we who do not carry out the Guiding Principles in practice either return and begin to practice what we have professed—so that we shall no longer have to expose ourselves to the charge of sailing under false colors—or else leave the Free Church and go where, according to our practice, we belong?” it undeniably appears somewhat comical. Where, then, will he go? Where, then, does he belong?
+
+It would be both manly and Christian if Anderson were to return and begin to practice in his congregational work what he has professed. Anderson speaks somewhat in his answer about point 2 and point 4 of the Guiding Principles. Point 2 reads as follows: “The congregation consists of believing people who, through the use of the means of grace and the gifts of grace according to the direction of God’s Word, seek their own salvation and eternal blessedness and that of all their fellow human beings.” And point 4 reads as follows: “Since not all members of the congregation’s outward organization are always believing people, and since such hypocrites often take false comfort from their outward connection with the congregation, it is the congregation’s holy calling to cleanse itself both through awakening proclamation of God’s Word, through earnest admonition and reminder, and through the exclusion of manifest and obstinate sinners.”
+
+Articles 7 and 8 of the Augsburg Confession read as follows:
+
+Article 7. “Likewise they teach that one holy Church will continue forever. But the Church is the assembly of the saints, in which the Gospel is rightly taught and the Sacraments are rightly administered. And for the true unity of the Church it is enough to agree concerning the doctrine of the Gospel and the administration of the Sacraments. On the other hand, it is not necessary that the same human traditions, or church rites or ceremonies instituted by human beings, should be everywhere alike. As Paul says: One faith, one baptism, one God and Father of all, etc.”
+
+Article 8. “Although the Church properly is the assembly of saints and those who truly believe, nevertheless, since in this life many hypocrites and wicked persons are mingled with them, it is permitted to use the Sacraments even when they are administered by wicked persons, according to the word of Christ: ‘The scribes and Pharisees sit in Moses’ seat,’ etc. And the Sacraments and the Word are effective because of Christ’s institution and command even when they are administered by wicked persons.
+
+“They condemn the Donatists and others who taught that it was not lawful to use the ministry of wicked persons in the Church, and who held that the ministry of the wicked was useless and ineffective.”
+
+We cannot see any essential difference between what is said in points 2 and 4 of the Guiding Principles and Articles 7 and 8 of the Augsburg Confession. For both the points and the Articles say that the congregation or Church consists of believing people and that in the outward organization or Church wicked persons and hypocrites are mingled.
+
+How, then, can one in congregational work be in harmony with the Lutheran Confession and not with the Guiding Principles in the question concerning the necessary qualifications for admission into the congregation?
+
+When Pastor Anderson asks: “Does it follow from point 4 that we have the right to establish a congregation of worldly people? Does it appear to be in harmony with the Guiding Principles that we deliberately admit unbelieving people, that is, ‘hypocrites,’ into the congregation?” then we may with equal right ask: Does it follow from Articles 7 and 8 of the Augsburg Confession that we have the right to establish a congregation of worldly people? Does it appear to be in harmony with the Augsburg Confession that we deliberately admit unbelieving people, that is, “hypocrites,” into the congregation? Here there appears to be confusion and lack of clarity.
+
+And the remarkable thing is that Anderson does not speak about the Lutheran Confession and Holy Scripture. These things he passes over in silence. It is only the Guiding Principles that trouble him; they are the great obstacle to him when, in his congregational work, he is to practice according to the view of this work maintained in “the large church bodies.” He appears to believe that if only he can get away from the Guiding Principles, then in his work of organizing the congregation and admitting members he may proceed as he pleases without regard for the Confession and Scripture.
+
+Anderson asks: “Is it not time that we ... begin to practice what we have professed ...?” Is it only the Guiding Principles that he has professed? Has he not also professed the Lutheran Confession and God’s Word? And has one not also in “the large church bodies”—the Lutheran ones—promised that in life and doctrine one will be faithful to God’s holy Word and the Lutheran Confession? How, then, does one imagine escaping duty and responsibility by slipping into “the large church bodies”?
+
+Pastor Anderson has undoubtedly misunderstood the Guiding Principles and therefore has presented the Lutheran Free Church in a false light. It appears from both his explanation and his answer that he has imagined that if the pastor is to organize a congregation and admit members in accordance with the Guiding Principles, then he must set himself in the doorway of the kingdom of God and decide who shall be allowed to enter and who shall not be allowed to enter. The whole matter is then to depend upon human judgment concerning the worthy and the unworthy, the believing and the unbelieving. In this manner, according to the Guiding Principles, he is supposedly to obtain a believing, pure, and holy congregation.
+
+Against this understanding we wish to emphasize as strongly as we are able that the Lutheran Free Church is Lutheran. And the Lutheran understanding of congregational formation is not that it is merely a matter for the pastor—the pastor naturally has something to do with it—but the Lutheran understanding is that the formation of the congregation is the work of the Holy Spirit.
+
+(To be continued.)
+
+Pastor L. O. Anderson and the Guiding Principles
+of the Lutheran Free Church
+
+Elias B. Harbo
+
+——
+
+“Folkebladet,” August 21, 1918
+
+(Conclusion.)
+
+Professor Georg Sverdrup was a member of the committee that prepared the draft of the Guiding Principles and Rules for Work. And at the Free Church’s annual meeting in Willmar in 1905 he delivered a lecture on “The Conditions for the Formation of Congregations.” We may therefore proceed from the assumption that there is complete agreement between the Guiding Principles and the lecture on “The Conditions for the Formation of Congregations”; for old Sverdrup was accustomed to being consistent. This lecture reads in its entirety as follows:
+
+THE CONDITIONS FOR THE FORMATION OF CONGREGATIONS
+
+By Professor G. Sverdrup
+
+The purpose of setting forth this subject is presumably to obtain an answer to the question: When is it right, timely, and defensible to undertake the organization of a congregation in a place, and which persons ought one to seek to include in the organization?
+
+To a question of this kind there can naturally be given no answer that lays down a rule suitable for all places and all times, unless it is given in the form of a general principle that must be applied as well as possible in the individual cases. We cannot say that a missionary pastor must always labor for a year with preaching before he seeks to have a congregation organized; neither can we say that he must first of all have established a congregation before he has the right to preach God’s Word to the people.
+
+The question is of such a nature that only general or principial answers can be given.
+
+And if this is what is to be given here, then it is necessary to hold firmly to the fact that the Free Church from the beginning has maintained that the question concerning the congregation and its nature must be clarified from the divine revelation itself in the New Testament, because it is what in the Lutheran Church is called a doctrinal question, in which God’s Word is the only rule and standard.
+
+And the proper organization of the congregation stands in such close and intimate connection with the nature of the congregation that one must necessarily return to the question of the congregation itself when one wishes to understand how the congregation and congregations are formed.
+
+And concerning the congregation the New Testament gives clear and abundant instruction, because the whole revelation given in the New Testament after Christ’s ascension speaks of the congregation and its nature and activity.
+
+The Acts of the Apostles, the Epistles, and the Revelation of John continually speak of the congregation or, what is the same thing, the work of the Holy Spirit, so that those who in our day are opponents of the congregation and will hear nothing of the necessity of returning to Scripture when the question of the congregation arises can at any rate not appeal to the claim that there is so little in the Bible concerning the congregation that one cannot obtain sufficient light there upon the matter.
+
+As the situation exists among us, however, it has in fact been muddled in so many different ways that it is entirely reasonable that a constant and continuing discussion of the matter is needed in order, if possible, to obtain more light upon it. And since our whole work depends upon a right understanding of the congregation, nothing is more important than to pursue this investigation with all strength and all haste, so that the clearest possible results may be reached as soon as possible.
+
+We are Lutherans, brothers, and that means first and foremost that we stand immovably upon the ground of Scripture, so it is entirely right and genuinely Lutheran to seek the proper understanding of the congregation in Holy Scripture itself.
+
+And certainly Luther himself has shown the way also in this matter.
+
+There is no man who has succeeded better than Luther in gathering his thoughts into a brief chief summary. His Small Catechism is in this respect the greatest masterpiece that exists within the Christian Church. As if written by a ray of sunlight, there stand in the Catechism the words that it is “the Holy Spirit who calls, gathers, enlightens, sanctifies the whole Christian congregation on earth and keeps it with Jesus Christ in the one true faith.”
+
+That is plain speech, and it is Free-Church-like in the highest sense. It agrees not only with the letter of Scripture, but truly with its spirit; and it is not attested merely by a passage here or there, but the whole Scripture bears witness to this: that precisely the goal of all God’s work, leading, governing, and revelation for and with fallen humanity is to establish his kingdom upon earth or, as Scripture says, to “purchase for himself a congregation with his own blood,” and that this congregation is the one whom the Spirit calls and gathers, enlightens and sanctifies, from that day of Pentecost when he came with the power of the storm and the fire of love upon Jesus’ disciples and joined them together into Jesus’ body, “which is the congregation.”
+
+It appears clearly from the testimony concerning the beginning of the congregation that it is the work of the Spirit in Jesus’ believing disciples. And where the Spirit through the Word is allowed to do his work, there the congregation is formed and established and constituted “the same day,” so that there is no long waiting. Baptism and the Lord’s Supper and brotherly fellowship and common prayer then become the marks that visibly set the congregation before the eyes of all, so that it may be recognized and perceived both as a defined fellowship and as a living and attractive power that gathers continually more of those who desire to be with it.
+
+Who, then, became members of the congregation, and who decided whether they should be included or not?
+
+Scripture says: “Those who gladly received Peter’s word were baptized,” and in this way they were added to the congregation. But Scripture also says: “The Lord added daily to the congregation those who were being saved.”
+
+See here two testimonies concerning the same matter; these we must hold together, and the more spiritually we join them, the more clearly they will also agree in this, as Luther says: It is the work of the Holy Spirit to call, gather, enlighten, and sanctify the congregation; for how could these statements agree—that those who received the Word were added, and that the Lord added them—except precisely in this way, that the Lord worked through the Word, and the Spirit drew them through the calling Word and regenerating Baptism into the congregation, “which is Christ’s body”?
+
+This is the natural and therefore the only proper manner of forming a congregation. And as it began in this way, so it also continued in the apostolic age. When “Samaria received God’s Word” through the preaching of the scattered Christians, a congregation likewise came into being. Likewise in Galilee, indeed all the way up in Antioch of Syria, where Christians from among the Jews and Christians from among the Gentiles for the first time were united in one congregation and in one body of Christ, when “the dividing wall” was broken down, and where therefore the new fellowship received its own new name, since the disciples there and then were called “Christians.”
+
+And from this Antioch the missionaries to the Gentiles then went forth; for from that time the opportunity for the formation of congregations was as wide and spacious as the whole world; and congregations were indeed formed through Paul’s preaching in an astonishingly short time in a multitude of cities both in Asia and Europe.
+
+Everywhere in the same manner; the preaching of the Gospel itself supplied the necessary conditions, for the congregations were formed of those who “became believers,” who “received the Holy Spirit,” who “were baptized into Christ’s death.” Everywhere through the Spirit and faith, which, viewed outwardly, manifests itself as the whole and complete
+
+VOLUNTARINESS
+
+One might indeed call it self-determination, provided that one understands that by this it is not intended to enter into any contradiction with the Christian truth that this self-determination is in its innermost ground a divine determination; for these who “gladly received the Word” are those whom the Lord has called and chosen and given the obedience of faith, so that their voluntariness is not from themselves, but from the Holy Spirit.
+
+Here, therefore, the apostolic principle for the formation of congregations is expressed clearly enough: It is voluntariness, the voluntariness of the Spirit and of faith. It occurred as it is written in the Book of Revelation:
+
+“And the Spirit and the bride say: Come! And let the one who hears say: Come! And let the one who thirsts come, and let the one who wills take the water of life freely.”
+
+As already stated, it is impossible to express the apostolic rule for the formation of congregations better than by Luther’s words: “The Holy Spirit calls, gathers, enlightens, and sanctifies the Christian congregation.”
+
+With this voluntariness the whole responsibility of the kingdom of God—that is, the responsibility for the congregation’s life and flourishing, its work and honor—is laid upon those who come to the congregation, called and drawn by the Spirit. For they came into the congregation not because other people judged them to be Christians, but because they judged themselves, and because they confessed faith in the Crucified One who had been preached to them. To join the congregation and to be baptized was the same as confessing Jesus Christ as one’s Savior from sin, death, and Satan’s kingdom; and from this it followed of itself that the one who knew the Savior in Christ was also willing to “pay his vows to the Lord” and to be a witness concerning him “who called us out of darkness into his marvelous light.”
+
+It lies in the nature of the matter that as the congregations became older and grew in number and esteem, and as there arose many different reasons that might move a person to join the congregation, the congregation had to seek to guard itself against the danger involved in admitting such members as were drawn to the congregation not by God’s Spirit but by fleshly motives. Everything that lives and grows has within itself an impulse toward self-preservation and seeks to keep away and remove what is called “foreign matter.” It is therefore also self-evident that the highest and most sensitive of all organisms, the body of Christ or the congregation, was careful both in admission to and exclusion from the congregation. And partly through its officeholders and partly through the congregation’s meetings, the congregation exercised that oversight which it recognized as its holy duty toward the Lord and his body. But this did not conflict with the principle of voluntariness; it merely placed a necessary and rightful test upon the character of that voluntariness, whether it was the work of the Spirit or of the flesh.
+
+These are the spiritual truths concerning the formation of congregations that the Free Church seeks to revive in Luther’s footsteps. And it is sorely needed; for Luther did indeed awaken again the consciousness that the congregation is the work of the Holy Spirit and therefore a matter of freedom; but we all know that the Lutheran Reformation was deprived of exceedingly much of its spiritual character by being cast into the arms of princes and politicians. And once it was thoroughly distorted, there was no room for voluntariness or for the work of the Spirit in the formation of congregations. The Church became merely a part of the government of the state, and the congregation merely one aspect of the life of the people. And since coercion always rules in the state, it naturally became ruling also in the state church.
+
+The consequence of this was a sorrowful confusion of concepts, the sum of which in the sphere of the question of the congregation may be described in this way: Christianity came to be regarded as a “folk custom,” just like the pagan religions among pagan peoples; and bonds harder than the bonds of folk custom are surely impossible to find, especially among a people such as ours.
+
+When, therefore, these children of the state church feel Christianity as coercion and bonds upon them, this brings with it, in the case of many, a bitter hatred of Christianity. It appears to them to stand obstructively in the way, partly of the satisfaction of their desires, partly of the free development of thought. Especially when, in a spiritual awakening, the demands of Christianity press heavily upon the consciences, this human defiance and longing for freedom also awakens and says: “Let us break their bonds and cast their cords away from us!”
+
+And not a few are those who, in crossing over to America, tear apart both the bonds of folk custom and the cords of imposed Christianity, and they walk into the destructive opposite of the state-church system: fleshly freedom.
+
+But in return there is a very large multitude of people who here in America cling all the more eagerly to state-church custom because they feel that there is danger in breaking loose from state-church law. And it can hardly be denied that many Norwegian congregations in America have been formed upon the foundation of Norwegian folk custom with some admixture of American local politics.
+
+Yet in the midst of all the confusion and drifting there still stands the Lord’s firm foundation, bearing the same ancient inscription: The Lord knows those who are his; and: Let everyone who names the name of Christ depart from unrighteousness.
+
+Therefore it is not hopeless to labor for the restoration of the congregation and little by little to establish a Free Church practice that returns to Luther and the New Testament and brings clarity into the confused concepts concerning the nature and organization of the congregation.
+
+The task is to get away from coercion and politics in the formation of congregations and forward to true spiritual voluntariness. But when we tear ourselves loose from the coercion of the state church and flee from its distorted image of the congregation, then it is necessary to be on guard lest we depart from Lutheranism and from the truth.
+
+We must without reservation return to the principle of voluntariness, which is this: that “the Holy Spirit calls, gathers, enlightens, and sanctifies the congregation,” and at the same time take care that we do not put ourselves, or one or several persons, in the place of the Holy Spirit, imagining that we can call and gather, build up and form the congregation, provided only that everything goes according to our own notions.
+
+Let the invitation therefore sound forth, let the Gospel ring freely and fully, let Jesus be the door and the Holy Spirit the doorkeeper, and urge them to come in through this one true door, that the Lord’s house may be filled.
+
+This is the missionary pastor’s or evangelist’s responsibility; this is his calling and his work. Then lay the responsibility upon those who hear the call and the invitation! They are bound before God both to follow the invitation and to follow it rightly, that is, in the same spirit in which it has been issued. Let it be said to them that they must come, and that they must put on the wedding garment when they come; let it also be said to them that in this matter they bear responsibility before the Lord and not before human beings. Let it be testified loudly and clearly that the one who belongs to God’s congregation thereby claims to be a true Christian, a child of God, and that both the congregation and the world have the right to expect of that person that he conduct himself as a Christian, to the honor and praise of God’s name among human beings.
+
+It is useless to imagine that we can put our judgment concerning a person in the place of the Lord’s judgment. He himself has the keys and opens and shuts in the one perfect manner; but upon us rests the responsibility for the unwearied work of preaching the Word and bearing witness to the truth in season and out of season, and then gradually it will dawn upon the consciousness that the congregation and its outward constitution are a holy matter, that it is a temple of God which no one may dare to destroy.
+
+Under such fear of God and under the sense of this mighty responsibility all congregational organization shall be undertaken, and it shall be clearly testified that, free as the congregation is, it is also obedient to God’s will and Word; and everyone who feels within himself that this becomes an unbearable coercion owes it to himself to seek the Lord while he may be found, that from the Lord himself he may receive the freedom of the Spirit, which consists in that love which is poured into our hearts through the forgiveness of sins and our filial adoption.
+
+If it is then asked: Shall we wait a long time before we organize a congregation, or shall we wait until we are certain who are believers, so that we may receive them into the congregation and leave the others outside? then the answer has already been given: Follow the Lord’s Word, and do not wait to form a congregation of those who are baptized into Christ and confess faith in him, whether they are many or few, and wait upon the Lord, who shall give growth according as it is pleasing to him.
+
+It is not the number that matters; it is the Spirit. It is not our judgment that matters; it is the Lord’s. And it is those who come who themselves bear the responsibility for their sincerity when the invitation has sounded to them in undiminished fullness:
+
+Come to rest, come to labor;
+come to the Lord’s Supper, come to the wedding feast;
+come to the vineyard, come to the harvest work;
+come to the cross and come to the crown!
+
+*
+
+And concerning G. A. Lammers Professor Sverdrup says: “He dreamed of a congregation of only converted and believing people, a congregation that was to be holy through the holiness of its members instead of through the work of the Holy Spirit in the means of grace.” S. S. I, page 190.
+
+From what has been cited above it follows with complete clarity that Professor Sverdrup’s understanding was that believing congregations are obtained through the working of the Holy Spirit in hearts through the means of grace, and not through human selection and judgment.
+
+Anderson concludes his explanation by saying: “And yet, in spite of this, I feel that fundamentally I cannot become anything other than a Free Church man, rightly understood.” Well, it must certainly require great understanding to comprehend how a man can be a Free Church man when he can no longer remain in the Lutheran Free Church because of the Guiding Principles. Ah no, that sort of plaster does not heal the wound at its root. It is a broken cistern that holds no water. Or did not Jehovah, thousands of years ago through the prophets of old, establish the truth that such a double position is untenable?
+
+The truth is surely simply that Anderson has exchanged the glorious treasure of congregational freedom for membership in “the large church bodies.”
+
+And will it now take him “three whole years to gain clarity concerning the hollowness of the procedure” that he now advocates “and to learn to act consistently”?
+
+On the way to the annual meeting in Fargo this year, Pastor Anderson stopped for some time in Minneapolis and attended part of the annual meeting of the Lutheran Free Church, where he signed the following membership declaration:
+
+“The undersigned voting member of a Lutheran congregation approves the Guiding Principles and Rules of the Lutheran Free Church and will work for its purpose as stated in paragraph 2 of the Rules.”
+
+Thereafter he traveled on to Fargo, where he was received as a member of the Norwegian Lutheran Church in America.
+
+In the light of these facts, it therefore appears, to say the least, strange when Anderson concludes his answer in Folkebladet of August 7 with the following admonition to us in the Free Church: “We must be consistent in congregational work if we are to expect that the Lord will bless it.”
+
+The synodical conception and the conception of congregational freedom cannot possibly be reconciled.
+
+When there prevails among us so much lack of clarity and confusion concerning so central a question as the congregation, its life and freedom, as has appeared in “Why I Am Leaving the Free Church” and “Answer,” then it becomes an unavoidable duty that something be said; and therefore it has been said.
