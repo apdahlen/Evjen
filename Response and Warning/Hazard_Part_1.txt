@@ -1,0 +1,381 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* menighet is the governing ecclesiological term. In the constitutional discussion it normally means “congregation,” especially the local congregation as an ordered Christian body. In biblical quotations or explicitly universal ecclesial contexts, however, “church” is required. Flattening every occurrence into “church” would obscure the author’s argument about congregational life and polity.
+* forfatning means “constitution,” but its semantic field includes ecclesiastical polity, governance, and institutional order. I therefore retain “constitution” where the author speaks of the thing itself, while forfatningslitteratur becomes “church-polity literature.” This also preserves the author’s deliberate parody of “the Old and New Testament” as “the Old and New Constitution.”
+* Ledende principper is evidently the title or established designation of the church’s “Guiding Principles.” It should be treated as a named ecclesiastical text rather than reduced to generic “principles.”
+* almindelig værnepligt literally evokes universal military conscription. As a heading it transfers the military idea to the obligation of Christians to take part in the congregation’s spiritual struggle. “Universal Conscription” preserves the deliberate metaphor.
+* utlendighed carries the older Christian sense of exile, foreign residence, or pilgrimage. “Exile” preserves the biblical-theological resonance better than a merely sociological “life abroad.”
+* forfusket means more than “handled badly”: it suggests that the matter is being corrupted, distorted, or falsified.
+* avsile myggen og nedsluke kamelen is the biblical “strain out the gnat and swallow the camel.” The image must not be normalized into “majoring in minors.”
+* tugtemesteren has the sense of disciplinarian or corrective overseer. In quotation marks here it is polemical and probably ironic. “The disciplinarian” retains that force without inventing a specific office.
+* brystværn is a defensive breastwork or rampart. It belongs to the passage’s martial imagery.
+* slaa sig til ridder suggests winning one’s spurs or establishing oneself as a knight. The author’s sarcastic image should remain visible.
+* haard føde means “hard fare” or difficult food; combined with “substitute” and the shell/kernel image, it characterizes Evjen’s treatment as spiritually and intellectually unsatisfying.
+* varsko means to sound an alarm or warning. Its urgency should not be softened into “express concern.”
+* spidsfindighet is sophistry, over-subtle reasoning, or captious cleverness. In conjunction with fornuft, the polemic is specifically against human reason becoming an authority over Scripture.
+* hængedynd is a bog or quagmire capable of swallowing the traveler. The physical danger is part of the rhetoric.
+* det lærde apparat means “the scholarly apparatus”: bibliographies, citations, academic disciplines, and the apparatus of professional theological learning.
+* kundskap som opblæser directly echoes “knowledge puffs up” and should retain that Pauline language.
+* trængsel means affliction, tribulation, pressure, or distress in Christian discipleship. “Tribulation” or “affliction” preserves its theological weight.
+* kjødet is the Pauline “flesh,” not merely “the body.”
+* pietetsfølelse is a sense of reverence or filial piety toward honored teachers, not simply an emotional feeling.
+* lærdomsveir echoes the biblical “wind of doctrine.” A literal rendering as “weather of learning” would conceal the allusion.
+* slegtskap can mean kinship, affinity, or relationship. Because Evjen’s supposed “kinship” between church bodies is the target of repeated irony, “kinship” should remain consistent.
+* naademiddel is the technical Lutheran “means of grace.” It must not become merely “religious practice” or “source of blessing.”
+* hjertelaget denotes the disposition or orientation of the heart.
+* kaldsret is the congregation’s “right of call,” specifically its right to call its own pastor.
+* menneskebud is “human commandments,” carrying the theological contrast between divine command and man-made religious regulation.
+* fællesstyre is common or centralized governance exercised over several congregations.
+* bærer eller brister means “stands or falls,” not merely “works or does not work.”
+* til punkt og prikke means exact, literal observance “to the letter.”
+* The transmitted word høistiller in the passage concerning devotional literature appears textually uncertain. Since the supplied transcription does not establish its meaning securely, I do not silently emend it. I retain it in brackets in the translation rather than manufacture a lexical solution. 
+
+Syntactic Hazards
+
+* The prose repeatedly accumulates its case through long coordinate and subordinate clauses. Breaking these into short modern sentences would reduce the pressure of the argument.
+* Semicolons often perform genuine logical work: concession followed by correction, premise followed by consequence, or citation followed by accusation.
+* Rhetorical questions are central to the author’s prosecutorial method. They should remain questions rather than be converted into explanatory statements.
+* The author frequently moves from his own prose directly into quotation and then immediately interprets or turns the quotation against Evjen. These transitions must remain recognizable.
+* Parenthetical and interruptive phrases often intensify irony: “where the ‘key’ lies,” “if he wished to pass for a scholar,” “he has been in Germany and knows something.”
+* Several paragraphs deliberately repeat words such as “principles,” “God’s Word,” “constitution,” “kinship,” and “scholarly apparatus.” Replacing these repetitions with elegant synonyms would weaken the argument’s cumulative structure.
+* The sentences describing Sverdrup’s educational ideal intentionally build through parallel clauses. Their oral momentum should be retained.
+* The author occasionally shifts abruptly from analysis to mockery, as in “Guess again!” The abruptness is purposeful.
+
+Theological Hazards
+
+* The supreme authority of God’s Word over church polity is the governing doctrinal claim. It must not be translated as a generic preference for “biblical values.”
+* The distinction between Scripture and church-polity literature is not anti-intellectual in a simple sense; the author explicitly says that church history and polity literature can give light, but denies them coordinate or superior authority.
+* The congregation’s relation to the kingdom of God is stated with doctrinal precision: “according to God’s Word.”
+* The treatment of Word and sacraments as constitutive of a congregation and as means of grace is specifically Lutheran and must remain technical.
+* The contrast between fleshly and spiritual kinship derives from Pauline and Johannine categories.
+* The educational passages join theological study to personal experience of salvation. “Experience in one’s own heart” must not be reduced to subjective emotion.
+* The language of Christian suffering—tribulation, persecution, humility, following Christ—is integral to the author’s theology of ministry.
+* The contrast between Lutheran evangelical freedom and what the author describes as Reformed legal rigidity must be translated as his historical-theological contention, not normalized into generic denominational difference.
+* References to the Spirit, the sword of the Spirit, the Word, Christ’s church, and the means of grace require stable doctrinal capitalization and terminology.
+
+Voice Hazards
+
+* The voice is not detached scholarship. It is a public ecclesiastical protest with pastoral, polemical, and confessional urgency.
+* The author is often sarcastic, but the sarcasm is controlled by argument. It must not become comic banter.
+* Severe expressions such as “quagmire,” “rage,” “false learning,” “scandalous manner of writing,” and “fool” should not be softened.
+* At the same time, passages about Scripture, Christ, ministry, and departed teachers rise into reverence and consolation. Those tonal changes must remain perceptible.
+* The repeated first-person plural—“we protest,” “we believe,” “our congregations”—creates corporate confessional speech.
+* The author repeatedly turns the reader into a judge: “Everyone may answer according as he finds the circumstances to be.” That ethical pressure should remain.
+* His reverence for Sverdrup and Oftedal is deliberately contrasted with his severity toward Evjen’s representation of them.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Strain out the gnat and swallow the camel” echoes Matthew 23:24. The literal biblical image is essential; paraphrasing it as “focus on trivialities” would lose both Scriptural recognition and the accusation of hypocrisy.
+* “A time to be silent and a time to speak” echoes Ecclesiastes 3:7. Here it legitimates the author’s transition from prolonged silence to public controversy.
+* “The things that pertain to the kingdom of God” echoes biblical language, especially Acts 1:3. It places church-order controversy under a spiritual rather than merely administrative category.
+* “The man is better than his doctrine” is a proverbial concession: if the author’s unfavorable impression is mistaken, the fault lies in the teaching as presented rather than necessarily in the man.
+* “A matter is best known by its opposite” introduces a test by subtraction: remove the authoritative quotations and examine what Evjen himself contributes.
+* “Stand or fall” in “whether the Guiding Principles stand or fall” carries more existential force than “whether they are persuasive.”
+* “The key” recurs sarcastically. If the key to the Principles lies in technical polity literature, Evjen becomes the gatekeeper who possesses it.
+* “Knowledge puffs up” is 1 Corinthians 8:1. The author uses the Pauline expression against academic self-exaltation, not against knowledge per se.
+* “The same mind that was in Christ Jesus” echoes Philippians 2:5 and is joined to Christ’s servant ministry.
+* “Not to be served, but to serve and to give his life as a ransom for many” echoes Matthew 20:28 / Mark 10:45.
+* “Christ loved the church and gave himself for it” echoes Ephesians 5:25.
+* “The flesh has a keen sense of smell” is a vivid pietistic personification. “Flesh” detects impending persecution and seeks worldly recognition to escape it.
+* “Opened the Scriptures,” “hearts became burning,” and related language echoes Luke 24. The point is that Christ’s own method of theological formation was scriptural, experiential, and spiritually enlivening.
+* “Be reconciled to God” is 2 Corinthians 5:20.
+* “The sword of the Spirit” is Ephesians 6:17.
+* “Tossed and driven about by every wind of doctrine” echoes Ephesians 4:14. It characterizes the stable Sverdrup whom the author contrasts with Evjen’s portrait of an intellectually changeable theologian.
+* “One blood” evokes Acts 17:26 and establishes universal fallen human kinship before the author turns to spiritual kinship in Christ.
+* “There is none righteous, not even one” and “all have sinned” invoke Romans 3.
+* “As many as received him…” evokes John 1:12–13.
+* “Command upon command, rule upon rule” echoes Isaiah 28:10, 13. The author employs it as an image of rigid regulation.
+* “To the letter” is idiomatic rather than distinctly biblical here and expresses inflexible constitutionalism.
+* “Human commandments” has biblical resonance with Christ’s criticism of doctrines that are commandments of men.
+* “Seconded and adopted” is parliamentary language. Translating it as a full narrative sentence would erase the meeting-room immediacy of the original.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: silence can no longer be interpreted as consent. The author must answer the series “The Position.”
+* First ground for speaking: personal responsibility.
+* Second ground: responsibility for the Free Church’s principles and free-church cooperation.
+* Third ground: responsibility before other Lutherans who are watching the controversy.
+* Moral pivot: there is a time for silence and a time for speech; continued silence becomes wrong when the common cause is being distorted.
+* “Universal Conscription”: every living Christian has both the right and duty to participate in the congregation question. The controversy belongs to the whole Christian people, not a scholarly caste.
+* Scriptural criterion: discussion is legitimate only when it leads hearers into God’s Word rather than away from it.
+* Examination of Principle No. 1: the decisive phrase is “according to God’s Word.”
+* Critique of Evjen’s interpretive practice: his articles appear to defend persons, attack opponents, and use the Principles as cover for constitutional theory.
+* Central accusation: Evjen is introducing “a new principle”—the functional authority of church-polity literature.
+* Positive counterclaim: above the Free Church’s principles themselves stands the decisive authority of God’s Word.
+* Historical support: the author invokes the 1897 adoption of the Principles and Sverdrup’s own explanations to show that Scripture, not technical polity literature, was the intended controlling authority.
+* Sarcastic reductio: if polity literature truly supplies the “key,” the Old and New Testament would effectively become the “Old and New Constitution,” with Evjen controlling access to the key.
+* Textual demonstration: each numbered Guiding Principle itself points repeatedly to God’s Word, the New Testament, the Spirit, and gifts from the Lord.
+* Defense of Sverdrup: Evjen’s criticism of Augsburg’s alleged neglect of scholarly apparatus is contrasted with Sverdrup’s explicit ideal of theological formation.
+* Ministerial theology: the goal of theological education is the building up of the congregation, Christlike service, humility, suffering, Scripture, living conviction, and salvation of souls.
+* Charge of inconsistency: Evjen has alternately praised Sverdrup as a major scholar and depicted him as deficient, poorly informed, and unstable.
+* Memorial appeal: the author refuses human worship but insists upon guarding faithful teachers’ memory and testimony.
+* New section on Congregationalism: the author distinguishes universal fleshly kinship, spiritual kinship among believers, and Evjen’s proposed constitutional kinship.
+* Evidentiary critique: isolated statements by Congregationalist writers do not by themselves establish a denominational “distinctive function.”
+* Lutheran countercriterion: denominational affinities matter less than standing on Scripture and conducting church life according to biblical and Lutheran principles.
+* Sacramental counterargument: the Free Church’s understanding of Word and sacraments as means of grace marks a major difference from the Congregationalism described by the author.
+* Definition of constitution: constitution is human ordering, potentially useful but inherently subordinate and adaptable.
+* Practical application: good constitutional principles, such as election by the governed and congregational calling of pastors, may still require application according to actual circumstances.
+* Final principle: any guiding ecclesiastical principle binding upon a believing Lutheran must rest upon God’s Word.
+* Warning against analogies: illustrations may illuminate but cannot prove.
+* Historical congregational example: the Chippewa congregation could adopt the Guiding Principles precisely because they expressed an already existing biblical practice.
+* Closing force of the supplied excerpt: adoption of the Principles does not thereby make congregations or individuals un-Lutheran or Congregationalist.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 23:24 — “strain out the gnat and swallow the camel.”
+* Ecclesiastes 3:7 — “a time to keep silence, and a time to speak.”
+* Acts 1:3 — “the things pertaining to the kingdom of God.”
+* 1 Corinthians 8:1 — “knowledge puffs up.”
+* Philippians 2:5 — the mind that was in Christ Jesus.
+* Matthew 20:28 / Mark 10:45 — Christ came to serve and give his life as a ransom for many.
+* Ephesians 5:25 — Christ loved the church and gave himself for it.
+* Luke 24:27, 32, 45 — Christ opens the Scriptures; hearts burn; understanding is opened.
+* 2 Corinthians 5:20 — “Be reconciled to God.”
+* Ephesians 6:17 — the sword of the Spirit.
+* Ephesians 4:14 — tossed by every wind of doctrine.
+* Isaiah 30:20–21 — seeing one’s teachers and hearing, “This is the way; walk in it.”
+* Daniel 12:3 — the wise shining like the brightness of heaven and like the stars.
+* Acts 17:26 — the human race made “of one blood.”
+* Romans 3:10, 23 — none righteous; all have sinned.
+* John 1:12–13 — those receiving Christ given the right to become children of God, born of God.
+* The language of believers’ unity in Christ has broader Pauline resonance, especially Galatians 3 and Ephesians 2–4.
+* Isaiah 28:10, 13 — “command upon command, rule upon rule.”
+* The “human commandments” language resonates with Matthew 15:9 / Mark 7:7.
+* The description of Scripture as the source equipping the servant of God has resonance with 2 Timothy 3:15–17, though the passage is not a direct quotation.
+* The emphasis that Christ’s witnesses must personally know the salvation they proclaim belongs to the broader apostolic language of witness, including Acts 1.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The opening must retain the painful necessity of answering, not merely say that the author “would like to respond.”
+* “It is not right to remain silent” retains the moral judgment.
+* Evjen’s treatment is described as merciless, misleading, damaging, and potentially destructive. These accusations remain explicit.
+* “We protest” must remain “we protest,” not “we disagree.”
+* “Sooner or later we perish” must not be diluted to “we may encounter problems.”
+* The author’s sarcasm concerning the “key,” the six-foot bookshelf, German scholarship, and “Guess again!” remains.
+* “Rage,” “false learning,” “scandalous manner of writing,” “fool,” and “un-Lutheran” retain their actual severity.
+* Conversely, references to Christ, Scripture, the teachers of the church, and the memory of Sverdrup and Oftedal should carry reverence without becoming sentimental.
+* The ethical force arises chiefly through consequences: depart from the Word and one enters a quagmire; seek worldly recognition and one flees the cross; make human polity authoritative and Christian freedom is lost.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* maa is normally “must,” especially where necessity or obligation is theological or moral.
+* skal is rendered according to context as “shall,” “is to,” or “must”; I avoid weakening it into mere possibility.
+* bør is “ought” or “should” where genuine obligation is intended.
+* kan is “can”; kan ikke / kan ei remains “cannot,” not “may not” unless prohibition is clearly meant.
+* vil frequently retains volitional “will” rather than predictive “is likely to.”
+* Statements such as “we must always go back to the Word,” “all true Christians have both the right and the duty,” and “such principles must be grounded in God’s Word” retain full necessity.
+* The author’s hypothetical constructions—“if the congregation were according to polity literature…”—remain genuine counterfactual arguments rather than softened analogies.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Gud → God
+* Kristus → Christ
+* Herren → the Lord
+* Aanden, when the divine Spirit is meant → the Spirit
+* Guds ord → God’s Word
+* Skriften / skrifterne → Scripture / the Scriptures
+* menighet → congregation in local/ecclesiological-polity discussion; church where a biblical quotation clearly refers to the universal church
+* Guds rike → the kingdom of God
+* naademiddel → means of grace
+* frelse → salvation
+* synd → sin
+* tro → faith
+* kjødet → the flesh
+* aandelige gaver → spiritual gifts
+* forkyndelse → preaching / proclamation according to syntax
+* vidne → witness
+* trængsel → tribulation / affliction, with “tribulation” preferred where discipleship is explicit
+* forfatning → constitution
+* forfatningslitteratur → church-polity literature
+* kirkeforfatning → church constitution
+* kaldsret → right of call
+* Ledende principper → Guiding Principles
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Gnat/camel imagery remains intact.
+* Military language—battle, enemies, breastwork, conscription—remains visible.
+* Shell/kernel imagery remains physical rather than becoming “superficial analysis.”
+* The quagmire of sophistry and reason remains a quagmire.
+* The “key” to interpretation remains a key throughout the satire.
+* The scholarly bookshelf remains literally six feet long.
+* The flesh “smelling” coming persecution retains its bodily image.
+* Scripture remains a deep and pure spring from which the theological student drinks.
+* The Spirit’s sword remains a sword.
+* Hearts become burning; the image is not reduced to intellectual understanding.
+* Sverdrup as a supposed ball tossed high and low remains a ball.
+* Winds of doctrine retain meteorological force.
+* Teachers’ testimony “shines” in hearts, followed by Isaiah’s road and Daniel’s stars.
+* Constitution as something flexible, rigid, helpful, or hindering retains the author’s organic/practical contrasts.
+* Illustrations are treated explicitly as illumination rather than proof; that distinction remains.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening: grief and reluctant necessity.
+* Early argument: mobilizing exhortation.
+* Critique of Evjen: increasingly severe and ironic.
+* Scriptural-authority passages: firm, declarative, confessional.
+* Sverdrup quotations: elevated, devotional, and Christocentric.
+* Discussion of academic apparatus: satirical and accusatory.
+* Memorial passage: reverent and almost liturgical.
+* “Kinship” section: deliberately analytical at first, then increasingly ironic.
+* Sacramental section: confessional and doctrinal rather than sarcastic.
+* Definition of constitution: calmer, explanatory prose.
+* Final discussion: practical and pastoral, ending with an appeal to actual congregational experience.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences are retained when the original builds pressure by accumulation.
+* Semicolon turns are preserved where they mark a sermonic pivot.
+* Short sentences following long argumentative periods—“The impressions are there.” “We protest against that.” “Guess again!”—remain short because their abruptness gives them force.
+* Repetition of “God’s Word,” “principles,” “constitution,” and “kinship” remains audible.
+* Parallel constructions are retained, especially “to love and suffer, serve and witness,” and the sequences describing theological formation.
+* Scripture quotations use modern pronouns while retaining gravity through syntax and parallelism rather than archaic English.
+* I avoid inherited “thee/thou” diction and avoid artificially KJV-like inversion.
+* Where the Norwegian sounds intentionally blunt, the English remains blunt rather than polished into academic neutrality.
+
+STEP 11: ACADEMIC TRANSLATION
+
+Below is the complete voice-preserving translation of the supplied excerpt. 
+
+INTRODUCTORY REMARKS
+
+Painful as it is to have to reply to a series of articles bearing the heading “The Position,” which has appeared in Folkebladet, it is nevertheless necessary, first for my own part, so that no one may think that I have consented because I have remained silent so long. Next, it is required for the sake of the principles and of free-church cooperation to make an attempt, whether with God’s help it might be possible to present this matter rightly before our people.
+
+Finally, we have a responsibility toward the other Lutherans outside, who are watching us closely and asking: “How long will they go on within the Free Church straining out the gnat and swallowing the camel?” Some of the brethren who were present from the beginning and discussed and adopted the principles have spoken. Others have kept silent and endured, “for the sake of dear peace.” If anyone were to say anything, he was, among other things, accused of being against Augsburg and had “the disciplinarian” set over him, and by this a free and objective discussion was crippled. But there is a time to be silent and a time to speak. It is not right to remain silent when the cause around which we are gathered is in the process of being corrupted.
+
+UNIVERSAL CONSCRIPTION
+
+Now there is no one among us who wishes to “bury the principles.” No one blames Prof. Evjen because he occupies himself with the congregation question and writes about it in Folkebladet—giving us the light he has. It is a matter of such great importance that it must never be laid aside so long as the congregation is in exile and in conflict against so many and mighty enemies.
+
+We are thoroughly at odds with those who say: “Now there shall be peace and no more conflict.” That might perhaps be possible if we were not surrounded on every side by enemies who never leave us in peace. It is a struggle not against men but for men. Therefore there must be unceasing speaking and writing about the things that “pertain to the kingdom of God.”
+
+If the question, “Will you have congregation?” is an “irritating” question, then it is an awakening question. And all true Christians have both the right and the duty, and feel the need, to take part. “There are no living Christians who cannot and ought not take part in the solution of the congregation question.” They all have the right to love and suffer, to serve and to witness. If, therefore, Prof. Evjen or anyone else wishes to take part in solving the question, then they must speak and write in such a way that readers and hearers are led into
+
+GOD’S WORD
+
+and not away from the Word.
+
+“The congregation is, according to God’s Word, the proper form of the kingdom of God on earth.”
+
+Yes, that is actually what stands in the first point. Evjen has now labored in many and lengthy treatises to interpret this. And he maintains that in his “understanding and interpretation of the principles” he has been faithful to their authors. “I have not misrepresented them,” he says.
+
+Now it is not the intention to answer everything that ought to be answered. Only a little concerning the author’s interpretation of the principles. What has that interpretation been? Has he led us into God’s Word?
+
+The first impression one receives on reading through the articles is this: “The Position” must be insecure when so much column space in Folkebladet is required for its defense. Second: the Principles must serve as a breastwork behind which the author can win his spurs as a knight of constitutional doctrine by mercilessly attacking those who show a reluctance to submit. Third: this is hard fare—a substitute—or like gnawing at the shell without getting into the kernel. I do not wish to be unjust. But if this impression is mistaken, it is because “the man is better than his doctrine.” The impressions are there.
+
+From Folkebladet of May 8 and 15, 1918, it appears that the concern here is not so much to interpret principles as to defend persons and attack opponents. I agree with the man who wrote in Folkebladet for June 15, “A Few Words about ‘The Position,’” where he says: “I believe that Dr. Evjen misunderstands the position in the Free Church, that he misunderstands the pastors of the Free Church, and misunderstands his own position in the Free Church.” He speaks of “schism” and “gulf.” Who has produced it? Not the principles as explained by Sverdrup, but Evjen’s treatment of the principles of Sverdrup and Oftedal, of his colleagues, and of everyone who dared to disagree with him.
+
+A matter is best known by its opposite. If one were to subtract from Evjen’s articles all the quotations from Sverdrup and Oftedal and others, and then take what remains and consider it, what does one get from it? Not much toward a “greater understanding” of the principles he was supposed to interpret; but a great deal of something else, which has injured and pushed aside a good cause. And what I feel especially called to protest against, and why I sound the alarm, is that Prof. Evjen is trying to introduce
+
+A NEW PRINCIPLE.
+
+Sverdrup wrote an explanation of the principles. Concerning all of them he says: “Above all other principles in the Free Church stands the decisive authority of God’s Word in the matter of the congregation and in church constitution fully as much as in the question of doctrine.” But Prof. Evjen has labored diligently to bring us under other authorities, and mentions a multitude of names, so that his articles have something in common with an old-fashioned almanac. If we hold unshakably and unwaveringly to the scriptural foundation in God’s Word, then we are unconquerable and need not fear the dark prophecies concerning “the downfall of the Free Church.” But if we allow ourselves to be led and enticed by one fellow man or another out onto the quagmire of sophistry and reason, then sooner or later we perish.
+
+Therefore we place the authority of God’s Word above the principles and above church-polity literature. Therefore it was also said at the meeting in 1897, when the principles were adopted: “If the congregation is
+
+ACCORDING TO GOD’S WORD
+
+the proper form of the kingdom of God on earth, then we must always go back to the Word to receive light upon the various questions, but also to receive power to solve them.”
+
+If the congregation were, according to church-polity literature, the proper form of the kingdom of God on earth, then we would give Evjen credit that his treatises contain something of an interpretation of the text; yet even then he would have to exclude all exaggerations and personal attacks if he wished to pass for a scholar. He could then, with great superiority, point to the “six-foot-long bookshelf of church-polity literature” and say: “The key to understanding them lies in church-polity literature.”
+
+Prof. Sverdrup wrote: “There is light enough for the congregation in the New Testament,” and again: “It is not through cleverness and sophistry that we try to find the way. It is through childlike faithfulness toward the Lord’s Word.” This matter of faithfulness to the Lord’s Word, which we regard as the most important thing of all, Evjen has neglected to emphasize. He says: “One finds light in church-polity literature and church history.” Answer: Yes, certainly one does. We do not despise church-polity literature or church history, but to set them alongside or even above God’s Word—that we protest against. And here it is that Evjen is trying to introduce a new principle. Not the name, but the benefit—“the benefit of consulting church-polity literature in order to see whether the Guiding Principles stand or fall.” This, so far as I understand Evjen, is his position, and all that remains is to change the name from “The Old and the New Testament” to “The Old and the New Constitution,” as Evjen suggested at the annual meeting. Folkebladet, June 26, page 613. That would undoubtedly help “The Position” considerably, since he is in possession of the “church-polity literature,” where the “key” lies. Every time anyone desired a “greater understanding” of “the Old or the New Constitution,” he would then have to turn to Dr. Evjen to borrow “the key.” “The key to understanding them lies in church-polity literature,” and one must “consult it in order to see whether the Guiding Principles stand or fall.” This now goes directly against the principles.
+
+In the first it says “according to God’s Word”; in the second, “according to the direction of God’s Word”; in the third, “according to the New Testament”; in the fourth there is talk of an “awakening preaching of God’s Word”; in the fifth, “under the authority of God’s Word and Spirit”; in the sixth, of “the spiritual gifts which the Lord bestows.”
+
+Nowhere does it say that we are to go to church-polity literature to receive light, or that we are to consult it because the “key” lies there. And yet Evjen maintains that he has been faithful to the authors and has not misrepresented them.
+
+Nor does this harmonize with what Prof. Sverdrup spoke and wrote, since it is directly contrary to what was said at the meeting when the principles were adopted.
+
+It does not help one whit, either, that the director of Augsburg declares that, as far as the principle itself is concerned, he is of the opinion that Augsburg’s position has been correctly interpreted by Evjen and Birkeland.
+
+Augsburg has never at any time held such a position. I challenge anyone whatever to show me that Prof. Sverdrup or Oftedal ever directed the congregation to go to church-polity literature to see whether the Guiding Principles stand or fall! Has it not, on the contrary, been brought against them as an accusation that they did not refer to the learned men and did not quote from them? Time and again Evjen has emphasized this as a great defect in Sverdrup’s teaching.
+
+Thus he describes part of Sverdrup’s teaching activity at Augsburg:
+
+“Unfortunately he was not often accustomed to acquaint his pupils with bibliography or to quote from the learned. The scholarly apparatus was most often made the object of superior ridicule. It is therefore no wonder that he never lectured on principial dogmatics and, during all the time he was president of the school, never taught ethics, history of dogma, apologetics, theological encyclopedia, theological church law, or philosophy (all these subjects have now been introduced). This is all the more striking since knowledge of these subjects is not altogether superfluous where an understanding of the concept of the church is concerned. Sverdrup’s school has had to pay dearly for this neglect of ‘the scholarly apparatus.’ In the controversy of the nineties many of the school’s alumni turned their backs on him.” (Dr. Evjen in Hauge’s Real-Encyklopædie for Protestant Theology.)
+
+Prof. Sverdrup neglected the scholarly apparatus. The school suffered for it. Many turned their backs on him. So now we have been informed why they left.
+
+Sverdrup was presumably not unaware that by making use of “the scholarly apparatus” one might acquire something of the “knowledge that puffs up.” In this connection he cites the Augsburg Seminary program of 1874:
+
+“By theological formation we understand, namely, not learned knowledge, nor a knowledge-rich memory filled with glosses, quotations, and interpretations, but a personal, living conviction of the truth, arising from the penetration of heart and spirit into the way and teaching of God’s Word....” S. S. III, 231.
+
+But I am compelled to quote more from Sverdrup. The goal is the building up of the congregation, not the exaltation of the pastors.
+
+“No one is a good pastor who does not have the same mind that was in Christ Jesus, who came not to be served but to serve and to give his life as a ransom for many. Christ loved the church and gave himself for it; thus all true pastors must do....
+
+“Then it is quite self-evident that the entire work of the pastors’ school will be marked and stamped by the tribulation that follows with the imitation of Christ, with the walk in humility, and with the struggle against the natural pride of the human heart and its desire for perishable honor.
+
+“It is this with which it is so difficult to become familiar.... that tribulations belong to every hour.... We can therefore expect nothing other than that all Christ’s work on earth has the same conditions today. All truly Christian and spiritual work must be in tribulation; otherwise it is not genuine.” S. S. III, 76.
+
+This sounds somewhat different from Evjen’s talk about the scholarly apparatus.
+
+Prof. Oftedal once said: “The flesh has a keen sense of smell, so that from a long distance it can smell where tribulations and persecutions for Jesus’ name are coming. In order to escape such things, men grasp after that which wins the recognition and praise of the world.”
+
+Prof. Evjen often returns to the defective instruction at Augsburg in Sverdrup’s day. Now, on the other hand, things are entirely different at the school. But fortunately we have Sverdrup’s writings and some of Oftedal’s, and through them they still speak although they are dead, and they need neither defense nor interpretation, since we understand them better than Evjen’s interpretation of them. Therefore I will again quote a little of what Prof. Sverdrup wrote concerning Augsburg’s principles for the education of pastors:
+
+“From Scripture’s deep and pure spring the true theological student drinks and draws from it the inspiration that sustains his life’s work, so that through all its many small and great changes it always aims at the true goal: saved souls in fellowship with Jesus and the extension of the kingdom over all the earth. Jesus made his disciples into such true scribes through the three years he had them with him. He spoke his Word and did his works before his disciples so that they might become his witnesses; he opened the Scriptures to them so that their hearts became burning and their spirits light and clear, and they learned to love more, the more they were permitted to look into the gracious ways of God’s love. Thus the first missionaries and pastors were equipped, who went out and exhorted in Christ’s stead: Be reconciled to God! And no one doubts that they were well prepared and well equipped for the work. Why then do men now rage in bitterness because there are those who believe that, as Jesus prepared his disciples for the apostolic work, so also now must the Lord’s witnesses and servants of the Word be prepared? But let those rage who wish to have the pastors exalted by false learning; Augsburg’s principle is at any rate this, that God’s thoughts are deep enough, and God’s Word broad and wide enough to fill some years of study, and the sword of the Spirit sharp enough that it needs no help from pagan learning and wisdom. Augsburg’s principle is this, that the one who is to be a witness to the Lord’s salvation must have experienced it in his own heart. Only through living experience is the living conviction gained that gives preaching its proper heartfelt ring and tone.” S. S. III, 21.
+
+It has often wounded my sense of reverence when I have noticed the irreverent spirit in which Evjen has treated Sverdrup. At one moment he has been tossed high like a ball, at another cast deep down; at one moment he is “perhaps the foremost scholar among living Norwegian theologians on either side of the water” (Evjen, 1906), at another he is one who “neglected the scholarly apparatus.” At one moment he is presented as “a gifted teacher of dogmatics and well at home in the Old Testament,” at another as one who said little about the principial teaching of dogmatics, likewise little about the principles of ethics, and did not discuss church constitution much in class. It is then of course self-evident that the men who left the school in those days went out approximately as ignorant as they came in. One can hardly expect them to know anything about church constitution. They have neither the time nor the literature, and no “further” instruction did they receive. But there was still hope for them if only they would submit to the man who studied the matter thoroughly and has been in Germany and knows something. Folkebladet, page 252.
+
+Evjen has been especially busy presenting Prof. Sverdrup as a man who changed his views rather often. He wrote that in that year, and he wrote that in that year; and “if he had lived long enough and could have read Sohm’s new work of 1914, it is possible that it might have caused Sverdrup to modify his view with regard to Principle No. 1,” says Evjen. Guess again! Another attempt to present Sverdrup as an unstable and wavering man, a sort of Paul Turncoat who changed his opinion as it suited him. But we do not believe that Prof. Sverdrup was so little established in God’s Word—a child who would allow himself to be tossed and driven about by every wind of doctrine. If the congregation were, according to church-polity literature, the proper form of the kingdom of God on earth, then one would indeed have to change one’s opinion often, every time a new German book on church constitution appeared.
+
+When will there be an end to such a scandalous manner of writing? Is it not possible for so learned and capable a man to maintain “the position” without this?
+
+We do not worship men, but we are offended when our teachers are mocked and violated, and we feel it as a sacred duty to guard their memory and protect their name, so that their testimony may shine in the hearts of the people, as it is written: “Your eyes shall see your teachers, and your ears shall hear a word behind you saying: This is the way; walk in it.” Isa. 30:20–21.
+
+As the prophet Daniel also testifies: They shall shine as the vault of heaven shines, like the stars forever and ever (12:3).
+
+“THE FREE CHURCH’S KINSHIP WITH THE CONGREGATIONALISTS”
+
+“God has made all the race of mankind of one blood to dwell on the whole face of the earth.” All these are equally guilty, equally helpless, equally condemned. All have sinned. There is none righteous, not even one. Here no one can deny his kinship with the whole fallen race.
+
+But this can hardly be the kinship Evjen has in mind. It is too fleshly and brings us no honor. “But as many as received him, to them he gave the right to become children of God, to those who believe in his name.” These are born of God and are one with one another in Christ, bound together by bonds far stronger than any bond of fleshly kinship. But neither can this be the kinship Evjen has in mind when he speaks strongly and continually about “the kinship,” for this is too spiritual and gives us no advantage, since all God’s children are kin to one another, wherever they live and whatever name they bear. What is it then? What evil or what good have we done that should entitle Prof. Evjen to maintain: “The kinship is nevertheless greatest with the Congregationalists”? For if fleshly and spiritual kinship are excluded, then there must be something that is neither the one nor the other. And this something Evjen has found. It is the constitution, and here it is that “the Free Church’s kinship with the Congregationalists manifests itself,” he says. “The Free Church alone says: the congregation is divinely instituted. No, say the others.” Question: Who are the “others” who deny that the congregation is divinely instituted? If only the Free Church and the Congregationalists believe and confess this, then the “kinship” would not be so slight after all. But Evjen can hardly prove this assertion. Folkebladet, March 27.
+
+And now the proofs: “The Congregationalists’ distinctive function are ‘to reveal and to realise the true idea of the church’”—freely translated, to reveal and actualize the true nature of the church.
+
+We do not hear here “anything further” about what the Congregationalists’ constitution is, only what one individual man, Dr. Robert William Dale, conceived their distinctive function to be. Nor do we hear whether the Congregationalists later acknowledged the statement and made it their own. But when one reads in an English author that Dr. Dale, in an essay years ago, stated what “he thought,” Prof. Evjen immediately makes it the Congregationalists’ distinctive function and thinks that he has proved the kinship.
+
+Prof. Anderson’s testimony carries somewhat more weight, especially when we are told that he “understands rather well what Congregational principles are.”
+
+But for us it is of less importance whether we are kin to this one or that one, provided only that we stand upon the secure ground of Scripture and direct and conduct our work according to biblical and Lutheran principles. For with Luther the concern was evangelical freedom—the disposition of the heart. With Calvin, however, it was the firmness of law—unyielding consistency. Therefore the Reformed became increasingly more bound to law and more outward than the Lutherans, and in many cases the Bible became for them a new law book. Therefore they have occupied themselves much with the question of constitution, which deals precisely with laws, statutes, and ordinances. And now this literature is praised as something great, while edifying literature, postils, and the like are not to be granted either standing or lying room on the pastor’s bookshelf.
+
+What does Prof. Evjen really intend to accomplish with this stubborn insistence?:
+
+“It is in the Reformed church-polity literature that Principle No. 1 receives its strongest support.” And he “does not know of a single Lutheran theological faculty of rank in the whole world that would assent to it.” “Since it has essentially the same constitutional principles as the Congregationalists,” etc. And on top of all this bold assertion: “I have only said that the Free Church’s peculiarity among Lutherans lies in the field of constitution, and that its constitutional principles very much resemble those of the Congregationalists,” etc. Surely this is not an attempt to make the Free Church un-Lutheran and thereby make its work still more difficult?
+
+Our people are accustomed to having confidence in Augsburg and in what comes from there. But has such a manner of writing strengthened confidence in the Lutheran Free Church and Augsburg? Everyone may answer according as he finds the circumstances to be. An assertion can be made for so long that eventually someone believes it to be so. One would almost think that this “kinship” is already dissolved by the question of what constitutes a congregation. Our congregations hold fast, as a rule, that it is the use of the Word and the sacraments that constitutes a congregation in the biblical sense.
+
+But immediately the Congregationalists come and say: “No, we know only one means of grace—God’s Word.” Baptism is for them only a ceremony of admission, and the Lord’s Supper only a memorial meal, not a means of grace.
+
+The congregation is, according to God’s Word, the proper form of the kingdom of God on earth.
+
+Evjen says that this point receives its strongest support in the Reformed church-polity literature. He does not seem to concern himself in the least with the fact that the point is built upon God’s Word and seeks its sole support there, as though neither Lutheran nor Reformed church-polity literature existed, nor any other literature in the whole world that was prepared to lend it support. And then he maintains: “I have always interpreted them as I believe their authors would have wished.”
+
+Prof. Sverdrup maintained concerning the Congregationalists that they had admittedly preserved the outward constitution, but that the Spirit was not there, since they had now become the most rationalistic of all the Reformed communions. He was evidently not interested in the “kinship” and never spoke of it, nor did he say that he had to go to Reformed church-polity literature to find the “strongest support” for Point 1.
+
+What, then, is constitution? Prof. Evjen has given us no definition, despite the many words. I shall give a definition. If someone else gives a better one, I have nothing against it. Constitution is the human principles, laws, and statutes, written or unwritten, according to which one or more common undertakings are directed and carried on. Such a human arrangement may be very free and flexible and possess little binding force, but be more like an expression of what is considered right and true. And this understanding of constitution can even stand as a separate point within the constitution itself. But it can also be strict and unyielding, according as it is carried through literally to the letter. It is, in other words, everything and nothing. For an orthodox Jew it is “command upon command, rule upon rule.” For a Christian set free, the ordinances of the fathers are of little significance.
+
+“The constitution within the Lutheran Church is very free, so that having the same constitution neither abolishes nor produces the unity of the church.”
+
+It is a good constitutional principle that those who govern are elected by those who are governed. And it works well, especially if within a few years there is opportunity to elect again in case one chose wrongly. But common government over congregations often brings worse disorder than the congregations’ own government.
+
+It is likewise a good constitutional principle that a congregation has the right to call its own pastor and itself assumes responsibility for its choice. For if the church government chooses a pastor for a congregation, or other elements creep into the election, and then the congregation itself is to bear the responsibility, that is unjust when it takes place against the congregation’s will. But if it is a poor mission congregation that asks not only for a pastor but also for the means to pay him, then the mission board must comply with this request, if it can, even though this may appear to conflict with the congregation’s right of call. By this neither the mission board nor the congregation has denied the principle of the congregation’s right of call. But a constitutional principle must be adapted to the requirements of life; otherwise it becomes a hindrance instead of a help in the work. It feels so wholesome to be freed from the many human commandments that we must be excused if we have no particular desire to come under Reformed authorities.
+
+In the historical development of the church it may at certain times become necessary to establish certain guiding principles that point toward the right way and become a help rather than a hindrance to the work.
+
+If such principles are to have any significance for a believing Lutheran, then they must be grounded in God’s Word. Illustrations will not do. They really prove nothing at all. They never have, and they never can. They may illuminate a matter, but they cannot prove it. The man who allows himself to be fooled by an illustration is himself a fool, but the man who wishes to study a matter must not allow himself to be misled by an illustration. There have always been men who understood the art of using illustrations, but for the advancement of their own cause and to the misleading and seduction of many. An illustration may serve to shed light upon one point but fail at another, and this one-sided illumination and explanation of one point serves only to make the matter itself fundamentally misrepresented.
+
+A congregation can manage without a constitution for many years. It may adopt one written in accordance with the practice that has been followed. When the Guiding Principles were discussed and adopted by the Chippewa congregation in the winter of 1898, there was a man who made the following statement: “Since I got hold of the annual report last fall, I have often read these points, and I find nothing new. It is only written down in a brief, compressed form what we as a congregation have practiced, or tried to practice. And now that we have talked about them for several days, I move that we adopt them all as a whole.”
+
+Seconded and adopted.
+
+Thus all congregations ought to do without fearing Prof. Evjen’s judgment that by doing so they enter into the “greatest kinship with the Congregationalists.”
+
+For within our congregations there are, after all, many individual persons who at the annual meetings have assented to the Principles without the congregation to which they belong having done so. And yet there was no one who imagined that they became un-Lutheran by traveling to the annual meeting and receiving the right to vote there. Nor were they accused of it after they came home.
+
+One textual item, høistiller, remains uncertain in the supplied transcription, so I have deliberately marked it rather than silently conjecturing a meaning.

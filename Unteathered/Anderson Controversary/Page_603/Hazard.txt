@@ -1,0 +1,210 @@
+Below is the full step-by-step analysis followed by the voice-preserving academic translation. Since Canvas is no longer available, I am using a writing block for the final reusable translation.
+
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Kort og godt” — literally “short and good,” idiomatically “briefly and simply,” “in short,” or “quite simply.” The opening is deliberately direct and unornamented.
+* “blit klar over” — “have come to realize,” not merely “have become aware.” It marks a developed conviction.
+* “menighetsarbeide” — literally “congregational work.” In this ecclesiastical context, “congregational work” is preferable to the broader “church work” where the local congregation is clearly meant.
+* “Ledende principer” — the title or designation “Guiding Principles.” It refers to formal ecclesiastical principles and should be capitalized as a document/title-like phrase.
+* “de store samfund” — “the large church bodies” or “the large synodical bodies,” not modern “communities.” In Norwegian-American Lutheran usage, “samfund” denotes a church body, denomination, or synod.
+* “kaldet” — “the call,” specifically a pastoral call.
+* “opta arbeidet” — “take up the work,” meaning assume responsibility for ministry.
+* “verdslige folk” — “worldly people.” This is a religious classification, not merely “secular people.” It likely indicates persons not regarded as spiritually converted or confessing Christians according to the Free Church understanding.
+* “holde mig til” — “adhere to,” “govern myself by,” or “hold to.”
+* “rydde op i dette kirkelige vildnis” — literally “clear up this ecclesiastical wilderness/tangle.” The metaphor is sharp and somewhat polemical; it should not be reduced to “organize the situation.”
+* “i hast og jag” — “in haste and hurry,” “in a rush.” There may be a textual peculiarity in the sentence “ihvorvel det var ønskelig at organisere menigheter i hast og jag uten videre,” because the subsequent contrast strongly suggests that the author may be criticizing rapid, insufficiently structured organization. The wording as transmitted must nevertheless be translated rather than silently emended.
+* “fast menighetsorganisation” — “firm/stable congregational organization,” meaning a definite and durable ecclesiastical structure.
+* “lægge beslag paa folks interesse” — “claim people’s interest/attention,” an idiom of competing demands.
+* “drøges” — archaic form meaning “delay,” “put off,” “tarry.”
+* “bringe istand” — “bring about,” “establish,” “set in place.”
+* “purt og rent” — fixed Lutheran confessional phrase: “purely and clearly/purely and unadulterated.” It echoes the concern for the pure preaching of God’s Word. “Pure and unadulterated” is semantically strong, though “purely and clearly” may better preserve ecclesiastical idiom.
+* “materialer, som var ved haand” — metaphorical “materials that were at hand,” referring to the people and circumstances available for building congregational life.
+* “antat sig gjerningen” — “taken up the work/cause,” meaning the Lord has shown his favor toward and ownership of the work.
+* “omvendt fra sit liv i synden” — “converted from their life in sin,” retaining the theological category of conversion.
+* “arbeidsmaate” — “method of work,” not merely “style.”
+* “missionsarbeide” — “mission work.”
+* “holdt arbeidet paa at falde sammen” — “the work came close to collapsing.”
+* “kom paa glid igjen” — idiomatic: “got under way again,” “began moving again.”
+* “sidstleden” — “last,” referring to the most recent November 11 before publication; since the article is dated June 26, 1918, this indicates November 11, 1917.
+* “optagelse” — “admission” or “reception” into the church body.
+* “bestemme sig” — “decide its course/position.”
+* “for mit personlige vedkommende” — “as far as I personally was concerned.”
+* “samfundsfolk” — people aligned with or favoring the larger church body; “church-body people” is too literal. “Supporters of the synod” or “people of the church body” needs contextual handling.
+* “kirkeavdeling” — “branch of the church” or “church body.”
+* “hvad det aandelige angik” — “in spiritual matters,” “as regards its spiritual life.”
+* “blit mig til del” — “has come to me,” “I have received.”
+* “tilraadelig” — “advisable,” with the sense of prudent and proper.
+* “staa helt i samfundet end halvt i Frikirken” — pointed institutional contrast: better to stand wholly within the larger church body than halfway within the Free Church.
+* “frikirkemand, ret forstaat” — literally “a Free Church man, rightly understood.” This is a carefully qualified closing paradox: institutionally leaving the Free Church while retaining what he regards as the true principle of free-church identity.
+
+Syntactic Hazards
+
+* The opening sentence carries the thesis in a single long causal structure: he leaves because his actual ministry practice no longer accords with the Free Church’s stated principles.
+* Several sentences accumulate reasoning through subordinate clauses rather than presenting modern short declarative units.
+* The numbered paragraph contains two extended propositions with internal qualifications and causal explanations. It should not be fragmented excessively.
+* Dashes often mark rhetorical pivots or retrospective judgments, especially “vi burde ha tat den før.”
+* The Toledo paragraph moves from experience, through repeated near-collapse, to decision, organization, and theological interpretation. The sequence is essential.
+* The sentence beginning “I lyset av det ovenfornævnte” is a long inferential sentence and should remain so.
+* The voting paragraph contains nested explanation of why the four dissenters voted as they did.
+* The final paragraph moves from gratitude, to institutional rationale, to paradoxical personal identification. The contrast must remain visible.
+
+Theological Hazards
+
+* “verdslige folk” rests on a pietistic distinction between spiritually living Christians and the “worldly.”
+* “forkynde Guds ord purt og rent” is doctrinally charged Lutheran language concerning the proper proclamation of the Word.
+* “Ved Herrens ords kraft” attributes conversion causally to the power of the Lord’s Word.
+* “omvendt fra sit liv i synden” must preserve genuine conversion language, not be weakened to “changed their lives.”
+* “lever som kristne” is a spiritual and ethical claim, not merely an identity label.
+* “Herren skal faa utføre sin gjerning” expresses divine agency through Word and Holy Spirit.
+* “ordets og Helligaandens virke” should retain the distinct instrumental/theological relation between the Word and the Holy Spirit.
+* Concern that “menighetsarbeidet skulde komme til at lide skade hvad det aandelige angik” refers to possible injury to the congregation’s spiritual life, not administrative harm.
+* The author’s final self-description as fundamentally a “frikirkemand” distinguishes an ecclesiological principle from denominational membership.
+
+Voice Hazards
+
+* The prose is explanatory and self-justifying but not defensive in a modern psychological sense.
+* The tone is sober, ecclesiastical, and practical, with theological interpretation of events.
+* “kirkelige vildnis” introduces unusual sharpness and should retain some bite.
+* The author repeatedly appeals to experience as evidence of a theological and ecclesiological conclusion.
+* Divine agency is stated without rhetorical flourish; the translation should preserve this restraint.
+* The closing paradox is intentionally unresolved in a simple institutional sense and should not be explained away.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Kort og godt” means “in short” or “quite simply.” “Quite simply” preserves the directness of the opening.
+* “holde mig til” means to adhere to a rule or principle. “I had learned to adhere to” preserves the formative authority of the Free Church principles.
+* “rydde op i dette kirkelige vildnis” pictures the existing religious situation as an ecclesiastical wilderness or tangled growth requiring clearing. “Clear up this ecclesiastical wilderness” preserves the metaphor and polemical edge.
+* “lægge beslag paa folks interesse” means that many things compete for and occupy people’s attention. A literal “lay claim to people’s interest” remains intelligible and preserves the period register.
+* “purt og rent” has strong Lutheran resonance. It corresponds to the confessional concern that the Gospel be preached “purely.” A rendering such as “preach God’s Word purely and clearly” retains ecclesiastical meaning without importing unnecessary KJV diction.
+* “materialer ... at bygge op med” extends a building metaphor: once the Word is faithfully preached, the minister works with the human material at hand in building the congregation. The metaphor should remain explicit.
+* “antat sig gjerningen” implies that God has recognized, owned, blessed, or taken charge of the undertaking. “Taken the work in hand” is possible but slightly misleading; “shown us that he has taken up the work” better preserves divine action.
+* “holde paa at falde sammen” is idiomatic for being on the verge of collapse.
+* “kom paa glid igjen” means the work regained momentum. “Got under way again” is natural while retaining the practical tone.
+* “gjør ... uret” literally means “do wrong to.” The author believes continued affiliation would be unfair both to the Free Church and to himself because his actual convictions have diverged from its principles.
+* “samfund” is culturally specific Norwegian-American Lutheran terminology. “Church body” is usually the safest English equivalent here. “Synod” might be too specific in some sentences, because the author is contrasting the Free Church with the organized larger Lutheran bodies more generally.
+* “frikirkemand, ret forstaat” is not merely denominational self-identification. It suggests that, in what he regards as the proper meaning of free-church principle, he remains a “Free Church man” even while leaving the denomination.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: Anderson leaves the Free Church because his actual method of congregational work no longer agrees with the Free Church’s Guiding Principles and instead approaches that of the larger church bodies.
+* Historical occasion: He accepted a call to a newly organized Detroit congregation despite hesitation because its formation by “worldly people” conflicted with Free Church principles.
+* First experiential development: Practical ministry in Detroit altered his working method.
+* First conclusion: A stable congregational organization is absolutely necessary, especially in a large city, and should be established promptly when circumstances permit.
+* Second conclusion: The central ministerial task is to preach God’s Word purely and then build with the people and resources actually available.
+* Theological confirmation: He interprets conversions in Detroit as evidence that the Lord has accepted and blessed the work through the power of his Word.
+* Second experiential confirmation: Mission work in Toledo without formal congregational organization repeatedly nearly collapsed.
+* Practical resolution: The Toledo mission organized as a congregation on November 11, 1917, with fifty adult members.
+* Theological confirmation repeated: Anderson sees signs that the Lord will carry out his work there through the Word and the Holy Spirit.
+* Ecclesiastical inference: His convictions have therefore diverged from the Free Church’s stated method and moved toward the larger church body’s position.
+* Institutional consequence: Remaining in cooperative fellowship with the Free Church would wrong both parties, so he has applied to the Norwegian Lutheran Church in America.
+* Congregational confirmation: The Detroit congregation made its decision independently before he disclosed his own intended course; the vote was 98 to 4 in favor of joining the new church body.
+* Treatment of dissent: Anderson carefully explains that the four dissenting votes did not constitute a unified theological opposition.
+* Pastoral concern: He acknowledges the fear that the transition might injure the congregation spiritually and explicitly hopes and prays that this will not occur.
+* Conclusion: He thanks the Free Church, explains that full membership in the larger church body is more consistent than half-membership in the Free Church, yet paradoxically maintains that, rightly understood, he remains fundamentally a Free Church man.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Guds ord purt og rent” echoes the Lutheran and biblical emphasis on faithful proclamation of the Word, though it is not itself a direct quotation.
+* “Ved Herrens ords kraft” recalls biblical descriptions of the Word as living, active, effective, and divinely powerful; likely conceptual parallels include Isaiah 55:10–11, Romans 1:16, Hebrews 4:12, and 1 Peter 1:23–25.
+* “omvendt fra sit liv i synden” participates in biblical conversion language: turning from sin to God, with possible conceptual parallels to Acts 14:15, Acts 26:18–20, and 1 Thessalonians 1:9.
+* “lever som kristne” evokes the New Testament ethical pattern of walking or living according to faith, though no specific verse is quoted.
+* “Herren skal faa utføre sin gjerning” reflects a strong biblical theology of God as the one who performs or completes his work; Philippians 1:6 is a possible conceptual echo, although no direct dependence can be established.
+* “ordets og Helligaandens virke” reflects the Lutheran biblical conviction that the Holy Spirit works through the Word. Possible biblical backgrounds include John 3:5–8, Romans 10:17, and passages in Acts where the preached Word and the Holy Spirit operate together.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author does not dramatize his departure but presents it as the unavoidable consequence of convictions produced through ministry experience.
+* “absolute necessity” should remain absolute; it must not become merely “important.”
+* His judgment that remaining in cooperation would “wrong both the Free Church and myself” should remain morally definite.
+* “worldly people” should not be neutralized into “local people” or “laypeople.”
+* Conversion “from their life in sin” should remain direct and morally charged.
+* His hope and prayer concerning possible spiritual harm should preserve genuine pastoral seriousness.
+* The closing statement should retain its tension: he is leaving the denomination but cannot, “rightly understood,” cease to be a Free Church man.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” in “den maa-te” is not modal; it is part of “maate,” “manner/method.”
+* “der ikke maa drøges” = “there must be no delay.” The prohibition against delay is strong.
+* “Herren skal faa utføre sin gjerning” carries a future/confident force: “the Lord will be permitted to carry out his work” is too literal; “the Lord will carry out his work” preserves the theological confidence, though “shall carry out” would sound artificially biblical.
+* “burde ha tat den før” = “we should have made it earlier.” This is retrospective obligation.
+* “vild(e) gjøre” = “intended to do” rather than bare futurity.
+* “skulde komme til at lide skade” expresses feared possibility: “might suffer harm.”
+* “maa bli tilfældet” in the negative prayer “ikke maa bli tilfældet” = “may not prove to be the case,” retaining the optative/prayerful force.
+* “kan jeg ikke bli andet end” = “I cannot be anything other than,” a strong statement of impossibility or identity.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* menighet = congregation
+* menighetsarbeide = congregational work
+* menighetsorganisation = congregational organization
+* Guds ord / ordet = God’s Word / the Word
+* Herren = the Lord
+* Helligaanden = the Holy Spirit
+* omvendt = converted
+* synden = sin
+* kristne = Christians
+* missionsarbeide = mission work
+* gjerning = work
+* aandelige = spiritual
+* samfund = church body, with contextual variation only where required
+* Frikirken = the Free Church
+* Den lutherske frikirkes Ledende principer = the Guiding Principles of the Lutheran Free Church
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “kirkelige vildnis” will remain “ecclesiastical wilderness,” preserving the image of clearing disorder.
+* “materialer ... at bygge op med” will remain a building metaphor: “use the materials that were at hand to build with.”
+* “falde sammen” should retain the image of collapse.
+* “kom paa glid igjen” can be rendered “got under way again,” preserving motion rather than replacing it with an abstract “recovered.”
+* “staa ... i kirkelig samarbeide” and “staa helt i samfundet” use “stand” as a relational-position metaphor. English can retain “remain in ecclesiastical cooperation” in the former but should preserve “stand wholly within” or an equivalent positional force in the conclusion.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening: concise declaration of incompatibility.
+* Detroit narrative: initial hesitation followed by energetic practical engagement.
+* Numbered conclusions: analytical and increasingly confident.
+* Conversion report: restrained theological affirmation.
+* Toledo narrative: instability, strain, decision, then renewed confidence.
+* Ecclesiastical conclusion: firm and almost juridical.
+* Voting report: factual and explanatory.
+* Spiritual concern: briefly pastoral and prayerful.
+* Closing: gratitude, resolution, then paradoxical affection and identity.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences will be retained where reasoning accumulates.
+* The numbered points should remain structurally extended rather than converted into modern compact bullet logic.
+* Dashes should retain their rhetorical role, particularly in retrospective or emphatic pivots.
+* Semicolon-like transitions in English should be used where they help preserve the original progression.
+* Repetition of “work,” “congregation,” “organization,” “Word,” and “Lord” should not be stylistically diversified merely to avoid repetition; the repetition belongs to the author’s argument.
+* The translation should sound like ecclesiastical prose intended to be read publicly, but not like an imitation of the King James Bible.
+
+STEP 11: ACADEMIC TRANSLATION
+
+% Page 603
+
+Why I Am Leaving the Free Church
+
+“Folkebladet,” June 26, 1918
+
+Quite simply: because I have come to realize that the manner in which I carry on congregational work is not in harmony with the view of congregational work maintained by the Guiding Principles of the Lutheran Free Church, but rather in harmony with the view of congregational work maintained by the large church bodies.
+
+When the call came to take up the work in the newly established congregation in Detroit, Michigan, founded by Pastor P. M. Eriksen around New Year 1915, I accepted, though with considerable hesitation. The congregation had, after all, been founded by worldly people, which was contrary to the Guiding Principles of the Free Church, which I had learned to adhere to.
+
+My hesitation about accepting the call, however, soon disappeared amid the busy work of clearing up this ecclesiastical wilderness. At the same time my method of work began to undergo serious changes. I began to see, 1) that although it was desirable to organize congregations in haste and hurry without further ado, a firm congregational organization was nevertheless an absolute necessity—especially in a large city, where people live so scattered and where there is so much that will lay claim to their interest—and that there must be no delay in bringing about as sound and vigorous a congregational organization as possible whenever outward circumstances favor such an organization. 2) that the matter here was to preach God’s Word purely and clearly, and then to make use of the materials that were at hand to build with.
+
+The Lord has also shown us that he has taken up the work. Through the power of the Lord’s Word many have now been converted from their life in sin and live as Christians.
+
+I became still more firmly established in my confidence in this method of work through the experience I gained in our mission work among our Scandinavian people in Toledo, Ohio (about 60 miles southwest of Detroit). I worked here for a year and a half without congregational organization. Several times the work was on the point of collapsing. And it was only through enormous exertions that it got under way again. Then we made the decision—we should have made it earlier. On November 11 last we organized a congregation with 50 adult members. Here also there are signs that the Lord will carry out his work through the working of the Word and the Holy Spirit.
+
+In the light of the foregoing, it is clear that I have departed from the view of the procedure to be followed in ecclesiastical work maintained in the Guiding Principles of the Lutheran Free Church—and that I therefore wrong both the Free Church and myself by continuing to remain in ecclesiastical cooperation with it—and that I have come nearer to sharing the view of the church body; for this reason I have submitted my application to the Norwegian Lutheran Church in America for admission.
+
+The congregation in Detroit was given the opportunity to decide its position before I gave the congregation any indication of what I personally intended to do. The result of the vote in the congregation was as follows: 98 voted to belong to the new church body, 4 against. Three of the 4 were, fundamentally, people of the church body; but they voted against because the Free Church was the branch of the church that had begun the work there. The fourth voted against because he thought that things had been so good as they were, and because he was afraid that the congregational work might suffer harm in spiritual matters—the latter, however, I hope and pray may not prove to be the case.
+
+I wish hereby to thank the Free Church for all the good that has come to me through it. I leave it because I believe it is better and more advisable to stand wholly within the church body than half within the Free Church. And yet, despite this, I feel that fundamentally I cannot be anything other than a Free Church man, rightly understood.
+
+L. O. Anderson.
+
+A particularly delicate point is the sentence beginning “at ihvorvel det var ønskelig at organisere menigheter i hast og jag uten videre.” As transmitted, it says that such rapid organization was “desirable,” although the logic of the passage may suggest a textual or printing irregularity. I have preserved the supplied text rather than silently correcting it.
