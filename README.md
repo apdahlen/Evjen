@@ -98,21 +98,8 @@ This was a 40 page pamphlet written by Pastor Eldor Mikael Hanson as an extensiv
 
 ---
 
-## Historical Sources
 
-The volume draws primarily from Norwegian-American Lutheran materials published between 1910 and 1918, including:
-
-* Evjen’s 1910 writings on Sverdrup
-* *Guidance: The Principles of the Lutheran Free Church* (1914)
-* Evjen’s 1918 *Folkebladet* series *The Position*
-* related *Folkebladet* editorials
-* writings by Georg Sverdrup
-* writings by Sven Oftedal
-* the Guiding/Fundamental Principles of the Lutheran Free Church and AFLC
-
----
-
-## Note on Translation Method
+## Notes on Translation Method
 
 The translations in this repository are produced using AI-assisted translation under explicit scholarly constraints and reviewed against the original Norwegian sources.
 
