@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  22 AUG 2026 12:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  17 SEP 2026 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,7 +398,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip69
 \@temptokenb=\toks32
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 35
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 43
 .
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -412,24 +412,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (Evjen_Book.aux)
 \openout1 = `Evjen_Book.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -465,13 +465,13 @@ LaTeX Font Info:    ... okay on input line 35.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 35.
-Package microtype Info: Applying patch `item' on input line 35.
-Package microtype Info: Applying patch `toc' on input line 35.
-Package microtype Info: Applying patch `eqnum' on input line 35.
-Package microtype Info: Applying patch `footnote' on input line 35.
-Package microtype Info: Applying patch `verbatim' on input line 35.
-LaTeX Info: Redefining \microtypesetup on input line 35.
+LaTeX Info: Redefining \microtypecontext on input line 43.
+Package microtype Info: Applying patch `item' on input line 43.
+Package microtype Info: Applying patch `toc' on input line 43.
+Package microtype Info: Applying patch `eqnum' on input line 43.
+Package microtype Info: Applying patch `footnote' on input line 43.
+Package microtype Info: Applying patch `verbatim' on input line 43.
+LaTeX Info: Redefining \microtypesetup on input line 43.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -524,7 +524,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 43.
 
 (Evjen_Book.out) (Evjen_Book.out)
 \@outlinefile=\write3
@@ -534,44 +534,44 @@ Package hyperref Info: Link coloring OFF on input line 35.
 
 {C:/Users/apdah/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/apda
 h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
-<AFLC_Fundamental_Principles.pdf, id=452, 614.295pt x 794.97pt>
+<AFLC_Fundamental_Principles.pdf, id=492, 614.295pt x 794.97pt>
 File: AFLC_Fundamental_Principles.pdf Graphic file (type pdf)
 <use AFLC_Fundamental_Principles.pdf>
-Package pdftex.def Info: AFLC_Fundamental_Principles.pdf  used on input line 73
+Package pdftex.def Info: AFLC_Fundamental_Principles.pdf  used on input line 82
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<AFLC_Fundamental_Principles.pdf, id=454, page=1, 614.295pt x 794.97pt>
+<AFLC_Fundamental_Principles.pdf, id=494, page=1, 614.295pt x 794.97pt>
 File: AFLC_Fundamental_Principles.pdf Graphic file (type pdf)
 <use AFLC_Fundamental_Principles.pdf, page 1>
 Package pdftex.def Info: AFLC_Fundamental_Principles.pdf , page1 used on input 
-line 73.
+line 82.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: AFLC_Fundamental_Principles.pdf Graphic file (type pdf)
 <use AFLC_Fundamental_Principles.pdf, page 1>
 Package pdftex.def Info: AFLC_Fundamental_Principles.pdf , page1 used on input 
-line 73.
+line 82.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: AFLC_Fundamental_Principles.pdf Graphic file (type pdf)
 <use AFLC_Fundamental_Principles.pdf, page 1>
 Package pdftex.def Info: AFLC_Fundamental_Principles.pdf , page1 used on input 
-line 73.
+line 82.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: AFLC_Fundamental_Principles.pdf Graphic file (type pdf)
 <use AFLC_Fundamental_Principles.pdf, page 1>
 Package pdftex.def Info: AFLC_Fundamental_Principles.pdf , page1 used on input 
-line 73.
+line 82.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \includepdf{AFLC_Fundamental_Principles.pdf}
+l.82 \includepdf{AFLC_Fundamental_Principles.pdf}
                                                  
 File: AFLC_Fundamental_Principles.pdf Graphic file (type pdf)
 <use AFLC_Fundamental_Principles.pdf, page 1>
 Package pdftex.def Info: AFLC_Fundamental_Principles.pdf , page1 used on input 
-line 73.
+line 82.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [1
 
@@ -606,6 +606,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 2.
+
+Overfull \hbox (0.71873pt too wide) detected at line 20
+ []\T1/lmr/m/n/12 xvii
+ []
+
 
 Overfull \hbox (0.71873pt too wide) detected at line 21
  []\T1/lmr/m/n/12 xvii
@@ -643,9 +648,9 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [8{C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc
-}])
-(Dahlen/Definitions.tex
+))
+(Dahlen/Definitions.tex [8{C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/e
+nc/dvips/lm/lm-ts1.enc}]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 27.
@@ -655,38 +660,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
 
-[10]) (Dahlen/Hearing.tex [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 78--85
+) (Dahlen/Hearing.tex [10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--93
+Underfull \hbox (badness 10000) in paragraph at lines 89--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--101
+Underfull \hbox (badness 10000) in paragraph at lines 97--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--109
+Underfull \hbox (badness 10000) in paragraph at lines 105--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--117
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
 
  []
 
 [13]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 138.
+(hyperref)                than one, level fixed on input line 145.
 
-[14] [15] [16] [17] [18]) (Dahlen/Epilog.tex [19]) (Dahlen/Motivation.tex
-[20] [21]) [22] (ProjectDisclaimer.tex
+[14] [15] [16] [17] [18]) (Dahlen/Epilog.tex [19] [20]) (Dahlen/Motivation.tex
+[21]) [22] (ProjectDisclaimer.tex
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
 1.
 
@@ -698,10 +703,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ) [23]
-<Evjen_1910/Cover.png, id=750, 316.93407pt x 560.0925pt>
+<Evjen_1910/Cover.png, id=802, 316.93407pt x 560.0925pt>
 File: Evjen_1910/Cover.png Graphic file (type png)
 <use Evjen_1910/Cover.png>
-Package pdftex.def Info: Evjen_1910/Cover.png  used on input line 94.
+Package pdftex.def Info: Evjen_1910/Cover.png  used on input line 103.
 (pdftex.def)             Requested size: 469.75502pt x 830.2315pt.
 
 (Evjen_1910/Pages_5_16/Pages_5_16.tex
@@ -720,7 +725,7 @@ l.1 \section
 (Evjen_1910/Pages_43_46/Pages_43_46.tex [10] [11]) (Guidance/Guidance.tex
 [12{C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{
 C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
-<Guidance/Front.jpg, id=804, 4015.0pt x 3011.25pt>
+<Guidance/Front.jpg, id=856, 4015.0pt x 3011.25pt>
 File: Guidance/Front.jpg Graphic file (type jpg)
 <use Guidance/Front.jpg>
 Package pdftex.def Info: Guidance/Front.jpg  used on input line 65.
@@ -777,20 +782,29 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
  [168] [169] [170]) (Editor/May_01/Editor.tex [171]
-[172]) [173] (Evjen_Book.aux)
+[172]) [173]
+<Response_Warning/Cover.png, id=1575, 475.7775pt x 606.76688pt>
+File: Response_Warning/Cover.png Graphic file (type png)
+<use Response_Warning/Cover.png>
+Package pdftex.def Info: Response_Warning/Cover.png  used on input line 121.
+(pdftex.def)             Requested size: 469.75502pt x 599.11786pt.
+ (Response_Warning/Part_1.tex [174 <./Response_Warning/Cover.png>]
+[175] [176] [177] [178] [179] [180] [181] [182]) (Response_Warning/Part_2.tex
+[183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194]
+[195] [196]) [197] (Evjen_Book.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `Evjen_Book.out' has not changed.
-(rerunfilecheck)             Checksum: A06BEFA6C73DD89098DAD18958DA68BE;39928.
+(rerunfilecheck)             Checksum: 5A7C65AFB4D1413DF42203C875973F5C;41918.
  ) 
 Here is how much of TeX's memory you used:
- 14606 strings out of 474486
- 243674 string characters out of 5743754
+ 14677 strings out of 474486
+ 244884 string characters out of 5743754
  1945542 words of memory out of 5000000
- 35707 multiletter control sequences out of 15000+600000
- 641046 words of font info for 232 fonts, out of 8000000 for 9000
+ 35730 multiletter control sequences out of 15000+600000
+ 641260 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,17n,79p,2248b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -804,9 +818,9 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/
 Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Evjen_Book.pdf (198 pages, 4303793 bytes).
+Output written on Evjen_Book.pdf (222 pages, 5096387 bytes).
 PDF statistics:
- 1656 PDF objects out of 1728 (max. 8388607)
- 343 named destinations out of 1000 (max. 500000)
- 44426 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1822 PDF objects out of 2073 (max. 8388607)
+ 379 named destinations out of 1000 (max. 500000)
+ 44511 words of extra memory for PDF output out of 51595 (max. 10000000)
 
