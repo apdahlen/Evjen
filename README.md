@@ -29,7 +29,7 @@ Evjen is presented here as a **flawed witness** to the Free Church tradition, no
 
 ## Organization
 
-The book is organized in five sections.
+The book is organized in six sections.
 
 ### 1. A Layman’s Introduction
 
@@ -92,6 +92,9 @@ Responses from the editors of *Folkebladet* during the 1918 exchange.
 
 Their concern is important. A strong emphasis on polity can become its own distortion. The chief work of the church is not polity for its own sake, but the salvation of souls — **spirit and life**.
 
+### 6. A Rejoinder and a Warning
+
+This was a 40 page pamphlet written by Pastor Eldor Mikael Hanson as an extensive response to Evjen's *The Position*.
 
 ---
 
@@ -133,6 +136,7 @@ Translation methodology and hazard-analysis prompts are included in the reposito
 * **John Oluf Evjen** — author and historical compiler
 * **Georg Sverdrup** — historical author
 * **Sven Oftedal** — historical author
+* **Pastor Eldor Mikael Hanson** — historical author
 * **Aaron Dahlen** — lay introduction, translation methodology, compilation, and editorial presentation
 
 ---
